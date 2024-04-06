@@ -1,0 +1,16 @@
+{
+  "fabrishot.config.title": "Fabrishot",
+  "fabrishot.config.category": "Configuración de capturas de pantalla",
+  "fabrishot.config.custom_file_name": "Usa un formato de nombre de archivo diferente",
+  "fabrishot.config.custom_file_name.tooltip": "Usa %time% para el tiempo, %world% para el nombre del mundo o servidor",
+  "fabrishot.config.override_screenshot_key": "Anular las capturas de pantalla normales con Fabrishot",
+  "fabrishot.config.hide_hud": "Ocultar automáticamente el HUD",
+  "fabrishot.config.save_file": "Guardar el archivo de la captura de pantalla",
+  "fabrishot.config.disable_gui_scaling": "Deshabilitar escalado del GUI",
+  "fabrishot.config.width": "Ancho de la captura de pantalla",
+  "fabrishot.config.height": "Altura de la captura de pantalla",
+  "fabrishot.config.delay": "Retraso de tiempo de la captura",
+  "fabrishot.config.delay.tooltip": "Fotogramas a esperar después de cambiar el tamaño. Ajustar para tener una mejor exposición con shaders",
+  "fabrishot.config.file_format": "Formato de Archivo",
+  "key.fabrishot.screenshot": "Tomar captura de pantalla grande"
+}
