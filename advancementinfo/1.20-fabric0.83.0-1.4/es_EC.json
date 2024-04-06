@@ -1,0 +1,15 @@
+{
+    "advancementinfo.infopane": "Información",
+    "text.autoconfig.advancementinfo.title": "Configuraciones de Información de Progresos",
+    "text.autoconfig.advancementinfo.option.colorHave": "Color de Requerimiento Terminado",
+    "text.autoconfig.advancementinfo.option.colorHaveNot": "Color de Requerimiento sin Terminar",
+    "text.autoconfig.advancementinfo.option.marginX": "Margen X",
+    "text.autoconfig.advancementinfo.option.marginY": "Margen Y",
+    "text.autoconfig.advancementinfo.option.infoWidth": "Ancho de Información",
+    "text.autoconfig.advancementinfo.option.infoWidth.min": "Mínimo",
+    "text.autoconfig.advancementinfo.option.infoWidth.max": "Máximo",
+    "text.autoconfig.advancementinfo.option.infoWidth.percent": "Porcentaje",
+    "text.autoconfig.advancementinfo.option.infoWidth.enabled": "Habilitado",
+    "modmenu.summaryTranslation.advancementinfo": "Haz más fácil ver que progresos tienes y cuáles te faltan.",
+    "modmenu.descriptionTranslation.advancementinfo": "Haz que sea más fácil ver qué avances tienes y qué te faltan."
+}
