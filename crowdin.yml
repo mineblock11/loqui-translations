@@ -110,7 +110,7 @@ files:
       - nl-BE
       - nl
       - nn-NO
-      - no,nb
+      - 'no,nb'
       - oc
       - pl
       - pt-BR
@@ -576,7 +576,7 @@ files:
       - nl-BE
       - nl
       - nn-NO
-      - no,nb
+      - 'no,nb'
       - oc
       - pl
       - pt-BR
