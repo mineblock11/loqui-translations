@@ -684,7 +684,8 @@ files:
       - zh-CN
       - zh-TW
   - source: /reeses-sodium-options/1.6.5+mc1.20.1-build.95.json
-    translation: /reeses-sodium-options/1.6.5+mc1.20.1-build.95/%locale_with_underscore%.json
+    translation: >-
+      /reeses-sodium-options/1.6.5+mc1.20.1-build.95/%locale_with_underscore%.json
     excluded_target_languages:
       - be
       - pt-BR
