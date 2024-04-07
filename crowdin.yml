@@ -862,3 +862,529 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /another_furniture/1.20.1-3.0.1.json
+    translation: /another_furniture/1.20.1-3.0.1/%locale%.json
+    excluded_target_languages:
+      - cs
+      - es-ES
+      - ja
+      - ko
+      - pt-BR
+      - ru
+      - tr
+      - uk
+      - vi
+      - zh-CN
+  - source: /betterdeserttemples/1.20-Fabric-3.0.3.json
+    translation: /betterdeserttemples/1.20-Fabric-3.0.3/%locale%.json
+    excluded_target_languages:
+      - ru
+      - uk
+  - source: /betterdungeons/1.20-Fabric-4.0.3.json
+    translation: /betterdungeons/1.20-Fabric-4.0.3/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - it
+      - ru
+      - uk
+      - zh-CN
+  - source: /betterf3/7.0.2.json
+    translation: /betterf3/7.0.2/%locale%.json
+    excluded_target_languages:
+      - af
+      - ar
+      - ast
+      - az
+      - ba
+      - be
+      - ca
+      - cs
+      - cy
+      - da
+      - de-AT
+      - de-CH
+      - de
+      - el
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - en-PT
+      - en-UD
+      - eo
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - et
+      - eu
+      - fa
+      - fi
+      - fil
+      - fo
+      - fr-CA
+      - fr
+      - fra-DE
+      - fy-NL
+      - ga-IE
+      - gd
+      - gl
+      - haw
+      - he
+      - hi
+      - hu
+      - hy-AM
+      - id
+      - ig
+      - ido
+      - is
+      - it
+      - ja
+      - jbo
+      - ka
+      - kk
+      - kn
+      - ko
+      - la-LA
+      - lb
+      - li
+      - lol
+      - lt
+      - lv
+      - mk
+      - mn
+      - ms
+      - mt
+      - nds
+      - nl-BE
+      - nl
+      - nn-NO
+      - 'no'
+      - oc
+      - pl
+      - pt-BR
+      - pt-PT
+      - qya-AA
+      - ro
+      - ru
+      - se
+      - sk
+      - sl
+      - so
+      - sq
+      - sr
+      - sv-SE
+      - ta
+      - th
+      - tl
+      - tlh-AA
+      - tr
+      - tt-RU
+      - uk
+      - val-ES
+      - vec
+      - vi
+      - yi
+      - yo
+      - zh-CN
+      - zh-HK
+      - zh-TW
+  - source: /bettermineshafts/1.20-Fabric-4.0.4.json
+    translation: /bettermineshafts/1.20-Fabric-4.0.4/%locale%.json
+    excluded_target_languages:
+      - ru
+      - uk
+  - source: /betterstrongholds/1.20-Fabric-4.0.3.json
+    translation: /betterstrongholds/1.20-Fabric-4.0.3/%locale%.json
+    excluded_target_languages:
+      - ru
+      - uk
+  - source: /betterthirdperson/1.9.0.json
+    translation: /betterthirdperson/1.9.0/%locale%.json
+  - source: /betterwitchhuts/1.20-Fabric-3.0.3.json
+    translation: /betterwitchhuts/1.20-Fabric-3.0.3/%locale%.json
+    excluded_target_languages:
+      - ru
+      - uk
+  - source: /camerautils/1.20.1-1.0.8.json
+    translation: /camerautils/1.20.1-1.0.8/%locale%.json
+    excluded_target_languages:
+      - be
+      - ko
+  - source: /clienttweaks/11.1.0.json
+    translation: /clienttweaks/11.1.0/%locale%.json
+    excluded_target_languages:
+      - de
+      - ja
+      - ko
+      - pt-BR
+      - ru
+      - tr
+  - source: /cloth-config2/11.1.118.json
+    translation: /cloth-config2/11.1.118/%locale%.json
+    excluded_target_languages:
+      - bg
+      - de
+      - en-UD
+      - et
+      - fr
+      - ja
+      - lol
+      - pt-BR
+      - ru
+      - zh-CN
+      - zh-HK
+      - zh-TW
+  - source: /comforts/6.3.5+1.20.1.json
+    translation: /comforts/6.3.5+1.20.1/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - ja
+      - kk
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - sv-SE
+      - tr
+      - uk
+      - vi
+      - zh-CN
+  - source: /connectiblechains/2.2.1+1.20.1.json
+    translation: /connectiblechains/2.2.1+1.20.1/%locale%.json
+  - source: /craftingtweaks/18.2.2.json
+    translation: /craftingtweaks/18.2.2/%locale%.json
+    excluded_target_languages:
+      - fr
+      - pl
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
+  - source: /decorative_blocks/4.1.2.json
+    translation: /decorative_blocks/4.1.2/%locale%.json
+    excluded_target_languages:
+      - es-AR
+      - es-ES
+      - es-MX
+      - fr
+      - ja
+      - ko
+      - 'no'
+      - pl
+      - pt-BR
+      - ru
+      - zh-CN
+  - source: /dynamiccrosshair/7.4.4+1.20.json
+    translation: /dynamiccrosshair/7.4.4+1.20/%locale%.json
+    excluded_target_languages:
+      - ru
+      - zh-CN
+  - source: /entity_model_features/1.2.3.json
+    translation: /entity_model_features/1.2.3/%locale%.json
+    excluded_target_languages:
+      - de
+      - el
+      - fr
+      - pt-BR
+      - ru
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /entity_texture_features/5.2.2.json
+    translation: /entity_texture_features/5.2.2/%locale%.json
+    excluded_target_languages:
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
+  - source: /farmersdelight/1.20.1-1.4.3.json
+    translation: /farmersdelight/1.20.1-1.4.3/%locale%.json
+    excluded_target_languages:
+      - ca
+      - de
+      - en-PT
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fi
+      - fr
+      - id
+      - it
+      - ja
+      - ko
+      - nl-BE
+      - nl
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - sr
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /fastload/3.4.0.json
+    translation: /fastload/3.4.0/%locale%.json
+    excluded_target_languages:
+      - it
+      - pt-BR
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /forgeconfigapiport/8.0.0.json
+    translation: /forgeconfigapiport/8.0.0/%locale%.json
+    excluded_target_languages:
+      - pt-BR
+      - uk
+  - source: /fwaystones/3.3.2+mc1.20.1.json
+    translation: /fwaystones/3.3.2+mc1.20.1/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - ja
+      - ko
+      - mk
+      - pl
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
+      - zh-TW
+  - source: /geodes/1.8.2.json
+    translation: /geodes/1.8.2/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-PT
+      - en-UD
+      - fr
+      - lol
+      - pl
+      - zh-CN
+  - source: /globalpacks/1.16.1_fabric.json
+    translation: /globalpacks/1.16.1_fabric/%locale%.json
+  - source: /infinitybuttons/4.0.1-mc1.20.1.json
+    translation: /infinitybuttons/4.0.1-mc1.20.1/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - nl
+      - zh-CN
+  - source: /inventoryprofilesnext/1.10.9.json
+    translation: /inventoryprofilesnext/1.10.9/%locale%.json
+    excluded_target_languages:
+      - bg
+      - de
+      - fr
+      - ja
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /itemswapper/0.5.3-mc1.20.1.json
+    translation: /itemswapper/0.5.3-mc1.20.1/%locale%.json
+    excluded_target_languages:
+      - fi
+      - he
+      - ru
+      - sv-SE
+      - tr
+      - uk
+      - zh-CN
+  - source: /libipn/4.0.1.json
+    translation: /libipn/4.0.1/%locale%.json
+    excluded_target_languages:
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
+  - source: /malilib/0.16.3.json
+    translation: /malilib/0.16.3/%locale%.json
+    excluded_target_languages:
+      - ru
+      - tr
+      - zh-CN
+  - source: /minihud/0.27.0.json
+    translation: /minihud/0.27.0/%locale%.json
+  - source: /moonlight/1.20-2.9.7.json
+    translation: /moonlight/1.20-2.9.7/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - fr
+      - pt-BR
+      - ru
+      - uk
+  - source: /notenoughanimations/1.7.0.json
+    translation: /notenoughanimations/1.7.0/%locale%.json
+    excluded_target_languages:
+      - fr
+      - pt-BR
+      - pt-PT
+      - uk
+      - zh-TW
+  - source: /owo/0.11.2+1.20.json
+    translation: /owo/0.11.2+1.20/%locale%.json
+  - source: /roughlyenoughitems/12.0.684.json
+    translation: /roughlyenoughitems/12.0.684/%locale%.json
+    excluded_target_languages:
+      - bg
+      - cs
+      - da
+      - de
+      - en-GB
+      - en-UD
+      - eo
+      - es-ES
+      - et
+      - fr
+      - he
+      - it
+      - ja
+      - ko
+      - lol
+      - nn-NO
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-HK
+      - zh-TW
+  - source: /roughlyenoughresources/2.9.0.json
+    translation: /roughlyenoughresources/2.9.0/%locale%.json
+    excluded_target_languages:
+      - de
+      - ru
+      - tr
+      - zh-CN
+  - source: /skinlayers3d/1.6.2.json
+    translation: /skinlayers3d/1.6.2/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - es-ES
+      - it
+      - ja
+      - ko
+      - pt-BR
+      - pt-PT
+      - ru
+      - sv-SE
+      - tr
+      - uk
+      - zh-CN
+      - zh-TW
+  - source: /sound_physics_remastered/1.20.1-1.3.1.json
+    translation: /sound_physics_remastered/1.20.1-1.3.1/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - pt-BR
+      - ru
+      - zh-CN
+  - source: /supplementaries/1.20-2.7.32.json
+    translation: /supplementaries/1.20-2.7.32/%locale%.json
+    excluded_target_languages:
+      - ca
+      - cs
+      - de
+      - en-GB
+      - en-PT
+      - es-AR
+      - es-ES
+      - es-MX
+      - fr
+      - it
+      - ja
+      - kk
+      - ko
+      - ms
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - sr
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /travelerstitles/1.20-Fabric-4.0.2.json
+    translation: /travelerstitles/1.20-Fabric-4.0.2/%locale%.json
+    excluded_target_languages:
+      - ja
+      - ru
+      - uk
+      - zh-CN
+  - source: /tweakeroo/0.17.1.json
+    translation: /tweakeroo/0.17.1/%locale%.json
+  - source: /waila/8.6.0.json
+    translation: /waila/8.6.0/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - ja
+      - ko
+      - pl
+      - ru
+      - sv-SE
+      - zh-CN
+      - zh-TW
+  - source: /xaerominimap/23.9.7.json
+    translation: /xaerominimap/23.9.7/%locale%.json
+    excluded_target_languages:
+      - cs
+      - da
+      - de
+      - el
+      - es-AR
+      - es-ES
+      - es-MX
+      - et
+      - fr
+      - hr
+      - hu
+      - id
+      - it
+      - ja
+      - lv
+      - nl
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - sr
+      - th
+      - tr
+      - uk
+      - zh-CN
+  - source: /xaeroworldmap/1.37.8.json
+    translation: /xaeroworldmap/1.37.8/%locale%.json
+    excluded_target_languages:
+      - de
+  - source: /yaclx/1.12+1.20.2.json
+    translation: /yaclx/1.12+1.20.2/%locale%.json
