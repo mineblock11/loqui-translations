@@ -1,0 +1,21 @@
+{
+    "text.wc.title": "WaveyCapes Instellingen",
+    "text.wc.setting.capestyle": "Cape Stijl",
+    "text.wc.setting.capestyle.tooltip": "Schakel tussen een soepel buigende of blokkerige cape.",
+    "text.wc.setting.capestyle.BLOCKY": "Blokkerig",
+    "text.wc.setting.capestyle.SMOOTH": "Vloeiend",
+    "text.wc.setting.windmode": "Wind Modus",
+    "text.wc.setting.windmode.tooltip": "Voeg extra beweging toe aan de cape.",
+    "text.wc.setting.windmode.NONE": "Geen Wind",
+    "text.wc.setting.windmode.WAVES": "Golven",
+    "text.wc.setting.capemovement": "Cape Beweging",
+    "text.wc.setting.capemovement.tooltip": "Wijzig de manier waarop de cape zich gedraagt.",
+    "text.wc.setting.capemovement.VANILLA": "Klassiek",
+    "text.wc.setting.capemovement.BASIC_SIMULATION": "Simulatie",
+    "text.wc.setting.capemovement.BASIC_SIMULATION_3D": "Simulatie V2",
+    "text.wc.setting.capemovement.DUNGEONS": "Dungeons",
+    "text.wc.setting.gravity": "Zwaartekracht",
+    "text.wc.setting.gravity.tooltip": "Wijzig de hoeveelheid zwaartekracht die wordt toegepast op de cape.",
+    "text.wc.setting.heightMultiplier": "Hoogte Vermenigvuldiger",
+    "text.wc.setting.heightMultiplier.tooltip": "Wijzig hoe extreem de cape reageert op beweging op de Y-as."
+}
