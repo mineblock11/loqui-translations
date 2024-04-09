@@ -1,0 +1,29 @@
+{
+    "screen.nutritionz": "Nutrients",
+
+    "text.autoconfig.nutritionz.title": "NutritionZ Config",
+    "text.autoconfig.nutritionz.option.maxNutrition": "Max Nutrition",
+    "text.autoconfig.nutritionz.option.negativeNutrition": "Negative Nutrition",
+    "text.autoconfig.nutritionz.option.positiveNutrition": "Positive Nutrition",
+    "text.autoconfig.nutritionz.option.posX": "Pos X",
+    "text.autoconfig.nutritionz.option.posY": "Pos Y",
+    "text.autoconfig.nutritionz.option.carbohydrateItemId": "Carbohydrate Item Id",
+    "text.autoconfig.nutritionz.option.proteinItemId": "Protein Item Id",
+    "text.autoconfig.nutritionz.option.fatItemId": "Fat Item Id",
+    "text.autoconfig.nutritionz.option.vitaminItemId": "Vitamin Item Id",
+    "text.autoconfig.nutritionz.option.mineralItemId": "Mineral Item Id",
+
+    "screen.nutritionz.carbohydrates": "Carbs",
+    "screen.nutritionz.protein": "Protein",
+    "screen.nutritionz.fat": "Fat",
+    "screen.nutritionz.vitamins": "Vitamins",
+    "screen.nutritionz.minerals": "Minerals",
+    "screen.nutritionz.nutritionValue": "%s/%s",
+
+    "item.nutritionz.nutrients": "§7Nutrients:",
+    "item.nutritionz.carbohydrates": " %s Carbs",
+    "item.nutritionz.protein": " %s Protein",
+    "item.nutritionz.fat": " %s Fat",
+    "item.nutritionz.vitamins": " %s Vitamins",
+    "item.nutritionz.minerals": " %s Minerals"
+}

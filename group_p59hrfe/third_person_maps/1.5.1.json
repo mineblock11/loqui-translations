@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.third_person_maps.title": "Third Person Maps Config",
+  "text.autoconfig.third_person_maps.option.forceMapScaling": "Map Scaling (% of screen height)",
+  "text.autoconfig.third_person_maps.option.forceMapScaling.@Tooltip": "Scale the mini-map to a given % of the height of your screen.",
+  "text.autoconfig.third_person_maps.option.mapHorizontalOffsetRightHand": "Map Horizontal Offset Right Hand",
+  "text.autoconfig.third_person_maps.option.mapHorizontalOffsetRightHand.@Tooltip": "Enter an integer which will offset the map horizontally in your right hand",
+  "text.autoconfig.third_person_maps.option.mapVerticalOffsetRightHand": "Map Vertical Offset Right Hand",
+  "text.autoconfig.third_person_maps.option.mapVerticalOffsetRightHand.@Tooltip": "Enter an integer which will offset the map vertically in your right hand",
+  "text.autoconfig.third_person_maps.option.mapHorizontalOffsetLeftHand": "Map Horizontal Offset Left Hand",
+  "text.autoconfig.third_person_maps.option.mapHorizontalOffsetLeftHand.@Tooltip": "Enter an integer which will offset the map horizontally in your left hand",
+  "text.autoconfig.third_person_maps.option.mapVerticalOffsetLeftHand": "Map Vertical Offset Left Hand",
+  "text.autoconfig.third_person_maps.option.mapVerticalOffsetLeftHand.@Tooltip": "Enter an integer which will offset the map vertically in your left hand"
+}

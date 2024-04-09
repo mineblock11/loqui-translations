@@ -1,0 +1,28 @@
+{
+  "key.backslot.switch_backslot": "Back Slot Switch",
+  "key.backslot.switch_beltslot": "Belt Slot Switch",
+
+  "category.backslot.key": "Back Slot",
+  
+  "text.autoconfig.backslot.title": "BackSlot Config",
+  "text.autoconfig.backslot.category.default": "Default Settings",
+  "text.autoconfig.backslot.category.advanced_settings": "Advanced Settings",
+  "text.autoconfig.backslot.option.backslotScaling": "BackSlot item scale",
+  "text.autoconfig.backslot.option.beltslotScaling": "BeltSlot item scale",
+  "text.autoconfig.backslot.option.backslotSounds": "BackSlot sounds",
+  "text.autoconfig.backslot.option.changeSlotArrangement": "Change slot arrangement",
+  "text.autoconfig.backslot.option.disableBackslotHud": "Disable Backslot HUD",
+  "text.autoconfig.backslot.option.backSlotX": "Backslot X",
+  "text.autoconfig.backslot.option.backSlotY": "Backslot Y",
+  "text.autoconfig.backslot.option.beltSlotX": "Beltslot X",
+  "text.autoconfig.backslot.option.beltSlotY": "Beltslot Y",
+  "text.autoconfig.backslot.option.hudSlotX": "Hud Slot X",
+  "text.autoconfig.backslot.option.hudSlotY": "Hud Slot Y",
+  "text.autoconfig.backslot.option.backSlotX.@PrefixText": "Inventory Slot Positions",
+  "text.autoconfig.backslot.option.switchBeltslotSide": "Switch Beltslot side",
+  "text.autoconfig.backslot.option.offhandSwitch": "Offhand switch",
+  "text.autoconfig.backslot.option.offhandShield": "Offhand shield switch",
+  "text.autoconfig.backslot.option.offhandFallback": "Offhand fallback",
+  "text.autoconfig.backslot.option.putAside": "Put aside if full hand",
+  "text.autoconfig.backslot.option.dropHolding": "Drop item when no space"
+}

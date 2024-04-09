@@ -1,0 +1,268 @@
+{
+  "generic.dig_speed": "Dig Speed",
+  "generic.crit_chance": "Crit Chance",
+  "generic.durable": "Durability",
+  "generic.range_attack_damage": "Range Attack Damage",
+
+  "tiered:common_armor_1.label": "Common",
+  "tiered:common_armor_2.label": "Common",
+  "tiered:common_armor_3.label": "Common",
+  "tiered:common_armor_4.label": "Common",
+
+  "tiered:common_tool_1.label": "Common",
+  "tiered:common_tool_2.label": "Common",
+  "tiered:common_tool_3.label": "Common",
+  "tiered:common_tool_4.label": "Common",
+
+  "tiered:common_melee_1.label": "Common",
+  "tiered:common_melee_2.label": "Common",
+  "tiered:common_melee_3.label": "Common",
+  "tiered:common_melee_4.label": "Common",
+
+  "tiered:common_ranged_1.label": "Common",
+  "tiered:common_ranged_2.label": "Common",
+  "tiered:common_ranged_3.label": "Common",
+  "tiered:common_ranged_4.label": "Common",
+
+  "tiered:common_fishing_1.label": "Common",
+  "tiered:common_fishing_2.label": "Common",
+  "tiered:common_fishing_3.label": "Common",
+  "tiered:common_fishing_4.label": "Common",
+
+  "tiered:common_shield_1.label": "Common",
+  "tiered:common_shield_2.label": "Common",
+  "tiered:common_shield_3.label": "Common",
+  "tiered:common_shield_4.label": "Common",
+
+  "tiered:common_elytra_1.label": "Common",
+  "tiered:common_elytra_2.label": "Common",
+  "tiered:common_elytra_3.label": "Common",
+  "tiered:common_elytra_4.label": "Common",
+
+  "tiered:uncommon_armor_1.label": "Uncommon",
+  "tiered:uncommon_armor_2.label": "Uncommon",
+  "tiered:uncommon_armor_3.label": "Uncommon",
+  "tiered:uncommon_armor_4.label": "Uncommon",
+
+  "tiered:uncommon_tool_1.label": "Uncommon",
+  "tiered:uncommon_tool_2.label": "Uncommon",
+  "tiered:uncommon_tool_3.label": "Uncommon",
+  "tiered:uncommon_tool_4.label": "Uncommon",
+
+  "tiered:uncommon_melee_1.label": "Uncommon",
+  "tiered:uncommon_melee_2.label": "Uncommon",
+  "tiered:uncommon_melee_3.label": "Uncommon",
+  "tiered:uncommon_melee_4.label": "Uncommon",
+
+  "tiered:uncommon_ranged_1.label": "Uncommon",
+  "tiered:uncommon_ranged_2.label": "Uncommon",
+  "tiered:uncommon_ranged_3.label": "Uncommon",
+  "tiered:uncommon_ranged_4.label": "Uncommon",
+
+  "tiered:uncommon_fishing_1.label": "Uncommon",
+  "tiered:uncommon_fishing_2.label": "Uncommon",
+  "tiered:uncommon_fishing_3.label": "Uncommon",
+  "tiered:uncommon_fishing_4.label": "Uncommon",
+
+  "tiered:uncommon_shield_1.label": "Uncommon",
+  "tiered:uncommon_shield_2.label": "Uncommon",
+  "tiered:uncommon_shield_3.label": "Uncommon",
+  "tiered:uncommon_shield_4.label": "Uncommon",
+
+  "tiered:uncommon_elytra_1.label": "Uncommon",
+  "tiered:uncommon_elytra_2.label": "Uncommon",
+  "tiered:uncommon_elytra_3.label": "Uncommon",
+  "tiered:uncommon_elytra_4.label": "Uncommon",
+
+  "tiered:rare_armor_1.label": "Rare",
+  "tiered:rare_armor_2.label": "Rare",
+  "tiered:rare_armor_3.label": "Rare",
+  "tiered:rare_armor_4.label": "Rare",
+
+  "tiered:rare_tool_1.label": "Rare",
+  "tiered:rare_tool_2.label": "Rare",
+  "tiered:rare_tool_3.label": "Rare",
+  "tiered:rare_tool_4.label": "Rare",
+
+  "tiered:rare_melee_1.label": "Rare",
+  "tiered:rare_melee_2.label": "Rare",
+  "tiered:rare_melee_3.label": "Rare",
+  "tiered:rare_melee_4.label": "Rare",
+
+  "tiered:rare_ranged_1.label": "Rare",
+  "tiered:rare_ranged_2.label": "Rare",
+  "tiered:rare_ranged_3.label": "Rare",
+  "tiered:rare_ranged_4.label": "Rare",
+
+  "tiered:rare_fishing_1.label": "Rare",
+  "tiered:rare_fishing_2.label": "Rare",
+  "tiered:rare_fishing_3.label": "Rare",
+  "tiered:rare_fishing_4.label": "Rare",
+
+  "tiered:rare_shield_1.label": "Rare",
+  "tiered:rare_shield_2.label": "Rare",
+  "tiered:rare_shield_3.label": "Rare",
+  "tiered:rare_shield_4.label": "Rare",
+
+  "tiered:rare_elytra_1.label": "Rare",
+  "tiered:rare_elytra_2.label": "Rare",
+  "tiered:rare_elytra_3.label": "Rare",
+  "tiered:rare_elytra_4.label": "Rare",
+
+  "tiered:epic_armor_1.label": "Epic",
+  "tiered:epic_armor_2.label": "Epic",
+  "tiered:epic_armor_3.label": "Epic",
+  "tiered:epic_armor_4.label": "Epic",
+
+  "tiered:epic_tool_1.label": "Epic",
+  "tiered:epic_tool_2.label": "Epic",
+  "tiered:epic_tool_3.label": "Epic",
+  "tiered:epic_tool_4.label": "Epic",
+
+  "tiered:epic_melee_1.label": "Epic",
+  "tiered:epic_melee_2.label": "Epic",
+  "tiered:epic_melee_3.label": "Epic",
+  "tiered:epic_melee_4.label": "Epic",
+
+  "tiered:epic_ranged_1.label": "Epic",
+  "tiered:epic_ranged_2.label": "Epic",
+  "tiered:epic_ranged_3.label": "Epic",
+  "tiered:epic_ranged_4.label": "Epic",
+
+  "tiered:epic_fishing_1.label": "Epic",
+  "tiered:epic_fishing_2.label": "Epic",
+  "tiered:epic_fishing_3.label": "Epic",
+  "tiered:epic_fishing_4.label": "Epic",
+
+  "tiered:epic_shield_1.label": "Epic",
+  "tiered:epic_shield_2.label": "Epic",
+  "tiered:epic_shield_3.label": "Epic",
+  "tiered:epic_shield_4.label": "Epic",
+
+  "tiered:epic_elytra_1.label": "Epic",
+  "tiered:epic_elytra_2.label": "Epic",
+  "tiered:epic_elytra_3.label": "Epic",
+  "tiered:epic_elytra_4.label": "Epic",
+
+  "tiered:legendary_armor_1.label": "Legendary",
+  "tiered:legendary_armor_2.label": "Legendary",
+  "tiered:legendary_armor_3.label": "Legendary",
+  "tiered:legendary_armor_4.label": "Legendary",
+
+  "tiered:legendary_tool_1.label": "Legendary",
+  "tiered:legendary_tool_2.label": "Legendary",
+  "tiered:legendary_tool_3.label": "Legendary",
+  "tiered:legendary_tool_4.label": "Legendary",
+
+  "tiered:legendary_melee_1.label": "Legendary",
+  "tiered:legendary_melee_2.label": "Legendary",
+  "tiered:legendary_melee_3.label": "Legendary",
+  "tiered:legendary_melee_4.label": "Legendary",
+
+  "tiered:legendary_ranged_1.label": "Legendary",
+  "tiered:legendary_ranged_2.label": "Legendary",
+  "tiered:legendary_ranged_3.label": "Legendary",
+  "tiered:legendary_ranged_4.label": "Legendary",
+
+  "tiered:legendary_fishing_1.label": "Legendary",
+  "tiered:legendary_fishing_2.label": "Legendary",
+  "tiered:legendary_fishing_3.label": "Legendary",
+  "tiered:legendary_fishing_4.label": "Legendary",
+
+  "tiered:legendary_shield_1.label": "Legendary",
+  "tiered:legendary_shield_2.label": "Legendary",
+  "tiered:legendary_shield_3.label": "Legendary",
+  "tiered:legendary_shield_4.label": "Legendary",
+
+  "tiered:legendary_elytra_1.label": "Legendary",
+  "tiered:legendary_elytra_2.label": "Legendary",
+  "tiered:legendary_elytra_3.label": "Legendary",
+  "tiered:legendary_elytra_4.label": "Legendary",
+
+  "tiered:unique_armor_1.label": "Unique",
+  "tiered:unique_armor_2.label": "Unique",
+  "tiered:unique_armor_3.label": "Unique",
+  "tiered:unique_armor_4.label": "Unique",
+
+  "tiered:unique_tool_1.label": "Unique",
+  "tiered:unique_tool_2.label": "Unique",
+  "tiered:unique_tool_3.label": "Unique",
+  "tiered:unique_tool_4.label": "Unique",
+
+  "tiered:unique_melee_1.label": "Unique",
+  "tiered:unique_melee_2.label": "Unique",
+  "tiered:unique_melee_3.label": "Unique",
+  "tiered:unique_melee_4.label": "Unique",
+
+  "tiered:unique_ranged_1.label": "Unique",
+  "tiered:unique_ranged_2.label": "Unique",
+  "tiered:unique_ranged_3.label": "Unique",
+  "tiered:unique_ranged_4.label": "Unique",
+
+  "tiered:unique_fishing_1.label": "Unique",
+  "tiered:unique_fishing_2.label": "Unique",
+  "tiered:unique_fishing_3.label": "Unique",
+  "tiered:unique_fishing_4.label": "Unique",
+
+  "tiered:unique_shield_1.label": "Unique",
+  "tiered:unique_shield_2.label": "Unique",
+  "tiered:unique_shield_3.label": "Unique",
+  "tiered:unique_shield_4.label": "Unique",
+
+  "tiered:unique_elytra_1.label": "Unique",
+  "tiered:unique_elytra_2.label": "Unique",
+  "tiered:unique_elytra_3.label": "Unique",
+  "tiered:unique_elytra_4.label": "Unique",
+
+  "tiered:common.label": "Common",
+  "tiered:uncommon.label": "Uncommon",
+  "tiered:rare.label": "Rare",
+  "tiered:epic.label": "Epic",
+  "tiered:legendary.label": "Legendary",
+  "tiered:unique.label": "Unique",
+
+  "text.autoconfig.tiered.title": "Tiered Config",
+  "text.autoconfig.tiered.category.default": "Tiered Settings",
+  "text.autoconfig.tiered.category.client_settings": "Client Settings",
+  "text.autoconfig.tiered.option.lootContainerModifier": "Loot Container Modifier",
+  "text.autoconfig.tiered.option.entityItemModifier": "Entity Item Modifier",
+  "text.autoconfig.tiered.option.craftingModifier": "Crafting Modifier",
+  "text.autoconfig.tiered.option.merchantModifier": "Merchant Modifier",
+  "text.autoconfig.tiered.option.reforge_modifier": "Reforge Modifier",
+  "text.autoconfig.tiered.option.levelz_reforge_modifier": "LevelZ Reforge Modifier",
+  "text.autoconfig.tiered.option.luck_reforge_modifier": "Luck Reforge Modifier",
+  "text.autoconfig.tiered.option.showReforgingTab": "Show Reforging Tab",
+  "text.autoconfig.tiered.option.xIconPosition": "Icon X Position",
+  "text.autoconfig.tiered.option.yIconPosition": "Icon Y Position",
+  "text.autoconfig.tiered.option.tieredTooltip": "Tiered Tooltip",
+  "text.autoconfig.tiered.option.centerName": "Center Name",
+
+  "container.reforge": "Reforge Gear",
+  "screen.tiered.reforging_screen": "Reforge Gear",
+  "screen.tiered.reforge_ingredient": "Requires Ingredient",
+  "screen.tiered.reforge_damaged": "Requires Full Durability",
+
+  "text.tiered.smithing_info_1_1": "Each skill point increases luck",
+  "text.tiered.smithing_info_1_2": "of reforging by %d%%",
+
+  "tiered.attribute.modifier.plus.0": "%s %s %s",
+  "tiered.attribute.modifier.plus.1": "%s %s %s",
+  "tiered.attribute.modifier.plus.2": "%s %s %s",
+
+  "tiered.attribute.modifier.equals.0": "%s %s %s",
+  "tiered.attribute.modifier.equals.1": "%s %s %s",
+  "tiered.attribute.modifier.equals.2": "%s %s %s",
+
+  "tiered.attribute.modifier.take.0": "%s %s %s",
+  "tiered.attribute.modifier.take.1": "%s %s %s",
+  "tiered.attribute.modifier.take.2": "%s %s %s",
+
+  "item.modifiers.hand": "When in Hand:",
+
+  "commands.tiered.failed": "Nothing changed. Targets main hand is empty",
+  "commands.tiered.untier_failed": "Nothing changed. %s from %s has no tier",
+  "commands.tiered.untier": "Untiered %s from %s",
+  "commands.tiered.tiering_failed": "Nothing changed. %s from %s has no given tier",
+  "commands.tiered.tier": "Tiered %s from %s"
+
+}

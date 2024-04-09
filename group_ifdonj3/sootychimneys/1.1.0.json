@@ -1,0 +1,21 @@
+{
+  "block.sootychimneys.brick_chimney": "Brick Chimney",
+  "block.sootychimneys.copper_chimney": "Copper Chimney",
+  "block.sootychimneys.dirty_brick_chimney": "Dirty Brick Chimney",
+  "block.sootychimneys.dirty_copper_chimney": "Dirty Copper Chimney",
+  "block.sootychimneys.dirty_stone_brick_chimney": "Dirty Stone Brick Chimney",
+  "block.sootychimneys.dirty_terracotta_chimney": "Dirty Terracotta Chimney",
+  "block.sootychimneys.stone_brick_chimney": "Stone Brick Chimney",
+  "block.sootychimneys.terracotta_chimney": "Terracotta Chimney",
+  "message.sootychimneys.blocked": "Smoke blocked",
+  "message.sootychimneys.open": "Smoke flow restored",
+  "sootychimneys.midnightconfig.title": "Sooty Chimneys",
+  "sootychimneys.midnightconfig.smokeStrength":  "Smoke Strength",
+  "sootychimneys.midnightconfig.smokeStrength.tooltip":  "Chance of the smoke particle to spawn. 1.0 - full. 0.0 - no smoke.",
+  "sootychimneys.midnightconfig.dirtyChance": "Dirty Chance",
+  "sootychimneys.midnightconfig.dirtyChance.tooltip": "Chimneys get dirty when a random tick occurs. (Chimney must be working (LIT) and not 'BLOCKED'.)\nand when random tick occurs - this value controls the chance of a chimney becoming dirty.\n1.0 - dirty on first random tick.\n0.0 - chimney will never get dirty.",
+  "sootychimneys.midnightconfig.windEnabled":  "Enable Wind",
+  "sootychimneys.midnightconfig.windEnabled.tooltip":  "Enable/disable wind effect on smoke particles.",
+  "sootychimneys.midnightconfig.windStrengthMultiplier": "Wind Strength Multiplier",
+  "sootychimneys.midnightconfig.windStrengthMultiplier.tooltip": "How much effect wind has on the smoke."
+}

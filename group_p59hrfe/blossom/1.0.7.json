@@ -1,0 +1,13 @@
+{
+  "block.blossom.flowering_oak_leaves": "Flowering Oak Leaves",
+
+  "commands.blossom.config.reload": "Blossom config reloaded",
+  "commands.blossom.config.reset": "Blossom config reset to defaults",
+
+  "commands.blossom.query.exposed": "Exposed is currently set to: %s",
+  "commands.blossom.query.rate": "Rate is currently set to: %s",
+  "commands.blossom.query.count": "Count is currently set to: %s-%s",
+  "commands.blossom.set.exposed": "Exposed is now set to: %s",
+  "commands.blossom.set.rate": "Rate is now set to: %s",
+  "commands.blossom.set.count": "Count is now set to: %s-%s"
+}

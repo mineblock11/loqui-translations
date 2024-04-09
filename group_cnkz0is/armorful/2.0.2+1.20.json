@@ -1,0 +1,11 @@
+{
+  "item.armorful.leather_wolf_armor": "Leather Wolf Armor",
+  "item.armorful.golden_wolf_armor": "Golden Wolf Armor",
+  "item.armorful.iron_wolf_armor": "Iron Wolf Armor",
+  "item.armorful.diamond_wolf_armor": "Diamond Wolf Armor",
+  "item.armorful.netherite_wolf_armor": "Netherite Wolf Armor",
+  "itemGroup.armorful.group": "Wolves With Armor",
+  "armorful.tooltip.when_equipped": "When equipped on a wolf:",
+  "armorful.tooltip.bonus": "+%s Armor",
+  "subtitles.armor.wolf": "Wolf armor equips"
+}

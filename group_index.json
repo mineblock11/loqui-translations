@@ -1,22 +1,92 @@
 {
+  "yaclx": {
+    "1.12+1.20.2": "/group_p59hrfe"
+  },
+  "welcomescreen": {
+    "1.0.1": "/group_p59hrfe"
+  },
   "waterdripsound": {
     "1.19-0.3.2": "/group_n4bay11"
   },
   "wakes": {
-    "0.2.0": "/group_p59hrfe"
+    "0.2.0": "/group_p59hrfe",
+    "0.2.3": "/group_c7h3lvl"
+  },
+  "villagerfix": {
+    "1.0.4": "/group_p59hrfe"
   },
   "tweed4_tailor_screen": {
     "1.1.4+mc1.20-pre1": "/group_p59hrfe"
+  },
+  "tridents_n_stuff": {
+    "0.1.1+1.20.1": "/group_p59hrfe"
+  },
+  "travelerz": {
+    "1.0.1": "/group_p59hrfe"
+  },
+  "third_person_maps": {
+    "1.5.1": "/group_p59hrfe"
+  },
+  "superbsteeds": {
+    "1.20-1": "/group_p59hrfe"
+  },
+  "suggestion-tweaker": {
+    "1.20-1.5.1": "/group_p59hrfe"
+  },
+  "stoneworks": {
+    "8.0.0": "/group_p59hrfe"
+  },
+  "stamina": {
+    "1.0.0": "/group_p59hrfe"
+  },
+  "spoiledz": {
+    "1.0.8": "/group_p59hrfe"
+  },
+  "spawnanimations": {
+    "1.9.4+mod": "/group_p59hrfe"
+  },
+  "sounds": {
+    "0.4.0+1.20.1": "/group_p59hrfe"
+  },
+  "soundcontroller": {
+    "1.0.0": "/group_p59hrfe"
   },
   "sodium": {
     "0.5.8+mc1.20.4": "/group_p59hrfe",
     "0.5.3": "/group_p59hrfe"
   },
+  "snowundertrees": {
+    "2.0.0+1.20": "/group_p59hrfe"
+  },
+  "snifferplus": {
+    "0.2.0": "/group_p59hrfe"
+  },
   "smoothboot": {
     "1.20.2-0.1.1": "/group_p59hrfe"
   },
+  "smitherz": {
+    "1.0.2": "/group_p59hrfe"
+  },
+  "smallships": {
+    "2.0.0-a2.3.3": "/group_p59hrfe"
+  },
+  "skeletalremains": {
+    "1.4.2": "/group_p59hrfe"
+  },
+  "scribe": {
+    "1.20.1-0.5.0-alpha": "/group_p59hrfe"
+  },
+  "rsls": {
+    "1.1.1": "/group_p59hrfe"
+  },
   "roughlysearchable": {
     "2.6.0+1.20.1": "/group_p59hrfe"
+  },
+  "revive": {
+    "1.0.7": "/group_p59hrfe"
+  },
+  "respawninganimals": {
+    "8.1.1": "/group_p59hrfe"
   },
   "resolutioncontrol": {
     "1.20.2-3.0.0": "/group_p59hrfe"
@@ -24,14 +94,63 @@
   "reloadkey": {
     "1.0": "/group_p59hrfe"
   },
+  "reciperemover": {
+    "1.0.8": "/group_p59hrfe"
+  },
+  "reacharound": {
+    "1.1.2": "/group_p59hrfe"
+  },
   "reach-entity-attributes": {
     "2.4.0": "/group_p59hrfe"
   },
+  "qualitysounds": {
+    "1.0.0-1.20.1": "/group_p59hrfe"
+  },
+  "profundis": {
+    "1.6.1": "/group_p59hrfe"
+  },
+  "porting_lib_gametest": {
+    "2.1.1127+1.20": "/group_p59hrfe"
+  },
+  "patchoulibutton": {
+    "1.0.2": "/group_p59hrfe"
+  },
+  "partyaddon": {
+    "1.0.4": "/group_p59hrfe"
+  },
   "owo": {
-    "0.12.5+1.20.3": "/group_p59hrfe"
+    "0.12.5+1.20.3": "/group_p59hrfe",
+    "0.11.2+1.20": "/group_p59hrfe"
+  },
+  "openpartiesandclaims": {
+    "0.20.4": "/group_p59hrfe"
   },
   "openloader": {
     "20.0.5": "/group_p59hrfe"
+  },
+  "onsoulfire": {
+    "1.20.1": "/group_p59hrfe"
+  },
+  "nutritionz": {
+    "1.0.1": "/group_p59hrfe"
+  },
+  "numismaticclaim": {
+    "1.0.10": "/group_p59hrfe"
+  },
+  "niftycarts": {
+    "3.0.0+1.20.1": "/group_p59hrfe"
+  },
+  "modid": {
+    "1.0.0+1.20": "/group_p59hrfe"
+  },
+  "mcwfences": {
+    "1.0.7": "/group_p59hrfe"
+  },
+  "lootr": {
+    "0.7.29.75": "/group_p59hrfe"
+  },
+  "libz": {
+    "1.0.3": "/group_p59hrfe"
   },
   "libjf-web-v0": {
     "3.12.5": "/group_p59hrfe"
@@ -42,11 +161,48 @@
   "libjf-config-core-v1": {
     "3.12.5": "/group_p59hrfe"
   },
+  "leahs-immersive-thunder": {
+    "1.20.1+1.2.2": "/group_p59hrfe"
+  },
   "kyrptconfig": {
-    "1.5.8-1.20.2": "/group_p59hrfe"
+    "1.5.8-1.20.2": "/group_p59hrfe",
+    "1.5.6-1.20": "/group_p59hrfe"
+  },
+  "jumpoverfences": {
+    "1.3.1": "/group_p59hrfe"
+  },
+  "interactic": {
+    "0.2.0+1.20": "/group_p59hrfe"
+  },
+  "inmisaddon": {
+    "1.0.4": "/group_p59hrfe"
   },
   "inf_music": {
     "0.3.0": "/group_p59hrfe"
+  },
+  "herdspanic": {
+    "1.0.7": "/group_p59hrfe"
+  },
+  "guardvillagers": {
+    "2.0.8-1.20.1": "/group_p59hrfe"
+  },
+  "guarding": {
+    "2.3.3": "/group_p59hrfe"
+  },
+  "graphlib": {
+    "1.4.0+1.20": "/group_p59hrfe"
+  },
+  "geocluster": {
+    "1.3.4+1.20.1": "/group_p59hrfe"
+  },
+  "geckolib": {
+    "4.4": "/group_p59hrfe"
+  },
+  "gear_core": {
+    "0.3.7+1.20.1": "/group_p59hrfe"
+  },
+  "fzzy_config": {
+    "0.1.2+1.20.1": "/group_p59hrfe"
   },
   "fullbrightnesstoggle": {
     "3.0": "/group_p59hrfe"
@@ -54,11 +210,50 @@
   "foggyborder": {
     "1.1": "/group_p59hrfe"
   },
+  "fleshz": {
+    "1.5.1": "/group_p59hrfe"
+  },
+  "extendeddrawersaddon": {
+    "1.0.2": "/group_p59hrfe"
+  },
+  "earlystage": {
+    "1.1.1": "/group_p59hrfe"
+  },
+  "dungeonz": {
+    "1.0.3": "/group_p59hrfe"
+  },
+  "doapi": {
+    "1.2.8": "/group_p59hrfe"
+  },
+  "customportals": {
+    "3.3.1": "/group_p59hrfe"
+  },
+  "cristellib": {
+    "1.1.5": "/group_p59hrfe"
+  },
+  "connectiblechains": {
+    "2.2.1+1.20.1": "/group_p59hrfe"
+  },
+  "colorfulhearts": {
+    "4.0.4": "/group_p59hrfe"
+  },
+  "cleardespawn": {
+    "1.1.15": "/group_p59hrfe"
+  },
+  "chipped": {
+    "3.0.1": "/group_p59hrfe"
+  },
   "chatcalc": {
     "3.0.20": "/group_p59hrfe"
   },
   "chainstory": {
     "1.3.1": "/group_p59hrfe"
+  },
+  "carpeted": {
+    "1.20-1.4": "/group_p59hrfe"
+  },
+  "bushierflowers": {
+    "0.0.3-1.20.1": "/group_p59hrfe"
   },
   "buildpaste": {
     "1.5.0": "/group_p59hrfe"
@@ -66,18 +261,41 @@
   "boostcrystal": {
     "1.2": "/group_p59hrfe"
   },
+  "blossom": {
+    "1.0.7": "/group_p59hrfe"
+  },
+  "betterthirdperson": {
+    "1.9.0": "/group_p59hrfe"
+  },
+  "bettermenu": {
+    "1.20.1-Fabric-1.0.1": "/group_p59hrfe"
+  },
   "axiom": {
     "1.5.1": "/group_p59hrfe"
   },
+  "autothirdperson": {
+    "2.1": "/group_p59hrfe"
+  },
   "arrp": {
+    "0.8.1": "/group_p59hrfe",
     "0.8.0": "/group_p59hrfe"
+  },
+  "agedaddition": {
+    "1.0.3": "/group_p59hrfe"
+  },
+  "additionz": {
+    "1.2.2": "/group_p59hrfe"
   },
   "additionalentityattributes": {
     "1.3.0+1.20.0": "/group_p59hrfe"
   },
   "xaeroworldmap": {
     "1.37.8": "/group_uq37rd2",
+    "1.37.2": "/group_uq37rd2",
     "1.36.0": "/group_uq37rd2"
+  },
+  "extended_drawers": {
+    "2.1.1+mc.1.20.1": "/group_uq37rd2"
   },
   "coat": {
     "1.0.0-beta.20+mc1.20-pre1": "/group_uq37rd2"
@@ -88,18 +306,101 @@
   "stack-to-nearby-chests": {
     "0.5.0": "/group_fy96ca4"
   },
+  "sspb": {
+    "3.2.1": "/group_fy96ca4"
+  },
+  "spyglass_astronomy": {
+    "1.0.8-mc1.20.1": "/group_fy96ca4"
+  },
+  "seamless_loading_screen": {
+    "2.0.3+1.20.1": "/group_fy96ca4"
+  },
+  "illagerinvasion": {
+    "8.0.3": "/group_fy96ca4"
+  },
+  "fzzy_core": {
+    "0.3.4+1.20.1": "/group_fy96ca4"
+  },
   "betterclouds": {
-    "1.4.2+1.20.2": "/group_fy96ca4"
+    "1.4.2+1.20.2": "/group_fy96ca4",
+    "1.3.13+1.20.1": "/group_0kcts1u"
+  },
+  "backslotaddon": {
+    "1.1.1": "/group_fy96ca4"
+  },
+  "backslot": {
+    "1.2.15": "/group_fy96ca4"
+  },
+  "azurelib": {
+    "2.0.18": "/group_w1ed779"
   },
   "animatica": {
     "0.6+1.20": "/group_w1ed779"
   },
+  "grassoverhaul": {
+    "23.6.9": "/group_mda6lbt"
+  },
+  "voidz": {
+    "1.0.10": "/group_ma2ysv3"
+  },
+  "projectile_damage": {
+    "3.2.2+1.20.1": "/group_ma2ysv3"
+  },
+  "neruina": {
+    "1.3.0": "/group_ma2ysv3"
+  },
+  "extra_details": {
+    "0.3-beta": "/group_ma2ysv3"
+  },
+  "universal_ores": {
+    "1.5.2": "/group_e3ch9x8"
+  },
+  "dawn": {
+    "5.0.0": "/group_e3ch9x8"
+  },
+  "seasonsextras": {
+    "1.2-BETA+1.20": "/group_6ehjgeg"
+  },
+  "rpgdifficulty": {
+    "1.3.13": "/group_6ehjgeg"
+  },
+  "nameplate": {
+    "1.1.4": "/group_6ehjgeg"
+  },
+  "mobcatalog": {
+    "1.0.7+1.20.1": "/group_6ehjgeg"
+  },
+  "do_a_barrel_roll": {
+    "3.3.7+1.20": "/group_6ehjgeg"
+  },
+  "defaultoptions": {
+    "18.0.1": "/group_6ehjgeg"
+  },
+  "trowel": {
+    "1.2.1@1.20": "/group_laumisx"
+  },
+  "masiks_puzzle_dungeon": {
+    "1.1.1-1.20.X": "/group_laumisx"
+  },
+  "detailab": {
+    "2.6.3+1.20.1-fabric": "/group_knvajdx"
+  },
   "sound_physics_remastered": {
-    "1.20.1-1.2.1": "/group_qdygrud"
+    "1.20.1-1.2.1": "/group_qdygrud",
+    "1.20.1-1.3.1": "/group_qjsbmtc"
+  },
+  "seasonhud": {
+    "1.7.6": "/group_xbe3j1c"
   },
   "litematica": {
     "0.15.3": "/group_xbe3j1c",
     "0.16.0": "/group_irw33ma"
+  },
+  "horseexpert": {
+    "8.1.1": "/group_xbe3j1c"
+  },
+  "dynamiccrosshair": {
+    "7.4.4+1.20": "/group_xbe3j1c"
   },
   "fabricskyboxes": {
     "0.7.3+mc1.20.1": "/group_k9coegq"
@@ -117,11 +418,79 @@
   "zauber": {
     "1.2.1": "/group_pcpx1gi"
   },
+  "sootychimneys": {
+    "1.1.0": "/group_ifdonj3"
+  },
+  "elytratrims": {
+    "2.0.0-beta.4": "/group_ifdonj3"
+  },
+  "betterwitchhuts": {
+    "1.20-Fabric-3.0.3": "/group_ifdonj3"
+  },
+  "betterstrongholds": {
+    "1.20-Fabric-4.0.3": "/group_ifdonj3"
+  },
+  "betteroceanmonuments": {
+    "1.20-Fabric-3.0.4": "/group_ifdonj3"
+  },
+  "bettermineshafts": {
+    "1.20-Fabric-4.0.4": "/group_ifdonj3"
+  },
+  "betterjungletemples": {
+    "1.20-Fabric-2.0.4": "/group_ifdonj3"
+  },
+  "betterfortresses": {
+    "1.20-Fabric-2.0.5": "/group_ifdonj3"
+  },
+  "betterdeserttemples": {
+    "1.20-Fabric-3.0.3": "/group_ifdonj3"
+  },
+  "expanded_ecosphere": {
+    "3.2.4": "/group_ea2kel0"
+  },
+  "nethervinery": {
+    "2.0.2": "/group_rvj62yi"
+  },
+  "snuffles": {
+    "1.0.0+1.20": "/group_wls187q"
+  },
+  "nethermap": {
+    "3.0.0-1.20.1": "/group_18bdyw6"
+  },
+  "forgeconfigapiport": {
+    "8.0.0": "/group_jcjctys"
+  },
+  "enhancedworkbenches": {
+    "1.1+1.20.1": "/group_jcjctys"
+  },
+  "jobsaddon": {
+    "1.1.5": "/group_9hixdce"
+  },
+  "amecsapi": {
+    "1.5.0+mc1.20-pre1": "/group_fvfowbt",
+    "1.5.1+mc1.20-pre1": "/group_4s7ol3e",
+    "1.5.5+mc1.20.2": "/group_z54bjb1"
+  },
+  "completeconfig": {
+    "2.5.3": "/group_lr9rgf1"
+  },
+  "charmofundying": {
+    "6.4.5+1.20.1": "/group_6puate9"
+  },
   "roughlyenoughprofessions": {
     "2.0.2": "/group_5jnfeau"
   },
+  "noindium": {
+    "1.1.0+1.20": "/group_iyv1csk"
+  },
+  "levelz": {
+    "1.4.13": "/group_iyv1csk"
+  },
   "held-item-info": {
     "1.5.0": "/group_iyv1csk"
+  },
+  "herbalbrews": {
+    "1.0.2": "/group_w1l2rq1"
   },
   "durabilitytooltip": {
     "1.1.5": "/group_w1l2rq1"
@@ -133,24 +502,99 @@
     "0.17.0": "/group_z08bfp4",
     "0.16.2": "/group_z08bfp4"
   },
+  "exposure": {
+    "1.2.2": "/group_irw33ma"
+  },
+  "treechop": {
+    "0.18.3": "/group_bqt7p3k"
+  },
+  "archers": {
+    "1.0.7+1.20.1": "/group_bqt7p3k"
+  },
+  "mcwroofs": {
+    "2.2.4": "/group_t3i850r"
+  },
+  "spell_power": {
+    "0.9.19+1.20.1": "/group_0hv8yhw"
+  },
+  "spell_engine": {
+    "0.12.5+1.20.1": "/group_0hv8yhw"
+  },
+  "pehkui": {
+    "3.7.12+1.14.4-1.20.4": "/group_tntbrwk"
+  },
+  "medievalweapons": {
+    "1.4.8": "/group_9gty175"
+  },
+  "passablefoliage": {
+    "1.20.1-fabric-8.2.1": "/group_8dstlbd"
+  },
+  "catalogue": {
+    "1.8.0": "/group_fz61okn"
+  },
+  "numismatic-overhaul": {
+    "0.2.12+1.20.1": "/group_2mh2acx"
+  },
+  "beautify": {
+    "1.1.0+1.20": "/group_pv8rm0v"
+  },
+  "mythic_charms": {
+    "0.6.0": "/group_uft37y9"
+  },
+  "crawl": {
+    "0.12.0": "/group_76kkvs6"
+  },
+  "tiered": {
+    "1.3.0": "/group_bjn5sdi"
+  },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x"
   },
   "entity_texture_features": {
+    "5.2.1": "/group_3vtt0e8",
     "4.6": "/group_3vtt0e8"
+  },
+  "endermanoverhaul": {
+    "1.0.4": "/group_3vtt0e8"
   },
   "fpsdisplay": {
     "3.1.0+1.20.x": "/group_41qqnyu"
   },
   "notenoughanimations": {
-    "1.6.4": "/group_kumzmn3"
+    "1.6.4": "/group_kumzmn3",
+    "1.7.0": "/group_j08qkxp"
+  },
+  "adventurez": {
+    "1.4.19": "/group_pqnkbns"
+  },
+  "toms_storage": {
+    "1.6.5": "/group_pqn09o1"
+  },
+  "mcde": {
+    "1.5.6-1.20": "/group_nqfc0dx"
+  },
+  "netherportalfix": {
+    "13.0.1": "/group_6hzk8u9"
+  },
+  "underground_jungle": {
+    "20.1.0": "/group_kgtaee7"
+  },
+  "showmeyourskin": {
+    "1.6.11+1.20": "/group_uwoc0pd"
+  },
+  "suppsquared": {
+    "1.20-1.1.12": "/group_6i07ai4"
+  },
+  "betterarcheology": {
+    "1.1.2-1.20.1": "/group_6ce42q4"
   },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",
     "1.7.2+mc1.20.4-build.102": "/group_7wjds3z"
   },
   "libgui": {
-    "8.0.2+1.20": "/group_6f6a5ws"
+    "8.0.2+1.20": "/group_6f6a5ws",
+    "8.0.1+1.20": "/group_6f6a5ws"
   },
   "visuality": {
     "0.7.1+1.20": "/group_p2kkf3l"
@@ -159,7 +603,35 @@
     "1.6.3-1.20.2": "/group_w81u1hu"
   },
   "modernfix": {
-    "5.9.3+mc1.20.2": "/group_lr05act"
+    "5.9.3+mc1.20.2": "/group_lr05act",
+    "5.12.1+mc1.20.1": "/group_z1mitem"
+  },
+  "betterdungeons": {
+    "1.20-Fabric-4.0.3": "/group_85a2tnn"
+  },
+  "dehydration": {
+    "1.3.5": "/group_b8al7yz"
+  },
+  "kiwi": {
+    "11.4.0": "/group_maw6yff"
+  },
+  "terrablender": {
+    "3.0.1.2": "/group_quirsbz"
+  },
+  "e4mc_minecraft": {
+    "4.0.1": "/group_1lxg26h"
+  },
+  "bakery": {
+    "1.1.3": "/group_w5k1vj9"
+  },
+  "environmentz": {
+    "2.0.8": "/group_we2q3s3"
+  },
+  "inventorysorter": {
+    "1.9.0-1.20": "/group_jdhgct1"
+  },
+  "moonlight": {
+    "1.20-2.8.84": "/group_2ayk6s1"
   },
   "midnightlib": {
     "1.4.1": "/group_nzs7a7t"
@@ -171,6 +643,21 @@
   "fabrishot": {
     "1.10.0": "/group_ajwi6ln"
   },
+  "mcwwindows": {
+    "2.2.1": "/group_mqbll8u"
+  },
+  "handcrafted": {
+    "3.0.5": "/group_0k2656l"
+  },
+  "seasons": {
+    "2.3+1.20": "/group_ffc8x25"
+  },
+  "meadow": {
+    "1.3.4": "/group_z3gzt8t"
+  },
+  "candlelight": {
+    "1.2.8": "/group_z3gzt8t"
+  },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4"
   },
@@ -181,15 +668,33 @@
   "apoli": {
     "2.9.0": "/group_dd9hrtg"
   },
+  "combatroll": {
+    "1.3.1+1.20.1": "/group_hkrj0qe"
+  },
+  "geodes": {
+    "1.8.2": "/group_be83yca"
+  },
+  "bettercombat": {
+    "1.8.3+1.20.1": "/group_dv16ray"
+  },
+  "itemswapper": {
+    "0.5.3-mc1.20.1": "/group_wnn9dhb"
+  },
+  "inmis": {
+    "2.7.2-1.20.1": "/group_badji3k"
+  },
+  "armorful": {
+    "2.0.2+1.20": "/group_cnkz0is"
+  },
+  "bclib": {
+    "3.0.14": "/group_q3wwhid"
+  },
   "fallingleaves": {
     "1.15.4": "/group_lb9ucjl"
   },
   "entity_model_features": {
+    "1.2.3": "/group_i5ema1b",
     "1.0.2": "/group_i5ema1b"
-  },
-  "amecsapi": {
-    "1.5.1+mc1.20-pre1": "/group_4s7ol3e",
-    "1.5.5+mc1.20.2": "/group_z54bjb1"
   },
   "mousewheelie": {
     "1.13.0+mc1.20.1": "/group_fehngpk"
@@ -205,7 +710,17 @@
     "1.10.0": "/group_zg9k8ox"
   },
   "creativecore": {
-    "2.11.2": "/group_qilsl5b"
+    "2.11.2": "/group_qilsl5b",
+    "2.11.15": "/group_596bz7z"
+  },
+  "vinery": {
+    "1.4.7": "/group_dzpza81"
+  },
+  "betterend": {
+    "4.0.11": "/group_96hh0rn"
+  },
+  "spyglass-improvements": {
+    "1.4+mc1.20+fabric": "/group_zjruyoy"
   },
   "borderlessmining": {
     "1.1.8+1.20.1": "/group_3127oq7"
@@ -218,6 +733,7 @@
     "1.1.3+1.20.4": "/group_9zhsosh"
   },
   "moreculling": {
+    "1.20.4-0.21.0": "/group_ceow4ge",
     "1.20.1-0.19.0": "/group_ceow4ge"
   },
   "appleskin": {
@@ -227,6 +743,15 @@
   "puzzle": {
     "1.5.2+1.20": "/group_g8p4z1w"
   },
+  "trinkets": {
+    "3.7.1": "/group_kzjxsk0"
+  },
+  "extraordinary_extra_totems": {
+    "1.0.3": "/group_sep6eqg"
+  },
+  "endrem": {
+    "5.2.4": "/group_gxgtv2s"
+  },
   "jade": {
     "12.3.0": "/group_2qmktrs",
     "11.6.2": "/group_2qmktrs"
@@ -235,7 +760,17 @@
     "3.0.0+1.20+": "/group_ae2j3fe"
   },
   "amecs": {
-    "1.3.11+mc.1.20.4": "/group_ve8bct2"
+    "1.3.11+mc.1.20.4": "/group_ve8bct2",
+    "1.3.10+mc.1.20.1": "/group_ve8bct2"
+  },
+  "betternether": {
+    "9.0.10": "/group_4c5ztuo"
+  },
+  "polymorph": {
+    "0.49.1+1.20.1": "/group_b4d3h2u"
+  },
+  "naturalist": {
+    "4.0.3": "/group_yxl0n6g"
   },
   "yet_another_config_lib": {
     "3.2.1+1.20": "/group_j3ls858",
@@ -245,6 +780,12 @@
   "spruceui": {
     "5.0.0+1.20": "/group_w97ypro",
     "5.0.3+1.20.2": "/group_jlhr2wg"
+  },
+  "patchouli": {
+    "1.20.1-84-FABRIC": "/group_s4cm4l7"
+  },
+  "items_displayed": {
+    "1.2.1": "/group_du3bzkf"
   },
   "languagereload": {
     "1.5.9+1.20.1": "/group_0u8y0rt",
@@ -258,6 +799,12 @@
     "11.1.106": "/group_5mucwkh",
     "11.0.99": "/group_5mucwkh"
   },
+  "stendhal": {
+    "1.4.1-1.20": "/group_tqh6lxm"
+  },
+  "fpsreducer": {
+    "1.20-2.5": "/group_a5b7gf2"
+  },
   "zoomify": {
     "2.13.2": "/group_83you42",
     "2.11.2": "/group_83you42"
@@ -265,24 +812,52 @@
   "continuity": {
     "3.0.0-beta.4+1.20.1": "/group_s6rge0a"
   },
+  "betterstats": {
+    "3.7+fabric-1.20.1": "/group_tejixgu"
+  },
   "capes": {
     "1.5.2+1.20": "/group_cvu68n4"
   },
   "skinlayers3d": {
     "1.6.2": "/group_4uo8oyp"
   },
+  "tcdcommons": {
+    "3.7+fabric-1.20.1": "/group_r6wi4iz"
+  },
+  "bookshelf": {
+    "20.1.8": "/group_tpfjuij"
+  },
+  "creeperoverhaul": {
+    "3.0.1": "/group_xzi7aix"
+  },
   "lambdynlights": {
     "2.3.2+1.20.1": "/group_jz71tw8",
     "2.3.3+1.20.2": "/group_j7138wx",
     "2.3.4+1.20.4": "/group_ekddj1o"
   },
+  "dark-loading-screen": {
+    "1.6.14": "/group_oqoaw1z"
+  },
   "voicechat": {
     "1.20.2-2.4.28": "/group_du63grv",
+    "1.20.1-2.4.32": "/group_du63grv",
     "1.20.4-2.5.8": "/group_oif64gg",
     "1.20.2-2.5.12": "/group_oif64gg"
   },
+  "searchables": {
+    "1.0.2": "/group_1ms8za5"
+  },
+  "controlling": {
+    "12.0.2": "/group_1ms8za5"
+  },
   "origins": {
     "1.10.0": "/group_0wa1svc"
+  },
+  "enchdesc": {
+    "17.0.13": "/group_fy16z5s"
+  },
+  "supplementaries": {
+    "1.20-2.7.25": "/group_f2yg02p"
   },
   "nochatreports": {
     "1.20.1-v2.2.2": "/group_5jvgzfz"
@@ -295,6 +870,7 @@
   },
   "iris": {
     "1.6.17": "/group_bi9gofu",
+    "1.6.11": "/group_bi9gofu",
     "1.6.10": "/group_bi9gofu"
   },
   "sodium-extra": {
@@ -302,10 +878,14 @@
     "0.5.4+mc1.20.4-build.116": "/group_kfkgeon"
   },
   "roughlyenoughitems": {
+    "12.0.684": "/group_ffk9axb",
     "12.0.674": "/group_ffk9axb"
   },
   "dynamic_fps": {
     "3.2.1": "/group_21j33r0"
+  },
+  "ultreonlib": {
+    "1.5.0": "/group_re27ctc"
   },
   "betterf3": {
     "8.0.3": "/group_zjox4t8",
@@ -316,5 +896,14 @@
     "9.0.0": "/group_1s5y3xs",
     "8.0.0": "/group_1s5y3xs",
     "7.2.2": "/group_1s5y3xs"
+  },
+  "immersive_melodies": {
+    "0.1.0+1.20.1": "/group_x1m11pa"
+  },
+  "immersive_armors": {
+    "1.6.1+1.20.1": "/group_x1m11pa"
+  },
+  "immersive_aircraft": {
+    "0.6.2+1.20.1": "/group_x1m11pa"
   }
 }

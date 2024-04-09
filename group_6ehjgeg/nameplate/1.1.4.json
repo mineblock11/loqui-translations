@@ -1,0 +1,28 @@
+{
+    "text.autoconfig.nameplate.title": "Talk Bubbles Config",
+    "text.autoconfig.nameplate.option.backgroundOpacity": "Background Opacity",
+    "text.autoconfig.nameplate.option.nameColor": "Name Color",
+    "text.autoconfig.nameplate.option.backgroundColor": "Background Color",
+    "text.autoconfig.nameplate.option.showHealth": "Show Health",
+    "text.autoconfig.nameplate.option.showLevel": "Show Level",
+    "text.autoconfig.nameplate.option.squaredDistance": "Squared Distance",
+    "text.autoconfig.nameplate.option.excluded_entities": "Excluded Entities",
+    "text.autoconfig.nameplate.option.levelMultiplier": "Level Multiplier",
+    "text.autoconfig.nameplate.option.showHostileOnly": "Show Hostile Only",
+    "text.autoconfig.nameplate.option.showNameplateIfObstructed": "Show Nameplate If Obstructed",
+    "text.autoconfig.nameplate.option.excludedEntities": "Excluded Entities",
+    "text.autoconfig.nameplate.option.nameplateHeight": "Nameplate Height",
+    "text.autoconfig.nameplate.option.nameplateSize": "Nameplate Size",
+    "text.autoconfig.nameplate.option.levelTitle": "Level Title",
+    "text.autoconfig.nameplate.option.healthBar": "Health Bar",
+    "text.autoconfig.nameplate.option.useRpgDifficultyLvl": "Use RpgDifficulty Lvl",
+
+    "text.nameplate.health": "HP: %d/%d",
+    "text.nameplate.level": "§eLv.%s",
+    "text.nameplate.name": "§r%s",
+    "text.nameplate.jade.level": " §eLv.%s",
+
+    "config.waila.plugin_nameplate": "Nameplate",
+    "config.waila.plugin_nameplate.mob_level_info": "Mob Level Info",
+    "config.jade.plugin_nameplate.mob_level_info": "Mob Level Info"
+}

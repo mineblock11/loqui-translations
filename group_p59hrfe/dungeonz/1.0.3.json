@@ -1,0 +1,55 @@
+{
+    "block.dungeonz.dungeon_portal": "Dungeon Portal",
+    "block.dungeonz.dungeon_spawner": "Dungeon Spawner",
+    "block.dungeonz.dungeon_gate": "Dungeon Gate",
+
+    "item.dungeonz.item_group": "DungeonZ",
+
+    "item.dungeonz.dungeon_compass": "Dungeon Compass",
+
+    "dungeonz.difficulty": "Difficulty",
+    "dungeonz.difficulty.easy": "Easy",
+    "dungeonz.difficulty.normal": "Normal",
+    "dungeonz.difficulty.hard": "Hard",
+    "dungeonz.difficulty.extreme": "Extreme",
+
+    "container.dungeon_portal": "Dungeon Portal",
+
+    "dungeon.task.join": "Join",
+    "dungeon.task.leave": "Leave",
+    "dungeon.ruin_dungeon": "Ruin Dungeon",
+    "dungeon.dark_dungeon": "Dark Dungeon",
+
+    "text.dungeonz.possible": "Possible Loot",
+    "text.dungeonz.required": "Required Items",
+    "text.dungeonz.missing": "Missing items",
+    "text.dungeonz.effects": "Positive Effects",
+    "text.dungeonz.private": "Private Group",
+    "text.dungeonz.nothing_required": "-",
+    "text.dungeonz.dead_player": "Rejoin not allowed",
+    "text.dungeonz.empty_name": "-",
+    "text.dungeonz.player_list": "Players (%d/%d)",
+    "text.dungeonz.waiting_player_list": "Min Players: %d/%d",
+    "text.dungeonz.dungeon_full": "Dungeon is full",
+    "text.dungeonz.dungeon_private": "Dungeon is on private mode",
+    "text.dungeonz.dungeon_cooldown": "Dungeon is on cooldown",
+    "text.dungeonz.dungeon_cooldown_time": "Dungeon is on cooldown for %dh %dm %ds",
+    "text.dungeonz.dungeon_missing": "No dungeon found!",
+    "text.dungeonz.dungeon_min_group_size": "Wait for %s more dungeon party member!",
+    "text.dungeonz.dungeon_autokick": "You got autokicked cause it took you to long to finish the dungeon!",
+
+    "dungeon.op_screen.dungeon_type": "Dungeon Type",
+    "dungeon.op_screen.default_difficulty": "Default Difficulty",
+    "dungeon.op_screen.gate_block_id": "Gate Block Identifier",
+    "dungeon.op_screen.gate_particle_id": "Gate Particle Identifier",
+    "dungeon.op_screen.gate_unlock_item_id": "Gate Unlock Item Identifier",
+
+    "compass.compass_screen.title": "Dungeons",
+    "compass.compass_screen.calibrate": "Calibrate",
+    "compass.compass_screen.required": "Requires 3 amethyst shards",
+    "compass.compass_item.cartography": "§7Calibrate at cartography table",
+
+    "text.autoconfig.dungeonz.title": "DungeonZ Config",
+    "text.autoconfig.dungeonz.option.devMode": "Dev Mode",
+    "text.autoconfig.dungeonz.option.defaultDungeons": "Default Dungeons"
+}

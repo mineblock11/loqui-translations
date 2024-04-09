@@ -1,0 +1,9 @@
+{
+    "hud.travelerz.title": "%s",
+    "hud.travelerz.subtitle": "Lv. %s",
+
+    "text.autoconfig.travelerz.title": "TravelerZ Config",
+    "text.autoconfig.travelerz.option.titleSize": "Title Size",
+    "text.autoconfig.travelerz.option.titleX": "Title X",
+    "text.autoconfig.travelerz.option.titleY": "Title Y"
+}

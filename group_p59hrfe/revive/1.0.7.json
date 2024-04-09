@@ -1,0 +1,37 @@
+{
+    "text.autoconfig.revive.title": "Revive Config",
+    "text.autoconfig.revive.option.timer": "Timer",
+    "text.autoconfig.revive.option.dropLoot": "Drop Loot",
+    "text.autoconfig.revive.option.dropRandom": "Drop Random Loot",
+    "text.autoconfig.revive.option.dropRandomOnExplosion": "Drop Random On Explosion",
+    "text.autoconfig.revive.option.dropChance": "Drop On Explosion Chance",
+    "text.autoconfig.revive.option.reviveHealthPoints": "Revive Health Points",
+    "text.autoconfig.revive.option.reviveSupportiveHealthPoints": "Revive Supportive Health Points",
+    "text.autoconfig.revive.option.reviveEffects": "Revive Status Effects",
+    "text.autoconfig.revive.option.effectLivelyAftermath": "Lively Aftermath Effect Duration",
+    "text.autoconfig.revive.option.effectAftermath": "Aftermath Effect Duration",
+    "text.autoconfig.revive.option.showDeathCoordinates": "Show Death Coordinates",
+    "text.autoconfig.revive.option.allowLootablePlayer": "Allow Lootable Player",
+    "text.autoconfig.revive.option.thirdPersonOnDeath": "Third Person On Death",
+    "text.autoconfig.revive.option.rotationSpeed": "Rotation Speed",
+    "text.autoconfig.revive.option.allowReviveWithHand": "Allow Revive With Hand",
+
+    "text.deathScreen.revive": "Revive",
+    "text.deathScreen.timer": "Time: %d",
+    "text.deathScreen.coordinates": "Coordinates: %d, %d, %d",
+
+    "item.revive.revival_star": "Revival Star",
+
+    "item.minecraft.potion.effect.revivify_potion": "Potion of Revivify",
+    "item.minecraft.splash_potion.effect.revivify_potion": "Splash Potion of Revivify",
+    "item.minecraft.lingering_potion.effect.revivify_potion": "Lingering Potion of Revivify",
+    "item.minecraft.potion.effect.supportive_revivify_potion": "Potion of Supportive Revivify",
+    "item.minecraft.splash_potion.effect.supportive_revivify_potion": "Splash Potion of Supportive Revivify",
+    "item.minecraft.lingering_potion.effect.supportive_revivify_potion": "Lingering Potion of Supportive Revivify",
+
+    "item.minecraft.tipped_arrow.effect.revivify_potion": "Arrow of the Aftermath",
+    "item.minecraft.tipped_arrow.effect.supportive_revivify_potion": "Arrow of the Lively Aftermath",
+    "effect.revive.aftermath": "Aftermath",
+    "effect.revive.lively_aftermath": "Lively Aftermath"
+    
+}

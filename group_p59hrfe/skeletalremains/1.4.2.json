@@ -1,0 +1,27 @@
+{
+  "entity.skeletalremains.overgrownskeleton": "Overgrown",
+  "entity.skeletalremains.sharpshooterskeleton": "Sharpshooter",
+  "entity.skeletalremains.charredskeleton": "Charred",
+  "entity.skeletalremains.sunkenskeleton": "Sunken",
+  "entity.skeletalremains.fallenskeleton": "Fallen",
+  "entity.skeletalremains.swampedskeleton": "Swamped",
+  "entity.skeletalremains.desertedskeleton": "Deserted",
+
+  "item.skeletalremains.overgrown_spawn_egg": "Overgrown Spawn Egg",
+  "item.skeletalremains.sharpshooter_spawn_egg": "Sharpshooter Spawn Egg",
+  "item.skeletalremains.charred_spawn_egg": "Charred Spawn Egg",
+  "item.skeletalremains.sunken_spawn_egg": "Sunken Spawn Egg",
+  "item.skeletalremains.fallen_spawn_egg": "Fallen Spawn Egg",
+  "item.skeletalremains.swamped_spawn_egg": "Swamped Spawn Egg",
+  "item.skeletalremains.deserted_spawn_egg": "Deserted Spawn Egg",
+  "item.skeletalremains.sand_bane": "Sand Bane",
+  "item.skeletalremains.enchanted_sand_shard": "Enchanted Sand Shard",
+  "item.skeletalremains.tidal_arrow": "Tidal Arrow",
+  "item.skeletalremains.will_o_bow": "Will O' Bow",
+
+  "sounds.skeletalremains.charredhurt": "Charred Hit",
+  "sounds.skeletalremains.charreddeath": "Charred Falls Apart",
+  "sounds.skeletalremains.charredidle": "Charred Rattles",
+  "sounds.skeletalremains.charredstep": "Charred Step"
+
+}

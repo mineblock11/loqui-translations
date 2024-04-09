@@ -1,0 +1,42 @@
+{
+    "text.autoconfig.partyaddon.title": "PartyAddon Config",
+    "text.autoconfig.partyaddon.option.invitationTime": "Invitation Time",
+    "text.autoconfig.partyaddon.option.groupSize": "Group Size",
+    "text.autoconfig.partyaddon.option.groupXpBonus": "Group Xp Bonus",
+    "text.autoconfig.partyaddon.option.fullGroupBonus": "Full Group Bonus",
+    "text.autoconfig.partyaddon.option.hudPosX": "Hud Pos X",
+    "text.autoconfig.partyaddon.option.hudPosY": "Hud Pos Y",
+    "text.autoconfig.partyaddon.option.hudOpacity": "Hud Opacity",
+    "text.autoconfig.partyaddon.option.showGroupHud": "Show Group Hud",
+    "text.autoconfig.partyaddon.option.distributeVanillaXP": "Distribute Vanilla XP",
+    "text.autoconfig.partyaddon.option.distributeLevelZXP": "Distribute LevelZ XP",
+
+    "screen.partyaddon.party_screen": "Party",
+    "searchPlayer.search": "Player Name",
+
+    "text.partyaddon.gui.title": "Party",
+    "text.partyaddon.gui.player_list": "Player List",
+    "text.partyaddon.gui.invitation": "Invitation",
+    "text.partyaddon.gui.invitation_by_player": "'s Group",
+    "text.partyaddon.gui.group": "Group",
+    "text.partyaddon.gui.info": "Info",
+    "text.partyaddon.gui.empty_info": "-",
+    "text.partyaddon.gui.info_player_count": "%s Group Member",
+    "text.partyaddon.gui.info_experience": "%s%% XP Bonus",
+    "text.partyaddon.gui.full_group_bonus": "Full Group",
+    "text.partyaddon.gui.full_group_bonus_amount": "%s%% XP Bonus",
+    
+    "text.partyaddon.invitation": "%s invited you to join their group",
+    "text.partyaddon.accepted_invitation": "%s joined your group",
+    "text.partyaddon.declined_invitation": "%s rejected your invitation",
+    "text.partyaddon.group_is_full": "%s's group is full",
+    "text.partyaddon.left_group": "%s left the group",
+    "text.partyaddon.leave_group": "You left the group",
+    "text.partyaddon.kicked": "You got kicked from the group",
+    "text.partyaddon.no_invitation": "You have no open invitation",
+    "text.partyaddon.no_group": "You have no group to leave",
+
+    "text.partyaddon.hud.group": "Group",
+    "text.partyaddon.hud.name": "Lv. %s %s",
+    "text.partyaddon.hud.empty_name": "-"
+}

@@ -1,0 +1,141 @@
+{
+  "block.extended_drawers.double_drawer": "Double Drawer",
+  "block.extended_drawers.quad_drawer": "Quad Drawer",
+  "block.extended_drawers.single_drawer": "Drawer",
+  "block.extended_drawers.shadow_drawer": "Shadow Drawer",
+  "block.extended_drawers.compacting_drawer": "Compacting Drawer",
+  "block.extended_drawers.access_point": "Drawer Access Point",
+  "block.extended_drawers.connector": "Drawer Connector",
+
+  "item.extended_drawers.t1_upgrade": "Drawer Upgrade I",
+  "item.extended_drawers.t2_upgrade": "Drawer Upgrade II",
+  "item.extended_drawers.t3_upgrade": "Drawer Upgrade III",
+  "item.extended_drawers.t4_upgrade": "Drawer Upgrade IV",
+  "item.extended_drawers.creative_upgrade": "Creative Drawer Upgrade",
+  "item.extended_drawers.upgrade_frame": "Upgrade Frame",
+  "item.extended_drawers.lock": "Drawer Lock",
+  "item.extended_drawers.limiter": "Capacity Limiter",
+  "item.extended_drawers.dupe_wand": "Duplication Wand",
+
+  "item.extended_drawers.limiter.clear": "Clear",
+  "item.extended_drawers.limiter.limit": "Limit: %s",
+  "item.extended_drawers.limiter.unset": "Unset",
+
+  "tooltip.extended_drawers.shift_for_modifiers": "Press SHIFT for modifiers",
+  "tooltip.extended_drawers.drawer_contents": "Contains:",
+  "tooltip.extended_drawers.modifiers": "Modifiers: %s",
+  "tooltip.extended_drawers.empty": "Empty",
+
+  "itemGroup.extended_drawers.main": "Extended Drawers",
+
+  "extended_drawer.drawer.upgrade_fail": "Can't change upgrade; too many items.",
+  "extended_drawer.drawer.limiter_fail": "Can't change limiter; too many items.",
+
+  "resourcepack.extended_drawers.alt": "ED: Alternative Textures",
+  "resourcepack.extended_drawers.programmer_art": "ED: Programmer Art",
+
+  "book.extended_drawers.guide.name": "Extending Drawers",
+  "book.extended_drawers.guide.landing_text": "This guide will take you through all the steps of setting up great storage systems using drawers, as well as how each item and block in the mod work.",
+  "book.extended_drawers.guide.subtitle": "Version 2.1.1",
+
+  "command.extended_drawers.reload.fail": "Failed to reload config. Check logs",
+  "command.extended_drawers.reload.success": "Successfully reloaded config!",
+
+  "config.extended_drawers": "Extended Drawers",
+  "config.extended_drawers.storage": "Storage",
+  "config.extended_drawers.storage.drawerCapacity": "Drawer capacity",
+  "config.extended_drawers.storage.drawerCapacity.description": "The base capacity of drawers. This is then modified by upgrades and other options to get the final capacity.",
+  "config.extended_drawers.storage.compactingCapacity": "Compacting drawer capacity",
+  "config.extended_drawers.storage.compactingCapacity.description": "The base capacity of compacting drawers, measured in the most compressed version. Upgrades and other options modify this.",
+  "config.extended_drawers.storage.stackSizeAffectsCapacity": "Stack size affects capacity",
+  "config.extended_drawers.storage.stackSizeAffectsCapacity.description": "If enabled, the capacity of drawers will decrease based on the stack size of the contained items to always accept the same amount of stacks.
+
+Compacting drawers check this on the smallest item.",
+  "config.extended_drawers.storage.slotCountAffectsCapacity": "Slot count affects capacity",
+  "config.extended_drawers.storage.slotCountAffectsCapacity.description": "If enabled, the capacity of each slot in a normal drawer is divided by the amount of slots. When enabled all normal drawers store the same amount of items.",
+  "config.extended_drawers.storage.upgradeMultipliers": "Upgrade multipliers",
+  "config.extended_drawers.storage.upgradeMultipliers.description": "These options control multipliers that the upgrades apply to the capacity of drawers.",
+  "config.extended_drawers.storage.upgradeMultipliers.n.description": "The multiplier that the tier %s upgrade applies to the capacity of drawers.",
+  "config.extended_drawers.storage.upgradeMultipliers.1": "Upgrade I",
+  "config.extended_drawers.storage.upgradeMultipliers.2": "Upgrade II",
+  "config.extended_drawers.storage.upgradeMultipliers.3": "Upgrade III",
+  "config.extended_drawers.storage.upgradeMultipliers.4": "Upgrade IV",
+  "config.extended_drawers.misc": "Miscellaneous",
+  "config.extended_drawers.misc.insertAllTime": "Insert all window",
+  "config.extended_drawers.misc.insertAllTime.description": "The max time between the clicks of a double click for inserting all items. Measured in ticks.",
+  "config.extended_drawers.misc.frontBreakingBehaviour": "Front breaking behavior",
+  "config.extended_drawers.misc.frontBreakingBehaviour.description": "This option controls how breaking drawer blocks works on the front face in creative mode.
+",
+  "config.extended_drawers.misc.sideBreakingBehaviour": "Side breaking behavior",
+  "config.extended_drawers.misc.sideBreakingBehaviour.description": "This option controls how breaking drawer blocks works on the side, back, bottom and top faces in creative mode.
+",
+  "config.extended_drawers.misc.cachingMode": "Caching mode",
+  "config.extended_drawers.misc.cachingMode.description": "Controls the way in which drawer networks are cached (stored for later use). Different options have different performance characteristics.
+
+",
+  "config.extended_drawers.misc.blockUpgradeRemovalsWithOverflow": "Prevent overflow",
+  "config.extended_drawers.misc.blockUpgradeRemovalsWithOverflow.description": "If enabled, you can't remove upgrades if the slot would overflow after removal. If disabled, the drawer will drop the overflowing items on the ground.",
+  "config.extended_drawers.misc.allowRecursion": "Allow recursion",
+  "config.extended_drawers.misc.allowRecursion.description": "Allows you to place drawers insider shulker boxes and other drawers.
+
+",
+  "config.extended_drawers.misc.allowRecursion.warning": "Warning: Deeply nested storage can lead to chunk and player data corruption.",
+  "config.extended_drawers.misc.drawersDropContentsOnBreak": "Drop drawer contents",
+  "config.extended_drawers.misc.drawersDropContentsOnBreak.description": "If enabled, drawers will drop their contents instead of retaining them when broken.
+
+",
+  "config.extended_drawers.misc.drawersDropContentsOnBreak.warning": "Warning: This can lead to large amounts of dropped items, causing significant lag.",
+  "config.extended_drawers.misc.dropDrawersInCreative": "Drop drawers in creative",
+  "config.extended_drawers.misc.dropDrawersInCreative.description": "If enabled, drawers will drop as items even when broken in creative mode.",
+  "config.extended_drawers.client": "Client",
+  "config.extended_drawers.client.itemRenderDistance": "Item render distance",
+  "config.extended_drawers.client.itemRenderDistance.description": "The render distance of the item display on drawers. Measured in blocks.",
+  "config.extended_drawers.client.iconRenderDistance": "Icon render distance",
+  "config.extended_drawers.client.iconRenderDistance.description": "The render distance of the lock, upgrades and other similar icons on drawers. Measured in blocks.",
+  "config.extended_drawers.client.textRenderDistance": "Text render distance",
+  "config.extended_drawers.client.textRenderDistance.description": "The render distance of the items counter on the drawers. Measured in blocks.",
+  "config.extended_drawers.client.displayEmptyCount": "Display empty count",
+  "config.extended_drawers.client.displayEmptyCount.description": "Whether to display the amount of items on empty drawers.",
+  "config.extended_drawers.client.layout": "Layout",
+  "config.extended_drawers.client.smallItemScale": "Small item scale",
+  "config.extended_drawers.client.smallItemScale.description": "The scale at which to render the items on drawers for small slots",
+  "config.extended_drawers.client.largeItemScale": "Large item scale",
+  "config.extended_drawers.client.largeItemScale.description": "The scale at which to render the items on drawers for large slots",
+  "config.extended_drawers.client.smallTextScale": "Small text scale",
+  "config.extended_drawers.client.smallTextScale.description": "The scale at which to render the text on drawers for small slots",
+  "config.extended_drawers.client.largeTextScale": "Large text scale",
+  "config.extended_drawers.client.largeTextScale.description": "The scale at which to render the text on drawers for large slots",
+  "config.extended_drawers.client.textOffset": "Text offset",
+  "config.extended_drawers.client.textOffset.description": "Offset from the bottom of the slot to move the text by on drawers",
+  "config.extended_drawers.client.icons": "Icons",
+  "config.extended_drawers.client.lockedIcon": "Locked mode icon",
+  "config.extended_drawers.client.lockedIcon.description": "The id of icon to be displayed on locked drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
+
+The actual behaviour is controlled by the 'extended_drawers:toggle/lock' tag.",
+  "config.extended_drawers.client.voidingIcon": "Voiding mode icon",
+  "config.extended_drawers.client.voidingIcon.description": "The id of icon to be displayed on voiding drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
+
+The actual behaviour is controlled by the 'extended_drawers:toggle/voiding' tag.",
+  "config.extended_drawers.client.hiddenIcon": "Hidden mode icon",
+  "config.extended_drawers.client.hiddenIcon.description": "The id of icon to be displayed on hidden drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
+
+The actual behaviour is controlled by the 'extended_drawers:toggle/hidden' tag.",
+  "config.extended_drawers.client.dupingIcon": "Duping mode icon",
+  "config.extended_drawers.client.dupingIcon.description": "The id of icon to be displayed on duping drawers. This texture must be available on the block texture atlas (all block and item textures reside there) to work properly.
+
+The actual behaviour is controlled by the 'extended_drawers:toggle/duping' tag.",
+
+  "config.extended_drawers.creativeBreakingBehaviour.break": "Break",
+  "config.extended_drawers.creativeBreakingBehaviour.break.description": "Break: Breaking is instant as normal.",
+  "config.extended_drawers.creativeBreakingBehaviour.mine": "Mine",
+  "config.extended_drawers.creativeBreakingBehaviour.mine.description": "Mine: Breaking works as in survival.",
+  "config.extended_drawers.creativeBreakingBehaviour.no_break": "No break",
+  "config.extended_drawers.creativeBreakingBehaviour.no_break.description": "No break: Block can't be broken, like bedrock in survival.",
+
+  "config.extended_drawers.cachingMode.none": "None",
+  "config.extended_drawers.cachingMode.none.description": "None: No caching is preformed. This option generally results in poor performance, especially with large networks that are often interacted with, but is almost guaranteed to be bug free. Only use this option if you are experiencing issues with the other options.",
+  "config.extended_drawers.cachingMode.simple": "Simple",
+  "config.extended_drawers.cachingMode.simple.description": "Simple: Networks are cached, but the cache is rebuilt entirely each time the physical structure of the network changes. This option performs almost equally to the 'smart' option unless there's a lot of structural changes. This option is more likely to be stable and generally recommended. This is the default option.",
+  "config.extended_drawers.cachingMode.smart": "Smart",
+  "config.extended_drawers.cachingMode.smart.description": "Smart: Networks are cached, and the cache is updated incrementally as the physical structure of the network changes. This option performs better than the 'simple' option when there's a lot of structural changes, but it's more prone to bugs. Use this option if you're experiencing performance issues with the 'simple' option and are willing to risk buggy behaviour."
+}

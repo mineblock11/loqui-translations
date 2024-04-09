@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.welcomescreen.title": "WelcomeScreen Config",
+    "text.autoconfig.welcomescreen.option.alwaysShowWelcomeScreen": "Always Show Screen",
+    "text.autoconfig.welcomescreen.option.welcomeScreenBoxes": "Box Count",
+
+    "screen.welcomescreen.close": "Close"
+}
