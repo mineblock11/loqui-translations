@@ -1,0 +1,16 @@
+{
+  "key.cmdkeybind.config.title": "Command Macros",
+  "key.cmdkeybind.config.category.main": "Main",
+  "key.cmdkeybind.config.sub.macro": "Macro",
+  "key.cmdkeybind.config.macro.key": "Key",
+  "key.cmdkeybind.config.macro.keymod": "Modifier Key",
+  "key.cmdkeybind.config.macro.command": "Command",
+  "key.cmdkeybind.config.enabled": "Enabled",
+  "key.cmdkeybind.config.macrotype": "Type of Macro",
+  "key.cmdkeybind.config.delay": "Delay (Milliseconds)",
+  "key.cmdkeybind.config.repetitions": "Times to repeat",
+  "key.cmdkeybind.config.add": "Add Macro",
+  "key.cmdkeybind.config.remove": "Remove",
+  "key.categories.cmdkeybind": "Macros",
+  "key.cmdkeybind.config.openmacrokeybind": "Open Macro Config Screen"
+}

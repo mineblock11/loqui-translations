@@ -77,6 +77,12 @@ files:
       - ru
       - tr
       - zh-CN
+  - source: /group_irw33ma/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ru
+      - uk
+      - zh-CN
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -129,6 +135,22 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_w81u1hu/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - pt-BR
+      - ru
+      - tr
+      - uk
+      - zh-CN
+  - source: /group_lr05act/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - it
+      - ja
+      - vi
+      - zh-CN
+      - zh-TW
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -253,6 +275,17 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_qilsl5b/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - ko
+      - pt-BR
+      - ru
+      - tt-RU
+      - uk
   - source: /group_3127oq7/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -424,6 +457,21 @@ files:
       - ru
       - zh-CN
       - zh-TW
+  - source: /group_jlhr2wg/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - es-MX
+      - et
+      - fr
+      - fr-CA
+      - it
+      - pl
+      - ru
+      - tt-RU
+      - zh-CN
+      - zh-TW
   - source: /group_83you42/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -470,6 +518,22 @@ files:
       - ru
       - tt-RU
       - uk
+      - zh-CN
+      - zh-TW
+  - source: /group_evvinjt/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - be
+      - el
+      - et
+      - fr
+      - it
+      - nl
+      - pl
+      - pt-BR
+      - ru
+      - sl
+      - tt-RU
       - zh-CN
       - zh-TW
   - source: /group_2ftyfjj/*/*.json
@@ -525,6 +589,50 @@ files:
       - tr
       - uk
       - vi
+      - zh-CN
+      - zh-TW
+  - source: /group_j7138wx/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-MX
+      - et
+      - fr
+      - fr-CA
+      - hi
+      - it
+      - ja
+      - nl
+      - pl
+      - pt-BR
+      - ru
+      - sv-SE
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /group_du63grv/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ca
+      - cs
+      - de
+      - es-AR
+      - es-ES
+      - es-MX
+      - fr
+      - fr-CA
+      - it
+      - ja
+      - ko
+      - nl
+      - pl
+      - pt-BR
+      - ru
+      - sv-SE
+      - tt-RU
+      - uk
       - zh-CN
       - zh-TW
   - source: /group_5jvgzfz/*/*.json

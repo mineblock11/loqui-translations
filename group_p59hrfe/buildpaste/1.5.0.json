@@ -1,0 +1,43 @@
+{
+  "item.buildpaste.position_selector": "Position Selector",
+  "item.buildpaste.structure_builder": "Structure Builder",
+  "itemgroup.buildpasteTab": "BuildPasteMod Tab",
+
+  "item.buildpaste.position_selecter.pos1": "pos1 has been set to %s",
+  "item.buildpaste.position_selecter.pos2": "pos2 has been set to %s",
+
+  "commands.upload.help": "Select pos1 and pos2 first before trying to Upload a build",
+  "commands.upload.success": "Your upload was successful!\n[%s] [%s] [%s]",
+  "commands.upload.error.pos": "%s is not defined",
+  "commands.upload.error.size": "You selected to many blocks",
+  "commands.upload.error.samepos": "%s You can't set both positions to the same position",
+  "commands.upload.error.direction": "The direction doesn't exist. Try again",
+
+  "commands.verify.help": "Type /connectaccounts <email> to connect your Minecraft Account with your BuildPaste Account. This allows you to upload builds and also paste builds easily",
+  "commands.verify.verified": "Your Email \"%s\" was connected with your Minecraft Account",
+  "commands.verify.noemail": "\"%s\" is not an email address",
+  "commands.verify.emailnotfound": "Your email address \"%s\" wasn't found in combination with your Minecraft Name \"%s\". Create an account on %s and enter your Minecraft Name in your %s",
+  "commands.verify.error": "Something went wrong. Check if your BuildPaste Account email is the same as the one you typed here",
+
+  "commands.disconnect.success": "%s",
+
+  "commands.copyuploadedbuildid.success": "Build copied successful",
+  "commands.copyuploadedbuildid.error": "You are probably not logged in or your accounts aren't connected.\n[%s] [%s]",
+
+  "commands.paste.response": "%s",
+  "commands.paste.success": "%s blocks were pasted successfully",
+  "commands.paste.error": "Account not connected or other issue: If you want to use the /paste command then you need a %s account. But you can also paste a command into your chat like this: %s",
+  "commands.paste.random-error": "An Error occurred :( This Build may be too big to load correctly... Maybe try pasting it again or paste another build",
+  "commands.paste.error-404": "(404) Build not found",
+
+  "commands.construct.success": "Build constructed successfully",
+
+  "commands.construct.all-materials": "You have all required materials!\n%s",
+  "commands.construct.missing-materials": "You don't have all required materials\n%s",
+
+  "util.doesnt-have-valid-uuid": "Your minecraft ID doesn't seem to be unique because it equals '00000000-0000-0000-0000-000000000000'. This isn't that important, but some functions may not work for you",
+
+  "commands.removepos.success": "All Positions were removed",
+
+  "commands.help": "%s %s %s"
+}
