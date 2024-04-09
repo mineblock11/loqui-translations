@@ -1,9 +1,4 @@
 {
-  "libjf-config-v1.presets": "Presets",
-  "libjf-config-v1.default": "Default",
-  "libjf-config-v1.see-also": "See also: %s",
-  "libjf-config-v1.reset": "Reset",
-  "libjf-config-core-v1.no-screen": "No screen",
-  "libjf-config-core-v1.no-screen.description": "No mod for rendering config UIs was discovered. Install LibJF to add one.",
-  "libjf-config-core-v1.edit": "Edit"
+  "libjf-config-ui-tiny-v1.entry.json.read.fail.title": "Could not read",
+  "libjf-config-ui-tiny-v1.entry.json.read.fail.description": "The given entry could not be stringified. Please edit the config manually"
 }
