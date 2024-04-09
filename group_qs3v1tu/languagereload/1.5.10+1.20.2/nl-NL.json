@@ -1,0 +1,12 @@
+{
+  "language.default.tooltip": "De standaardtaal van Minecraft",
+  "options.languagereload.title": "Language Reload Instellingen",
+  "options.languagereload.multilingualItemSearch": "Meertalig zoeken",
+  "options.languagereload.multilingualItemSearch.tooltip": "Schakelt zoeken in een van de geselecteerde talen in de inventaris in de creatieve modus en het receptenboek in.",
+  "debug.reload_languages.help": "F3 + J = Talen herladen (shift om de volgende taal in de lijst in te laden)",
+  "debug.reload_languages.message": "Talen herladen",
+  "debug.reload_languages.switch.success": "Taal veranderd naar %s",
+  "debug.reload_languages.switch.failure": "Kon niet naar de volgende taal in de lijst. Verander naar een andere taal in de instellingen en probeer het nog eens",
+  "modmenu.summaryTranslation.languagereload": "Verminderd laadtijden en voegt terugvaltalen toe.",
+  "modmenu.descriptionTranslation.languagereload": "Versnelt taalveranderingen, introduceert een zoekfunctie en meerkeuzeselectie in het talenmenu, maakt zoeken voor voorwerpen meertalig, voegt debugfuncties toe om naar de volgende taal in de lijst te gaan met Shift + F3 + J en om ze te herladen met F3 + J."
+}
