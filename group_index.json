@@ -207,9 +207,11 @@
     "5.0.3+1.20.2": "/group_jlhr2wg"
   },
   "languagereload": {
-    "1.5.9+1.20.1": "/group_0u8y0rt"
+    "1.5.9+1.20.1": "/group_0u8y0rt",
+    "1.5.10+1.20.2": "/group_qs3v1tu"
   },
   "cloth-config2": {
+    "12.0.119": "/group_5mucwkh",
     "12.0.111": "/group_5mucwkh",
     "11.1.106": "/group_5mucwkh"
   },
@@ -221,6 +223,9 @@
   },
   "capes": {
     "1.5.2+1.20": "/group_cvu68n4"
+  },
+  "skinlayers3d": {
+    "1.6.2": "/group_4uo8oyp"
   },
   "lambdynlights": {
     "2.3.2+1.20.1": "/group_jz71tw8",
@@ -251,6 +256,7 @@
     "3.2.1": "/group_21j33r0"
   },
   "betterf3": {
+    "8.0.3": "/group_zjox4t8",
     "7.0.1": "/group_zjox4t8"
   },
   "modmenu": {
