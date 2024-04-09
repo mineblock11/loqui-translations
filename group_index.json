@@ -228,6 +228,7 @@
     "1.5.2+1.20": "/group_g8p4z1w"
   },
   "jade": {
+    "12.3.0": "/group_2qmktrs",
     "11.6.2": "/group_2qmktrs"
   },
   "fastquit": {
@@ -277,7 +278,8 @@
   },
   "voicechat": {
     "1.20.2-2.4.28": "/group_du63grv",
-    "1.20.4-2.5.8": "/group_oif64gg"
+    "1.20.4-2.5.8": "/group_oif64gg",
+    "1.20.2-2.5.12": "/group_oif64gg"
   },
   "origins": {
     "1.10.0": "/group_0wa1svc"
@@ -310,6 +312,7 @@
     "7.0.1": "/group_zjox4t8"
   },
   "modmenu": {
+    "8.0.1": "/group_x1m11pa",
     "9.0.0": "/group_1s5y3xs",
     "8.0.0": "/group_1s5y3xs",
     "7.2.2": "/group_1s5y3xs"
