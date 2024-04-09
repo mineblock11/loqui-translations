@@ -24,6 +24,9 @@
   "reloadkey": {
     "1.0": "/group_p59hrfe"
   },
+  "reach-entity-attributes": {
+    "2.4.0": "/group_p59hrfe"
+  },
   "owo": {
     "0.12.5+1.20.3": "/group_p59hrfe"
   },
@@ -68,6 +71,9 @@
   },
   "arrp": {
     "0.8.0": "/group_p59hrfe"
+  },
+  "additionalentityattributes": {
+    "1.3.0+1.20.0": "/group_p59hrfe"
   },
   "xaeroworldmap": {
     "1.37.8": "/group_uq37rd2",
@@ -172,6 +178,9 @@
     "1.6.3.1": "/group_630bb77",
     "1.6.2-mc1.20.1": "/group_630bb77"
   },
+  "apoli": {
+    "2.9.0": "/group_dd9hrtg"
+  },
   "fallingleaves": {
     "1.15.4": "/group_lb9ucjl"
   },
@@ -244,7 +253,8 @@
     "13.0.121": "/group_5mucwkh",
     "12.0.119": "/group_5mucwkh",
     "12.0.111": "/group_5mucwkh",
-    "11.1.106": "/group_5mucwkh"
+    "11.1.106": "/group_5mucwkh",
+    "11.0.99": "/group_5mucwkh"
   },
   "zoomify": {
     "2.13.2": "/group_83you42",
@@ -267,6 +277,9 @@
   "voicechat": {
     "1.20.2-2.4.28": "/group_du63grv",
     "1.20.4-2.5.8": "/group_oif64gg"
+  },
+  "origins": {
+    "1.10.0": "/group_0wa1svc"
   },
   "nochatreports": {
     "1.20.1-v2.2.2": "/group_5jvgzfz"

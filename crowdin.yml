@@ -203,6 +203,16 @@ files:
       - uk
       - vi
       - zh-TW
+  - source: /group_dd9hrtg/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
   - source: /group_lb9ucjl/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -776,6 +786,32 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_0wa1svc/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fi
+      - fr
+      - he
+      - id
+      - it
+      - ja
+      - ko
+      - nl
+      - pl
+      - pt-BR
+      - ro
+      - ru
+      - tr
+      - uk
+      - zh-CN
   - source: /group_5jvgzfz/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
