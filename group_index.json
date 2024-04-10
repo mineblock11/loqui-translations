@@ -184,6 +184,9 @@
   "qualitysounds": {
     "1.0.0-1.20.1": "/group_p59hrfe"
   },
+  "progression_reborn": {
+    "1.3.13": "/group_p59hrfe"
+  },
   "profundis": {
     "1.6.2": "/group_p59hrfe",
     "1.6.1": "/group_p59hrfe"
@@ -564,6 +567,9 @@
   "jolted": {
     "0.1.1": "/group_fy96ca4"
   },
+  "iteminteractions": {
+    "20.4.5": "/group_fy96ca4"
+  },
   "illagerinvasion": {
     "8.0.3": "/group_fy96ca4"
   },
@@ -742,7 +748,8 @@
     "1.1.0": "/group_ifdonj3"
   },
   "elytratrims": {
-    "2.0.0-beta.4": "/group_ifdonj3"
+    "2.0.0-beta.4": "/group_ifdonj3",
+    "2.1.1": "/group_t9giklo"
   },
   "betterwitchhuts": {
     "1.20-Fabric-3.0.3": "/group_ifdonj3"
@@ -925,6 +932,9 @@
   "stellarity": {
     "2.2.1": "/group_1ym4vru"
   },
+  "ctov": {
+    "3.4.3": "/group_27vx22j"
+  },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x",
     "1.4.4": "/group_m1nrfqk"
@@ -981,6 +991,12 @@
   },
   "energizedpower": {
     "1.20.4-2.9.3-fabric": "/group_xx1b2cx"
+  },
+  "scriptor": {
+    "1.1.4-1.20.4": "/group_8r6wozt"
+  },
+  "bagofholding": {
+    "20.4.3": "/group_z7kbld9"
   },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",
