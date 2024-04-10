@@ -57,6 +57,7 @@
   },
   "sounds": {
     "0.4.0+1.20.1": "/group_p59hrfe",
+    "0.7.0+1.20.4": "/group_fy96ca4",
     "0.7.0+1.20.2": "/group_fy96ca4"
   },
   "soundcontroller": {
@@ -74,6 +75,7 @@
     "0.2.0": "/group_p59hrfe"
   },
   "smoothboot": {
+    "1.20.4-0.1.2": "/group_p59hrfe",
     "1.20.2-0.1.1": "/group_p59hrfe"
   },
   "smitherz": {
@@ -185,6 +187,7 @@
     "3.12.5": "/group_p59hrfe"
   },
   "leahs-immersive-thunder": {
+    "1.20.4+1.2.2": "/group_p59hrfe",
     "1.20.2+1.2.2": "/group_p59hrfe",
     "1.20.1+1.2.2": "/group_p59hrfe"
   },
@@ -203,6 +206,10 @@
   },
   "inf_music": {
     "0.3.0": "/group_p59hrfe"
+  },
+  "idwtialsimmoedm": {
+    "0.3.0+1.20.3": "/group_p59hrfe",
+    "0.3.0+1.20": "/group_ma2ysv3"
   },
   "horsebuff": {
     "2.1.2": "/group_p59hrfe"
@@ -292,6 +299,10 @@
   "carpeted": {
     "1.20-1.4": "/group_p59hrfe"
   },
+  "bwncr": {
+    "3.19.0": "/group_p59hrfe",
+    "3.18.0": "/group_ma2ysv3"
+  },
   "bushierflowers": {
     "0.0.3-1.20.1": "/group_p59hrfe"
   },
@@ -377,6 +388,10 @@
   "eugenes_horse_whistle": {
     "1.0.1": "/group_fy96ca4"
   },
+  "enhanced_attack_indicator": {
+    "1.0.4+1.20.3": "/group_fy96ca4",
+    "1.0.4+1.20.2": "/group_xbe3j1c"
+  },
   "betterclouds": {
     "1.4.2+1.20.2": "/group_fy96ca4",
     "1.3.13+1.20.1": "/group_0kcts1u"
@@ -393,6 +408,9 @@
   "animatica": {
     "0.6+1.20": "/group_w1ed779"
   },
+  "make_bubbles_pop": {
+    "0.2.0-fabric": "/group_ajghh08"
+  },
   "grassoverhaul": {
     "23.6.9": "/group_mda6lbt"
   },
@@ -408,17 +426,11 @@
   "neruina": {
     "1.3.0": "/group_ma2ysv3"
   },
-  "idwtialsimmoedm": {
-    "0.3.0+1.20": "/group_ma2ysv3"
-  },
   "extra_details": {
     "0.3-beta": "/group_ma2ysv3"
   },
   "debrand": {
     "1.1.1": "/group_ma2ysv3"
-  },
-  "bwncr": {
-    "3.18.0": "/group_ma2ysv3"
   },
   "alinlib": {
     "1.2.0-alpha.2": "/group_ma2ysv3"
@@ -463,10 +475,12 @@
     "1.0.2+fabric-mc1.20.1": "/group_nhafqrf"
   },
   "bridgingmod": {
+    "2.3.0+1.20.4": "/group_wvgi287",
     "2.3.0+1.20.2": "/group_wvgi287"
   },
   "sound_physics_remastered": {
     "1.20.1-1.2.1": "/group_qdygrud",
+    "1.20.4-1.3.1": "/group_qjsbmtc",
     "1.20.2-1.3.1": "/group_qjsbmtc",
     "1.20.1-1.3.1": "/group_qjsbmtc"
   },
@@ -483,10 +497,8 @@
   "enhancedblockentities": {
     "0.9.1+1.20.2": "/group_xbe3j1c"
   },
-  "enhanced_attack_indicator": {
-    "1.0.4+1.20.2": "/group_xbe3j1c"
-  },
   "dynamiccrosshair": {
+    "7.7+1.20.4": "/group_xbe3j1c",
     "7.6.2+1.20.2": "/group_xbe3j1c",
     "7.4.4+1.20": "/group_xbe3j1c"
   },
@@ -572,11 +584,11 @@
   "createdeco": {
     "2.0.1-1.20.1-fabric": "/group_aiwewkc"
   },
-  "make_bubbles_pop": {
-    "0.2.0-fabric": "/group_ajghh08"
-  },
   "paginatedadvancements": {
     "2.4.2": "/group_ux3r8id"
+  },
+  "mica": {
+    "1.0.1": "/group_qp4o5m7"
   },
   "roughlyenoughprofessions": {
     "2.0.2": "/group_5jnfeau"
@@ -591,6 +603,7 @@
     "1.5.0": "/group_iyv1csk"
   },
   "feytweaks": {
+    "1.20.4-1.2.8": "/group_iyv1csk",
     "1.20.2-1.2.8": "/group_iyv1csk"
   },
   "herbalbrews": {
@@ -660,15 +673,12 @@
   "aether_redux": {
     "2.0.7d": "/group_3mz32lp"
   },
-  "mica": {
-    "1.0.1": "/group_qp4o5m7"
-  },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x",
     "1.4.4": "/group_r08rzev"
   },
   "entity_texture_features": {
-    "5.2.3": "/group_3vtt0e8",
+    "5.2.3": "/group_wmf9o3o",
     "5.2.1": "/group_3vtt0e8",
     "4.6": "/group_3vtt0e8"
   },
@@ -699,6 +709,7 @@
     "20.1.0": "/group_kgtaee7"
   },
   "showmeyourskin": {
+    "1.8.0+1.20.4": "/group_uwoc0pd",
     "1.7.0+1.20.2": "/group_uwoc0pd",
     "1.6.11+1.20": "/group_uwoc0pd"
   },
@@ -735,6 +746,7 @@
   },
   "modernfix": {
     "5.9.3+mc1.20.2": "/group_lr05act",
+    "5.15.0+mc1.20.4": "/group_z1mitem",
     "5.15.0+mc1.20.1": "/group_z1mitem",
     "5.12.1+mc1.20.1": "/group_z1mitem",
     "5.10.1+mc1.20.2": "/group_z1mitem"
@@ -769,6 +781,7 @@
     "1.20-2.11.10": "/group_b5cyxgj"
   },
   "midnightlib": {
+    "1.5.3": "/group_nzs7a7t",
     "1.5.0": "/group_nzs7a7t",
     "1.4.1": "/group_nzs7a7t"
   },
@@ -796,9 +809,11 @@
     "1.2.8": "/group_z3gzt8t"
   },
   "chatpatches": {
+    "204.6.4": "/group_0wltx88",
     "202.6.4": "/group_0wltx88"
   },
   "emi": {
+    "1.1.4+1.20.4+fabric": "/group_5xcy4pv",
     "1.1.4+1.20.2+fabric": "/group_5xcy4pv"
   },
   "libipn": {
@@ -808,6 +823,7 @@
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4"
   },
   "entityculling": {
+    "1.6.4": "/group_630bb77",
     "1.6.3": "/group_630bb77",
     "1.6.3.1": "/group_630bb77",
     "1.6.2-mc1.20.1": "/group_630bb77"
@@ -837,9 +853,11 @@
     "3.0.14": "/group_q3wwhid"
   },
   "bobby": {
+    "5.1.0+mc1.20.4": "/group_ogyiqgf",
     "5.1.0+mc1.20.2": "/group_ogyiqgf"
   },
   "rrls": {
+    "4.0.2+mc1.20.4-fabric": "/group_ftc1jya",
     "3.2.4+mc1.20.2-fabric": "/group_ftc1jya"
   },
   "fallingleaves": {
@@ -855,6 +873,7 @@
     "1.13.0+mc1.20.1": "/group_fehngpk"
   },
   "debugify": {
+    "1.20.4+1.1": "/group_45arwf3",
     "1.20.2+1.0": "/group_45arwf3",
     "1.20.1+2.0": "/group_45arwf3"
   },
@@ -913,11 +932,13 @@
     "20.2.2641": "/group_l0nn6uo"
   },
   "jade": {
+    "13.3.1": "/group_2qmktrs",
     "12.3.0": "/group_2qmktrs",
     "11.6.2": "/group_2qmktrs"
   },
   "fastquit": {
-    "3.0.0+1.20+": "/group_ae2j3fe"
+    "3.0.0+1.20+": "/group_ae2j3fe",
+    "3.0.0+1.20.4": "/group_01n1oc3"
   },
   "amecs": {
     "1.3.11+mc.1.20.4": "/group_ve8bct2",
@@ -933,6 +954,7 @@
     "4.0.3": "/group_yxl0n6g"
   },
   "notenoughcrashes": {
+    "4.4.7+1.20.4": "/group_9xhr0v6",
     "4.4.7+1.20.2": "/group_9xhr0v6"
   },
   "yet_another_config_lib": {
@@ -955,6 +977,7 @@
   },
   "languagereload": {
     "1.5.9+1.20.1": "/group_0u8y0rt",
+    "1.5.10+1.20.3": "/group_qs3v1tu",
     "1.5.10+1.20.2": "/group_p3foa3p"
   },
   "cloth-config2": {
@@ -986,6 +1009,7 @@
   },
   "betterstats": {
     "3.7+fabric-1.20.1": "/group_tejixgu",
+    "3.9.6+fabric-1.20.4": "/group_kpi8cql",
     "3.9.6+fabric-1.20.2": "/group_kpi8cql"
   },
   "capes": {
@@ -995,6 +1019,7 @@
     "1.6.2": "/group_4uo8oyp"
   },
   "tcdcommons": {
+    "3.9.5+fabric-1.20.4": "/group_r6wi4iz",
     "3.9.5+fabric-1.20.2": "/group_r6wi4iz",
     "3.7+fabric-1.20.1": "/group_r6wi4iz"
   },
@@ -1032,11 +1057,13 @@
     "4.0-439": "/group_iwfaqti"
   },
   "searchables": {
+    "1.0.6": "/group_1ms8za5",
     "1.0.2": "/group_1ms8za5",
     "1.0.16": "/group_1ms8za5"
   },
   "controlling": {
     "12.0.2": "/group_1ms8za5",
+    "15.0.3": "/group_u1x4xbt",
     "13.0.7": "/group_u1x4xbt"
   },
   "origins": {
@@ -1052,6 +1079,7 @@
     "1.20-2.7.25": "/group_f2yg02p"
   },
   "nochatreports": {
+    "1.20.4-v2.5.0": "/group_5jvgzfz",
     "1.20.2-v2.3.1": "/group_5jvgzfz",
     "1.20.1-v2.2.2": "/group_5jvgzfz"
   },
@@ -1108,6 +1136,7 @@
     "7.0.1": "/group_zjox4t8"
   },
   "modmenu": {
+    "9.1.0-beta.1": "/group_x1m11pa",
     "8.0.1": "/group_x1m11pa",
     "9.0.0": "/group_1s5y3xs",
     "8.0.0": "/group_1s5y3xs",
