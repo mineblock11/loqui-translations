@@ -396,6 +396,7 @@
     "1.20.1+1.2.2": "/group_p59hrfe"
   },
   "lavender-md": {
+    "0.1.0-pre.4+1.20.2": "/group_p59hrfe",
     "0.1.0+1.20.3": "/group_p59hrfe"
   },
   "kyrptconfig": {
@@ -676,7 +677,8 @@
     "1.1.4": "/group_uq37rd2"
   },
   "lavender": {
-    "0.1.5+1.20.3": "/group_uq37rd2"
+    "0.1.5+1.20.3": "/group_uq37rd2",
+    "0.1.0-pre.20+1.20.2": "/group_uq37rd2"
   },
   "extended_drawers": {
     "2.1.1+mc.1.20.1": "/group_uq37rd2"

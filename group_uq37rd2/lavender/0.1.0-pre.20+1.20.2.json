@@ -1,0 +1,70 @@
+{
+  "item.lavender.dynamic_book": "Book",
+
+  "text.lavender.structure_hud.completion": "%s: %s / %s",
+  "text.lavender.entry_hud.sneak_to_view": {"text": "Sneak to view", "color": "gray"},
+  "text.lavender.entry_hud.click_to_view": {"text": "Click to view", "color": "gray"},
+
+  "text.lavender.entry_tooltip": [
+    {"text": "Hold ", "color": "dark_gray"},
+    {"text": "Alt ", "color": "gold"}
+  ],
+  "text.lavender.entry_tooltip.progress": [
+    {"text": "[", "color": "green"},
+    {"index": 0, "color": "gray"},
+    {"index": 1, "color": "dark_gray"},
+    {"text": "]", "color": "green"}
+  ],
+
+  "text.lavender.structure_component.hide_hint": "❌ Click to hide",
+  "text.lavender.structure_component.place_hint": "⚓ Click to place",
+  "text.lavender.structure_component.active_overlay_hint": {"text": "⚓", "color": "gray"},
+  "text.lavender.structure_component.layer_tooltip": "Layer: %d",
+  "text.lavender.structure_component.all_layers_tooltip": "All layers",
+
+  "text.lavender.keybind_tooltip": [
+    {"text": "Key Bind:\n "},
+    {"index": 0, "color": "gray"},
+    {"text": " > ", "color": "dark_gray"},
+    {"index": 1, "color": "gray"}
+  ],
+
+  "text.lavender.locked_internal_link": {"text": "Locked", "color": "gray"},
+  "text.lavender.invalid_internal_link": [
+    {"text": "Invalid internal link: ", "color": "red"},
+    {"index": 0, "color": "gray"}
+  ],
+
+  "text.lavender.entry.locked": {"text": "Locked", "font": "minecraft:uniform", "color": "gray"},
+
+  "text.lavender.categories": "Categories",
+  "text.lavender.index": "Index",
+  "text.lavender.index_category": "All Entries",
+  "text.lavender.index_category.title": "Entries",
+
+  "text.lavender.book.click_to_open": {"text": "Click to open: ", "color": "dark_gray"},
+
+  "text.lavender.book.next": [
+    "Next Page\n",
+    {"text": "↑ Scroll Up", "color": "gray"}
+  ],
+  "text.lavender.book.back": [
+    "Go Back\n",
+    {"text": "Shift-click to return home", "color": "gray"}
+  ],
+  "text.lavender.book.previous": [
+    "Previous Page\n",
+    {"text": "↓ Scroll Down", "color": "gray"}
+  ],
+  "text.lavender.book.reload": "Reload",
+
+  "text.lavender.book.unlock_progress": [
+    {"text": "Unlocked: ", "font": "minecraft:uniform", "color": "dark_gray"},
+    {"index": 0},
+    {"text": "/"},
+    {"index": 1}
+  ],
+
+  "text.lavender.book.bookmark.add": "Add Bookmark",
+  "text.lavender.book.bookmark.remove_hint": {"text": "Shift-click to remove", "color": "dark_gray"}
+}
