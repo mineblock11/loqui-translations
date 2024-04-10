@@ -1,0 +1,43 @@
+{
+  "key.categories.raised": "Raised",
+
+  "key.raised.options": "Open Raised Options",
+
+  "commands.raised.config.reload": "Raised config reloaded",
+  "commands.raised.config.reset": "Raised config reset to defaults",
+
+  "commands.raised.value.hud.query": "HUD offset is currently set to: %d",
+  "commands.raised.value.hud.set": "HUD offset is now set to: %d",
+
+  "commands.raised.value.chat.query": "Chat offset is currently set to: %d",
+  "commands.raised.value.chat.set": "Chat offset is now set to: %d",
+
+  "commands.raised.toggle.share.query": "Fabric mod support is currently set to: %d",
+  "commands.raised.toggle.share.set": "Fabric mod support is now set to: %d",
+
+  "commands.raised.toggle.support.query": "Extended mod support is currently set to: %d",
+  "commands.raised.toggle.support.set": "Extended mod support is now set to: %d",
+
+  "commands.raised.toggle.sync.query": "HUD/Chat sync is currently set to: %d",
+  "commands.raised.toggle.sync.set": "HUD/Chat sync is now set to: %d",
+
+  "options.raised.title": "Raised Options",
+
+  "options.raised.checkbox": "Raised Options",
+  "options.raised.checkbox.tooltip": "Choose between control types.",
+
+  "options.raised.hud": "HUD",
+  "options.raised.hud.tooltip": "Controls the HUD offset.\nMaximum slider value is a quarter of scaled screen height.",
+
+  "options.raised.chat": "Chat",
+  "options.raised.chat.tooltip": "Controls the chat offset.\nMaximum slider value is a quarter of scaled screen height.",
+
+  "options.raised.share": "Share",
+  "options.raised.share.tooltip": "Enables Fabric mod support.\nAdds support for mod elements using Object Share on Fabric.",
+
+  "options.raised.support": "Support",
+  "options.raised.support.tooltip": "Enables extended mod support.\nAdds support for mod elements not associated with vanilla HUD elements.",
+
+  "options.raised.sync": "Sync",
+  "options.raised.sync.tooltip": "Enables HUD/chat sync.\nSynchronizes the chat offset to the HUD offset."
+}

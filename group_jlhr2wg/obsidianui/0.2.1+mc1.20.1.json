@@ -1,0 +1,12 @@
+{
+  "obsidianui.reset": "Reset",
+  "obsidianui.gui.unbind": "Unbind",
+  "obsidianui.narrator.separator": "%s separator",
+  "obsidianui.narration.toggle_switch": "Toggle Switch: %s, with state %s",
+  "obsidianui.options.generic": "%s: %s",
+  "obsidianui.options.generic.fancy": "Fancy",
+  "obsidianui.options.generic.fast": "Fast",
+  "obsidianui.options.generic.fastest": "Fastest",
+  "obsidianui.options.generic.simple": "Simple",
+  "obsidianui.widget.separator": "Separator"
+}
