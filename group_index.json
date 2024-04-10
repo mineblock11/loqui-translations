@@ -222,6 +222,7 @@
     "3.1.3": "/group_p59hrfe"
   },
   "quilt_registry": {
+    "8.0.0-alpha.12+1.20.4": "/group_p59hrfe",
     "6.1.2+1.20.1": "/group_p59hrfe"
   },
   "qualitysounds": {
@@ -928,6 +929,7 @@
     "1.0.3-fabric": "/group_7z72eyw"
   },
   "quilt_command": {
+    "8.0.0-alpha.12+1.20.4": "/group_6i11hjk",
     "6.1.2+1.20.1": "/group_6i11hjk"
   },
   "sound_physics_remastered": {
@@ -975,7 +977,8 @@
     "1.1.3+1.20": "/group_fobxhti",
     "1.1.3+1.20.4": "/group_fobxhti",
     "1.0.0+1.20.4": "/group_fobxhti",
-    "1.1.5+1.20.1": "/group_smlmzwv"
+    "1.1.5+1.20.1": "/group_smlmzwv",
+    "1.1.4+1.20.4": "/group_smlmzwv"
   },
   "tweakeroo": {
     "0.19.2": "/group_i43b1vh"
@@ -1523,7 +1526,8 @@
     "1.20-1.3.11": "/group_kvtlgcn"
   },
   "ok_zoomer": {
-    "5.1.0+1.20.1": "/group_ct0tur8"
+    "5.1.0+1.20.1": "/group_ct0tur8",
+    "7.1.0": "/group_vnvro71"
   },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4",
@@ -1642,7 +1646,8 @@
     "1.1.3+1.20": "/group_9zhsosh",
     "1.1.3+1.20.4": "/group_9zhsosh",
     "1.0.0+1.20.4": "/group_9zhsosh",
-    "1.1.5+1.20.1": "/group_ec1pmgu"
+    "1.1.5+1.20.1": "/group_ec1pmgu",
+    "1.1.4+1.20.4": "/group_ec1pmgu"
   },
   "moreculling": {
     "1.20.4-0.22.1": "/group_ceow4ge",
@@ -1892,7 +1897,8 @@
     "3.0.6": "/group_l4wdxt5"
   },
   "quilted_fabric_resource_loader_v0": {
-    "7.5.0+0.91.0-1.20.1": "/group_hmucp55"
+    "7.5.0+0.91.0-1.20.1": "/group_hmucp55",
+    "9.0.0-alpha.7+0.96.11-1.20.4": "/group_hqky30h"
   },
   "waystones": {
     "16.0.4": "/group_acdou33"
