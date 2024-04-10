@@ -1,0 +1,10 @@
+{
+  "item.theorcs.orc_boss_spawn_egg": "Orc Boss Spawn Egg",
+  "item.theorcs.orc_grunt_spawn_egg": "Orc Grunt Spawn Egg",
+  "item.theorcs.orc_shaman_spawn_egg": "Orc Shaman Spawn Egg",
+  "item.theorcs.orc_ranger_spawn_egg": "Orc Ranger Spawn Egg",
+  "entity.theorcs.orc_boss": "Orc Boss",
+  "entity.theorcs.orc_grunt": "Orc grunt",
+  "entity.theorcs.orc_shaman": "Orc Shaman",
+  "entity.theorcs.orc_ranger": "Orc Ranger"
+}

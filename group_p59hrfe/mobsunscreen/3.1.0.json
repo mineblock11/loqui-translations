@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.mobsunscreen.title": "Mob Sunscreen",
+  "text.autoconfig.mobsunscreen.option.general": "General",
+  "text.autoconfig.mobsunscreen.option.general.printIDs": "printIDs",
+  "text.autoconfig.mobsunscreen.option.general.protectAllMobs": "protectAllMobs",
+  "text.autoconfig.mobsunscreen.option.general.mods": "mods",
+  "text.autoconfig.mobsunscreen.option.general.mobs": "mobs"
+}

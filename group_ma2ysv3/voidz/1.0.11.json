@@ -1,0 +1,12 @@
+{
+  "block.voidz.item_group": "VoidZ",
+  "block.voidz.void_portal": "Void Portal",
+  "block.voidz.void_stone": "Void Stone",
+  "block.voidz.infested_void_stone": "Infested Void Stone",
+
+  "death.attack.infested": "%1$s was absorbed by the void",
+
+  "text.autoconfig.voidz.title": "VoidZ Config",
+  "text.autoconfig.voidz.option.allow_boss_respawn": "Allow Boss Respawn",
+  "text.autoconfig.voidz.option.boss_respawn_time": "Boss Respawn Time"
+}

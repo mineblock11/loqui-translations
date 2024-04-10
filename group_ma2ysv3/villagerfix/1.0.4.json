@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.villagerfix.title": "Villagerfix Config",
+    "text.autoconfig.villagerfix.option.baseVillagerOfTheHeroDiscount": "Base HOTV Discount",
+    "text.autoconfig.villagerfix.option.extraVillagerOfTheHeroDiscount": "Extra HOTV Discount",
+    "text.autoconfig.villagerfix.option.maxReputationDiscount": "Max Reputation Discount",
+    "text.autoconfig.villagerfix.option.maxReputation": "Max Reputation"
+}

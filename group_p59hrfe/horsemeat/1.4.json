@@ -1,0 +1,16 @@
+{
+  "horsemeat.midnightconfig.category.horse": "Horse meat",
+  "horsemeat.midnightconfig.category.llama": "Llama meat",
+  "horsemeat.midnightconfig.horseButcherChests": "Butcher chests",
+  "horsemeat.midnightconfig.horseButcherTrades": "Butcher trades",
+  "horsemeat.midnightconfig.horseDrop": "Drop",
+  "horsemeat.midnightconfig.llamaButcherChests": "Butcher chests",
+  "horsemeat.midnightconfig.llamaButcherTrades": "Butcher trades",
+  "horsemeat.midnightconfig.llamaDrop": "Drop",
+  "item.horsemeat.cooked_horse_meat": "Cooked Horse Meat",
+  "item.horsemeat.cooked_llama_meat": "Cooked Llama Meat",
+  "item.horsemeat.horse_burger": "Horse Meat Burger",
+  "item.horsemeat.raw_horse_meat": "Raw Horse Meat",
+  "item.horsemeat.raw_llama_meat": "Raw Llama Meat",
+  "itemGroup.horsemeat.group": "Horse Meat"
+}
