@@ -1,0 +1,13 @@
+{
+  "libjf-web-v0.jfconfig.title": "LibJF Web v0",
+  "libjf-web-v0.jfconfig.serverIp": "IP du Serveur",
+  "libjf-web-v0.jfconfig.serverIp.tooltip": "L'IP/nom d'hôte public à envoyer aux clients",
+  "libjf-web-v0.jfconfig.port": "Port",
+  "libjf-web-v0.jfconfig.port.tooltip": "Le port pour accueillir du contenu",
+  "libjf-web-v0.jfconfig.portOverride": "Outrepasser le port",
+  "libjf-web-v0.jfconfig.portOverride.tooltip": "Le port à envoyer aux clients (pour les proxys inversés, -1 pour désactiver)",
+  "libjf-web-v0.jfconfig.maxConnections": "Connexions Max",
+  "libjf-web-v0.jfconfig.maxConnections.tooltip": "Le nombre maximum de connexions simultanées à ce serveur",
+  "libjf-web-v0.jfconfig.enableFileHost": "Activer l'Hôte de Fichier",
+  "libjf-web-v0.jfconfig.enableFileHost.tooltip": "Si les fichiers de config/wwwroot devraient être hébergés en tant que ressources statiques"
+}
