@@ -1,6 +1,6 @@
 {
   "config.roughlyenoughitems.roughlysearchable": "Roughly Searchable",
-  "config.roughlyenoughitems.config.RS_keybind": "Включить поиск",
+  "config.roughlyenoughitems.config.RS_keybind": "Переключить состояние поиска",
   "config.roughlyenoughitems.config.RS_search": "Искать на",
   "config.roughlyenoughitems.config.RS_indicator": "Индикаторы",
   "config.roughlyenoughitems.config.RS_indicator.RS_trueSize": "Размер совпадений",
