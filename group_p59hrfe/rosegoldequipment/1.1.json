@@ -1,0 +1,26 @@
+{
+  "item.rosegoldequipment.rose_gold_ingot": "Rose Gold Ingot",
+  "item.rosegoldequipment.rose_gold_nugget": "Rose Gold Nugget",
+  "item.rosegoldequipment.raw_rose_gold": "Raw Rose Gold",
+
+  "item.rosegoldequipment.rose_gilded_beetroot": "Rose Gilded Beetroot",
+  "item.rosegoldequipment.rose_gilded_cookie": "Rose Gilded Cookie",
+
+  "item.rosegoldequipment.rose_golden_pickaxe": "Rose Gold Pickaxe",
+  "item.rosegoldequipment.rose_golden_shovel": "Rose Gold Shovel",
+  "item.rosegoldequipment.rose_golden_axe": "Rose Gold Axe",
+  "item.rosegoldequipment.rose_golden_hoe": "Rose Gold Hoe",
+  "item.rosegoldequipment.rose_golden_sword": "Rose Gold Sword",
+
+  "item.rosegoldequipment.rose_golden_helmet": "Rose Gold Helmet",
+  "item.rosegoldequipment.rose_golden_chestplate": "Rose Gold Chestplate",
+  "item.rosegoldequipment.rose_golden_leggings": "Rose Gold Leggings",
+  "item.rosegoldequipment.rose_golden_boots": "Rose Gold Boots",
+
+  "block.rosegoldequipment.rose_gold_block": "Block of Rose Gold",
+  "block.rosegoldequipment.raw_rose_gold_block": "Block of Raw Rose Gold",
+  "block.rosegoldequipment.rose_gold_door": "Rose Gold Door",
+  "block.rosegoldequipment.rose_gold_trapdoor": "Rose Gold Trapdoor",
+
+  "itemGroup.rose_gold_group": "Rose Gold Equipment"
+}

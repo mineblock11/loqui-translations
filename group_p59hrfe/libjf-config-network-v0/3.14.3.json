@@ -1,0 +1,7 @@
+{
+  "libjf-config-network-v0.modmenu.unavailable.title": "Unavailable",
+  "libjf-config-network-v0.modmenu.unavailable.description": "libjf-config-network-v0 server is unavailable",
+  "libjf-config-network-v0.modmenu.denied.title": "Permission denied",
+  "libjf-config-network-v0.modmenu.denied.description": "You do not have permission to edit configs on this server",
+  "overview.jfconfig.title": "Serverside Mods Overview"
+}

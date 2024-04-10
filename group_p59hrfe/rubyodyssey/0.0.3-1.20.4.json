@@ -1,0 +1,81 @@
+{
+  "item.rubyodyssey.ruby": "Ruby",
+  "item.rubyodyssey.raw_ruby": "Raw Ruby",
+
+  "item.rubyodyssey.metal_detector": "Metal Detector",
+  "tooltip.rubyodyssey.metal_detector.tooltip": "Finds valuables underground",
+
+  "item.rubyodyssey.tomato": "Tomato",
+  "item.rubyodyssey.tomato_seeds": "Tomato Seeds",
+
+  "item.rubyodyssey.corn": "Corn",
+  "item.rubyodyssey.corn_seeds": "Corn Seeds",
+
+  "item.rubyodyssey.ruby_staff": "Ruby Staff",
+  "item.rubyodyssey.coal_briquette": "Coal Briquette",
+
+  "item.rubyodyssey.ruby_pickaxe": "Ruby Pickaxe",
+  "item.rubyodyssey.ruby_axe": "Ruby Axe",
+  "item.rubyodyssey.ruby_shovel": "Ruby Shovel",
+  "item.rubyodyssey.ruby_hoe": "Ruby Hoe",
+  "item.rubyodyssey.ruby_sword": "Ruby Sword",
+
+  "item.rubyodyssey.ruby_helmet": "Ruby Helmet",
+  "item.rubyodyssey.ruby_chestplate": "Ruby Chestplate",
+  "item.rubyodyssey.ruby_leggings": "Ruby Leggings",
+  "item.rubyodyssey.ruby_boots": "Ruby Boots",
+
+  "block.rubyodyssey.ruby_block": "Block of Ruby",
+  "block.rubyodyssey.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.rubyodyssey.ruby_stairs": "Ruby Stairs",
+  "block.rubyodyssey.ruby_slab": "Ruby Slab",
+  "block.rubyodyssey.ruby_button": "Ruby Button",
+  "block.rubyodyssey.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.rubyodyssey.ruby_fence": "Ruby Fence",
+  "block.rubyodyssey.ruby_fence_gate": "Ruby Fence Gate",
+  "block.rubyodyssey.ruby_wall": "Ruby Wall",
+  "block.rubyodyssey.ruby_door": "Ruby Door",
+  "block.rubyodyssey.ruby_trapdoor": "Ruby Trapdoor",
+
+  "block.rubyodyssey.gem_polishing_station": "Gem Polishing Station",
+
+  "block.rubyodyssey.chestnut_log": "Chestnut Log",
+  "block.rubyodyssey.chestnut_wood": "Chestnut Wood",
+  "block.rubyodyssey.stripped_chestnut_log": "Stripped Chestnut Log",
+  "block.rubyodyssey.stripped_chestnut_wood": "Stripped Chestnut Wood",
+  "block.rubyodyssey.chestnut_planks": "Chestnut Planks",
+  "block.rubyodyssey.chestnut_leaves": "Chestnut Leaves",
+
+  "block.rubyodyssey.chestnut_sapling": "Chestnut Sapling",
+
+  "block.rubyodyssey.chestnut_sign": "Chestnut Sign",
+  "block.rubyodyssey.chestnut_hanging_sign": "Chestnut Hanging Sign",
+  "block.rubyodyssey.chestnut_wall_sign": "Chestnut Wall Sign",
+  "block.rubyodyssey.chestnut_wall_hanging_sign": "Chestnut Wall Hanging Sign",
+
+  "item.rubyodyssey.chestnut_boat": "Chestnut Boat",
+  "item.rubyodyssey.chestnut_chest_boat": "Chestnut Boat with Chest",
+
+  "item.rubyodyssey.dice": "Dice",
+
+  "block.rubyodyssey.ruby_ore": "Ruby Ore",
+  "block.rubyodyssey.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.rubyodyssey.nether_ruby_ore": "Nether Ruby Ore",
+  "block.rubyodyssey.end_stone_ruby_ore": "End Stone Ruby Ore",
+
+  "block.rubyodyssey.dahlia": "Dahlia",
+
+  "item.rubyodyssey.porcupine_spawn_egg": "Porcupine Spawn Egg",
+
+  "item.rubyodyssey.bar_brawl_music_disc": "Bar Brawl Music Disc",
+  "item.rubyodyssey.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "block.rubyodyssey.sound_block": "Sound Block",
+
+  "sounds.rubyodyssey.metal_detector_found_ore": "Metal Detector Jingle",
+
+  "entity.minecraft.villager.sound_master": "Soundmaster",
+
+  "itemgroup.ruby": "Ruby Example Group"
+}

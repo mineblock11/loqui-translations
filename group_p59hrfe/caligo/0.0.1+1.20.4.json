@@ -1,0 +1,16 @@
+{
+  "death.attack.caligo_petrified": "%1$s turned into stone.",
+  "death.attack.caligo_petrified.player": "%s got hard during a head-to-head with %s.",
+
+  "effect.caligo.petrified": "Petrified",
+
+  "sound.petrified": "Player petrifies",
+  "sound.strow_active": "Strow ambiance",
+  "sound.strow_caw": "Strow caws",
+  "sound.strow_damage": "Strow hurts",
+  "sound.strow_death": "Strow dies",
+
+  "entity.caligo.strow": "Strow",
+  "item.caligo.strow_spawn_egg": "Strow Spawn Egg",
+  "block.caligo.statue": "Statue Block"
+}

@@ -1,0 +1,1367 @@
+{
+  "item.energizedpower.energized_copper_ingot": "Energized Copper Ingot",
+  "item.energizedpower.energized_gold_ingot": "Energized Gold Ingot",
+
+  "item.energizedpower.energized_copper_plate": "Energized Copper Plate",
+  "item.energizedpower.energized_gold_plate": "Energized Gold Plate",
+
+  "item.energizedpower.energized_copper_wire": "Energized Copper Wire",
+  "item.energizedpower.energized_gold_wire": "Energized Gold Wire",
+
+  "item.energizedpower.silicon": "Silicon",
+
+  "item.energizedpower.raw_tin": "Raw Tin",
+
+  "item.energizedpower.tin_dust": "Tin Dust",
+  "item.energizedpower.copper_dust": "Copper Dust",
+  "item.energizedpower.iron_dust": "Iron Dust",
+  "item.energizedpower.gold_dust": "Gold Dust",
+
+  "item.energizedpower.tin_nugget": "Tin Nugget",
+
+  "item.energizedpower.tin_ingot": "Tin Ingot",
+
+  "item.energizedpower.tin_plate": "Tin Plate",
+  "item.energizedpower.copper_plate": "Copper Plate",
+  "item.energizedpower.iron_plate": "Iron Plate",
+  "item.energizedpower.gold_plate": "Gold Plate",
+
+  "item.energizedpower.iron_gear": "Iron Gear",
+
+  "item.energizedpower.iron_rod": "Iron Rod",
+
+  "item.energizedpower.tin_wire": "Tin Wire",
+  "item.energizedpower.copper_wire": "Copper Wire",
+  "item.energizedpower.gold_wire": "Gold Wire",
+
+  "item.energizedpower.sawdust": "Sawdust",
+
+  "item.energizedpower.charcoal_dust": "Charcoal Dust",
+
+  "item.energizedpower.basic_fertilizer": "Basic Fertilizer",
+  "item.energizedpower.good_fertilizer": "Good Fertilizer",
+  "item.energizedpower.advanced_fertilizer": "Advanced Fertilizer",
+
+  "item.energizedpower.raw_gear_press_mold": "Raw Gear Press Mold",
+
+  "item.energizedpower.raw_rod_press_mold": "Raw Rod Press Mold",
+
+  "item.energizedpower.raw_wire_press_mold": "Raw Wire Press Mold",
+
+  "item.energizedpower.gear_press_mold": "Gear Press Mold",
+
+  "item.energizedpower.rod_press_mold": "Rod Press Mold",
+
+  "item.energizedpower.wire_press_mold": "Wire Press Mold",
+
+  "item.energizedpower.basic_solar_cell": "Basic Solar Cell",
+  "item.energizedpower.advanced_solar_cell": "Advanced Solar Cell",
+  "item.energizedpower.reinforced_advanced_solar_cell": "Reinforced Advanced Solar Cell",
+
+  "item.energizedpower.basic_circuit": "Basic Circuit",
+  "item.energizedpower.advanced_circuit": "Advanced Circuit",
+  "item.energizedpower.processing_unit": "Processing Unit",
+
+  "item.energizedpower.energized_power_book": "Energized Power Book",
+  "tooltip.energizedpower.energized_power_book.txt.shift.1": "Left click a block to open the block's book page.",
+  "book.energizedpower.front.cover.text": "This is the guide book for this mod!",
+
+  "item.energizedpower.cable_insulator": "Cable Insulator",
+  "tooltip.energizedpower.cable_insulator.txt.shift.1": "This item can be crafted by clicking on a wool block with shears.",
+
+  "item.energizedpower.charcoal_filter": "Charcoal Filter",
+
+  "item.energizedpower.saw_blade": "Saw Blade",
+
+  "item.energizedpower.crystal_matrix": "Crystal Matrix",
+
+  "item.energizedpower.energized_crystal_matrix": "Energized Crystal Matrix",
+
+  "item.energizedpower.dirty_water_bucket": "Dirty Water Bucket",
+
+  "item.energizedpower.teleporter_matrix": "Teleporter Matrix",
+  "item.energizedpower.teleporter_matrix.linked": "Teleporter Matrix [Linked]",
+  "item.energizedpower.teleporter_matrix.unlinked": "Teleporter Matrix [Unlinked]",
+  "tooltip.energizedpower.teleporter_matrix.cleared": "Teleporter Matrix settings were successfully cleared.",
+  "tooltip.energizedpower.teleporter_matrix.set": "Teleporter Matrix settings were successfully set.",
+  "tooltip.energizedpower.teleporter_matrix.set.warning": "Teleporter Matrix settings were set but do not point to a Teleporter position.",
+  "tooltip.energizedpower.teleporter_matrix.status": "Status: ",
+  "tooltip.energizedpower.teleporter_matrix.status.linked": "Linked",
+  "tooltip.energizedpower.teleporter_matrix.status.unlinked": "Unlinked",
+  "tooltip.energizedpower.teleporter_matrix.location": "Location: ",
+  "tooltip.energizedpower.teleporter_matrix.dimension": "Dimension: ",
+  "tooltip.energizedpower.teleporter_matrix.txt.shift.1": "Link by shift + left-clicking a Teleporter.",
+  "tooltip.energizedpower.teleporter_matrix.txt.shift.2": "Unlink by left-clicking in the air.",
+
+  "item.energizedpower.teleporter_processing_unit": "Teleporter Processing Unit",
+
+  "item.energizedpower.inventory_coal_engine": "Inventory Coal Engine",
+  "tooltip.energizedpower.inventory_coal_engine.status": "Status: ",
+  "tooltip.energizedpower.inventory_coal_engine.status.activated": "Activated",
+  "tooltip.energizedpower.inventory_coal_engine.status.deactivated": "Deactivated",
+  "tooltip.energizedpower.inventory_coal_engine.txt.shift.1": "Activation status can be changed by using this item on air",
+  "tooltip.energizedpower.inventory_coal_engine.txt.shift.2": "If active items will be taken from the inventory but not from the hotbar.",
+  "tooltip.energizedpower.inventory_coal_engine.txt.shift.currently_burning": "Currently burning: ",
+  "tooltip.energizedpower.inventory_coal_engine.txt.shift.energy_production_left": "Energy Production Left: %s",
+
+  "item.energizedpower.inventory_charger": "Inventory Charger",
+  "container.energizedpower.inventory_charger": "Inventory Charger",
+  "tooltip.energizedpower.inventory_charger.txt.shift.1": "Open the inventory of this item by using this item on air",
+
+  "item.energizedpower.battery_1": "Battery (Tier I)",
+  "item.energizedpower.battery_2": "Battery (Tier II)",
+  "item.energizedpower.battery_3": "Battery (Tier III)",
+  "item.energizedpower.battery_4": "Battery (Tier IV)",
+  "item.energizedpower.battery_5": "Battery (Tier V)",
+  "item.energizedpower.battery_6": "Battery (Tier VI)",
+  "item.energizedpower.battery_7": "Battery (Tier VII)",
+  "item.energizedpower.battery_8": "Battery (Tier VIII)",
+  "tooltip.energizedpower.battery.txt.shift.1": "This battery can transfer %s/t.",
+
+  "item.energizedpower.creative_battery": "Creative Battery",
+
+  "item.energizedpower.energy_analyzer": "Energy Analyzer",
+  "tooltip.energizedpower.energy_analyzer.txt.shift.1": "Click on an energy block to retrieve information.",
+  "tooltip.energizedpower.energy_analyzer.txt.shift.2": "%s will be consumed per use",
+  "txt.energizedpower.energy_analyzer.output_side_information": "Information for the clicked block face:",
+  "txt.energizedpower.energy_analyzer.no_energy_left": "The Energy Analyzer has not enough power (%s are required).",
+  "txt.energizedpower.energy_analyzer.no_block_entity": "This block is no energy block.",
+  "txt.energizedpower.energy_analyzer.no_energy_block": "This block is no (E) energy block.",
+  "txt.energizedpower.energy_analyzer.no_energy_block_side": "This block face is no (E) energy block face.",
+  "txt.energizedpower.energy_analyzer.energy_output": "Energy: %s / %s.",
+  "txt.energizedpower.energy_analyzer.energy_can_receive": "This block consumes energy.",
+  "txt.energizedpower.energy_analyzer.energy_can_extract": "This block produces energy.",
+  "txt.energizedpower.energy_analyzer.energy_can_receive_side": "This block face consumes energy.",
+  "txt.energizedpower.energy_analyzer.energy_can_extract_side": "This block face produces energy.",
+
+  "item.energizedpower.fluid_analyzer": "Fluid Analyzer",
+  "tooltip.energizedpower.fluid_analyzer.txt.shift.1": "Click on a block which contains fluids to retrieve information.",
+  "tooltip.energizedpower.fluid_analyzer.txt.shift.2": "%s will be consumed per use",
+  "txt.energizedpower.fluid_analyzer.output_side_information": "Information for the clicked block face:",
+  "txt.energizedpower.fluid_analyzer.no_energy_left": "The Fluid Analyzer has not enough power (%s are required).",
+  "txt.energizedpower.fluid_analyzer.no_fluid_block": "This block contains no fluids.",
+  "txt.energizedpower.fluid_analyzer.no_fluid_block_side": "This block face contains no fluids.",
+  "txt.energizedpower.fluid_analyzer.fluid_output.tank_count": "Tank count: %d",
+  "txt.energizedpower.fluid_analyzer.fluid_output.tank_count_side": "Tank count of the clicked face: %d",
+  "txt.energizedpower.fluid_analyzer.fluid_output.tank_fluid_content": "Tank %d: %s%s / %s.",
+
+  "item.energizedpower.wooden_hammer": "Wooden Hammer",
+  "item.energizedpower.stone_hammer": "Stone Hammer",
+  "item.energizedpower.iron_hammer": "Iron Hammer",
+  "item.energizedpower.golden_hammer": "Golden Hammer",
+  "item.energizedpower.diamond_hammer": "Diamond Hammer",
+  "item.energizedpower.netherite_hammer": "Netherite Hammer",
+
+  "item.energizedpower.cutter": "Cutter",
+
+  "item.energizedpower.wrench": "Wrench",
+  "tooltip.energizedpower.wrench.txt.shift": "The Wrench can be used to configure blocks.",
+  "tooltip.energizedpower.wrench.select_face": "Selected face: %s",
+  "tooltip.energizedpower.wrench.not_configurable": "This block can not be configured.",
+
+  "tooltip.energizedpower.wrench_configurable": "This block can be configured with a Wrench.",
+
+  "item.energizedpower.battery_box_minecart": "Minecart with Battery Box",
+  "item.energizedpower.advanced_battery_box_minecart": "Minecart with Advanced Battery Box",
+
+  "block.energizedpower.silicon_block": "Block of Silicon",
+  "item.energizedpower.silicon_block": "Block of Silicon",
+
+  "block.energizedpower.tin_block": "Block of Tin",
+  "item.energizedpower.tin_block": "Block of Tin",
+
+  "block.energizedpower.sawdust_block": "Block of Sawdust",
+  "item.energizedpower.sawdust_block": "Block of Sawdust",
+
+  "block.energizedpower.tin_ore": "Tin Ore",
+  "item.energizedpower.tin_ore": "Tin Ore",
+
+  "block.energizedpower.deepslate_tin_ore": "Deepslate Tin Ore",
+  "item.energizedpower.deepslate_tin_ore": "Deepslate Tin Ore",
+
+  "block.energizedpower.raw_tin_block": "Block of Raw Tin",
+  "item.energizedpower.raw_tin_block": "Block of Raw Tin",
+
+  "block.energizedpower.item_conveyor_belt": "Item Conveyor Belt",
+  "item.energizedpower.item_conveyor_belt": "Item Conveyor Belt",
+
+  "tooltip.energizedpower.item_conveyor_belt.wrench_configuration.changed": "Slope was set to %s.",
+
+  "block.energizedpower.item_conveyor_belt_loader": "Item Conveyor Belt Loader",
+  "item.energizedpower.item_conveyor_belt_loader": "Item Conveyor Belt Loader",
+  "container.energizedpower.item_conveyor_belt_loader": "Conveyor Belt Loader",
+
+  "block.energizedpower.item_conveyor_belt_sorter": "Item Conveyor Belt Sorter",
+  "item.energizedpower.item_conveyor_belt_sorter": "Item Conveyor Belt Sorter",
+  "container.energizedpower.item_conveyor_belt_sorter": "Conveyor Belt Sorter",
+
+  "tooltip.energizedpower.item_conveyor_belt_sorter.label.output_connection.no_connection": "Output %d: No conveyor belt connected",
+  "tooltip.energizedpower.item_conveyor_belt_sorter.label.output_connection.connection": "Output %d: Belt connected",
+  "tooltip.energizedpower.item_conveyor_belt_sorter.cbx.ignore_nbt": "Ignore NBT",
+  "tooltip.energizedpower.item_conveyor_belt_sorter.cbx.whitelist": "Whitelist",
+  "tooltip.energizedpower.item_conveyor_belt_sorter.cbx.blacklist": "Blacklist",
+
+  "block.energizedpower.item_conveyor_belt_switch": "Item Conveyor Belt Switch",
+  "item.energizedpower.item_conveyor_belt_switch": "Item Conveyor Belt Switch",
+
+  "block.energizedpower.item_conveyor_belt_splitter": "Item Conveyor Belt Splitter",
+  "item.energizedpower.item_conveyor_belt_splitter": "Item Conveyor Belt Splitter",
+
+  "block.energizedpower.item_conveyor_belt_merger": "Item Conveyor Belt Merger",
+  "item.energizedpower.item_conveyor_belt_merger": "Item Conveyor Belt Merger",
+
+  "block.energizedpower.fluid_pipe": "Iron Fluid Pipe",
+  "item.energizedpower.fluid_pipe": "Iron Fluid Pipe",
+
+  "block.energizedpower.golden_fluid_pipe": "Golden Fluid Pipe",
+  "item.energizedpower.golden_fluid_pipe": "Golden Fluid Pipe",
+
+  "tooltip.energizedpower.fluid_pipe.max_extraction": "Max extraction per extractor face: %s/t",
+  "tooltip.energizedpower.fluid_pipe.wrench_configuration.face_changed": "Connection type of face (%s) was set to %s.",
+  "tooltip.energizedpower.fluid_pipe.wrench_configuration.face_change_not_possible": "Connection type of face (%s) could not be changed.",
+
+  "block.energizedpower.press_mold_maker": "Press Mold Maker",
+  "item.energizedpower.press_mold_maker": "Press Mold Maker",
+  "container.energizedpower.press_mold_maker": "Press Mold Maker",
+
+  "tooltip.energizedpower.press_mold_maker.btn.up": "Scroll up",
+  "tooltip.energizedpower.press_mold_maker.btn.down": "Scroll down",
+
+  "tooltip.energizedpower.press_mold_maker.btn.recipes": "Requires %dx %s",
+
+  "block.energizedpower.auto_crafter": "Auto Crafter",
+  "item.energizedpower.auto_crafter": "Auto Crafter",
+  "container.energizedpower.auto_crafter": "Auto Crafter",
+
+  "tooltip.energizedpower.auto_crafter.txt.shift.1": "This block uses %s/t per ingredient.",
+  "tooltip.energizedpower.auto_crafter.cbx.ignore_nbt": "Ignore NBT",
+  "tooltip.energizedpower.auto_crafter.cbx.extract_mode.1": "Extract Mode 1: Output and leftover items only",
+  "tooltip.energizedpower.auto_crafter.cbx.extract_mode.2": "Extract Mode 2: Everything except input items",
+  "tooltip.energizedpower.auto_crafter.cycle_through_recipes": "Cycle through recipes",
+  "tooltip.energizedpower.auto_crafter.recipe_index": "Recipe %d",
+
+  "block.energizedpower.advanced_auto_crafter": "Advanced Auto Crafter",
+  "item.energizedpower.advanced_auto_crafter": "Advanced Auto Crafter",
+  "container.energizedpower.advanced_auto_crafter": "Advanced Auto Crafter",
+
+  "block.energizedpower.charger": "Charger",
+  "item.energizedpower.charger": "Charger",
+  "container.energizedpower.charger": "Charger",
+
+  "tooltip.energizedpower.chargers.txt.shift.1": "Chargers can be used to craft Energized Copper Ingots.",
+  "tooltip.energizedpower.chargers.txt.shift.2.1": "But you should use the Energizer instead,",
+  "tooltip.energizedpower.chargers.txt.shift.2.2": "because chargers energize very inefficiently.",
+
+  "tooltip.energizedpower.charger.item_energy_left.txt": "This item needs %s to be fully charged.",
+
+  "block.energizedpower.advanced_charger": "Advanced Charger",
+  "item.energizedpower.advanced_charger": "Advanced Charger",
+  "container.energizedpower.advanced_charger": "Advanced Charger",
+
+  "tooltip.energizedpower.advanced_charger.items_energy_left.txt": "These items need %s to be fully charged.",
+
+  "block.energizedpower.uncharger": "Uncharger",
+  "item.energizedpower.uncharger": "Uncharger",
+  "container.energizedpower.uncharger": "Uncharger",
+
+  "tooltip.energizedpower.uncharger.item_energy_left.txt": "This item has %s left.",
+
+  "block.energizedpower.advanced_uncharger": "Advanced Uncharger",
+  "item.energizedpower.advanced_uncharger": "Advanced Uncharger",
+  "container.energizedpower.advanced_uncharger": "Advanced Uncharger",
+
+  "tooltip.energizedpower.advanced_uncharger.items_energy_left.txt": "These items have %s left.",
+
+  "block.energizedpower.minecart_charger": "Minecart Charger",
+  "item.energizedpower.minecart_charger": "Minecart Charger",
+  "container.energizedpower.minecart_charger": "Minecart Charger",
+
+  "block.energizedpower.advanced_minecart_charger": "Advanced Minecart Charger",
+  "item.energizedpower.advanced_minecart_charger": "Advanced Minecart Charger",
+  "container.energizedpower.advanced_minecart_charger": "Advanced Minecart Charger",
+
+  "block.energizedpower.minecart_uncharger": "Minecart Uncharger",
+  "item.energizedpower.minecart_uncharger": "Minecart Uncharger",
+  "container.energizedpower.minecart_uncharger": "Minecart Uncharger",
+
+  "block.energizedpower.advanced_minecart_uncharger": "Advanced Minecart Uncharger",
+  "item.energizedpower.advanced_minecart_uncharger": "Advanced Minecart Uncharger",
+  "container.energizedpower.advanced_minecart_uncharger": "Advanced Minecart Uncharger",
+
+  "block.energizedpower.tin_cable": "Tin Cable",
+  "item.energizedpower.tin_cable": "Tin Cable",
+
+  "block.energizedpower.copper_cable": "Copper Cable",
+  "item.energizedpower.copper_cable": "Copper Cable",
+
+  "block.energizedpower.gold_cable": "Golden Cable",
+  "item.energizedpower.gold_cable": "Golden Cable",
+
+  "block.energizedpower.energized_copper_cable": "Energized Copper Cable",
+  "item.energizedpower.energized_copper_cable": "Energized Copper Cable",
+
+  "block.energizedpower.energized_gold_cable": "Energized Golden Cable",
+  "item.energizedpower.energized_gold_cable": "Energized Golden Cable",
+
+  "block.energizedpower.energized_crystal_matrix_cable": "Energized Crystal Matrix Cable",
+  "item.energizedpower.energized_crystal_matrix_cable": "Energized Crystal Matrix Cable",
+
+  "tooltip.energizedpower.cable.txt.shift.1": "This cable can transfer %s/t.",
+  "tooltip.energizedpower.cable.txt.shift.2": "Cutters can be used to break cables faster.",
+
+
+  "block.energizedpower.lv_transformer_1_to_n": "LV Transformer (1 to n)",
+  "item.energizedpower.lv_transformer_1_to_n": "LV Transformer (1 to n)",
+
+  "block.energizedpower.lv_transformer_3_to_3": "LV Transformer (3 to 3)",
+  "item.energizedpower.lv_transformer_3_to_3": "LV Transformer (3 to 3)",
+
+  "block.energizedpower.lv_transformer_n_to_1": "LV Transformer (n to 1)",
+  "item.energizedpower.lv_transformer_n_to_1": "LV Transformer (n to 1)",
+
+  "block.energizedpower.transformer_1_to_n": "MV Transformer (1 to n)",
+  "item.energizedpower.transformer_1_to_n": "MV Transformer (1 to n)",
+
+  "block.energizedpower.transformer_3_to_3": "MV Transformer (3 to 3)",
+  "item.energizedpower.transformer_3_to_3": "MV Transformer (3 to 3)",
+
+  "block.energizedpower.transformer_n_to_1": "MV Transformer (n to 1)",
+  "item.energizedpower.transformer_n_to_1": "MV Transformer (n to 1)",
+
+  "block.energizedpower.hv_transformer_1_to_n": "HV Transformer (1 to n)",
+  "item.energizedpower.hv_transformer_1_to_n": "HV Transformer (1 to n)",
+
+  "block.energizedpower.hv_transformer_3_to_3": "HV Transformer (3 to 3)",
+  "item.energizedpower.hv_transformer_3_to_3": "HV Transformer (3 to 3)",
+
+  "block.energizedpower.hv_transformer_n_to_1": "HV Transformer (n to 1)",
+  "item.energizedpower.hv_transformer_n_to_1": "HV Transformer (n to 1)",
+
+  "block.energizedpower.ehv_transformer_1_to_n": "EHV Transformer (1 to n)",
+  "item.energizedpower.ehv_transformer_1_to_n": "EHV Transformer (1 to n)",
+
+  "block.energizedpower.ehv_transformer_3_to_3": "EHV Transformer (3 to 3)",
+  "item.energizedpower.ehv_transformer_3_to_3": "EHV Transformer (3 to 3)",
+
+  "block.energizedpower.ehv_transformer_n_to_1": "EHV Transformer (n to 1)",
+  "item.energizedpower.ehv_transformer_n_to_1": "EHV Transformer (n to 1)",
+
+  "tooltip.energizedpower.transformer.txt.shift.1": "This block can be used to connect different tiers of cables.",
+  "tooltip.energizedpower.transformer.txt.shift.2": "The larger, darker, diamond shaped sides are inputs.",
+  "tooltip.energizedpower.transformer.txt.shift.3": "The smaller, brighter, square shaped sides are outputs.",
+
+  "block.energizedpower.battery_box": "Battery Box",
+  "item.energizedpower.battery_box": "Battery Box",
+  "container.energizedpower.battery_box": "Battery Box",
+
+  "block.energizedpower.advanced_battery_box": "Advanced Battery Box",
+  "item.energizedpower.advanced_battery_box": "Advanced Battery Box",
+  "container.energizedpower.advanced_battery_box": "Advanced Battery Box",
+
+  "block.energizedpower.creative_battery_box": "Creative Battery Box",
+  "item.energizedpower.creative_battery_box": "Creative Battery Box",
+  "container.energizedpower.creative_battery_box": "Creative Battery Box",
+
+  "tooltip.energizedpower.creative_battery_box.cbx.energy_production": "Energy Production",
+  "tooltip.energizedpower.creative_battery_box.cbx.energy_consumption": "Energy Consumption",
+
+  "block.energizedpower.solar_panel_1": "Solar Panel (Tier I)",
+  "item.energizedpower.solar_panel_1": "Solar Panel (Tier I)",
+  "container.energizedpower.solar_panel_1": "Solar Panel (Tier I)",
+  "block.energizedpower.solar_panel_2": "Solar Panel (Tier II)",
+  "item.energizedpower.solar_panel_2": "Solar Panel (Tier II)",
+  "container.energizedpower.solar_panel_2": "Solar Panel (Tier II)",
+  "block.energizedpower.solar_panel_3": "Solar Panel (Tier III)",
+  "item.energizedpower.solar_panel_3": "Solar Panel (Tier III)",
+  "container.energizedpower.solar_panel_3": "Solar Panel (Tier III)",
+  "block.energizedpower.solar_panel_4": "Solar Panel (Tier IV)",
+  "item.energizedpower.solar_panel_4": "Solar Panel (Tier IV)",
+  "container.energizedpower.solar_panel_4": "Solar Panel (Tier IV)",
+  "block.energizedpower.solar_panel_5": "Solar Panel (Tier V)",
+  "item.energizedpower.solar_panel_5": "Solar Panel (Tier V)",
+  "container.energizedpower.solar_panel_5": "Solar Panel (Tier V)",
+  "block.energizedpower.solar_panel_6": "Solar Panel (Tier VI)",
+  "item.energizedpower.solar_panel_6": "Solar Panel (Tier VI)",
+  "container.energizedpower.solar_panel_6": "Solar Panel (Tier VI)",
+
+  "tooltip.energizedpower.solar_panel.txt.shift.1": "This block produces up to %s/t.",
+  "tooltip.energizedpower.solar_panel.txt.shift.2": "The efficiency depends on the current time",
+
+  "block.energizedpower.coal_engine": "Coal Engine",
+  "item.energizedpower.coal_engine": "Coal Engine",
+  "container.energizedpower.coal_engine": "Coal Engine",
+
+  "tooltip.energizedpower.coal_engine.txt": "This items will produce %s until burned",
+
+  "block.energizedpower.heat_generator": "Heat Generator",
+  "item.energizedpower.heat_generator": "Heat Generator",
+  "container.energizedpower.heat_generator": "Heat Generator",
+
+  "block.energizedpower.thermal_generator": "Thermal Generator",
+  "item.energizedpower.thermal_generator": "Thermal Generator",
+  "container.energizedpower.thermal_generator": "Thermal Generator",
+
+  "tooltip.energizedpower.thermal_generator.txt": "This fluid will produce %s until completely used up",
+
+  "block.energizedpower.powered_lamp": "Powered Lamp",
+  "item.energizedpower.powered_lamp": "Powered Lamp",
+
+  "block.energizedpower.powered_furnace": "Powered Furnace",
+  "item.energizedpower.powered_furnace": "Powered Furnace",
+  "container.energizedpower.powered_furnace": "Powered Furnace",
+
+  "block.energizedpower.advanced_powered_furnace": "Advanced Powered Furnace",
+  "item.energizedpower.advanced_powered_furnace": "Advanced Powered Furnace",
+  "container.energizedpower.advanced_powered_furnace": "Advanced Powered Furnace",
+
+  "tooltip.energizedpower.advanced_powered_furnace.energy_required_to_finish.txt": "These recipes require %s to finish.",
+
+  "block.energizedpower.crusher": "Crusher",
+  "item.energizedpower.crusher": "Crusher",
+  "container.energizedpower.crusher": "Crusher",
+
+  "block.energizedpower.advanced_crusher": "Advanced Crusher",
+  "item.energizedpower.advanced_crusher": "Advanced Crusher",
+  "container.energizedpower.advanced_crusher": "Advanced Crusher",
+
+  "tooltip.energizedpower.advanced_crusher.txt.shift.1": "This machine consumes Water and produces Dirty Water.",
+
+  "block.energizedpower.pulverizer": "Pulverizer",
+  "item.energizedpower.pulverizer": "Pulverizer",
+  "container.energizedpower.pulverizer": "Pulverizer",
+
+  "block.energizedpower.advanced_pulverizer": "Advanced Pulverizer",
+  "item.energizedpower.advanced_pulverizer": "Advanced Pulverizer",
+  "container.energizedpower.advanced_pulverizer": "Advanced Pulverizer",
+
+  "tooltip.energizedpower.advanced_pulverizer.txt.shift.1": "This machine consumes Water and produces Dirty Water.",
+
+  "block.energizedpower.sawmill": "Sawmill",
+  "item.energizedpower.sawmill": "Sawmill",
+  "container.energizedpower.sawmill": "Sawmill",
+
+  "block.energizedpower.compressor": "Compressor",
+  "item.energizedpower.compressor": "Compressor",
+  "container.energizedpower.compressor": "Compressor",
+
+  "block.energizedpower.metal_press": "Metal Press",
+  "item.energizedpower.metal_press": "Metal Press",
+  "container.energizedpower.metal_press": "Metal Press",
+
+  "tooltip.energizedpower.metal_press.txt.shift.1": "Press Molds can be created in the Press Mold Maker.",
+
+  "block.energizedpower.assembling_machine": "Assembling Machine",
+  "item.energizedpower.assembling_machine": "Assembling Machine",
+  "container.energizedpower.assembling_machine": "Assembling Machine",
+
+  "block.energizedpower.plant_growth_chamber": "Plant Growth Chamber",
+  "item.energizedpower.plant_growth_chamber": "Plant Growth Chamber",
+  "container.energizedpower.plant_growth_chamber": "Plant Growth Chamber",
+
+  "block.energizedpower.stone_solidifier": "Stone Solidifier",
+  "item.energizedpower.stone_solidifier": "Stone Solidifier",
+  "container.energizedpower.stone_solidifier": "Stone Solidifier",
+
+  "tooltip.energizedpower.stone_solidifier.btn.up": "Next recipe",
+  "tooltip.energizedpower.stone_solidifier.btn.down": "Previous recipe",
+
+  "block.energizedpower.filtration_plant": "Filtration Plant",
+  "item.energizedpower.filtration_plant": "Filtration Plant",
+  "container.energizedpower.filtration_plant": "Filtration Plant",
+
+  "tooltip.energizedpower.filtration_plant.txt.shift.1": "This block requires Charcoal Filters.",
+  "tooltip.energizedpower.filtration_plant.btn.up": "Next recipe",
+  "tooltip.energizedpower.filtration_plant.btn.down": "Previous recipe",
+  "tooltip.energizedpower.filtration_plant.charcoal_filter_missing": "Charcoal Filter is missing!",
+
+  "block.energizedpower.block_placer": "Block Placer",
+  "item.energizedpower.block_placer": "Block Placer",
+  "container.energizedpower.block_placer": "Block Placer",
+
+  "tooltip.energizedpower.block_placer.block_energy_left.txt": "This block still needs %s to be placed.",
+  "tooltip.energizedpower.block_placer.cbx.inverse_rotation": "Inverse Rotation",
+
+  "block.energizedpower.fluid_tank_small": "Fluid Tank (Small)",
+  "item.energizedpower.fluid_tank_small": "Fluid Tank (Small)",
+  "container.energizedpower.fluid_tank_small": "Fluid Tank (Small)",
+
+  "block.energizedpower.fluid_tank_medium": "Fluid Tank (Medium)",
+  "item.energizedpower.fluid_tank_medium": "Fluid Tank (Medium)",
+  "container.energizedpower.fluid_tank_medium": "Fluid Tank (Medium)",
+
+  "block.energizedpower.fluid_tank_large": "Fluid Tank (Large)",
+  "item.energizedpower.fluid_tank_large": "Fluid Tank (Large)",
+  "container.energizedpower.fluid_tank_large": "Fluid Tank (Large)",
+
+  "tooltip.energizedpower.fluid_tanks.cbx.ignore_nbt": "Ignore NBT",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.no_filter_set": "No filter set",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.filter_set": "Filter: %s",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.txt.1": "Set the filter by left-clicking with an item which contains fluids.",
+  "tooltip.energizedpower.fluid_tanks.fluid_filter.txt.2": "Unset the filter by left-clicking without an item.",
+
+  "block.energizedpower.fluid_filler": "Fluid Filler",
+  "item.energizedpower.fluid_filler": "Fluid Filler",
+  "container.energizedpower.fluid_filler": "Fluid Filler",
+
+  "block.energizedpower.fluid_drainer": "Fluid Drainer",
+  "item.energizedpower.fluid_drainer": "Fluid Drainer",
+  "container.energizedpower.fluid_drainer": "Fluid Drainer",
+
+  "block.energizedpower.drain": "Drain",
+  "item.energizedpower.drain": "Drain",
+  "container.energizedpower.drain": "Drain",
+
+  "tooltip.energizedpower.drain.txt.shift": "The Drain drains fluid source blocks above the block.",
+
+  "block.energizedpower.lightning_generator": "Lightning Generator",
+  "item.energizedpower.lightning_generator": "Lightning Generator",
+  "container.energizedpower.lightning_generator": "Lightning Generator",
+
+  "tooltip.energizedpower.lightning_generator.txt.shift.1": "This block produces %s per lightning strike.",
+  "tooltip.energizedpower.lightning_generator.txt.shift.2": "A lightning rod block must be place above this block for it to function",
+
+  "block.energizedpower.energizer": "Energizer",
+  "item.energizedpower.energizer": "Energizer",
+  "container.energizedpower.energizer": "Energizer",
+
+  "block.energizedpower.charging_station": "Charging Station",
+  "item.energizedpower.charging_station": "Charging Station",
+  "container.energizedpower.charging_station": "Charging Station",
+
+  "tooltip.energizedpower.charging_station.txt.shift.1": "The charging station can be used to charge items inside a player inventory.",
+
+  "block.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
+  "item.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
+  "container.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
+
+  "block.energizedpower.weather_controller": "Weather Controller",
+  "item.energizedpower.weather_controller": "Weather Controller",
+  "container.energizedpower.weather_controller": "Weather Controller",
+
+  "tooltip.energizedpower.weather_controller.btn.clear": "Set weather to clear",
+  "tooltip.energizedpower.weather_controller.btn.rain": "Set weather to rain",
+  "tooltip.energizedpower.weather_controller.btn.thunder": "Set weather to thunder",
+
+  "block.energizedpower.time_controller": "Time Controller",
+  "item.energizedpower.time_controller": "Time Controller",
+  "container.energizedpower.time_controller": "Time Controller",
+
+  "tooltip.energizedpower.time_controller.btn.day": "Set time to day",
+  "tooltip.energizedpower.time_controller.btn.noon": "Set time to noon",
+  "tooltip.energizedpower.time_controller.btn.night": "Set time to night",
+  "tooltip.energizedpower.time_controller.btn.midnight": "Set time to midnight",
+
+  "block.energizedpower.teleporter": "Teleporter",
+  "item.energizedpower.teleporter": "Teleporter",
+  "container.energizedpower.teleporter": "Teleporter",
+
+  "tooltip.energizedpower.teleporter.txt.shift.1": "Press [%s] while above the Teleporter to teleport.",
+  "tooltip.energizedpower.teleporter.txt.shift.2": "Teleporteration of players can also be triggered with redstone.",
+
+  "tooltip.energizedpower.teleporter.use.not_enough_energy": "Not enough energy!",
+  "tooltip.energizedpower.teleporter.use.no_teleporter_matrix": "No Teleporter Matrix present!",
+  "tooltip.energizedpower.teleporter.use.teleporter_matrix_not_bound": "Teleporter Matrix is not bound!",
+  "tooltip.energizedpower.teleporter.use.teleporter_matrix_invalid_position": "Teleporter Matrix contains an invalid position!",
+  "tooltip.energizedpower.teleporter.use.teleporter_matrix_invalid_dimension": "Teleporter Matrix contains an invalid dimension!",
+  "tooltip.energizedpower.teleporter.use.teleporter_self_position": "Teleporation to the Teleporter itself is not possible!",
+  "tooltip.energizedpower.teleporter.use.teleporter_matrix_no_teleporter": "No Teleporter found at Teleporter Matrix coordinates!",
+  "tooltip.energizedpower.teleporter.use.intra_dimensional_disabled": "Intra dimensional teleportation is disabled",
+  "tooltip.energizedpower.teleporter.use.inter_dimensional_disabled": "Inter dimensional teleportation is disabled",
+  "tooltip.energizedpower.teleporter.use.blacklist.dimension": "Teleportation for the dimension \"%s\" is disabled!",
+  "tooltip.energizedpower.teleporter.use.blacklist.intra_dimensional": "Teleportation within the dimension \"%s\" is disabled!",
+  "tooltip.energizedpower.teleporter.use.blacklist.inter_dimensional_from": "Teleportation from the dimension \"%s\" is disabled!",
+  "tooltip.energizedpower.teleporter.use.blacklist.inter_dimensional_to": "Teleportation to the dimension \"%s\" is disabled!",
+  "tooltip.energizedpower.teleporter.use.blacklist.dimension_type": "Teleportation for a dimension of dimension type \"%s\" is disabled!",
+  "tooltip.energizedpower.teleporter.use.blacklist.intra_dimensional_type": "Teleportation within a dimension of dimension type \"%s\" is disabled!",
+  "tooltip.energizedpower.teleporter.use.blacklist.inter_dimensional_from_type": "Teleportation from a dimension of dimension type \"%s\" is disabled!",
+  "tooltip.energizedpower.teleporter.use.blacklist.inter_dimensional_to_type": "Teleportation to a dimension of dimension type \"%s\" is disabled!",
+
+  "block.energizedpower.basic_machine_frame": "Basic Machine Frame",
+  "item.energizedpower.basic_machine_frame": "Basic Machine Frame",
+
+  "block.energizedpower.hardened_machine_frame": "Hardened Machine Frame",
+  "item.energizedpower.hardened_machine_frame": "Hardened Machine Frame",
+
+  "block.energizedpower.advanced_machine_frame": "Advanced Machine Frame",
+  "item.energizedpower.advanced_machine_frame": "Advanced Machine Frame",
+
+  "block.energizedpower.reinforced_advanced_machine_frame": "Reinforced Advanced Machine Frame",
+  "item.energizedpower.reinforced_advanced_machine_frame": "Reinforced Advanced Machine Frame",
+
+  "fluid_type.energizedpower.dirty_water": "Dirty Water",
+
+  "tooltip.energizedpower.count_with_item.txt": "%dx %s",
+
+  "tooltip.energizedpower.energy_meter.content.txt": "%s / %s",
+  "tooltip.energizedpower.fluid_meter.content_amount.txt": "%s / %s",
+  "tooltip.energizedpower.recipe.energy_required_to_finish.txt": "This recipe requires %s to finish.",
+  "tooltip.energizedpower.shift_details.txt": "Press [SHIFT] for details",
+  "tooltip.energizedpower.capacity.txt": "Capacity: %s",
+  "tooltip.energizedpower.transfer_rate.txt": "Transfer rate: %s/t",
+  "tooltip.energizedpower.tank_capacity.txt": "Tank Capacity: %s",
+  "tooltip.energizedpower.not_enough_energy.txt": "Not enough energy",
+  "tooltip.energizedpower.ready.txt": "Ready",
+  "tooltip.energizedpower.infinite.txt": "Infinite",
+
+  "tooltip.energizedpower.direction.down": "Down",
+  "tooltip.energizedpower.direction.up": "Up",
+  "tooltip.energizedpower.direction.north": "North",
+  "tooltip.energizedpower.direction.south": "South",
+  "tooltip.energizedpower.direction.west": "West",
+  "tooltip.energizedpower.direction.east": "East",
+
+  "block_state.energizedpower.pipe_connection.not_connected": "Not connected",
+  "block_state.energizedpower.pipe_connection.connected": "Connected/Insertion",
+  "block_state.energizedpower.pipe_connection.extract": "Extraction",
+
+  "tooltip.energizedpower.conveyor_belt_direction.slope.flat": "Flat",
+  "tooltip.energizedpower.conveyor_belt_direction.slope.ascending": "Ascending",
+  "tooltip.energizedpower.conveyor_belt_direction.slope.descending": "Descending",
+
+  "tooltip.energizedpower.machine_configuration.redstone_mode.ignore": "Redstone Mode: Ignore",
+  "tooltip.energizedpower.machine_configuration.redstone_mode.high": "Redstone Mode: High",
+  "tooltip.energizedpower.machine_configuration.redstone_mode.low": "Redstone Mode: Low",
+
+  "tooltip.energizedpower.machine_configuration.comparator_mode.item": "Comparator Mode: Item",
+  "tooltip.energizedpower.machine_configuration.comparator_mode.fluid": "Comparator Mode: Fluid",
+  "tooltip.energizedpower.machine_configuration.comparator_mode.energy": "Comparator Mode: Energy",
+
+  "itemGroup.energizedpower.tab": "Energized Power",
+
+  "entity.minecraft.villager.electrician": "Electrician",
+
+  "entity.energizedpower.battery_box_minecart": "Battery Box Minecart",
+  "entity.energizedpower.advanced_battery_box_minecart": "Advanced Battery Box Minecart",
+
+  "recipes.energizedpower.in_world_crafting": "In-World Crafting",
+  "recipes.energizedpower.info.ticks": "Ticks: %d",
+  "recipes.energizedpower.plant_growth_chamber_fertilizer": "Growth Chamber (Fertilizer)",
+  "recipes.energizedpower.plant_growth_chamber_fertilizer.speed_multiplier": "%.2fx Speed",
+  "recipes.energizedpower.plant_growth_chamber_fertilizer.energy_consumption_multiplier": "%.2fx Energy Consumption",
+  "recipes.energizedpower.transfer.too_large": "This recipe is to large for this container!",
+  "recipes.energizedpower.transfer.output_percentages": "Percentage per item:",
+
+  "emi.category.energizedpower.charger": "Charger",
+  "emi.category.energizedpower.crusher": "Crusher",
+  "emi.category.energizedpower.pulverizer": "Pulverizer",
+  "emi.category.energizedpower.advanced_pulverizer": "Advanced Pulverizer",
+  "emi.category.energizedpower.sawmill": "Sawmill",
+  "emi.category.energizedpower.compressor": "Compressor",
+  "emi.category.energizedpower.metal_press": "Metal Press",
+  "emi.category.energizedpower.assembling_machine": "Assembling Machine",
+  "emi.category.energizedpower.plant_growth_chamber": "Plant Growth Chamber",
+  "emi.category.energizedpower.plant_growth_chamber_fertilizer": "Growth Chamber (Fertilizer)",
+  "emi.category.energizedpower.energizer": "Energizer",
+  "emi.category.energizedpower.crystal_growth_chamber": "Crystal Growth Chamber",
+  "emi.category.energizedpower.press_mold_maker": "Press Mold Maker",
+  "emi.category.energizedpower.stone_solidifier": "Stone Solidifier",
+  "emi.category.energizedpower.filtration_plant": "Filtration Plant",
+  "emi.category.energizedpower.dispenser": "Dispenser",
+  "emi.category.energizedpower.in_world_crafting": "In-World Crafting",
+
+
+  "painting.energizedpower.gear.title": "Gear",
+  "painting.energizedpower.gear.author": "JDDev0",
+
+  "painting.energizedpower.factory.title": "Factory",
+  "painting.energizedpower.factory.author": "JDDev0",
+
+  "key.category.energizedpower": "Energized Power",
+  "key.energizedpower.teleporter.use": "Use Teleporter",
+
+
+  "advancements.energizedpower.hardened_machine_frame.title": "Hardened Machines",
+  "advancements.energizedpower.hardened_machine_frame.description": "Required for better machines.",
+
+  "advancements.energizedpower.advanced_machine_frame.title": "Advanced Machines",
+  "advancements.energizedpower.advanced_machine_frame.description": "More advanced machines need this base crafting item.",
+
+  "advancements.energizedpower.reinforced_advanced_machine_frame.title": "Even more advanced Machines",
+  "advancements.energizedpower.reinforced_advanced_machine_frame.description": "The most advanced machines need this base crafting item.",
+
+  "advancements.energizedpower.advanced_solar_cell.title": "Advanced Solar Power",
+  "advancements.energizedpower.advanced_solar_cell.description": "Required for advanced solar panels...",
+
+  "advancements.energizedpower.reinforced_advanced_solar_cell.title": "Even better solar energy",
+  "advancements.energizedpower.reinforced_advanced_solar_cell.description": "Required for the best solar panels...",
+
+  "advancements.energizedpower.basic_circuit.title": "Basic Circuit",
+  "advancements.energizedpower.basic_circuit.description": "Craft a Basic Circuit.",
+
+  "advancements.energizedpower.advanced_circuit.title": "Advanced Circuit",
+  "advancements.energizedpower.advanced_circuit.description": "Craft an Advanced Circuit.",
+
+  "advancements.energizedpower.processing_unit.title": "Processing Unit",
+  "advancements.energizedpower.processing_unit.description": "Craft a Processing Unit.",
+
+  "advancements.energizedpower.press_mold_maker.title": "Press Mold Maker",
+  "advancements.energizedpower.press_mold_maker.description": "Use this block to make press molds for the Metal Press.",
+
+  "advancements.energizedpower.raw_press_molds.title": "Raw Press Mold",
+  "advancements.energizedpower.raw_press_molds.description": "Use Clay Balls to make a Raw Press Mold. (Don't forget to cook it...)",
+
+  "advancements.energizedpower.press_molds.title": "Press Mold",
+  "advancements.energizedpower.press_molds.description": "Cooked Press Molds can be used in the Metal Press.",
+
+  "advancements.energizedpower.auto_crafter.title": "Automation is the future",
+  "advancements.energizedpower.auto_crafter.description": "Who needs manual crafting tables when this block can do it automatically?",
+
+  "advancements.energizedpower.advanced_auto_crafter.title": "Power crafting",
+  "advancements.energizedpower.advanced_auto_crafter.description": "Craft multiple recipes with the same block.",
+
+  "advancements.energizedpower.crusher.title": "Crush it",
+  "advancements.energizedpower.crusher.description": "Crush Stone, Sandstone, Cobblestone, Gravel, or other blocks.",
+
+  "advancements.energizedpower.pulverizer.title": "Pulverization",
+  "advancements.energizedpower.pulverizer.description": "Pulverize ores to boost production.",
+
+  "advancements.energizedpower.charcoal_filter.title": "Charcoal Filter",
+  "advancements.energizedpower.charcoal_filter.description": "Craft a charcoal filter.",
+
+  "advancements.energizedpower.sawmill.title": "Sawing",
+  "advancements.energizedpower.sawmill.description": "Saws wood.",
+
+  "advancements.energizedpower.compressor.title": "Compressing",
+  "advancements.energizedpower.compressor.description": "Creates plates.",
+
+  "advancements.energizedpower.metal_press.title": "Metal Press",
+  "advancements.energizedpower.metal_press.description": "Form metals.",
+
+  "advancements.energizedpower.assembling_machine.title": "Assembling Machine",
+  "advancements.energizedpower.assembling_machine.description": "Craft electronic components in the Assembling Machine.",
+
+  "advancements.energizedpower.plant_growth_chamber.title": "Faster Plant Growth",
+  "advancements.energizedpower.plant_growth_chamber.description": "Improve the speed and the yields with the Plant Growth Chamber.",
+
+  "advancements.energizedpower.stone_solidifier.title": "Stone Solidifier",
+  "advancements.energizedpower.stone_solidifier.description": "Create stone blocks from Water and Lava.",
+
+  "advancements.energizedpower.block_placer.title": "Place the block",
+  "advancements.energizedpower.block_placer.description": "Blocks are placed automatically in the world.",
+
+  "advancements.energizedpower.fluid_filler.title": "Fill the fluid item",
+  "advancements.energizedpower.fluid_filler.description": "Fill items with fluids.",
+
+  "advancements.energizedpower.fluid_drainer.title": "Drain the fluid item",
+  "advancements.energizedpower.fluid_drainer.description": "Drain fluids from items.",
+
+  "advancements.energizedpower.drain.title": "The Drain",
+  "advancements.energizedpower.drain.description": "Drain fluids source blocks.",
+
+  "advancements.energizedpower.basic_machine_frame.title": "The Foundation of Machines",
+  "advancements.energizedpower.basic_machine_frame.description": "This is the base crafting item for every basic machine.",
+
+  "advancements.energizedpower.basic_solar_cell.title": "Solar Power Basics",
+  "advancements.energizedpower.basic_solar_cell.description": "Your first solar cell of two required for your first solar panel.",
+
+  "advancements.energizedpower.battery_1.title": "Batteries",
+  "advancements.energizedpower.battery_1.description": "Stores energy in item form.",
+
+  "advancements.energizedpower.battery_2.title": "Energy x4",
+  "advancements.energizedpower.battery_2.description": "This battery can store as much energy as 4 Tier I batteries.",
+
+  "advancements.energizedpower.battery_3.title": "More Energy",
+  "advancements.energizedpower.battery_3.description": "Tier III: Twice the power of Tier II",
+
+  "advancements.energizedpower.battery_4.title": "You ask for even more Energy",
+  "advancements.energizedpower.battery_4.description": "Well this is Tier IV - only four to go",
+
+  "advancements.energizedpower.battery_5.title": "The best normal copper can do",
+  "advancements.energizedpower.battery_5.description": "Tier V: You will need to energize the next battery tier...",
+
+  "advancements.energizedpower.battery_6.title": "Energized Batteries",
+  "advancements.energizedpower.battery_6.description": "Tier VI: You have energized your battery for even more storage capacity.",
+
+  "advancements.energizedpower.battery_7.title": "You said you need more Power?",
+  "advancements.energizedpower.battery_7.description": "Tier VII: A quarter million E of storage capacity! Can we do better?",
+
+  "advancements.energizedpower.battery_8.title": "I need more POWER",
+  "advancements.energizedpower.battery_8.description": "This is the best battery of this mod (It can store more than 1 million E)",
+
+  "advancements.energizedpower.battery_8_fully_charged.title": "Master of Energy Storage",
+  "advancements.energizedpower.battery_8_fully_charged.description": "You have fully charged your 1 million E battery!",
+
+  "advancements.energizedpower.cable_insulator.title": "The Jacket for your Cable",
+  "advancements.energizedpower.cable_insulator.description": "Cover your cables with this ingredient. (Can be crafted by clicking on wool with shears [Dispenser can be used too])",
+
+  "advancements.energizedpower.charger.title": "Charge it",
+  "advancements.energizedpower.charger.description": "Charge your energy items with this block.",
+
+  "advancements.energizedpower.inventory_charger.title": "Local charging",
+  "advancements.energizedpower.inventory_charger.description": "Charge energy items in your inventory with batteries.",
+
+  "advancements.energizedpower.advanced_charger.title": "Parallel charging",
+  "advancements.energizedpower.advanced_charger.description": "Charge energy items in parallel.",
+
+  "advancements.energizedpower.advanced_uncharger.title": "Parallel uncharging",
+  "advancements.energizedpower.advanced_uncharger.description": "Uncharge energy items in parallel.",
+
+  "advancements.energizedpower.charging_station.title": "Wireless charging",
+  "advancements.energizedpower.charging_station.description": "Charge energy items wirelessly.",
+
+  "advancements.energizedpower.crystal_growth_chamber.title": "Crystal growth",
+  "advancements.energizedpower.crystal_growth_chamber.description": "Grow crystals in the Crystal Growth Chamber.",
+
+  "advancements.energizedpower.energized_crystal_matrix.title": "Energized Crystal Matrix",
+  "advancements.energizedpower.energized_crystal_matrix.description": "Used as a stabilizer in some advanced machines.",
+
+  "advancements.energizedpower.teleporter_matrix.title": "Teleporter Matrix",
+  "advancements.energizedpower.teleporter_matrix.description": "The first step to achieve teleportation.",
+
+  "advancements.energizedpower.teleporter_processing_unit.title": "Teleporter Processing Unit",
+  "advancements.energizedpower.teleporter_processing_unit.description": "The brain of Teleporters.",
+
+  "advancements.energizedpower.teleporter.title": "Faster than light",
+  "advancements.energizedpower.teleporter.description": "Craft a Teleporter.",
+
+  "advancements.energizedpower.weather_controller.title": "Control the weather",
+  "advancements.energizedpower.weather_controller.description": "Change the weather with the Weather Controller.",
+
+  "advancements.energizedpower.time_controller.title": "Control the time",
+  "advancements.energizedpower.time_controller.description": "Change the time with the Time Controller.",
+
+  "advancements.energizedpower.coal_engine.title": "Powered by Coal",
+  "advancements.energizedpower.coal_engine.description": "Producing energy by burning stuff might not be the most efficient but good enough for the moment.",
+
+  "advancements.energizedpower.heat_generator.title": "Powered by Heat",
+  "advancements.energizedpower.heat_generator.description": "Convert heat to energy.",
+
+  "advancements.energizedpower.thermal_generator.title": "Powered by hot liquids",
+  "advancements.energizedpower.thermal_generator.description": "Consume hot liquids to generate energy.",
+
+  "advancements.energizedpower.filtration_plant.title": "Fluid filtration",
+  "advancements.energizedpower.filtration_plant.description": "Craft a Filtration Plant.",
+
+  "advancements.energizedpower.powered_lamp.title": "Electric lights",
+  "advancements.energizedpower.powered_lamp.description": "Convert power to light.",
+
+  "advancements.energizedpower.powered_furnace.title": "Powered Furnace",
+  "advancements.energizedpower.powered_furnace.description": "Furnace with power.",
+
+  "advancements.energizedpower.advanced_powered_furnace.title": "Fast smelting",
+  "advancements.energizedpower.advanced_powered_furnace.description": "Smelt multiple items at once with power.",
+
+  "advancements.energizedpower.item_conveyor_belt.title": "Item Transport",
+  "advancements.energizedpower.item_conveyor_belt.description": "Transport items with item conveyor belts.",
+
+  "advancements.energizedpower.item_conveyor_belt_loader.title": "Item Loader",
+  "advancements.energizedpower.item_conveyor_belt_loader.description": "Load Items on an item conveyor belt.",
+
+  "advancements.energizedpower.item_conveyor_belt_sorter.title": "Automatic Sorting",
+  "advancements.energizedpower.item_conveyor_belt_sorter.description": "Sort Items with the Item Conveyor Belt Sorter.",
+
+  "advancements.energizedpower.item_conveyor_belt_switch.title": "Conveyor Belt Switch",
+  "advancements.energizedpower.item_conveyor_belt_switch.description": "Select a direction.",
+
+  "advancements.energizedpower.item_conveyor_belt_splitter.title": "Conveyor Belt Splitter",
+  "advancements.energizedpower.item_conveyor_belt_splitter.description": "Distribute items evenly to multiple outputs.",
+
+  "advancements.energizedpower.item_conveyor_belt_merger.title": "Conveyor Belt Merger",
+  "advancements.energizedpower.item_conveyor_belt_merger.description": "Merge items evenly from multiple inputs.",
+
+  "advancements.energizedpower.iron_fluid_pipe.title": "Fluid Transport",
+  "advancements.energizedpower.iron_fluid_pipe.description": "Transport fluids with iron fluid pipes.",
+
+  "advancements.energizedpower.golden_fluid_pipe.title": "Fast Fluid Transport",
+  "advancements.energizedpower.golden_fluid_pipe.description": "Transport fluids faster with golden fluid pipes.",
+
+  "advancements.energizedpower.fluid_tank_small.title": "Simple Fluid Storage",
+  "advancements.energizedpower.fluid_tank_small.description": "Store fluids in a small Fluid Tank.",
+
+  "advancements.energizedpower.fluid_tank_medium.title": "Better Fluid Storage",
+  "advancements.energizedpower.fluid_tank_medium.description": "Store fluids in a medium Fluid Tank.",
+
+  "advancements.energizedpower.fluid_tank_large.title": "Large Fluid Storage",
+  "advancements.energizedpower.fluid_tank_large.description": "Store fluids in a large Fluid Tank.",
+
+  "advancements.energizedpower.tin_cable.title": "Basic Energy Transport",
+  "advancements.energizedpower.tin_cable.description": "Transport low amounts of energy with a Tin Cable.",
+
+  "advancements.energizedpower.copper_cable.title": "Energy Transport",
+  "advancements.energizedpower.copper_cable.description": "Transport energy with cables.",
+
+  "advancements.energizedpower.gold_cable.title": "The more power, the better",
+  "advancements.energizedpower.gold_cable.description": "More power with a better cable.",
+
+  "advancements.energizedpower.energized_copper_cable.title": "Too much Power to handle",
+  "advancements.energizedpower.energized_copper_cable.description": "Cable with very high Power throughput!",
+
+  "advancements.energizedpower.energized_gold_cable.title": "Power, power, power",
+  "advancements.energizedpower.energized_gold_cable.description": "This cable is the best of the best.",
+
+  "advancements.energizedpower.energized_crystal_matrix_cable.title": "Too much power",
+  "advancements.energizedpower.energized_crystal_matrix_cable.description": "When do I even need to transport that much energy?",
+
+  "advancements.energizedpower.lv_transformers.title": "LV Transformers",
+  "advancements.energizedpower.lv_transformers.description": "Can connect different tiers of cables.",
+
+  "advancements.energizedpower.mv_transformers.title": "MV Transformers",
+  "advancements.energizedpower.mv_transformers.description": "Can transfer more power.",
+
+  "advancements.energizedpower.hv_transformers.title": "HV Transformers",
+  "advancements.energizedpower.hv_transformers.description": "Can transfer even more power.",
+
+  "advancements.energizedpower.ehv_transformers.title": "EHV Transformers",
+  "advancements.energizedpower.ehv_transformers.description": "Can transfer more than 2 million E per tick.",
+
+  "advancements.energizedpower.battery_box.title": "Battery Box",
+  "advancements.energizedpower.battery_box.description": "Store energy with the Battery Box block.",
+
+  "advancements.energizedpower.advanced_battery_box.title": "Better Battery Box",
+  "advancements.energizedpower.advanced_battery_box.description": "Store even more energy than the best battery item.",
+
+  "advancements.energizedpower.energizedpower_advanced.title": "Energized Power (Advanced)",
+  "advancements.energizedpower.energizedpower_advanced.description": "Energized Copper is better Copper.",
+
+  "advancements.energizedpower.energized_gold_ingot.title": "Shiny Ingot",
+  "advancements.energizedpower.energized_gold_ingot.description": "This Energized Gold Ingot is very shiny.",
+
+  "advancements.energizedpower.energized_power_book.title": "Endless Knowledge",
+  "advancements.energizedpower.energized_power_book.description": "A guide book for this mod.",
+
+  "advancements.energizedpower.hammer.title": "A good tool",
+  "advancements.energizedpower.hammer.description": "Hammers can be used to craft plates.",
+
+  "advancements.energizedpower.cutter.title": "Cut, cut, cut",
+  "advancements.energizedpower.cutter.description": "Cutters can be used to craft wires.",
+
+  "advancements.energizedpower.wrench.title": "Wrench configuration",
+  "advancements.energizedpower.wrench.description": "Configure blocks with a wrench.",
+
+  "advancements.energizedpower.battery_box_minecart.title": "Power on Rails",
+  "advancements.energizedpower.battery_box_minecart.description": "Transport energy on rails.",
+
+  "advancements.energizedpower.advanced_battery_box_minecart.title": "Even more power on Rails",
+  "advancements.energizedpower.advanced_battery_box_minecart.description": "Transport even more energy on rails.",
+
+  "advancements.energizedpower.tin_plate.title": "Tin Plate",
+  "advancements.energizedpower.tin_plate.description": "Create a tin plate.",
+
+  "advancements.energizedpower.copper_plate.title": "Copper Plate",
+  "advancements.energizedpower.copper_plate.description": "Create a copper plate.",
+
+  "advancements.energizedpower.iron_plate.title": "Hit it",
+  "advancements.energizedpower.iron_plate.description": "Create an iron plate.",
+
+  "advancements.energizedpower.gold_plate.title": "Gold Plate",
+  "advancements.energizedpower.gold_plate.description": "Create a gold plate.",
+
+  "advancements.energizedpower.tin_wire.title": "Tin Wire",
+  "advancements.energizedpower.tin_wire.description": "Create a tin wire.",
+
+  "advancements.energizedpower.copper_wire.title": "Copper Wire",
+  "advancements.energizedpower.copper_wire.description": "Create a copper wire.",
+
+  "advancements.energizedpower.gold_wire.title": "Gold Wire",
+  "advancements.energizedpower.gold_wire.description": "Create a gold wire.",
+
+  "advancements.energizedpower.energized_copper_plate.title": "Energized Copper Plate",
+  "advancements.energizedpower.energized_copper_plate.description": "Create an energized copper plate.",
+
+  "advancements.energizedpower.energized_gold_plate.title": "Energized Gold Plate",
+  "advancements.energizedpower.energized_gold_plate.description": "Create an energized gold plate.",
+
+  "advancements.energizedpower.energized_copper_wire.title": "Energized Copper Wire",
+  "advancements.energizedpower.energized_copper_wire.description": "Create an energized copper wire.",
+
+  "advancements.energizedpower.energized_gold_wire.title": "Energized Gold Wire",
+  "advancements.energizedpower.energized_gold_wire.description": "Create an energized gold wire.",
+
+  "advancements.energizedpower.energizedpower_basics.title": "Energized Power (Basics)",
+  "advancements.energizedpower.energizedpower_basics.description": "This is the start of your energized power journey.",
+
+  "advancements.energizedpower.energizer.title": "More efficient energizing",
+  "advancements.energizedpower.energizer.description": "This machine can energize your copper ingots much faster and more efficient than the charger.",
+
+  "advancements.energizedpower.advanced_crusher.title": "Faster crusher",
+  "advancements.energizedpower.advanced_crusher.description": "Craft an Advanced Crusher.",
+
+  "advancements.energizedpower.advanced_pulverizer.title": "Faster pulverizer",
+  "advancements.energizedpower.advanced_pulverizer.description": "Craft an Advanced Pulverizer.",
+
+  "advancements.energizedpower.lightning_generator.title": "Cloud power",
+  "advancements.energizedpower.lightning_generator.description": "Enables you to extract energy from lightning bolts.",
+
+  "advancements.energizedpower.energy_analyzer.title": "Master of Analysis",
+  "advancements.energizedpower.energy_analyzer.description": "Analyze every energy block - even if they have no GUI interface!",
+
+  "advancements.energizedpower.fluid_analyzer.title": "Fluid Analysis",
+  "advancements.energizedpower.fluid_analyzer.description": "Analyze blocks which contain fluids!",
+
+  "advancements.energizedpower.inventory_coal_engine.title": "Inventory Power",
+  "advancements.energizedpower.inventory_coal_engine.description": "Produce and distribute energy in your inventory.",
+
+  "advancements.energizedpower.silicon.title": "Silicon",
+  "advancements.energizedpower.silicon.description": "Now you can power-up your factory!",
+
+  "advancements.energizedpower.solar_panel_1.title": "Solar Power Student",
+  "advancements.energizedpower.solar_panel_1.description": "The Tier I solar panel...",
+
+  "advancements.energizedpower.solar_panel_2.title": "Solar Power Intern",
+  "advancements.energizedpower.solar_panel_2.description": "Tier II is better than Tier I",
+
+  "advancements.energizedpower.solar_panel_3.title": "Solar Power Employee",
+  "advancements.energizedpower.solar_panel_3.description": "Tier III - The best of the basic solar panels",
+
+  "advancements.energizedpower.solar_panel_4.title": "Solar Power Manager",
+  "advancements.energizedpower.solar_panel_4.description": "Tier IV: More than basic!",
+
+  "advancements.energizedpower.solar_panel_5.title": "Solar Power Director",
+  "advancements.energizedpower.solar_panel_5.description": "Tier V - Only one tier left!",
+
+  "advancements.energizedpower.solar_panel_6.title": "Solar Power Employer",
+  "advancements.energizedpower.solar_panel_6.description": "Tier VI - You have got the best solar panel!",
+
+  "advancements.energizedpower.uncharger.title": "Give it back!",
+  "advancements.energizedpower.uncharger.description": "Uncharges your energy items.",
+
+  "advancements.energizedpower.minecart_charger.title": "Charge the minecart!",
+  "advancements.energizedpower.minecart_charger.description": "Charges minecarts.",
+
+  "advancements.energizedpower.advanced_minecart_charger.title": "Advanced minecart charging",
+  "advancements.energizedpower.advanced_minecart_charger.description": "Charges minecarts quicker.",
+
+  "advancements.energizedpower.minecart_uncharger.title": "Uncharge the minecart!",
+  "advancements.energizedpower.minecart_uncharger.description": "Uncharges minecarts.",
+
+  "advancements.energizedpower.advanced_minecart_uncharger.title": "Advanced minecart uncharging",
+  "advancements.energizedpower.advanced_minecart_uncharger.description": "Uncharges minecarts quicker.",
+
+
+  "book.energizedpower.tooltip.link": "Open link",
+  "book.energizedpower.tooltip.page": "Go to page",
+
+
+  "book.energizedpower.page.welcome.title": "Welcome to Energized Power!",
+  "book.energizedpower.page.welcome.1": "This mod adds many items and machines related to energy.",
+  "book.energizedpower.page.welcome.2": "Official Energized Power wiki",
+  "book.energizedpower.page.welcome.3": "You have found a bug or want to suggest a feature? Do it here",
+  "book.energizedpower.page.welcome.3.link": "Issues",
+  "book.energizedpower.page.welcome.4": "Discord server",
+  "book.energizedpower.page.welcome.4.link": "Discord",
+  "book.energizedpower.page.welcome.5": "Subreddit",
+  "book.energizedpower.page.welcome.5.link": "Reddit",
+
+  "book.energizedpower.page.credits.title": "Credits",
+  "book.energizedpower.page.credits.subtitle": "Thank you for contributing to Energized Power!",
+
+  "book.energizedpower.page.credits.1": "Energized Copper/Gold Ingot textures",
+  "book.energizedpower.page.credits.2": "Battery textures",
+  "book.energizedpower.page.credits.3": "Silicon texture",
+  "book.energizedpower.page.credits.4": "Energy Analyzer texture",
+  "book.energizedpower.page.credits.5": "Chinese (Simplified) translation",
+  "book.energizedpower.page.credits.6": "Italian translation",
+  "book.energizedpower.page.credits.7": "Turkish translation",
+
+  "book.energizedpower.page.table_of_contents.title": "Table of Contents",
+
+
+  "book.energizedpower.page.chapter.resources.title": "Resources",
+  "book.energizedpower.page.chapter.resources.1": "Resources are required for crafting items.",
+
+  "book.energizedpower.page.cable_insulator.1": "The cable insulator is required for cable crafting recipes.",
+  "book.energizedpower.page.cable_insulator.2": "It can be crafted by clicking on a wool block with shears.",
+  "book.energizedpower.page.cable_insulator.3": "It can also be crafted with a dispenser.",
+
+  "book.energizedpower.page.saw_blade": "The saw blade is an ingredient which is used to craft the sawmill.",
+
+  "book.energizedpower.page.silicon.1": "Silicon is an ingredient used in many crafting recipes of this mod.",
+  "book.energizedpower.page.silicon.2": "It can be crafted by smelting or blasting nether quartz.",
+
+  "book.energizedpower.page.sawdust.1": "Sawdust is a by-product produced by the sawmill and can be crafted to sawdust blocks.",
+  "book.energizedpower.page.sawdust.2": "Sawdust blocks can be burned to charcoal.",
+
+  "book.energizedpower.page.fertilizers": "Fertilizers can be used to make the Plant Growth Chamber faster.",
+
+  "book.energizedpower.page.ore_dusts": "Ore dusts can be smelted to ingots.",
+
+  "book.energizedpower.page.charcoal_dust": "Charcoal Dust can be used to craft Charcoal Filters.",
+
+  "book.energizedpower.page.charcoal_filter": "Charcoal Filters are used to filter Dirty Water in the Filtration Plant.",
+
+  "book.energizedpower.page.plates.1": "Plates are used as a crafting ingredient in most machines. Plates can be crafted with hammers or by using the compressor.",
+  "book.energizedpower.page.plates.2": "Energized plates can be created in the compressor only.",
+
+  "book.energizedpower.page.metal_products.1": "Metal products (gears, rods, and wires) are used in many recipes.",
+  "book.energizedpower.page.metal_products.2": "Metal products can be created in the Metal Press.",
+
+  "book.energizedpower.page.circuits": "Circuits are used in some recipes.",
+
+  "book.energizedpower.page.energized_copper_ingot.1": "Energized Copper Ingots are required for advanced machines like the energizer.",
+  "book.energizedpower.page.energized_copper_ingot.2": "The energizer is crafted with this ingot, isn't it?",
+  "book.energizedpower.page.energized_copper_ingot.3": "The charger can be used to craft this ingot.",
+  "book.energizedpower.page.energized_copper_ingot.4": " [But it's expensive]",
+
+  "book.energizedpower.page.energized_gold_ingot": "Energized Gold Ingots are used for some advanced machines (e.g. Charging Station).",
+
+  "book.energizedpower.page.energized_crystal_matrix": "The Energized Crystal Matrix is used as a stabilizer in some advanced machines.",
+
+
+  "book.energizedpower.page.chapter.tools.title": "Tools",
+  "book.energizedpower.page.chapter.tools": "Can be helpful",
+
+  "book.energizedpower.page.hammers": "Hammers can be used to craft plates.",
+
+  "book.energizedpower.page.cutters.1": "Cutters can be used to craft wires.",
+  "book.energizedpower.page.cutters.2": "Cutters can be used to break cables faster.",
+
+  "book.energizedpower.page.wrench": "The Wrench can be used to configure blocks.",
+
+
+  "book.energizedpower.page.chapter.workbenches.title": "Workbenches",
+  "book.energizedpower.page.chapter.workbenches": "Machines which must be operated manually.",
+
+  "book.energizedpower.page.press_mold_maker": "The Press Mold Maker can be used to create Press Molds for the Metal Press.",
+
+
+  "book.energizedpower.page.chapter.energy_items.title": "Energy Items",
+  "book.energizedpower.page.chapter.energy_items": "Items which can produce, consume, or store energy.",
+
+  "book.energizedpower.page.inventory_coal_engine.1": "This item can produce and distribute energy in your inventory.",
+  "book.energizedpower.page.inventory_coal_engine.2": "It can be activated by clicking in the air.",
+  "book.energizedpower.page.inventory_coal_engine.3": "Fuel will then automatically be taken from the inventory.",
+  "book.energizedpower.page.inventory_coal_engine.4": " [The hotbar is excluded]",
+
+  "book.energizedpower.page.inventory_charger.1": "This item distributes energy in your inventory.",
+  "book.energizedpower.page.inventory_charger.2": "Charged batteries must be inserted.",
+
+  "book.energizedpower.page.energy_analyzer.1": "The Energy Analyzer can be used to get energy statics. Mainly used for energy blocks without a GUI.",
+  "book.energizedpower.page.energy_analyzer.2": "It can be used by clicking on energy blocks.",
+
+  "book.energizedpower.page.fluid_analyzer.1": "The Fluid Analyzer can be used to get fluid statics.",
+  "book.energizedpower.page.fluid_analyzer.2": "It can be used by clicking on blocks which contain fluids.",
+
+  "book.energizedpower.page.batteries.1": "Batteries can store energy.",
+  "book.energizedpower.page.batteries.2": "They can be charged by the charger or with inventory generators and they can be uncharged by the uncharger.",
+
+
+  "book.energizedpower.page.chapter.energy_blocks.title": "Energy Blocks",
+  "book.energizedpower.page.chapter.energy_blocks": "Blocks producing, powered by, or transporting energy.",
+
+  "book.energizedpower.page.energy_blocks.table_of_contents.title": "Table of Contents\n(Energy Blocks)",
+
+
+  "book.energizedpower.page.chapter.energy_blocks.general.title": "General",
+  "book.energizedpower.page.chapter.energy_blocks.general": "General information for energy blocks",
+
+  "book.energizedpower.page.machine_frames.1": "Machine Frames are the base crafting block for every machine.",
+  "book.energizedpower.page.machine_frames.2": "There are four machine frames: Basic, Hardened, Advanced, and Reinforced Advanced",
+
+
+  "book.energizedpower.page.chapter.energy_blocks.energy_transportation.title": "Transportation",
+  "book.energizedpower.page.chapter.energy_blocks.energy_transportation": "Blocks for energy transportation",
+
+  "book.energizedpower.page.cables.1": "Cables are used to transport energy from producer blocks to consumer blocks.",
+  "book.energizedpower.page.cables.2": "There are six cable tiers.",
+  "book.energizedpower.page.cables.3": "A transformer is required to connect cables of different tiers.",
+
+  "book.energizedpower.page.transformers.1": "Transformers can be used to connect different tiers of cables.",
+  "book.energizedpower.page.transformers.2": "The larger, darker, diamond shaped sides are inputs.",
+  "book.energizedpower.page.transformers.3": "The smaller, brighter, square shaped sides are outputs.",
+  "book.energizedpower.page.transformers.4": "There are four tiers of transformers: LV, MV, HV, and EHV.",
+  "book.energizedpower.page.transformers.5": "For each tier there are three types of transformers: 1 to n, 3 to 3, and n to 1.",
+  "book.energizedpower.page.transformers.6": "Transformers can be used to reduce lag of cable networks by using them periodically instead of a cable block.",
+  "book.energizedpower.page.transformers.7": "Transformers can also be used to connect energized power cables to other mods' cables.",
+  "book.energizedpower.page.transformers.8": "Transformers can be used as battery blocks.",
+  "book.energizedpower.page.transformers.9": "Transformers can be used to extract energy from AE2 energy tunnels.",
+
+  "book.energizedpower.page.minecart_charger_uncharger.1": "The Minecart Charger can charge the Minecart with Battery Box and the Uncharger can uncharge it.",
+  "book.energizedpower.page.minecart_charger_uncharger.2": "A Redstone Comparator can be used to get the current power level of a Minecart which is being charged or uncharged.",
+  "book.energizedpower.page.minecart_charger_uncharger.3": "The Advanced versions have a higher transfer rate.",
+
+
+  "book.energizedpower.page.chapter.energy_blocks.energy_storage.title": "Storage",
+  "book.energizedpower.page.chapter.energy_blocks.energy_storage": "Blocks for energy storage",
+
+  "book.energizedpower.page.battery_box": "Battery boxes can store energy. All block faces support insertion and extraction of energy.",
+
+
+  "book.energizedpower.page.chapter.energy_blocks.energy_production.title": "Production",
+  "book.energizedpower.page.chapter.energy_blocks.energy_production": "Blocks for energy production",
+
+  "book.energizedpower.page.solar_cells.1": "Solar Cells are the base crafting item for every solar panel.",
+  "book.energizedpower.page.solar_cells.2": "There are three solar cells: Basic, Advanced, and Reinforced Advanced",
+
+  "book.energizedpower.page.solar_panels.1": "Solar Panels produce energy during the day. The efficiency depends on the time and on the weather.",
+  "book.energizedpower.page.solar_panels.2": "There are 6 Solar Panel Tiers.",
+
+  "book.energizedpower.page.coal_engine.1": "The Coal Engine produces energy by burning items.",
+  "book.energizedpower.page.coal_engine.2": "Remainder items can be extracted automatically.",
+
+  "book.energizedpower.page.heat_generator.1": "The Heat Generator produces energy if flowing or still lava touches the block.",
+  "book.energizedpower.page.heat_generator.2": "If the Heat Generator touches still lava, it will produce more energy than if it would touch flowing lava.",
+  "book.energizedpower.page.heat_generator.3": "The more lava blocks are touching, the more energy per tick will be produced.",
+  "book.energizedpower.page.heat_generator.4": "If you are playing a modpack, other hot fluids might be supported too.",
+
+  "book.energizedpower.page.thermal_generator.1": "The Thermal Generator produces energy by consuming hot fluids.",
+  "book.energizedpower.page.thermal_generator.2": "If you are playing a modpack, other hot fluids might be supported too.",
+
+  "book.energizedpower.page.lightning_generator.1": "The lightning generator produces high amounts of energy per lightning strike.",
+  "book.energizedpower.page.lightning_generator.2": "A lightning rod block must be place above this block for it to function.",
+
+
+  "book.energizedpower.page.chapter.energy_blocks.energy_consumption.title": "Consumption",
+  "book.energizedpower.page.chapter.energy_blocks.energy_consumption": "Blocks for energy consumption",
+
+  "book.energizedpower.page.powered_lamp": "The Powered Lamp is like a Redstone Lamp but requires energy instead of an active redstone signal.",
+
+  "book.energizedpower.page.powered_furnaces.1": "Powered Furnaces works like the Furnace. Instead of coal they use power and they are faster than the normal furnace.",
+  "book.energizedpower.page.powered_furnaces.2": "The advanced version of the Powered Furnace has 3 input/output slot pairs.",
+
+  "book.energizedpower.page.auto_crafters.1": "The Auto Crafter crafts items automatically.",
+  "book.energizedpower.page.auto_crafters.2": "The recipe can be set by using the pattern slots.",
+  "book.energizedpower.page.auto_crafters.3": "The Auto Crafter can handle recipe conflicts, that is recipes with the same inputs. To do this, use the \"Cycle through recipes\" button or set the pattern via a recipe viewer mod (like REI).",
+  "book.energizedpower.page.auto_crafters.4": "The advanced version of the Auto Crafter supports multiple recipes at once.",
+
+  "book.energizedpower.page.crushers.1": "The Crusher can crush blocks like Stone, Sandstone, Cobblestone, and Gravel.",
+  "book.energizedpower.page.crushers.2": "The advanced version of the Crusher consumes Water and produces Dirty Water.",
+
+  "book.energizedpower.page.pulverizers.1": "The Pulverizer produces ore dusts which can be smelted to ingots.",
+  "book.energizedpower.page.pulverizers.2": "The advanced version of the Pulverizer consumes Water and produces Dirty Water.",
+
+  "book.energizedpower.page.sawmill.1": "The Sawmill can saw wood blocks and items.",
+  "book.energizedpower.page.sawmill.2": "Sawdust will be produced which can be crafted to sawdust blocks which can be used as fuel.",
+
+  "book.energizedpower.page.compressor": "The Compressor compresses ingots into plates.",
+
+  "book.energizedpower.page.metal_press.1": "The Metal Press creates metal products (e.g. wires) from metals.",
+  "book.energizedpower.page.metal_press.2": "Press Molds can be created in the Press Mold Maker.",
+  "book.energizedpower.page.metal_press.3": "Press Molds can be inserted to and extracted from the top.",
+  "book.energizedpower.page.metal_press.4": "Inputs can be inserted to and outputs can be extracted from all other sides.",
+
+  "book.energizedpower.page.assembling_machine.1": "The Assembling Machine creates electronic components (e.g. circuits).",
+  "book.energizedpower.page.assembling_machine.2": "Outputs can be extracted from all sides.",
+  "book.energizedpower.page.assembling_machine.3": "Inputs can be inserted from all sides (Top/Bottom: All inputs slots, Front: Bottom slot, Back: Top slot, Left: Left slot, Right: Right slot).",
+
+  "book.energizedpower.page.plant_growth_chamber.1": "The Plant Growth Chamber can boost plant growth and yield.",
+  "book.energizedpower.page.plant_growth_chamber.2": "The right input slot is the seed slot.",
+  "book.energizedpower.page.plant_growth_chamber.3": "The left, optionally usable input slot is the fertilizer slot.",
+  "book.energizedpower.page.plant_growth_chamber.4": "When the fertilizer slot is used, energy and speed multipliers are applied.",
+  "book.energizedpower.page.plant_growth_chamber.5": "Seeds can be inserted from the north, east, south, and west. Fertilizers can be inserted from the top and bottom. Outputs can be extracted from all block faces.",
+  "book.energizedpower.page.plant_growth_chamber.6": "If you'd like to use a fertilizer, the fertilizer must be inserted first.",
+  "book.energizedpower.page.plant_growth_chamber.7": "If you'd like to automate this blocks, you need to keep in mind that yields are randomized.",
+
+  "book.energizedpower.page.stone_solidifier.1": "The Stone Solidifier produces Stone blocks from Water and Lava.",
+  "book.energizedpower.page.stone_solidifier.2": "Fluids must be inserted with a pipe.",
+
+  "book.energizedpower.page.filtration_plant.1": "The Filtration Plant can filter raw ores from Dirty Water.",
+  "book.energizedpower.page.filtration_plant.2": "Charcoal Filters can be inserted from every block face. Outputs can be extracted from block face.",
+
+  "book.energizedpower.page.block_placer.1": "The Block Placer can place all blocks (Even doors and seeds).",
+  "book.energizedpower.page.block_placer.2": "Blocks will only be placed if possible.",
+
+  "book.energizedpower.page.fluid_filler_fluid_drainer": "The Fluid Filler can fill fluids into items and the Fluid Drainer can drain fluids from items.",
+
+  "book.energizedpower.page.charger_uncharger.1": "The Charger can charge items and the Uncharger can uncharge items.",
+  "book.energizedpower.page.charger_uncharger.2": "The advanced version of the Charger and the Uncharger have 3 slots.",
+
+  "book.energizedpower.page.charging_station": "The Charging Station can charge items wirelessly.",
+
+  "book.energizedpower.page.crystal_growth_chamber": "The Crystal Growth Chamber can be used to grow crystals like amethysts.",
+
+  "book.energizedpower.page.energizer": "The Energizer can energize items very efficiently.",
+
+  "book.energizedpower.page.weather_controller": "The Weather Controller can change the weather temporarily. It requires energy to do so.",
+
+  "book.energizedpower.page.time_controller.1": "The Time Controller can change the time of the day. It requires energy to do so.",
+  "book.energizedpower.page.time_controller.2": "It can not go back in time, the time value will always be incremented.",
+
+  "book.energizedpower.page.teleporter_matrix.1": "Teleporter Matrices are used for linking Teleporters.",
+  "book.energizedpower.page.teleporter_matrix.2": "The settings of a Teleporter Matrix can be copied by putting a linkend and one or more unlinked Teleporter Matricies into a Crafting Table.",
+
+  "book.energizedpower.page.teleporter.1": "The Teleporter can teleport players. It requires energy and a linked Teleporter Matrix to do so.",
+  "book.energizedpower.page.teleporter.2": "It outputs a redstone signal if the Teleporter is ready for teleportation.",
+  "book.energizedpower.page.teleporter.3.1": "The Teleporter can be triggered manually by pressing",
+  "book.energizedpower.page.teleporter.3.2": "while above the Teleporter.",
+
+
+  "book.energizedpower.page.chapter.fluid_blocks.title": "Fluid Blocks",
+  "book.energizedpower.page.chapter.fluid_blocks": "Blocks that can store and transfer fluids.",
+
+  "book.energizedpower.page.fluid_pipes.1": "Fluid pipes can transfer fluids.",
+  "book.energizedpower.page.fluid_pipes.2": "The mode of every pipe side can be configured with a Wrench.",
+  "book.energizedpower.page.fluid_pipes.3": "A single fluid pipe block can only extract one fluid type at once even when multiple sides are configured as extraction.",
+  "book.energizedpower.page.fluid_pipes.4": "There are two tiers of fluid pipes: Iron and Golden.",
+
+  "book.energizedpower.page.fluid_tanks.1": "Fluid tanks can store fluids.",
+  "book.energizedpower.page.fluid_tanks.2": "There are three tiers of fluid tanks: Small, Medium, and Large.",
+
+  "book.energizedpower.page.drain.1": "The Drain drains fluid source blocks above the block.",
+  "book.energizedpower.page.drain.2": "On the Fabric version the Drain can extract fluids from Cauldrons.",
+
+
+  "book.energizedpower.page.chapter.item_transportation.title": "Item Transportation",
+  "book.energizedpower.page.chapter.item_transportation": "Blocks that can transport Items.",
+
+  "book.energizedpower.page.item_conveyor_belt.1": "Item Conveyor belts can transport items.",
+  "book.energizedpower.page.item_conveyor_belt.2": "The slope of conveyor belts can be configured with a Wrench.",
+  "book.energizedpower.page.item_conveyor_belt.3": "Conveyor belts can be loaded with hoppers and any block which can insert items into blocks.",
+  "book.energizedpower.page.item_conveyor_belt.4": "Conveyor belts can insert items into blocks in front of the conveyor belt.",
+  "book.energizedpower.page.item_conveyor_belt.5": "Alternatively they can be unloaded with hoppers and other blocks which can extract items from blocks.",
+  "book.energizedpower.page.item_conveyor_belt.6": "Conveyor belts are compatible with the AE2 item tunnel.",
+
+  "book.energizedpower.page.item_conveyor_belt_loader.1": "The Item Conveyor Belt Loader can extract items from any storage blocks (even other conveyor belts) and load them onto a conveyor belt.",
+  "book.energizedpower.page.item_conveyor_belt_loader.2": "The larger square must face the block where items are extracted from and the smaller square must face a conveyor belt.",
+  "book.energizedpower.page.item_conveyor_belt_loader.3": "Alternatively items can be extracted from the loader with hoppers and other blocks which can extract items from blocks.",
+  "book.energizedpower.page.item_conveyor_belt_loader.4": "It can be stacked vertically and horizontally.",
+  "book.energizedpower.page.item_conveyor_belt_loader.5": "It can be disabled with a redstone signal.",
+
+  "book.energizedpower.page.item_conveyor_belt_sorter.1": "The Item Conveyor Belt Sorter takes items from an input conveyor belt and routes them to certain output conveyor belt.",
+  "book.energizedpower.page.item_conveyor_belt_sorter.2": "The input conveyor belt must face the large square and must not be ascending.",
+  "book.energizedpower.page.item_conveyor_belt_sorter.3": "There are no restrictions for the output conveyor belts.",
+  "book.energizedpower.page.item_conveyor_belt_sorter.4": "The outputs are color coded (red: first output and always on the left side relative to the input, yellow: second output and on the opposite side relative to the input, green: third output and on the right side relative to the input).",
+  "book.energizedpower.page.item_conveyor_belt_sorter.5": "The item will be routed to the first output where the filter matched (Priority: OUT 1, OUT 2, OUT 3).",
+  "book.energizedpower.page.item_conveyor_belt_sorter.6": "The filter matches if at least one pattern item of the output filter row matches the input item.",
+  "book.energizedpower.page.item_conveyor_belt_sorter.7": "Pattern items can be placed by taking the item from the inventory and left-clicking a pattern slot. The filter can be reset by left-clicking without an item.",
+  "book.energizedpower.page.item_conveyor_belt_sorter.8": "To allow any items select blacklist without any pattern items. If an output is not connected the filter should be set to whitelist without any pattern items.",
+  "book.energizedpower.page.item_conveyor_belt_sorter.9": "A redstone signal of strength 15 will be emitted if no filter matches (If no output is connected or if it is full no redstone signal will be emitted).",
+
+  "book.energizedpower.page.item_conveyor_belt_switch.1": "The Item Conveyor Belt Switch takes items from the input conveyor belt (Must face the large square and must not be ascending) and puts them onto the output conveyor belt on the side with the green indicator.",
+  "book.energizedpower.page.item_conveyor_belt_switch.2": "As long as a redstone signal is applied, the other output will be selected.",
+
+  "book.energizedpower.page.item_conveyor_belt_splitter": "The Item Conveyor Belt Splitter takes items from the input conveyor belt (Must face the large square and must not be ascending) and puts them evenly on the connected output conveyor belts.",
+
+  "book.energizedpower.page.item_conveyor_belt_merger": "The Item Conveyor Belt Merger takes items evenly from the connected input conveyor belts (They must face a large square and must not be ascending) and puts them on the output conveyor belt.",
+
+
+  "book.energizedpower.page.chapter.fluids.title": "Fluids",
+  "book.energizedpower.page.chapter.fluids": "Fluids added in Energized Power",
+
+  "book.energizedpower.page.dirty_water.1": "Dirty Water is produced as a by-product in some machines which consume Water.",
+  "book.energizedpower.page.dirty_water.2": "Dirty Water can be cleaned in the Filtration Plant.",
+
+
+  "book.energizedpower.page.chapter.machine_configuration.title": "Configuration",
+  "book.energizedpower.page.chapter.machine_configuration": "Configuration of machines",
+
+  "book.energizedpower.page.redstone_mode_configuration.1": "There are 3 redstone modes:",
+  "book.energizedpower.page.redstone_mode_configuration.2": "Ignore: The machine is always active",
+  "book.energizedpower.page.redstone_mode_configuration.3": "High: The machine is only active if a redstone signal of strength 1 or higher is present",
+  "book.energizedpower.page.redstone_mode_configuration.4": "Low: The machine is only active if no redstone signal is present",
+
+  "book.energizedpower.page.comparator_mode_configuration.1": "There are 3 comparator modes:",
+  "book.energizedpower.page.comparator_mode_configuration.2": "Item: The comparator output is calculated based on how full the inventory of the machine is",
+  "book.energizedpower.page.comparator_mode_configuration.3": "Fluid: The comparator output is calculated based on how full the tank(s) of the machines is/are",
+  "book.energizedpower.page.comparator_mode_configuration.4": "Energy: The comparator output is calculated based on how much energy is stored in the machine",
+
+
+  "book.energizedpower.page.chapter.entities.title": "Entities",
+  "book.energizedpower.page.chapter.entities": "Things that can move.",
+
+  "book.energizedpower.page.battery_box_minecarts": "Battery Box Minecarts can transport energy on rails. It can be charged with Minecart Chargers and can be uncharged with Minecart Unchargers.",
+
+
+  "book.energizedpower.page.chapter.structures.title": "Structures",
+  "book.energizedpower.page.chapter.structures": "Structures which are being generated in your world.",
+
+  "book.energizedpower.page.electrician.title": "Electrician Villager",
+  "book.energizedpower.page.electrician.1": "The electrician villager can be found in the electrician house.",
+  "book.energizedpower.page.electrician.2": "The electrician house can be found in every vanilla village type.",
+  "book.energizedpower.page.electrician.3": "The Basic Machine Frame can be used to get an electrician villager.",
+
+  "book.energizedpower.page.factory.title": "Factory Building",
+  "book.energizedpower.page.factory.1": "The factory building contains some machines and something interesting in the center of the building. It can be found in Forest and Flower Forest biomes.",
+
+  "book.energizedpower.page.small_solar_farm.title": "Small Solar Farm",
+  "book.energizedpower.page.small_solar_farm.1": "The small solar farm is a structure with some Solar Panels producing energy. It can be found in Desert, Badlands, and Savanna biomes."
+}

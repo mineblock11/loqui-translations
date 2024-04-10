@@ -1,4 +1,7 @@
 {
+  "yamato": {
+    "1.0.0": "/group_p59hrfe"
+  },
   "yaclx": {
     "1.12+1.20.2": "/group_p59hrfe"
   },
@@ -12,8 +15,44 @@
     "0.2.0": "/group_p59hrfe",
     "0.2.3": "/group_c7h3lvl"
   },
+  "villagernames": {
+    "4.5.4": "/group_p59hrfe"
+  },
   "villagerfix": {
     "1.0.4": "/group_p59hrfe"
+  },
+  "variantsandventures": {
+    "1.0.1": "/group_p59hrfe"
+  },
+  "variantcraftingtables": {
+    "6.3.5+1.20.4": "/group_p59hrfe"
+  },
+  "variantchests": {
+    "1.4.5": "/group_p59hrfe"
+  },
+  "variantbeehives": {
+    "1.2": "/group_p59hrfe"
+  },
+  "vanity_invisible_armory": {
+    "1.0.3": "/group_p59hrfe"
+  },
+  "vanity_colossal_weapons": {
+    "1.0.1": "/group_p59hrfe"
+  },
+  "vanity": {
+    "3.0.0": "/group_p59hrfe"
+  },
+  "vanillavariants": {
+    "1.0.0": "/group_p59hrfe"
+  },
+  "valentines_blessing": {
+    "1.7.0": "/group_p59hrfe"
+  },
+  "unloadedactivity": {
+    "v0.5.3": "/group_p59hrfe"
+  },
+  "underground_villages": {
+    "3.1.1": "/group_p59hrfe"
   },
   "tweed4_tailor_screen": {
     "1.1.4+mc1.20-pre1": "/group_p59hrfe"
@@ -32,6 +71,9 @@
   },
   "terraform": {
     "7.0.1": "/group_p59hrfe"
+  },
+  "tectonic": {
+    "2.3.4": "/group_p59hrfe"
   },
   "superbsteeds": {
     "1.20-3": "/group_p59hrfe",
@@ -55,6 +97,9 @@
   "spawnanimations": {
     "1.9.4+mod": "/group_p59hrfe"
   },
+  "soupsmod": {
+    "1.4": "/group_p59hrfe"
+  },
   "sounds": {
     "0.4.0+1.20.1": "/group_p59hrfe",
     "0.7.0+1.20.4": "/group_fy96ca4",
@@ -62,6 +107,9 @@
   },
   "soundcontroller": {
     "1.0.0": "/group_p59hrfe"
+  },
+  "soularia": {
+    "1.2": "/group_p59hrfe"
   },
   "sodium": {
     "0.5.8+mc1.20.4": "/group_p59hrfe",
@@ -84,11 +132,20 @@
   "smallships": {
     "2.0.0-a2.3.3": "/group_p59hrfe"
   },
+  "slayersbeasts": {
+    "3.1.2": "/group_p59hrfe"
+  },
   "skeletalremains": {
     "1.4.2": "/group_p59hrfe"
   },
   "scribe": {
     "1.20.1-0.5.0-alpha": "/group_p59hrfe"
+  },
+  "sapswackystuff": {
+    "1.4.1": "/group_p59hrfe"
+  },
+  "rubyodyssey": {
+    "0.0.3-1.20.4": "/group_p59hrfe"
   },
   "rsls": {
     "1.1.1": "/group_p59hrfe"
@@ -96,8 +153,14 @@
   "roughlysearchable": {
     "2.6.0+1.20.1": "/group_p59hrfe"
   },
+  "rosegoldequipment": {
+    "1.1": "/group_p59hrfe"
+  },
   "revive": {
     "1.0.7": "/group_p59hrfe"
+  },
+  "revamped_phantoms": {
+    "1.0.0": "/group_p59hrfe"
   },
   "respawninganimals": {
     "8.1.1": "/group_p59hrfe"
@@ -115,12 +178,14 @@
     "1.1.2": "/group_p59hrfe"
   },
   "reach-entity-attributes": {
+    "2.5.0": "/group_p59hrfe",
     "2.4.0": "/group_p59hrfe"
   },
   "qualitysounds": {
     "1.0.0-1.20.1": "/group_p59hrfe"
   },
   "profundis": {
+    "1.6.2": "/group_p59hrfe",
     "1.6.1": "/group_p59hrfe"
   },
   "porting_lib_tags": {
@@ -137,13 +202,18 @@
     "1.0.4": "/group_p59hrfe"
   },
   "owo": {
+    "0.12.6+1.20.3": "/group_p59hrfe",
     "0.12.5+1.20.3": "/group_p59hrfe",
     "0.11.2+1.20": "/group_p59hrfe"
+  },
+  "ornate_weaponry": {
+    "2.0.0": "/group_p59hrfe"
   },
   "optigui": {
     "2.3.0-alpha.2": "/group_p59hrfe"
   },
   "openpartiesandclaims": {
+    "0.22.0": "/group_p59hrfe",
     "0.20.4": "/group_p59hrfe"
   },
   "openloader": {
@@ -161,15 +231,33 @@
   "nitrogen_internals": {
     "1.20.1-1.0.7-neoforge": "/group_p59hrfe"
   },
+  "nightfall": {
+    "1.0": "/group_p59hrfe"
+  },
   "niftycarts": {
     "3.0.0+1.20.1": "/group_p59hrfe"
+  },
+  "newslabvariants": {
+    "2.1.0": "/group_p59hrfe"
+  },
+  "moltenobsidiantools": {
+    "1.0.3-1.20.2+": "/group_p59hrfe"
   },
   "modid": {
     "1.4.1": "/group_p59hrfe",
     "1.0.0+1.20": "/group_p59hrfe"
   },
+  "moderate-loading-screen": {
+    "1.4.1": "/group_p59hrfe"
+  },
+  "misc_additions": {
+    "0.3.0": "/group_p59hrfe"
+  },
   "mcwfences": {
     "1.0.7": "/group_p59hrfe"
+  },
+  "mavm": {
+    "1.2.6": "/group_p59hrfe"
   },
   "lootr": {
     "0.7.29.75": "/group_p59hrfe"
@@ -177,11 +265,20 @@
   "libz": {
     "1.0.3": "/group_p59hrfe"
   },
+  "libjf-web-v1": {
+    "3.14.3": "/group_p59hrfe"
+  },
   "libjf-web-v0": {
     "3.12.5": "/group_p59hrfe"
   },
   "libjf-config-ui-tiny-v1": {
     "3.12.5": "/group_p59hrfe"
+  },
+  "libjf-config-ui-tiny": {
+    "3.14.3": "/group_p59hrfe"
+  },
+  "libjf-config-network-v0": {
+    "3.14.3": "/group_p59hrfe"
   },
   "libjf-config-core-v1": {
     "3.12.5": "/group_p59hrfe"
@@ -197,6 +294,12 @@
   },
   "jumpoverfences": {
     "1.3.1": "/group_p59hrfe"
+  },
+  "japi": {
+    "1.7.3": "/group_p59hrfe"
+  },
+  "japanese_altar": {
+    "1.0": "/group_p59hrfe"
   },
   "interactic": {
     "0.2.0+1.20": "/group_p59hrfe"
@@ -237,6 +340,7 @@
     "0.3.7+1.20.1": "/group_p59hrfe"
   },
   "fzzy_config": {
+    "0.1.3+1.20.1": "/group_p59hrfe",
     "0.1.2+1.20.1": "/group_p59hrfe"
   },
   "fullbrightnesstoggle": {
@@ -245,14 +349,29 @@
   "foggyborder": {
     "1.1": "/group_p59hrfe"
   },
+  "flower_power": {
+    "2.1.0": "/group_p59hrfe"
+  },
   "fleshz": {
     "1.5.1": "/group_p59hrfe"
   },
   "extendeddrawersaddon": {
     "1.0.2": "/group_p59hrfe"
   },
+  "excavated_variants": {
+    "4.1.3": "/group_p59hrfe"
+  },
   "exampleplugin": {
     "1.0.0+1.20.1": "/group_p59hrfe"
+  },
+  "endless_void": {
+    "B_1": "/group_p59hrfe"
+  },
+  "enderswords": {
+    "2.0.1": "/group_p59hrfe"
+  },
+  "end_reborn": {
+    "1.0.9": "/group_p59hrfe"
   },
   "earlystage": {
     "1.1.1": "/group_p59hrfe"
@@ -263,8 +382,20 @@
   "doapi": {
     "1.2.8": "/group_p59hrfe"
   },
+  "distanthorizons": {
+    "2.0.2-a-dev": "/group_p59hrfe"
+  },
   "customportals": {
     "3.3.1": "/group_p59hrfe"
+  },
+  "crops_love_rain": {
+    "1.5.0+1.20.4": "/group_p59hrfe"
+  },
+  "cropariaplus": {
+    "1.0.4": "/group_p59hrfe"
+  },
+  "croparia": {
+    "4.5": "/group_p59hrfe"
   },
   "cristellib": {
     "1.1.5": "/group_p59hrfe"
@@ -281,8 +412,17 @@
   "colorfulhearts": {
     "4.0.4": "/group_p59hrfe"
   },
+  "coloredendcrystals": {
+    "1.0.1": "/group_p59hrfe"
+  },
   "cleardespawn": {
     "1.1.15": "/group_p59hrfe"
+  },
+  "chrysalis": {
+    "0.3.3": "/group_p59hrfe"
+  },
+  "chlorophyte": {
+    "release1-bugfix": "/group_p59hrfe"
   },
   "chipped": {
     "3.0.1": "/group_p59hrfe"
@@ -298,6 +438,9 @@
   },
   "carpeted": {
     "1.20-1.4": "/group_p59hrfe"
+  },
+  "caligo": {
+    "0.0.1+1.20.4": "/group_p59hrfe"
   },
   "bwncr": {
     "3.19.0": "/group_ma2ysv3",
@@ -315,11 +458,23 @@
   "blossom": {
     "1.0.7": "/group_p59hrfe"
   },
+  "biomeparticleweather": {
+    "5.1.0": "/group_p59hrfe"
+  },
+  "bil": {
+    "1.1.6": "/group_p59hrfe"
+  },
   "betterthirdperson": {
     "1.9.0": "/group_p59hrfe"
   },
   "bettermenu": {
     "1.20.1-Fabric-1.0.1": "/group_p59hrfe"
+  },
+  "betterendisland": {
+    "1.20.4-Fabric-2.4.1": "/group_p59hrfe"
+  },
+  "bananabaking": {
+    "1.0-1.20.4": "/group_p59hrfe"
   },
   "backported_wolves": {
     "1.1.0-1.19.3-1.20.4": "/group_p59hrfe"
@@ -337,8 +492,14 @@
     "0.8.1": "/group_p59hrfe",
     "0.8.0": "/group_p59hrfe"
   },
+  "ancient_tools": {
+    "2.0.0": "/group_p59hrfe"
+  },
   "agedaddition": {
     "1.0.3": "/group_p59hrfe"
+  },
+  "advancedenderite": {
+    "0.0.1": "/group_p59hrfe"
   },
   "additionz": {
     "1.2.2": "/group_p59hrfe"
@@ -346,20 +507,32 @@
   "additionalentityattributes": {
     "1.3.0+1.20.0": "/group_p59hrfe"
   },
+  "ad_astra_rocketed": {
+    "1.0.3": "/group_p59hrfe"
+  },
   "xaeroworldmap": {
     "1.38.1": "/group_uq37rd2",
     "1.37.8": "/group_uq37rd2",
     "1.37.2": "/group_uq37rd2",
     "1.36.0": "/group_uq37rd2"
   },
+  "mavapi": {
+    "1.1.4": "/group_uq37rd2"
+  },
   "extended_drawers": {
     "2.1.1+mc.1.20.1": "/group_uq37rd2"
+  },
+  "enhancedweather": {
+    "1.1-Alpha2": "/group_uq37rd2"
   },
   "coat": {
     "1.0.0-beta.20+mc1.20-pre1": "/group_uq37rd2"
   },
   "syncmatica": {
     "1.20.2-0.3.11": "/group_fy96ca4"
+  },
+  "startup_time": {
+    "1.1.0": "/group_fy96ca4"
   },
   "stack-to-nearby-chests": {
     "0.5.0": "/group_fy96ca4"
@@ -373,11 +546,23 @@
   "seamless_loading_screen": {
     "2.0.3+1.20.1": "/group_fy96ca4"
   },
+  "sanguine": {
+    "0.5.1": "/group_fy96ca4"
+  },
+  "resourcify": {
+    "1.3.1": "/group_fy96ca4"
+  },
   "nethersdelight": {
     "1.20.1-4.0.3": "/group_fy96ca4"
   },
+  "monster_roster": {
+    "0.1.1": "/group_fy96ca4"
+  },
   "milk": {
     "1.2.60": "/group_fy96ca4"
+  },
+  "jolted": {
+    "0.1.1": "/group_fy96ca4"
   },
   "illagerinvasion": {
     "8.0.3": "/group_fy96ca4"
@@ -385,8 +570,17 @@
   "fzzy_core": {
     "0.3.4+1.20.1": "/group_fy96ca4"
   },
+  "eugenes_lance": {
+    "1.2.2": "/group_fy96ca4"
+  },
   "eugenes_horse_whistle": {
     "1.0.1": "/group_fy96ca4"
+  },
+  "eugenes_guan_dao": {
+    "1.2.2": "/group_fy96ca4"
+  },
+  "eugene": {
+    "2.3": "/group_fy96ca4"
   },
   "enhanced_attack_indicator": {
     "1.0.4+1.20.3": "/group_xbe3j1c",
@@ -402,6 +596,9 @@
   "backslot": {
     "1.2.15": "/group_fy96ca4"
   },
+  "ductwork": {
+    "0.7.101": "/group_w1ed779"
+  },
   "azurelib": {
     "2.0.18": "/group_w1ed779"
   },
@@ -410,6 +607,9 @@
   },
   "make_bubbles_pop": {
     "0.2.0-fabric": "/group_ajghh08"
+  },
+  "respackopts": {
+    "4.7.2": "/group_mda6lbt"
   },
   "grassoverhaul": {
     "23.6.9": "/group_mda6lbt"
@@ -429,6 +629,15 @@
   "extra_details": {
     "0.3-beta": "/group_ma2ysv3"
   },
+  "enderzoology": {
+    "20.4.3": "/group_ma2ysv3"
+  },
+  "draggable_lists": {
+    "1.0.5": "/group_ma2ysv3"
+  },
+  "ditr": {
+    "1.1.1": "/group_ma2ysv3"
+  },
   "debrand": {
     "1.1.1": "/group_ma2ysv3"
   },
@@ -440,6 +649,9 @@
   },
   "dawn": {
     "5.0.0": "/group_e3ch9x8"
+  },
+  "vanity_aesthetic_armory": {
+    "1.1.0": "/group_6ehjgeg"
   },
   "seasonsextras": {
     "1.2-BETA+1.20": "/group_6ehjgeg"
@@ -478,11 +690,17 @@
     "2.3.0+1.20.4": "/group_wvgi287",
     "2.3.0+1.20.2": "/group_wvgi287"
   },
+  "stardewcraft": {
+    "1.0.0": "/group_ab436kt"
+  },
   "sound_physics_remastered": {
     "1.20.1-1.2.1": "/group_qdygrud",
     "1.20.4-1.3.1": "/group_qjsbmtc",
     "1.20.2-1.3.1": "/group_qjsbmtc",
     "1.20.1-1.3.1": "/group_qjsbmtc"
+  },
+  "soulsweapons": {
+    "1.1.3-1.20.4-fabric": "/group_xbe3j1c"
   },
   "seasonhud": {
     "1.7.6": "/group_xbe3j1c"
@@ -503,11 +721,13 @@
     "7.4.4+1.20": "/group_xbe3j1c"
   },
   "fabricskyboxes": {
+    "0.7.3+mc1.20.2": "/group_k9coegq",
     "0.7.3+mc1.20.1": "/group_k9coegq"
   },
   "citresewn-defaults": {
     "1.1.3+1.20": "/group_fobxhti",
-    "1.1.3+1.20.4": "/group_fobxhti"
+    "1.1.3+1.20.4": "/group_fobxhti",
+    "1.0.0+1.20.4": "/group_fobxhti"
   },
   "fsb-interop": {
     "1.3.6+mc1.20.1-build.50": "/group_i43b1vh"
@@ -548,6 +768,9 @@
   "expanded_ecosphere": {
     "3.2.4": "/group_ea2kel0"
   },
+  "shutter": {
+    "2.0.4-fabric-1.20.4": "/group_rvj62yi"
+  },
   "nethervinery": {
     "2.0.2": "/group_rvj62yi"
   },
@@ -557,8 +780,12 @@
   "nethermap": {
     "3.0.0-1.20.1": "/group_18bdyw6"
   },
+  "bettercommandblockui": {
+    "0.5.1": "/group_18bdyw6"
+  },
   "forgeconfigapiport": {
-    "8.0.0": "/group_jcjctys"
+    "8.0.0": "/group_jcjctys",
+    "20.4.3": "/group_mveyok7"
   },
   "enhancedworkbenches": {
     "1.1+1.20.1": "/group_jcjctys"
@@ -589,6 +816,15 @@
   },
   "mica": {
     "1.0.1": "/group_qp4o5m7"
+  },
+  "lolmct": {
+    "1.2.4": "/group_v8dhrrm"
+  },
+  "lolmbv": {
+    "1.0.0": "/group_v8dhrrm"
+  },
+  "sit": {
+    "1.1.4+1.20.2-1.20.4": "/group_xqo2jln"
   },
   "roughlyenoughprofessions": {
     "2.0.2": "/group_5jnfeau"
@@ -631,6 +867,10 @@
   "mcwroofs": {
     "2.2.4": "/group_t3i850r"
   },
+  "underground_jungle": {
+    "${version}": "/group_0hv8yhw",
+    "20.1.0": "/group_kgtaee7"
+  },
   "spell_power": {
     "0.9.19+1.20.1": "/group_0hv8yhw"
   },
@@ -661,6 +901,9 @@
   "crawl": {
     "0.12.0": "/group_76kkvs6"
   },
+  "tinycoal": {
+    "1.0.0": "/group_bjn5sdi"
+  },
   "tiered": {
     "1.3.0": "/group_bjn5sdi"
   },
@@ -670,8 +913,17 @@
   "netherite_horse_armor": {
     "1.20.1-1.0.4": "/group_ijlihe5"
   },
+  "justenoughbreeding": {
+    "1.2.1": "/group_3mz32lp"
+  },
   "aether_redux": {
     "2.0.7d": "/group_3mz32lp"
+  },
+  "basalt-crusher": {
+    "1.7.1": "/group_t6iw3zd"
+  },
+  "stellarity": {
+    "2.2.1": "/group_1ym4vru"
   },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x",
@@ -683,6 +935,7 @@
     "4.6": "/group_3vtt0e8"
   },
   "endermanoverhaul": {
+    "1.1.8": "/group_3vtt0e8",
     "1.0.4": "/group_3vtt0e8"
   },
   "fpsdisplay": {
@@ -705,9 +958,6 @@
   "netherportalfix": {
     "13.0.1": "/group_6hzk8u9"
   },
-  "underground_jungle": {
-    "20.1.0": "/group_kgtaee7"
-  },
   "showmeyourskin": {
     "1.8.0+1.20.4": "/group_uwoc0pd",
     "1.7.0+1.20.2": "/group_uwoc0pd",
@@ -723,10 +973,14 @@
     "9.6.3": "/group_99fsuc6"
   },
   "bountifulfares": {
+    "1.0.2-1.20.4": "/group_3ir0igk",
     "1.0.0-1.20.1": "/group_3ir0igk"
   },
   "deep_aether": {
     "1.20.1-1.0.2": "/group_3ad1g0w"
+  },
+  "energizedpower": {
+    "1.20.4-2.9.3-fabric": "/group_xx1b2cx"
   },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",
@@ -739,7 +993,8 @@
     "8.0.1+1.20": "/group_6f6a5ws"
   },
   "visuality": {
-    "0.7.1+1.20": "/group_p2kkf3l"
+    "0.7.1+1.20": "/group_p2kkf3l",
+    "0.7.4+1.20.4": "/group_9buq8zu"
   },
   "cmdkeybind": {
     "1.6.3-1.20.2": "/group_w81u1hu"
@@ -761,6 +1016,7 @@
     "11.4.0": "/group_maw6yff"
   },
   "terrablender": {
+    "3.3.0.12": "/group_quirsbz",
     "3.0.1.4": "/group_quirsbz",
     "3.0.1.2": "/group_quirsbz"
   },
@@ -779,6 +1035,15 @@
   "moonlight": {
     "1.20-2.8.84": "/group_2ayk6s1",
     "1.20-2.11.10": "/group_b5cyxgj"
+  },
+  "lolmcv": {
+    "1.5.0": "/group_bpeouyg"
+  },
+  "manic": {
+    "0.2.1": "/group_ja0habq"
+  },
+  "ad_astra": {
+    "1.16.5": "/group_58qq28h"
   },
   "midnightlib": {
     "1.5.3": "/group_nzs7a7t",
@@ -819,6 +1084,12 @@
   "libipn": {
     "4.0.2": "/group_ogg87if"
   },
+  "endreborn": {
+    "1.1.0": "/group_d5rqo8a"
+  },
+  "expandedstorage": {
+    "12.1.0-beta.1": "/group_vv3y10k"
+  },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4"
   },
@@ -850,6 +1121,7 @@
     "2.0.2+1.20": "/group_cnkz0is"
   },
   "bclib": {
+    "3.30.1": "/group_q3wwhid",
     "3.0.14": "/group_q3wwhid"
   },
   "bobby": {
@@ -859,6 +1131,9 @@
   "rrls": {
     "4.0.2+mc1.20.4-fabric": "/group_ftc1jya",
     "3.2.4+mc1.20.2-fabric": "/group_ftc1jya"
+  },
+  "nucleus": {
+    "0.1.1": "/group_nfjypw4"
   },
   "fallingleaves": {
     "1.15.6": "/group_lb9ucjl",
@@ -882,7 +1157,8 @@
   },
   "presencefootsteps": {
     "1.9.1": "/group_zg9k8ox",
-    "1.10.0": "/group_zg9k8ox"
+    "1.10.0": "/group_zg9k8ox",
+    "1.11.3": "/group_ii21ug0"
   },
   "creativecore": {
     "2.11.2": "/group_qilsl5b",
@@ -892,6 +1168,7 @@
     "1.4.7": "/group_dzpza81"
   },
   "betterend": {
+    "4.30.1": "/group_96hh0rn",
     "4.0.11": "/group_96hh0rn"
   },
   "spyglass-improvements": {
@@ -905,7 +1182,8 @@
   },
   "citresewn": {
     "1.1.3+1.20": "/group_9zhsosh",
-    "1.1.3+1.20.4": "/group_9zhsosh"
+    "1.1.3+1.20.4": "/group_9zhsosh",
+    "1.0.0+1.20.4": "/group_9zhsosh"
   },
   "moreculling": {
     "1.20.4-0.22.1": "/group_ceow4ge",
@@ -917,7 +1195,8 @@
     "2.5.1+mc1.20.3": "/group_q0ofmxh"
   },
   "puzzle": {
-    "1.5.2+1.20": "/group_g8p4z1w"
+    "1.5.2+1.20": "/group_g8p4z1w",
+    "1.6.1+1.20.4": "/group_4ptj5z9"
   },
   "trinkets": {
     "3.7.1": "/group_kzjxsk0"
@@ -930,6 +1209,10 @@
   },
   "canvas": {
     "20.2.2641": "/group_l0nn6uo"
+  },
+  "betternether": {
+    "9.30.0": "/group_1g1kk06",
+    "9.0.10": "/group_4c5ztuo"
   },
   "jade": {
     "13.3.1": "/group_2qmktrs",
@@ -944,11 +1227,11 @@
     "1.3.11+mc.1.20.4": "/group_ve8bct2",
     "1.3.10+mc.1.20.1": "/group_ve8bct2"
   },
-  "betternether": {
-    "9.0.10": "/group_4c5ztuo"
-  },
   "polymorph": {
     "0.49.1+1.20.1": "/group_b4d3h2u"
+  },
+  "multirecipe": {
+    "0.49.2+1.20.4": "/group_b4d3h2u"
   },
   "naturalist": {
     "4.0.3": "/group_yxl0n6g"
@@ -956,6 +1239,9 @@
   "notenoughcrashes": {
     "4.4.7+1.20.4": "/group_9xhr0v6",
     "4.4.7+1.20.2": "/group_9xhr0v6"
+  },
+  "craftpresence": {
+    "2.3.7": "/group_czipgp3"
   },
   "yet_another_config_lib": {
     "3.2.1+1.20": "/group_j3ls858",
@@ -1029,8 +1315,14 @@
   "inventoryprofilesnext": {
     "1.10.10": "/group_wuvrmta"
   },
+  "toughasnails": {
+    "9.2.0.169": "/group_ombdie8"
+  },
   "creeperoverhaul": {
     "3.0.1": "/group_xzi7aix"
+  },
+  "computercraft": {
+    "1.110.2": "/group_rltnebv"
   },
   "lambdynlights": {
     "2.3.2+1.20.1": "/group_jz71tw8",
@@ -1075,6 +1367,9 @@
   "figura": {
     "0.1.4+1.20.1": "/group_orrqiga"
   },
+  "travelersbackpack": {
+    "fabric-1.20.4-9.4.2": "/group_blh5pgk"
+  },
   "supplementaries": {
     "1.20-2.7.25": "/group_f2yg02p"
   },
@@ -1091,7 +1386,14 @@
     "24.0.3": "/group_9v0qgkc",
     "23.8.4": "/group_9v0qgkc"
   },
+  "terralith": {
+    "2.4.11": "/group_hvf7nvx"
+  },
+  "nullscape": {
+    "1.2.4": "/group_hvf7nvx"
+  },
   "iris": {
+    "1.7.0-snapshot+mc1.20.4-5983468": "/group_bi9gofu",
     "1.6.17": "/group_bi9gofu",
     "1.6.15a": "/group_bi9gofu",
     "1.6.11": "/group_bi9gofu",
@@ -1109,6 +1411,9 @@
   "dynamic_fps": {
     "3.2.1": "/group_21j33r0",
     "3.4.2": "/group_ba9hpk1"
+  },
+  "natures_spirit": {
+    "1.4.3.1.20.4": "/group_l1ozrzb"
   },
   "cumulus_menus": {
     "1.20.1-1.0.0-neoforge": "/group_28oavxu"
@@ -1137,7 +1442,7 @@
     "7.0.1": "/group_zjox4t8"
   },
   "modmenu": {
-    "9.1.0-beta.1": "/group_x1m11pa",
+    "9.1.0-beta.1": "/group_1s5y3xs",
     "8.0.1": "/group_x1m11pa",
     "9.0.0": "/group_1s5y3xs",
     "8.0.0": "/group_1s5y3xs",

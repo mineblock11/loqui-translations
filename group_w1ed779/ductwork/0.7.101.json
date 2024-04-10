@@ -1,0 +1,24 @@
+{
+  "block.ductwork.collector": "Collector",
+  "block.ductwork.damper":    "Damper",
+  "block.ductwork.duct":      "Duct",
+
+  "item.ductwork.collector":  "Collector",
+  "item.ductwork.damper":     "Damper",
+  "item.ductwork.duct":       "Duct",
+
+  "modmenu.descriptionTranslation.ductwork":   "A simple yet powerful item transfer mod.",
+  "text.autoconfig.ductwork.title":            "Ductwork Configuration",
+
+  "text.autoconfig.ductwork.option.vanilla":   "Limited Ductworks?",
+  "text.autoconfig.ductwork.option.vanilla.@PrefixText": "Limit Ductworkings to Vanilla parity feature set?\n* Disallow upward item transfers\n* Limit Collectors to downward intake\n* Players cannot toggle Damper state",
+  "text.autoconfig.ductwork.option.vanilla.@Tooltip": "Server overrides client; new placement only.",
+
+  "text.autoconfig.ductwork.option.placement": "Duct-on-Duct Placement?",
+  "text.autoconfig.ductwork.option.placement.@PrefixText": "Special Duct-on-Duct placement mode?\nUsing a Ductwork item on a Ductwork block will\nplace the block item instead of opening the inventory.",
+  "text.autoconfig.ductwork.option.placement.@Tooltip": "Server overrides client.",
+
+  "text.autoconfig.ductwork.option.cheaper":   "Cheaper Ductwork Blocks?",
+  "text.autoconfig.ductwork.option.cheaper.@PrefixText": "Use less Iron in Ductwork recipes?\nConvenient for iron farm nerfing modpacks.",
+  "text.autoconfig.ductwork.option.cheaper.@Tooltip": "Server overrides client."
+}

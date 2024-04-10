@@ -1,0 +1,4 @@
+{
+  "libjf-config-ui-tiny.entry.json.read.fail.title": "Could not read",
+  "libjf-config-ui-tiny.entry.json.read.fail.description": "The given entry could not be stringified. Please edit the config manually"
+}

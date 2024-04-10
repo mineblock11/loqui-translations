@@ -1,0 +1,4 @@
+{
+  "commands.multirecipe.conflicts.starting": "Searching for recipe conflicts...",
+  "commands.multirecipe.conflicts.success": "Found %d potential conflicts. Check logs/conflicts.log for more details."
+}

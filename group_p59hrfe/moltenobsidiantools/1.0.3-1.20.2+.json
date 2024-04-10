@@ -1,0 +1,32 @@
+{
+  "item.moltenobsidiantools.molten_obsidian": "Molten Obsidian",
+  "item.moltenobsidiantools.reinforced_molten_obsidian": "Reinforced Molten Obsidian",
+
+  "item.moltenobsidiantools.molten_obsidian_pickaxe": "Molten Obsidian Pickaxe",
+  "item.moltenobsidiantools.molten_obsidian_axe": "Molten Obsidian Axe",
+  "item.moltenobsidiantools.molten_obsidian_shovel": "Molten Obsidian Shovel",
+  "item.moltenobsidiantools.molten_obsidian_hoe": "Molten Obsidian Hoe",
+  "item.moltenobsidiantools.reinforced_obsidian_pickaxe": "Reinforced Obsidian Pickaxe",
+  "item.moltenobsidiantools.reinforced_obsidian_hoe": "Reinforced Obsidian Hoe",
+  "item.moltenobsidiantools.reinforced_obsidian_shovel": "Reinforced Obsidian Shovel",
+  "item.moltenobsidiantools.reinforced_obsidian_axe": "Reinforced Obsidian Axe",
+  "item.moltenobsidiantools.molten_upgrade_template": "Molten Upgrade Template",
+  "item.moltenobsidiantools.reinforced_upgrade_template": "Reinforced Upgrade Template",
+
+
+  "item.moltenobsidiantools.smithing_template.molten_upgrade.applies_to": "Diamond Tools",
+  "item.moltenobsidiantools.smithing_template.molten_upgrade.ingredients": "Molten Obsidian",
+  "item.moltenobsidiantools.smithing_template.molten_upgrade.base_slot_description": "Add diamond tool",
+  "item.moltenobsidiantools.smithing_template.molten_upgrade.additions_slot_description": "Add Molten Obsidian",
+
+  "item.moltenobsidiantools.smithing_template.reinforced_upgrade.applies_to": "Netherite Tools",
+  "item.moltenobsidiantools.smithing_template.reinforced_upgrade.ingredients": "Reinforced Molten Obsidian",
+  "item.moltenobsidiantools.smithing_template.reinforced_upgrade.base_slot_description": "Add netherite tool",
+  "item.moltenobsidiantools.smithing_template.reinforced_upgrade.additions_slot_description": "Add Reinforced Molten Obsidian",
+
+  "upgrade.moltenobsidiantools.molten_upgrade": "Molten Upgrade",
+  "upgrade.moltenobsidiantools.reinforced_upgrade": "Reinforced Upgrade",
+
+
+  "itemgroup.moltenObsidianTools": "Molten Obsidian Tools"
+}

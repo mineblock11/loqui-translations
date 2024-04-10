@@ -1,0 +1,21 @@
+{
+  "item.enderswords.amethyst_endersword": "Amethyst Endersword",
+  "item.enderswords.iron_endersword": "Iron Endersword",
+  "advancements.adv_give_hilt_recipe.title": "Adv Give Hilt Recipe",
+  "item.enderswords.netherite_endersword": "Netherite Endersword",
+  "item.enderswords.stone_endersword": "Stone Endersword",
+  "item.enderswords.endersword_hilt": "Endersword Hilt",
+  "advancements.adv_give_endersword_recipes.title": "Adv Give Endersword Recipes",
+  "gamerule.enderswords_ability_cooldown_percentage": "Enderswords: Ability Cooldown Percentage",
+  "gamerule.enderswords_ability_cooldown_percentage.description": "Adjusts the right click ability cooldown duration.",
+  "item.enderswords.diamond_endersword": "Diamond Endersword",
+  "item.enderswords.emerald_endersword": "Emerald Endersword",
+  "item.enderswords.pure_amethyst_endersword": "Pure Amethyst Endersword",
+  "advancements.adv_give_endersword_recipes.descr": "Adv Give Endersword Recipes",
+  "gamerule.enderswords_durability_use_multiplier.description": "Durability cost when using the right click ability. Set to 0 to disable.",
+  "item.enderswords.wooden_endersword": "Wooden Endersword",
+  "gamerule.enderswords_durability_use_multiplier": "Enderswords: Durability Use Multiplier",
+  "item.enderswords.golden_endersword": "Golden Endersword",
+  "advancements.adv_give_hilt_recipe.descr": "Give hilt recipe",
+  "item.enderswords.copper_endersword": "Copper Endersword"
+}

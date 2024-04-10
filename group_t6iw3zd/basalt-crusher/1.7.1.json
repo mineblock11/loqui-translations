@@ -1,0 +1,24 @@
+{
+  "block.basalt-crusher.basalt_crusher":            "Basalt Crusher",
+  "block.basalt-crusher.gravel_mill":               "Gravel Mill",
+  "block.basalt-crusher.grizzly":                   "Grizzly",
+
+  "block.basalt-crusher.black_gravel":              "Black Gravel",
+
+  "item.basalt-crusher.basalt_crusher":             "Basalt Crusher",
+  "item.basalt-crusher.gravel_mill":                "Gravel Mill",
+  "item.basalt-crusher.grizzly":                    "Grizzly",
+
+  "item.basalt-crusher.iron_jaw_liner":             "Iron Jaw Liner",
+  "item.basalt-crusher.diamond_jaw_liner":          "Diamond Jaw Liner",
+  "item.basalt-crusher.netherite_jaw_liner":        "Netherite Jaw Liner",
+
+  "item.basalt-crusher.mill_rod_charge":            "Mill Rod Charge",
+
+  "item.basalt-crusher.black_gravel":               "Black Gravel",
+  "item.basalt-crusher.obsidian_pile":              "Obsidian Pile",
+  "item.basalt-crusher.obsidian_shard":             "Obsidian Shard",
+
+  "subtitles.basalt-crusher.basalt_crusher_sound":  "Basalt Crusher crunches",
+  "subtitles.basalt-crusher.gravel_mill_sound":     "Gravel Mill rumbles"
+}

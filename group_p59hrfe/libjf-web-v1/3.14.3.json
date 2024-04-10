@@ -1,0 +1,13 @@
+{
+  "libjf-web-v1.jfconfig.title": "LibJF Web v0",
+  "libjf-web-v1.jfconfig.serverIp": "Server IP",
+  "libjf-web-v1.jfconfig.serverIp.tooltip": "The public IP/host name to send to clients",
+  "libjf-web-v1.jfconfig.port": "Port",
+  "libjf-web-v1.jfconfig.port.tooltip": "The port to host content on, 0 to choose a random one or -1 to reuse the minecraft port on servers (requires restart)",
+  "libjf-web-v1.jfconfig.portOverride": "Port Override",
+  "libjf-web-v1.jfconfig.portOverride.tooltip": "The port to send to clients (for reverse proxies, -1 to disable)",
+  "libjf-web-v1.jfconfig.maxConnections": "Max. Connections",
+  "libjf-web-v1.jfconfig.maxConnections.tooltip": "The maximum number of concurrent connections to this server",
+  "libjf-web-v1.jfconfig.enableFileHost": "Enable File Host",
+  "libjf-web-v1.jfconfig.enableFileHost.tooltip": "Whether files from config/wwwroot should be hosted as static resources"
+}

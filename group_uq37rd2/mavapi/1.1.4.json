@@ -1,0 +1,13 @@
+{
+  "mavapi.mod.minecraft": "Minecraft",
+
+  "mavapi.variant.minecraft.lucy": "Lucy",
+  "mavapi.variant.minecraft.wild": "Wild",
+  "mavapi.variant.minecraft.gold": "Gold",
+  "mavapi.variant.minecraft.cyan": "Cyan",
+  "mavapi.variant.minecraft.blue": "Blue",
+
+  "mavapi.bucket.format": "%s %s (%s)",
+  "mavapi.bucket.translation.baby": "Baby",
+  "mavapi.bucket.translation.adult": "Adult"
+}
