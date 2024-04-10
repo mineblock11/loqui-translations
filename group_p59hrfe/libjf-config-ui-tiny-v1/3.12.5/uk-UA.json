@@ -1,0 +1,9 @@
+{
+  "libjf-config-v1.presets": "Шаблони",
+  "libjf-config-v1.default": "За замовчуванням",
+  "libjf-config-v1.see-also": "Дивіться також: %s",
+  "libjf-config-v1.reset": "Скинути",
+  "libjf-config-core-v1.no-screen": "",
+  "libjf-config-core-v1.no-screen.description": "Не виявлено модифікації для завантаження конфігураційного інтерфейсу. Встановіть LibJF щоб додати його.",
+  "libjf-config-core-v1.edit": "Редагувати"
+}
