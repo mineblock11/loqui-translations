@@ -1,0 +1,16 @@
+{
+  "fabrishot.config.title": "Fabrishot",
+  "fabrishot.config.category": "Configurações de captura de tela",
+  "fabrishot.config.custom_file_name": "Usar um formato de nome de arquivo alternativo",
+  "fabrishot.config.custom_file_name.tooltip": "Use %time% para a hora e data,\n%world% para o nome do mundo ou servidor",
+  "fabrishot.config.override_screenshot_key": "Sobrepor as capturas de tela normais com as do Fabrishot",
+  "fabrishot.config.hide_hud": "Ocultar a interface automaticamente",
+  "fabrishot.config.save_file": "Salvar a captura de tela",
+  "fabrishot.config.disable_gui_scaling": "Desativar o ajuste da Interface",
+  "fabrishot.config.width": "Largura da captura de tela",
+  "fabrishot.config.height": "Altura da captura de tela",
+  "fabrishot.config.delay": "Atraso de captura",
+  "fabrishot.config.delay.tooltip": "Frames que o mod deve aguardar antes de capturar a tela. Ajuste para melhores capturas com shaders",
+  "fabrishot.config.file_format": "Formato de arquivo",
+  "key.fabrishot.screenshot": "Tirar captura da tela grande"
+}
