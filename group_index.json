@@ -8,6 +8,12 @@
   "welcomescreen": {
     "1.0.1": "/group_p59hrfe"
   },
+  "weaponworks": {
+    "1.4.1-1.20.1-fabric": "/group_p59hrfe"
+  },
+  "weaponmaster": {
+    "3.0.5": "/group_p59hrfe"
+  },
   "waterdripsound": {
     "1.19-0.3.2": "/group_n4bay11"
   },
@@ -477,6 +483,9 @@
   "fullbrightnesstoggle": {
     "3.0": "/group_p59hrfe"
   },
+  "foglooksgoodnow": {
+    "2.2.0+1.20.1": "/group_p59hrfe"
+  },
   "foggyborder": {
     "1.1": "/group_p59hrfe"
   },
@@ -832,6 +841,9 @@
   },
   "simplystatus": {
     "2.1.0": "/group_ma2ysv3"
+  },
+  "removeblockoutline": {
+    "1.1.2-1.20.1": "/group_ma2ysv3"
   },
   "projectile_damage": {
     "3.2.2+1.20.1": "/group_ma2ysv3"
@@ -1748,6 +1760,9 @@
   },
   "curios": {
     "5.7.2+1.20.1": "/group_4qj4i5v"
+  },
+  "physicsmod": {
+    "3.0.13": "/group_ze32fsj"
   },
   "languagereload": {
     "1.5.9+1.20.1": "/group_0u8y0rt",

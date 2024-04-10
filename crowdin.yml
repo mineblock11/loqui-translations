@@ -1943,6 +1943,20 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /group_ze32fsj/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-AR
+      - es-ES
+      - es-MX
+      - es-UY
+      - fr
+      - ru
+      - uk
+      - zh-CN
+      - zh-HK
+      - zh-TW
   - source: /group_0u8y0rt/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
