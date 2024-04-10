@@ -1,0 +1,35 @@
+{
+  "block.colored_lamps.redstone_lamp_led":      "Redstone Lamp [LED]",
+  "block.colored_lamps.dimmable_redstone_lamp": "Dimmable Redstone Lamp",
+
+  "block.colored_lamps.redstone_lamp_white":       "Redstone Lamp [White]",
+  "block.colored_lamps.redstone_lamp_light_gray":  "Redstone Lamp [Light Gray]",
+  "block.colored_lamps.redstone_lamp_gray":        "Redstone Lamp [Gray]",
+  "block.colored_lamps.redstone_lamp_brown":       "Redstone Lamp [Brown]",
+  "block.colored_lamps.redstone_lamp_red":         "Redstone Lamp [Red]",
+  "block.colored_lamps.redstone_lamp_orange":      "Redstone Lamp [Orange]",
+  "block.colored_lamps.redstone_lamp_yellow":      "Redstone Lamp [Yellow]",
+  "block.colored_lamps.redstone_lamp_green":       "Redstone Lamp [Green]",
+  "block.colored_lamps.redstone_lamp_dark_green":  "Redstone Lamp [Dark Green]",
+  "block.colored_lamps.redstone_lamp_cyan":        "Redstone Lamp [Cyan]",
+  "block.colored_lamps.redstone_lamp_light_blue":  "Redstone Lamp [Light Blue]",
+  "block.colored_lamps.redstone_lamp_blue":        "Redstone Lamp [Blue]",
+  "block.colored_lamps.redstone_lamp_purple":      "Redstone Lamp [Purple]",
+  "block.colored_lamps.redstone_lamp_magenta":     "Redstone Lamp [Magenta]",
+  "block.colored_lamps.redstone_lamp_pink":        "Redstone Lamp [Pink]",
+
+
+  "block.colored_lamps.dimmable_redstone_lamp_white":       "Dimmable Redstone Lamp [White]",
+  "block.colored_lamps.dimmable_redstone_lamp_brown":       "Dimmable Redstone Lamp [Brown]",
+  "block.colored_lamps.dimmable_redstone_lamp_red":         "Dimmable Redstone Lamp [Red]",
+  "block.colored_lamps.dimmable_redstone_lamp_orange":      "Dimmable Redstone Lamp [Orange]",
+  "block.colored_lamps.dimmable_redstone_lamp_yellow":      "Dimmable Redstone Lamp [Yellow]",
+  "block.colored_lamps.dimmable_redstone_lamp_green":       "Dimmable Redstone Lamp [Green]",
+  "block.colored_lamps.dimmable_redstone_lamp_dark_green":  "Dimmable Redstone Lamp [Dark Green]",
+  "block.colored_lamps.dimmable_redstone_lamp_cyan":        "Dimmable Redstone Lamp [Cyan]",
+  "block.colored_lamps.dimmable_redstone_lamp_light_blue":  "Dimmable Redstone Lamp [Light Blue]",
+  "block.colored_lamps.dimmable_redstone_lamp_blue":        "Dimmable Redstone Lamp [Blue]",
+  "block.colored_lamps.dimmable_redstone_lamp_purple":      "Dimmable Redstone Lamp [Purple]",
+  "block.colored_lamps.dimmable_redstone_lamp_magenta":     "Dimmable Redstone Lamp [Magenta]",
+  "block.colored_lamps.dimmable_redstone_lamp_pink":        "Dimmable Redstone Lamp [Pink]"
+}

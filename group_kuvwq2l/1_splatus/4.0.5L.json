@@ -1,0 +1,574 @@
+{
+
+  "{t:} Translator": "LimeSplatus#4730",
+
+  "(splatus example:) Original text": "Translated Text",
+  "Anytime text includes a \n or space please put it into the translation as well": "Anytime text includes a \n or space please put it into the translation as well",
+  "These 3 example translations do not have to be translated. Translate everything else below": "These 3 example translations do not have to be translated. Translate everything else below",
+  
+
+
+  "Ore Collector": "Ore Collector",
+  "Obtain one of each ore from the Overworld": "Obtain one of each ore from the Overworld",
+
+  "Shimmering Crystals": "Shimmering Crystals",
+  "Obtain Amethyst Shards from an amethyst geode": "Obtain Amethyst Shards from an amethyst geode",
+
+  "Silence of the City": "Silence of the City",
+  "Discover the Ancient City, inhabitated by Sculk and the Warden": "Discover the Ancient City, inhabitated by Sculk and the Warden",
+
+  "Aqua Bubbles": "Aqua Bubbles",
+  "Swim over a ": "Swim over a ",
+  " to breathe underwater": " to breathe underwater",
+
+  "Into the Depths": "Into the Depths",
+  "Enter the ": "Enter the ",
+  " layer of the caves": " layer of the caves",
+
+  "Bucket Clutch": "Bucket Clutch",
+  "Use a water bucket to save yourself from a 10 block fall": "Use a water bucket to save yourself from a 10 block fall",
+
+  "Ultimate Bucket Clutch": "Ultimate Bucket Clutch",
+  "Use a water bucket to save yourself from a 50 block fall": "Use a water bucket to save yourself from a 50 block fall",
+
+  "Waterpowered": "Waterpowered",
+  "Construct a ": "Construct a ",
+  " and take in the effects of its power": " and take in the effects of its power",
+
+  "Frightening Fist Fight": "Frightening Fist Fight",
+  "Kill an Enderman with only your fist and without any armor or resistance": "Kill an Enderman with only your fist and without any armor or resistance",
+
+  "Vibin'": "Vibin'",
+  "Insert a music disc into a ": "Insert a music disc into a ",
+
+  "Open Waters": "Open Waters",
+  "Dip into the vast, open waters of the ocean": "Dip into the vast, open waters of the ocean",
+
+  "Yarr, Treasure!": "Yarr, Treasure!",
+  "Uncover and open a buried treasure chest": "Uncover and open a buried treasure chest",
+
+  "Whats in the Box?": "Whats in the Box?",
+  "Open a loot chest": "Open a loot chest",
+
+  "Monsterous Generator": "Monsterous Generator",
+  "Find a ": "Find a ",
+  " inside a dungeon": " inside a dungeon",
+
+  "Absorbant and Yellow": "Absorbant and Yellow",
+  "Use a Sponge to quickly absorb and clear out a space of water": "Use a Sponge to quickly absorb and clear out a space of water",
+
+  "Sneaking Swiftly": "Sneaking Swiftly",
+  "Put the ": "Put the ",
+  " enchantment on some leggings and sneak around with them": " enchantment on some leggings and sneak around with them",
+
+  "\"Balanced\" Progression": "\"Balanced\" Progression",
+  "Trade with a Villager for a ": "Trade with a Villager for a ",
+
+  "Beyond the Clouds": "Beyond the Clouds",
+  "Fly beyond the Overworld build limit with your ": "Fly beyond the Overworld build limit with your ",
+
+  "Portable Chest": "Portable Chest",
+  "Use the Shulker Shells of a ": "Use the Shulker Shells of a ",
+  " merged with a chest to craft a ": " merged with a chest to craft a ",
+
+  "Mid-Air Battle": "Mid-Air Battle",
+  "Kill 10 mobs without touching the ground or water": "Kill 10 mobs without touching the ground or water",
+
+  "Colors of the Rainbow": "Colors of the Rainbow",
+  "Obtain all 16 wool colors": "Obtain all 16 wool colors",
+
+  "Fertilizer": "Fertilizer",
+  "Use ": "Use ",
+  " on a plant to make it grow faster": " on a plant to make it grow faster",
+
+  "Goaty Call": "Goaty Call",
+  "Obtain a ": "Obtain a ",
+  " from a Goat and play it": " from a Goat and play it",
+
+  "Crop Garden": "Crop Garden",
+  "Plant the main 4 overworld crops: Wheat, Carrots, Potatoes, and Beetroots": "Plant the main 4 overworld crops: Wheat, Carrots, Potatoes, and Beetroots",
+
+  "Avid Lumberjack": "Avid Lumberjack",
+  "Obtain one every wood log": "Obtain one every wood log",
+
+  "Not So Friendly": "Not So Friendly",
+  "Attack a ": "Attack a ",
+  "... and run away as fast as you can": "... and run away as fast as you can",
+
+  "Bubblevator": "Bubblevator",
+  "Place ": "Place ",
+  " below water to create an upward current": " below water to create an upward current",
+
+  "Above the Nether": "Above the Nether",
+  "Break the limits of the Nether and go above its Bedrock roof": "Break the limits of the Nether and go above its Bedrock roof",
+
+  "Void's Calling": "Void's Calling",
+  "Obtain an ": "Obtain an ",
+  " from an ": " from an ",
+
+  "Diamond Miner": "Diamond Miner",
+  "Create the pickaxe that can break anything": "Create the pickaxe that can break anything",
+
+  "Bon Appétit!": "Bon Appétit!",
+  "Eat food to relieve hunger": "Eat food to relieve hunger",
+  
+  "Defeat the ": "Defeat the ",
+
+  "Filled With Experience": "Filled With Experience",
+  "Reach experience level 30": "Reach experience level 30",
+
+  "Fully Enchanted": "Fully Enchanted",
+  "Fully enchant your armor with max enchantments": "Fully enchant your armor with max enchantments",
+
+  "Nightmare Fuel": "Nightmare Fuel",
+  "Go 3 full days without sleeping and encounter Phantoms": "Go 3 full days without sleeping and encounter Phantoms",
+
+  "Crafting Time": "Crafting Time",
+  "Create a ": "Create a ",
+  " with 4 wood planks in your inventory's crafting grid": " with 4 wood planks in your inventory's crafting grid",
+  
+
+
+
+  
+
+
+
+
+
+
+  "\nClick the name of an item to receive it\n": "\nClick the name of an item to receive it\n",
+  "Page": "Page",
+  "Return": "Return",
+  "Click to give": "Click to give",
+  "Next Page": "Next Page",
+  "Previous Page": "Previous Page",
+
+  "Hover to View Recipe": "Hover to View Recipe",
+  "Locked": "Locked",
+
+  "Recipe unlocks after getting a ": "Recipe unlocks after getting a ",
+  
+
+  "Drop these items onto the ground to craft this weapon\n": "Drop these items onto the ground to craft this weapon\n",
+  "Fire Staff: ": "Fire Staff: ",
+  "Ice Staff: ": "Ice Staff: ",
+  "Electric Staff: ": "Electric Staff: ",
+  
+  
+
+
+  "You have learned a new weapon recipe, ": "You have learned a new weapon recipe, ",
+  ". Use /trigger spellbound_recipes in chat to view your current recipes": ". Use /trigger spellbound_recipes in chat to view your current recipes",
+
+
+
+
+  "Page 2 -->": "Page 2 -->",
+  "Page 3 -->": "Page 3 -->",
+  "Page 4 -->": "Page 4 -->",
+  "Page 5 -->": "Page 5 -->",
+  "Page 6 -->": "Page 6 -->",
+  "Page 7 -->": "Page 7 -->",
+  "Page 8 -->": "Page 8 -->",
+  
+  "<-- Page 1": "<-- Page 1",
+  "<-- Page 2": "<-- Page 2",
+  "<-- Page 3": "<-- Page 3",
+  "<-- Page 4": "<-- Page 4",
+  "<-- Page 5": "<-- Page 5",
+  "<-- Page 6": "<-- Page 6",
+  "<-- Page 7": "<-- Page 7",
+
+  "<-- Return": "<-- Return",
+
+
+
+
+  "Description:": "Description:",
+  "Click to change this setting:": "Click to change this setting",
+  "Enabled:": "Enabled:",
+  "Disabled:": "Disabled:",
+  "Weapons Achieveable: ": "Weapons Achieveable: ",
+  "Weapon Cooldowns: ": "Weapon Cooldowns: ",
+  "Weapon Recipes Notification: ": "Weapon Recipes Notification: ",
+  "Weapon Tips: ": "Weapon Tips: ",
+
+
+  "The cooldowns for weapons that take time to charge like the Staffs, when cooldowns are disabled they will immediately reach their final charge state.": "The cooldowns for weapons that take time to charge like the Staffs, when cooldowns are disabled they will immediately reach their final charge state.",
+  "Determines whether Spellbound Weapons can be naturally found in Survival Mode (chests, mob drops, etc) otherwise if disabled, weapons can only be accessed through commands": "Determines whether Spellbound Weapons can be naturally found in Survival Mode (chests, mob drops, etc) otherwise if disabled, weapons can only be accessed through commands",
+  "Messages in chat that display to the player when the required item for a certain weapon's recipe is achieved": "Messages in chat that display to the player when the required item for a certain weapon's recipe is achieved",
+  "Gives a short text tip above your hotbar when first holding certain weapons that have sneak abilities to better explain it to first time users": "Gives a short text tip above your hotbar when first holding certain weapons that have sneak abilities to better explain it to first time users",
+  
+
+
+
+
+  "Weapon Tip:": "Weapon Tip:",
+  " Triple clicking ": " Triple clicking ",
+  " will break your currently existing bone blocks.": " will break your currently existing bone blocks.",
+  " Holding ": " Holding ",
+  " whilst aiming will make your suction area deal 0 damage and use less durability": " whilst aiming will make your suction area deal 0 damage and use less durability",
+  " When you notice sand particles around you, you can triple click ": " When you notice sand particles around you, you can triple click ",
+  " to unleash a wave of sand": " to unleash a wave of sand",
+
+
+
+
+
+
+  "Spellbound Conqueror": "Spellbound Conqueror",
+  "Discover every Spellbound Weapon": "Discover every Spellbound Weapon",
+  
+
+
+  "Nether Staffs": "Nether Staffs",
+  "End Excalibur": "End Excalibur",
+  "Blazing Sword": "Blazing Sword",
+  "Cursed Sea Blade": "Cursed Sea Blade",
+  "Dagger": "Dagger",
+  "Fire Staff": "Fire Staff",
+  "Ice Staff": "Ice Staff",
+  "Electric Staff": "Electric Staff",
+  "Empty Staff": "Empty Staff",
+  "Crucible": "Crucible",
+  "Windswept Sword": "Windswept Sword",
+  "Withering Sword": "Withering Sword",
+  "Witherblade": "Witherblade",
+  "Mega Hammer": "Mega Hammer",
+  "Evokers Wrath": "Evokers Wrath",
+  "Bone Wand": "Bone Wand",
+  "Warped Crossbow": "Warped Crossbow",
+  "Blowgun": "Blowgun",
+  "Chainfiring Crossbow": "Chainfiring Crossbow",
+  "Endlight Bow": "Endlight Bow",
+  "Golden Sea Blade": "Golden Sea Blade",
+  "Broken Crucible": "Broken Crucible",
+  "Moonlight Edge": "Moonlight Edge",
+  "Magmus Bow": "Magmus Bow",
+  "Magmus Charger": "Magmus Charger",
+  "Echo Wand": "Echo Wand",
+
+
+
+  "Your Fire Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil": "Your Fire Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil",
+  "Your Ice Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil": "Your Ice Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil",
+  "Your Electric Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil": "Your Electric Staff is at low durability! Repair it with a fishing rod in a grindstone or anvil",
+ 
+  "Charging Wave...": "Charging Wave...",
+  "Ready! Press ": "Ready! Press ",
+  " to Release a Wave - 40/40": " to Release a Wave - 40/40",
+
+  "Charging beam... - ": "Charging beam... - ",
+  " to release beam - 60/60": " to release beam - 60/60",
+
+  "Energy - ": "Energy - ",
+  "Energy Maxed! Press ": "Energy Maxed! Press ",
+  " to release stored energy - 500": " to release stored energy - 500",
+
+
+  " is charged!": " is charged!",
+  "Shoot fireballs and set flames": "Shoot fireballs and set flames",
+  "Shoot ice blocks that freeze your": "Shoot ice blocks that freeze your",
+  "enemies in place": "enemies in place",
+  "Casts a line of electricity that fires": "Casts a line of electricity that fires",
+  "instantly and can go through walls": "instantly and can go through walls",
+"Witherblade has absorbed max souls! Hold down ": "Witherblade has absorbed max souls! Hold down ",
+" to heal": " to heal",
+
+
+  "Color: Red": "Color: Red",
+  "Color: Orange": "Color: Orange",
+  "Color: Yellow": "Color: Yellow",
+  "Color: Green": "Color: Green",
+  "Color: Lime": "Color: Lime",
+  "Color: Light Blue": "Color: Light Blue",
+  "Color: Blue": "Color: Blue",
+  "Color: Purple": "Color: Purple",
+  "Color: Magenta": "Color: Magenta",
+  "Color: Cyan": "Color: Cyan",
+  "Color: Pink": "Color: Pink",
+  "Color: Brown": "Color: Brown",
+  "Color: White": "Color: White",
+  "Color: Light Gray": "Color: Light Gray",
+  "Color: Gray": "Color: Gray",
+  "Color: Black": "Color: Black",
+  
+  "Your weapon burned whilst converting to netherite. Drop it on the ground to revert it back": "Your weapon burned whilst converting to netherite. Drop it on the ground to revert it back"
+,
+"You can't use two ranged weapons on your mainhand and offhand at the same time": "You can't use two ranged weapons on your mainhand and offhand at the same time"
+
+
+
+
+
+
+
+
+,
+
+
+
+
+"#COMMENT // The translations below are part of Spellbound Weapons v4.0.0": "this specific line does not need to be translated",
+
+" was blown up by ": " was blown up by ",
+" was shot by ": " was shot by ",
+" was stunned by ": " was stunned by ",
+" energy from ": " energy from ",
+" was electricuted by ": " was electricuted by ",
+" was frozen by ": " was frozen by ",
+" was exploded by arrow from ": " was exploded by arrow from ",
+" perished by a light beam from ": " perished by a light beam from ",
+" perished by a heavy light beam from ": " perished by a heavy light beam from ",
+" was slain by ": " was slain by ",
+" was pricked to death by thorns from": " was pricked to death by thorns from",
+" was swept in wind by ": " was swept in wind by ",
+" hit themself whilst thorn grappling": " hit themself whilst thorn grappling",
+
+"Determines whether players can create weapon variants like dyed Crucibles and dagger variants": "Determines whether players can create weapon variants like dyed Crucibles and dagger variants",
+
+"Windsweeper": "Windsweeper",
+"Blazeblade": "Blazeblade",
+"Thorn Blossom": "Thorn Blossom",
+" charged! Hold ": " charged! Hold ",
+" to release flames": " to release flames",
+
+"Spellbound Master": "Spellbound Master",
+"Obtain every Spellbound Weapon": "Obtain every Spellbound Weapon",
+
+"Variant: Iron-Plated": "Variant: Iron-Plated",
+"Variant: Diamond-Plated": "Variant: Diamond-Plated",
+"Variant: Gold-Plated": "Variant: Gold-Plated",
+
+"Drop these items ontop of a crafting table to craft": "Drop these items ontop of a crafting table to craft",
+
+"Grindstone Repair: ": "Grindstone Repair: ",
+
+"Nether Fortress Core": "Nether Fortress Core",
+
+"Attack a mob to charge Blazeblade": "Attack a mob to charge Blazeblade",
+"Place Bone Blocks by clicking ": "Place Bone Blocks by clicking ",
+"Hold ": "Hold ",
+" and then press ": " and then press ",
+" to place a Bone Wall": " to place a Bone Wall",
+"Break existing Bone Blocks by repetitively clicking ": "Break existing Bone Blocks by repetitively clicking ",
+"Attack a mob when ": "Attack a mob when ",
+" is charged to release a Fang Line": " is charged to release a Fang Line",
+"You can also release Fang Line from a distance by pressing ": "You can also release Fang Line from a distance by pressing ",
+"Perform a critical hit (jump and then hit whilst falling)": "Perform a critical hit (jump and then hit whilst falling)",
+" to release a Fang Trap": " to release a Fang Trap",
+"Press ": "Press ",
+" to grapple and release thorns where you land": " to grapple and release thorns where you land",
+"Face straight down and press ": "Face straight down and press ",
+" to release thorns without grappling": " to release thorns without grappling",
+" to release wind that slows down mobs": " to release wind that slows down mobs",
+" to release wind below you and levitate": " to release wind below you and levitate",
+"Attack mobs to absorb souls and use it for healing": "Attack mobs to absorb souls and use it for healing",
+
+" and ": " and ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Please Select A Category": "Please Select A Category",
+    "Click to Summon": "Click to Summon",
+    "Summon Bosses": "Summon Bosses",
+    "Settings": "Settings",
+    "Boss Items": "Boss Items",
+    "Operator Commands": "Operator Commands",
+    "Enable": "Enable",
+    "Disable": "Disable",
+    
+ 
+
+    "Corrupted Enderman": "Corrupted Enderman",
+    "Giant": "Giant",
+    "Blaze King": "Blaze King",
+    "Ultra Wither": "Ultra Wither",
+    "Sanctum Keeper": "Sanctum Keeper",
+    "Phantom Swarm": "Phantom Swarm",
+    "Illusioner": "Illusioner",
+    "Shulker Stone": "Shulker Stone",
+
+  
+    
+    "Ultra Corrupted Enderman": "Ultra Corrupted Enderman",
+    "Ultra Giant": "Ultra Giant",
+    "Ultra Blaze King": "Ultra Blaze King",
+    "Ultra Ultra Wither": "Ultra Ultra Wither",
+    "Ultra Sanctum Keeper": "Ultra Sanctum Keeper",
+    "Ultra Phantom Swarm": "Ultra Phantom Swarm",
+    "Ultra Illusioner": "Ultra Illusioner",
+    "Ultra Shulker Stone": "Ultra Shulker Stone",
+
+
+
+
+    "Ominous Command Block": "Ominous Command Block",
+    "Ominous Eye of Ender": "Ominous Eye of Ender",
+    "Ominous Pearl": "Ominous Pearl",
+    "Spirit Bow": "Spirit Bow",
+    "Blaze King's Helmet": "Blaze King's Helmet",
+    "Shulker Shell Helmet": "Shulker Shell Helmet",
+    "Giant Stompers": "Giant Stompers",
+    "Endstone Key": "Endstone Key",
+    "Corrupt Dust": "Corrupt Dust",
+    "Enchanted Core": "Enchanted Core",
+
+    " cannot function with netherite. Drop it on the ground to revert it.": " cannot function with netherite. Drop it on the ground to revert it.",
+
+  
+
+
+
+    "Deep Vision I": "Deep Vision I",
+    "The Shulker Shell of the": "The Shulker Shell of the",
+    "Shulker Stone. When equipped,": "Shulker Stone. When equipped,",
+    "the bearer will give surrounding": "the bearer will give surrounding",
+    "mobs a glow effect, and all": "mobs a glow effect, and all",
+    "end mobs will be passive.": "end mobs will be passive.",
+
+    "Split I": "Split I",
+    "A sacred bow that harnests the": "A sacred bow that harnests the",
+    "energy of souls in the air, once": "energy of souls in the air, once",
+    "charged will split your arrow into": "charged will split your arrow into",
+    "mirrors of the Sanctum Keeper. To": "mirrors of the Sanctum Keeper. To",
+    "teleport, sneak/crouch while aiming": "teleport, sneak/crouch while aiming",
+
+    "Dropped by the Ultra Wither. When in": "Dropped by the Ultra Wither. When in",
+    "player\\'s inventory they will": "player\\'s inventory they will",
+    "gain 2 extra hearts": "gain 2 extra hearts",
+
+    "The helmet of the Blaze King, amplifies": "The helmet of the Blaze King, amplifies",
+    "the power and determination of": "the power and determination of",
+    "the bearer when at low health": "the bearer when at low health",
+
+    "Propells the bearer with the power of": "Propells the bearer with the power of",
+    "giants. Hold sneak and then jump to": "giants. Hold sneak and then jump to",
+    "perform a high jump. Jump ontop of": "perform a high jump. Jump ontop of",
+    "mobs to deal damage": "mobs to deal damage",
+    
+    "Used to reawaken the Shulker Stone": "Used to reawaken the Shulker Stone",
+    "from its deep sleep in its inverted": "from its deep sleep in its inverted",
+    "pyramid high above the End Cities": "pyramid high above the End Cities",
+
+    "Created at a Sanctum, throw this": "Created at a Sanctum, throw this",
+    "on an enderman to corrupt it": "on an enderman to corrupt it",
+
+    "Charging... - ": "Charging... - ",
+    "Spirit Bow is charged! - 25/25": "Spirit Bow is charged! - 25/25",
+
+
+    
+    "Mysterious Power": "Mysterious Power",
+    "Forge a Command Block in a Smithing Table with an ominous pearl and a gold block": "Forge a Command Block in a Smithing Table with an ominous pearl and a gold block",
+    "Ultris Conqueror": "Ultris Conqueror",
+    "Defeat every Ultris Boss": "Defeat every Ultris Boss",
+    "Corrupted": "Corrupted",
+    "Find and battle the corrupted Ultris Boss, Corrupted Enderman": "Find and battle the corrupted Ultris Boss, Corrupted Enderman",
+    "Weakened": "Weakened",
+    "Defeat the Corrupted Enderman": "Defeat the Corrupted Enderman",
+    "No Giant Is Stronger Than Me!": "No Giant Is Stronger Than Me!",
+    "Defeat the Giant": "Defeat the Giant",
+    "Green Giant": "Green Giant",
+    "Throw a strength potion at a zombie and turn it into the Ultris Boss, the Giant.": "Throw a strength potion at a zombie and turn it into the Ultris Boss, the Giant.",
+    "Fountain of Youth?": "Fountain of Youth?",
+    "Throw a weakness potion at a zombie and turn it into a... baby zombie.": "Throw a weakness potion at a zombie and turn it into a... baby zombie.",
+    "What Species is That?": "What Species is That?",
+    "Find a pig with strange purple particles...": "Find a pig with strange purple particles...",
+    "Porky Illusions": "Porky Illusions",
+    "Encounter the magical Ultris Boss, the Illusioner.": "Encounter the magical Ultris Boss, the Illusioner.",
+    "Shows Over!": "Shows Over!",
+    "Defeat the Illusioner": "Defeat the Illusioner",
+    "Together In The Dark": "Together In The Dark",
+    "Bring out the friends of the lone phantom and discover the Phantom Swarm": "Bring out the friends of the lone phantom and discover the Phantom Swarm",
+    "Phantom Slayer": "Phantom Slayer",
+    "Defeat the Phantom Swarm": "Defeat the Phantom Swarm",
+    "Alone In The Dark..?": "Alone In The Dark..?",
+    "Find a phantom all alone by itself in the vastness of the end...": "Find a phantom all alone by itself in the vastness of the end...",
+    "Flame Out!": "Flame Out!",
+    "Set flame to a phantom in the end and remove its abillity to summon other phantoms": "Set flame to a phantom in the end and remove its abillity to summon other phantoms",
+    "Ultris: Minecraft Boss Expansion": "Ultris: Minecraft Boss Expansion",
+    "Venture further and discover the 8 Ultris Bosses. Follow through the advancements proceeding to find the paths to each boss.": "Venture further and discover the 8 Ultris Bosses. Follow through the advancements proceeding to find the paths to each boss.",
+    "Ultra Withering Heights": "Ultra Withering Heights",
+    "Throw an Enchanted Command Block at a Wither, summon the Ultris Boss, Ultra Wither": "Throw an Enchanted Command Block at a Wither, summon the Ultris Boss, Ultra Wither",
+    "Double It Up!": "Double It Up!",
+    "Throw a second command block at the Ultra Wither to receive more XP after defeation": "Throw a second command block at the Ultra Wither to receive more XP after defeation",
+    "Ultra Demise": "Ultra Demise",
+    "Defeat the Ultra Wither": "Defeat the Ultra Wither",
+    "The Kings Residence": "The Kings Residence",
+    "Enter the Blaze Kings Tower inside a nether fortress": "Enter the Blaze Kings Tower inside a nether fortress",
+    "High Sky Pyramid": "High Sky Pyramid",
+    "Discover a mysterious pyramid high above an end city": "Discover a mysterious pyramid high above an end city",
+    "Awaken": "Awaken",
+    "Awaken the blazing Ultris Boss, Blaze King": "Awaken the blazing Ultris Boss, Blaze King",
+    "Into Ashes": "Into Ashes",
+    "Defeat the Blaze King": "Defeat the Blaze King",
+    "Sealed Secrets": "Sealed Secrets",
+    "Reach the top of the pyramid and insert an Endstone Key to the pedestal by right clicking its shimmering end rod": "Reach the top of the pyramid and insert an Endstone Key to the pedestal by right clicking its shimmering end rod",
+    "Awaken at Kingdom's End": "Awaken at Kingdom's End",
+    "Awaken the Ultris boss, ruler of the shulkers, the Shulker Stone": "Awaken the Ultris boss, ruler of the shulkers, the Shulker Stone",
+    "True Form": "True Form",
+    "Shoot a spectral arrow at the shulker stone, and question the mob it really is": "Shoot a spectral arrow at the shulker stone, and question the mob it really is",
+    "Back to Eternal Sleep": "Back to Eternal Sleep",
+    "Defeat the Shulker Stone": "Defeat the Shulker Stone",
+    "Ominous Compass": "Ominous Compass",
+    "Forge a Ominous Eye Of Ender in a Smithing Table with an ominous pearl and blaze powder": "Forge a Ominous Eye Of Ender in a Smithing Table with an ominous pearl and blaze powder",
+    "Collector of Souls": "Collector of Souls",
+    "Find the Ultris Boss, Sanctum Keeper": "Find the Ultris Boss, Sanctum Keeper",
+    "Free the Sanctum": "Free the Sanctum",
+    "Defeat the Sanctum Keeper": "Defeat the Sanctum Keeper",
+    "Corruptions Birthplace": "Corruptions Birthplace",
+    "Find the Corruption lab inside the Sanctum": "Find the Corruption lab inside the Sanctum",
+    "Mad Scienctist": "Mad Scienctist",
+    "Create some corrupt dust within the Corruption Lab": "Create some corrupt dust within the Corruption Lab",
+    "The Sanctum's Corrupter": "The Sanctum's Corrupter",
+    "Throw corrupt dust on a enderman and convert it into a Corrupted Enderman.": "Throw corrupt dust on a enderman and convert it into a Corrupted Enderman.",
+    "Feels Like Home": "Feels Like Home",
+    "Hold an emerald in front of the Sanctum Keepers soul and lead it all the way to a village.": "Hold an emerald in front of the Sanctum Keepers soul and lead it all the way to a village.",
+    "Lost and Forgotten": "Lost and Forgotten",
+    "Find the sacred stronghold, the Sanctum": "Find the sacred stronghold, the Sanctum",
+    "Released": "Released",
+    "Free a trapped soul from a glass container": "Free a trapped soul from a glass container",
+    "The Sanctum's Repairer": "The Sanctum's Repairer",
+    "Run out of the Fortified Sanctum's XP Machine uses, then throw a diamond on top of it to repair it": "Run out of the Fortified Sanctum's XP Machine uses, then throw a diamond on top of it to repair it",
+    "Bookshelves Everywhere!": "Bookshelves Everywhere!",
+    "Find the Fortified Sanctum's Library": "Find the Fortified Sanctum's Library",
+    "High Class": "High Class",
+    "Find the the Sanctum varient, the Fortified Sanctum": "Find the the Sanctum varient, the Fortified Sanctum"
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+}

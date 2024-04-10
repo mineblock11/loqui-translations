@@ -66,6 +66,9 @@
   "tradepreview": {
     "1.0.0+01": "/group_p59hrfe"
   },
+  "tinyfoes": {
+    "1.20.4-1.0": "/group_p59hrfe"
+  },
   "third_person_maps": {
     "1.5.1": "/group_p59hrfe"
   },
@@ -243,6 +246,9 @@
   "newslabvariants": {
     "2.1.0": "/group_p59hrfe"
   },
+  "nemos-creatures": {
+    "1.6.1-1.20.4": "/group_p59hrfe"
+  },
   "moltenobsidiantools": {
     "1.0.3-1.20.2+": "/group_p59hrfe"
   },
@@ -291,6 +297,9 @@
     "1.20.2+1.2.2": "/group_p59hrfe",
     "1.20.1+1.2.2": "/group_p59hrfe"
   },
+  "lavender-md": {
+    "0.1.0+1.20.3": "/group_p59hrfe"
+  },
   "kyrptconfig": {
     "1.5.8-1.20.2": "/group_p59hrfe",
     "1.5.6-1.20": "/group_p59hrfe"
@@ -316,6 +325,9 @@
   "idwtialsimmoedm": {
     "0.3.0+1.20.3": "/group_ma2ysv3",
     "0.3.0+1.20": "/group_ma2ysv3"
+  },
+  "horseshoes": {
+    "1.0.2": "/group_p59hrfe"
   },
   "horsebuff": {
     "2.1.2": "/group_p59hrfe"
@@ -361,6 +373,9 @@
   "extendeddrawersaddon": {
     "1.0.2": "/group_p59hrfe"
   },
+  "explosiveenhancement": {
+    "1.2.2-1.20.x": "/group_p59hrfe"
+  },
   "excavated_variants": {
     "4.1.3": "/group_p59hrfe"
   },
@@ -385,6 +400,9 @@
   "doapi": {
     "1.2.8": "/group_p59hrfe"
   },
+  "divinityunbound": {
+    "0.4.0-1.20.4": "/group_p59hrfe"
+  },
   "distanthorizons": {
     "2.0.2-a-dev": "/group_p59hrfe"
   },
@@ -401,6 +419,7 @@
     "4.5": "/group_p59hrfe"
   },
   "cristellib": {
+    "1.2.4": "/group_p59hrfe",
     "1.1.5": "/group_p59hrfe"
   },
   "createmetalwork": {
@@ -417,6 +436,9 @@
   },
   "coloredendcrystals": {
     "1.0.1": "/group_p59hrfe"
+  },
+  "colored_lamps": {
+    "0.0.1-fabric": "/group_p59hrfe"
   },
   "cleardespawn": {
     "1.1.15": "/group_p59hrfe"
@@ -507,6 +529,9 @@
   "advancedenderite": {
     "0.0.1": "/group_p59hrfe"
   },
+  "advancedcombat": {
+    "1.20.4-3.6FC": "/group_p59hrfe"
+  },
   "additionz": {
     "1.2.2": "/group_p59hrfe"
   },
@@ -525,11 +550,17 @@
   "mavapi": {
     "1.1.4": "/group_uq37rd2"
   },
+  "lavender": {
+    "0.1.5+1.20.3": "/group_uq37rd2"
+  },
   "extended_drawers": {
     "2.1.1+mc.1.20.1": "/group_uq37rd2"
   },
   "enhancedweather": {
     "1.1-Alpha2": "/group_uq37rd2"
+  },
+  "conjuring": {
+    "1.0.29+1.20.3": "/group_uq37rd2"
   },
   "coat": {
     "1.0.0-beta.20+mc1.20-pre1": "/group_uq37rd2"
@@ -839,6 +870,9 @@
   "sit": {
     "1.1.4+1.20.2-1.20.4": "/group_xqo2jln"
   },
+  "itemalchemy": {
+    "0.8.7": "/group_u3tvcte"
+  },
   "roughlyenoughprofessions": {
     "2.0.2": "/group_5jnfeau"
   },
@@ -867,6 +901,9 @@
   "malilib": {
     "0.17.0": "/group_z08bfp4",
     "0.16.2": "/group_z08bfp4"
+  },
+  "regions_unexplored": {
+    "0.5.5+1.20.4": "/group_irw33ma"
   },
   "exposure": {
     "1.2.2": "/group_irw33ma"
@@ -941,6 +978,12 @@
   "ctov": {
     "3.4.3": "/group_27vx22j"
   },
+  "sn0wfrogs_capybaras": {
+    "1.1.0-mc1.20.4": "/group_bb3vhhn"
+  },
+  "forgottengraves": {
+    "1.20.4-3.2.7": "/group_kzdx90w"
+  },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x",
     "1.4.4": "/group_m1nrfqk"
@@ -983,7 +1026,8 @@
     "1.20-1.1.12": "/group_6i07ai4"
   },
   "betterarcheology": {
-    "1.1.2-1.20.1": "/group_6ce42q4"
+    "1.1.2-1.20.1": "/group_6ce42q4",
+    "1.1.6-1.20.4": "/group_7f81tec"
   },
   "tropicraft": {
     "9.6.3": "/group_99fsuc6"
@@ -1067,6 +1111,9 @@
   "ad_astra": {
     "1.16.5": "/group_58qq28h"
   },
+  "extraalchemy": {
+    "1.11.3": "/group_4odwqy0"
+  },
   "midnightlib": {
     "1.5.3": "/group_nzs7a7t",
     "1.5.0": "/group_nzs7a7t",
@@ -1111,6 +1158,12 @@
   },
   "expandedstorage": {
     "12.1.0-beta.1": "/group_vv3y10k"
+  },
+  "enchantinginfuser": {
+    "20.4.1": "/group_kb4ri9y"
+  },
+  "bosses_of_mass_destruction": {
+    "1.8.2-1.20.4": "/group_odhvwow"
   },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4"
@@ -1184,6 +1237,7 @@
   },
   "creativecore": {
     "2.11.2": "/group_qilsl5b",
+    "2.11.16": "/group_596bz7z",
     "2.11.15": "/group_596bz7z"
   },
   "vinery": {
@@ -1235,6 +1289,12 @@
   "betternether": {
     "9.30.0": "/group_1g1kk06",
     "9.0.10": "/group_4c5ztuo"
+  },
+  "toolstats": {
+    "19.0.3": "/group_p4zuro8"
+  },
+  "1_splatus": {
+    "4.0.5L": "/group_kuvwq2l"
   },
   "jade": {
     "13.3.1": "/group_2qmktrs",
@@ -1320,6 +1380,15 @@
     "3.9.6+fabric-1.20.4": "/group_kpi8cql",
     "3.9.6+fabric-1.20.2": "/group_kpi8cql"
   },
+  "terrestria": {
+    "6.2.0": "/group_0v6eehs"
+  },
+  "bountiful": {
+    "7.0.2": "/group_7edxcwr"
+  },
+  "deeperdarker": {
+    "1.2.6": "/group_6u839y0"
+  },
   "capes": {
     "1.5.2+1.20": "/group_cvu68n4"
   },
@@ -1332,6 +1401,7 @@
     "3.7+fabric-1.20.1": "/group_r6wi4iz"
   },
   "bookshelf": {
+    "23.0.8": "/group_tpfjuij",
     "20.1.8": "/group_tpfjuij"
   },
   "inventoryprofilesnext": {
@@ -1357,6 +1427,9 @@
   "railways": {
     "1.6.0+fabric-mc1.20.1": "/group_caitxlk"
   },
+  "naturescompass": {
+    "1.20.4-2.2.3-fabric": "/group_fprdk9g"
+  },
   "biomesoplenty": {
     "18.0.0.598": "/group_i8ic6xw",
     "19.0.0.79": "/group_ygfydf7"
@@ -1380,6 +1453,9 @@
     "12.0.2": "/group_1ms8za5",
     "15.0.3": "/group_u1x4xbt",
     "13.0.7": "/group_u1x4xbt"
+  },
+  "waystones": {
+    "16.0.4": "/group_acdou33"
   },
   "origins": {
     "1.10.0": "/group_0wa1svc"
@@ -1414,6 +1490,9 @@
   },
   "nullscape": {
     "1.2.4": "/group_hvf7nvx"
+  },
+  "incendium": {
+    "5.3.4": "/group_hvf7nvx"
   },
   "iris": {
     "1.7.0-snapshot+mc1.20.4-5983468": "/group_bi9gofu",
