@@ -116,6 +116,7 @@
   },
   "sodium": {
     "0.5.8+mc1.20.4": "/group_um3olfv",
+    "0.5.8+mc1.20.1": "/group_p59hrfe",
     "0.5.3": "/group_p59hrfe",
     "0.5.8": "/group_fy96ca4"
   },
@@ -1326,6 +1327,7 @@
     "2.3.7": "/group_czipgp3"
   },
   "yet_another_config_lib": {
+    "3.2.2+1.20": "/group_j3ls858",
     "3.2.1+1.20": "/group_j3ls858",
     "3.3.2+1.20.4": "/group_evvinjt",
     "3.3.0-beta.1+1.20.2": "/group_evvinjt"
@@ -1504,7 +1506,8 @@
   "sodium-extra": {
     "0.5.1+mc1.20.1-build.112": "/group_m56vm8o",
     "0.5.4.2+mc1.20.1-build.118": "/group_kfkgeon",
-    "0.5.4+mc1.20.4-build.116": "/group_kfkgeon"
+    "0.5.4+mc1.20.4-build.116": "/group_kfkgeon",
+    "0.5.4+mc1.20.1-build.115": "/group_kfkgeon"
   },
   "roughlyenoughitems": {
     "12.0.684": "/group_ffk9axb",
@@ -1546,9 +1549,9 @@
   "modmenu": {
     "9.1.0-beta.1": "/group_1s5y3xs",
     "8.0.1": "/group_x1m11pa",
+    "7.2.2": "/group_1s5y3xs",
     "9.0.0": "/group_1s5y3xs",
-    "8.0.0": "/group_1s5y3xs",
-    "7.2.2": "/group_1s5y3xs"
+    "8.0.0": "/group_1s5y3xs"
   },
   "immersive_melodies": {
     "0.1.0+1.20.1": "/group_x1m11pa"
