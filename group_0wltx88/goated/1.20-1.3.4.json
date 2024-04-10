@@ -1,0 +1,23 @@
+{
+  "block.goated.ram_block": "Ram Block",
+  "block.goated.thatch": "Thatch",
+  "block.goated.thatch_slab": "Thatch Slab",
+  "block.goated.thatch_stairs": "Thatch Stairs",
+  "entity.goated.geep": "Geep",
+  "item.goated.barbarian_helmet": "Barbarian Helmet",
+  "item.goated.barbaric_helmet": "Barbaric Helmet",
+  "item.goated.geep_spawn_egg": "Geep Spawn Egg",
+  "item.goated.chevon": "Raw Chevon",
+  "item.goated.cooked_chevon": "Cooked Chevon",
+  "tooltip.goated.barbaric_helmet": "Damage makes you stronger",
+  "advancements.goated.geep.title": "Oh My Goat!",
+  "advancements.goated.geep.description": "Crossbreed a Sheep and a Goat",
+  "subtitle.goated.geep.long_jump": "Geep jumps",
+  "subtitle.goated.geep.death": "Geep dies",
+  "subtitle.goated.geep.milk": "Geep gets milked",
+  "subtitle.goated.geep.eat": "Geep eats",
+  "subtitle.goated.geep.hurt": "Geep hurts",
+  "subtitle.goated.geep.ambient": "Geep bleats",
+  "subtitle.goated.geep.infestation": "Geep infestation"
+
+}

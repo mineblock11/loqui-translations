@@ -612,6 +612,9 @@
   "buildpaste": {
     "1.5.0": "/group_p59hrfe"
   },
+  "brewinandchewin": {
+    "3.0.0+1.20.1": "/group_p59hrfe"
+  },
   "boostcrystal": {
     "1.2": "/group_p59hrfe"
   },
@@ -890,6 +893,7 @@
     "1.1.1-1.20.X": "/group_laumisx"
   },
   "farmersrespite": {
+    "3.0.2": "/group_laumisx",
     "3.0.0": "/group_laumisx"
   },
   "detailab": {
@@ -1453,6 +1457,9 @@
   "candlelight": {
     "1.2.8": "/group_z3gzt8t"
   },
+  "goated": {
+    "1.20-1.3.4": "/group_0wltx88"
+  },
   "chatpatches": {
     "204.6.4": "/group_0wltx88",
     "202.6.4": "/group_0wltx88"
@@ -1692,6 +1699,9 @@
   },
   "another_furniture": {
     "1.20.1-3.0.1": "/group_glk849d"
+  },
+  "friendsandfoes": {
+    "2.0.10": "/group_jbfxey6"
   },
   "yet_another_config_lib": {
     "3.2.2+1.20": "/group_j3ls858",
