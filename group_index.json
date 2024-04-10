@@ -43,6 +43,9 @@
   "stoneworks": {
     "8.0.0": "/group_p59hrfe"
   },
+  "steppy": {
+    "1.20-1.0.1": "/group_p59hrfe"
+  },
   "stamina": {
     "1.0.0": "/group_p59hrfe"
   },
@@ -53,7 +56,8 @@
     "1.9.4+mod": "/group_p59hrfe"
   },
   "sounds": {
-    "0.4.0+1.20.1": "/group_p59hrfe"
+    "0.4.0+1.20.1": "/group_p59hrfe",
+    "0.7.0+1.20.2": "/group_fy96ca4"
   },
   "soundcontroller": {
     "1.0.0": "/group_p59hrfe"
@@ -134,6 +138,9 @@
     "0.12.5+1.20.3": "/group_p59hrfe",
     "0.11.2+1.20": "/group_p59hrfe"
   },
+  "optigui": {
+    "2.3.0-alpha.2": "/group_p59hrfe"
+  },
   "openpartiesandclaims": {
     "0.20.4": "/group_p59hrfe"
   },
@@ -156,6 +163,7 @@
     "3.0.0+1.20.1": "/group_p59hrfe"
   },
   "modid": {
+    "1.4.1": "/group_p59hrfe",
     "1.0.0+1.20": "/group_p59hrfe"
   },
   "mcwfences": {
@@ -177,6 +185,7 @@
     "3.12.5": "/group_p59hrfe"
   },
   "leahs-immersive-thunder": {
+    "1.20.2+1.2.2": "/group_p59hrfe",
     "1.20.1+1.2.2": "/group_p59hrfe"
   },
   "kyrptconfig": {
@@ -304,6 +313,9 @@
   "backported_wolves": {
     "1.1.0-1.19.3-1.20.4": "/group_p59hrfe"
   },
+  "axolotlbuckets": {
+    "1.2.0": "/group_p59hrfe"
+  },
   "axiom": {
     "1.5.1": "/group_p59hrfe"
   },
@@ -324,6 +336,7 @@
     "1.3.0+1.20.0": "/group_p59hrfe"
   },
   "xaeroworldmap": {
+    "1.38.1": "/group_uq37rd2",
     "1.37.8": "/group_uq37rd2",
     "1.37.2": "/group_uq37rd2",
     "1.36.0": "/group_uq37rd2"
@@ -386,14 +399,29 @@
   "voidz": {
     "1.0.10": "/group_ma2ysv3"
   },
+  "simplystatus": {
+    "2.1.0": "/group_ma2ysv3"
+  },
   "projectile_damage": {
     "3.2.2+1.20.1": "/group_ma2ysv3"
   },
   "neruina": {
     "1.3.0": "/group_ma2ysv3"
   },
+  "idwtialsimmoedm": {
+    "0.3.0+1.20": "/group_ma2ysv3"
+  },
   "extra_details": {
     "0.3-beta": "/group_ma2ysv3"
+  },
+  "debrand": {
+    "1.1.1": "/group_ma2ysv3"
+  },
+  "bwncr": {
+    "3.18.0": "/group_ma2ysv3"
+  },
+  "alinlib": {
+    "1.2.0-alpha.2": "/group_ma2ysv3"
   },
   "universal_ores": {
     "1.5.2": "/group_e3ch9x8"
@@ -434,8 +462,12 @@
   "numismatics": {
     "1.0.2+fabric-mc1.20.1": "/group_nhafqrf"
   },
+  "bridgingmod": {
+    "2.3.0+1.20.2": "/group_wvgi287"
+  },
   "sound_physics_remastered": {
     "1.20.1-1.2.1": "/group_qdygrud",
+    "1.20.2-1.3.1": "/group_qjsbmtc",
     "1.20.1-1.3.1": "/group_qjsbmtc"
   },
   "seasonhud": {
@@ -448,7 +480,14 @@
   "horseexpert": {
     "8.1.1": "/group_xbe3j1c"
   },
+  "enhancedblockentities": {
+    "0.9.1+1.20.2": "/group_xbe3j1c"
+  },
+  "enhanced_attack_indicator": {
+    "1.0.4+1.20.2": "/group_xbe3j1c"
+  },
   "dynamiccrosshair": {
+    "7.6.2+1.20.2": "/group_xbe3j1c",
     "7.4.4+1.20": "/group_xbe3j1c"
   },
   "fabricskyboxes": {
@@ -533,6 +572,12 @@
   "createdeco": {
     "2.0.1-1.20.1-fabric": "/group_aiwewkc"
   },
+  "make_bubbles_pop": {
+    "0.2.0-fabric": "/group_ajghh08"
+  },
+  "paginatedadvancements": {
+    "2.4.2": "/group_ux3r8id"
+  },
   "roughlyenoughprofessions": {
     "2.0.2": "/group_5jnfeau"
   },
@@ -544,6 +589,9 @@
   },
   "held-item-info": {
     "1.5.0": "/group_iyv1csk"
+  },
+  "feytweaks": {
+    "1.20.2-1.2.8": "/group_iyv1csk"
   },
   "herbalbrews": {
     "1.0.2": "/group_w1l2rq1"
@@ -612,10 +660,15 @@
   "aether_redux": {
     "2.0.7d": "/group_3mz32lp"
   },
+  "mica": {
+    "1.0.1": "/group_qp4o5m7"
+  },
   "waveycapes": {
-    "1.3.2": "/group_oki2n7x"
+    "1.3.2": "/group_oki2n7x",
+    "1.4.4": "/group_r08rzev"
   },
   "entity_texture_features": {
+    "5.2.3": "/group_3vtt0e8",
     "5.2.1": "/group_3vtt0e8",
     "4.6": "/group_3vtt0e8"
   },
@@ -627,6 +680,7 @@
   },
   "notenoughanimations": {
     "1.6.4": "/group_kumzmn3",
+    "1.7.1": "/group_j08qkxp",
     "1.7.0": "/group_j08qkxp"
   },
   "adventurez": {
@@ -645,6 +699,7 @@
     "20.1.0": "/group_kgtaee7"
   },
   "showmeyourskin": {
+    "1.7.0+1.20.2": "/group_uwoc0pd",
     "1.6.11+1.20": "/group_uwoc0pd"
   },
   "suppsquared": {
@@ -668,6 +723,7 @@
     "1.0.4": "/group_7wjds3z"
   },
   "libgui": {
+    "9.0.0+1.20.2": "/group_6f6a5ws",
     "8.0.2+1.20": "/group_6f6a5ws",
     "8.0.1+1.20": "/group_6f6a5ws"
   },
@@ -680,7 +736,8 @@
   "modernfix": {
     "5.9.3+mc1.20.2": "/group_lr05act",
     "5.15.0+mc1.20.1": "/group_z1mitem",
-    "5.12.1+mc1.20.1": "/group_z1mitem"
+    "5.12.1+mc1.20.1": "/group_z1mitem",
+    "5.10.1+mc1.20.2": "/group_z1mitem"
   },
   "betterdungeons": {
     "1.20-Fabric-4.0.3": "/group_85a2tnn"
@@ -712,9 +769,11 @@
     "1.20-2.11.10": "/group_b5cyxgj"
   },
   "midnightlib": {
+    "1.5.0": "/group_nzs7a7t",
     "1.4.1": "/group_nzs7a7t"
   },
   "chat_heads": {
+    "0.10.32": "/group_m769yjd",
     "0.10.25": "/group_m769yjd",
     "0.10.22": "/group_m769yjd"
   },
@@ -736,10 +795,20 @@
   "candlelight": {
     "1.2.8": "/group_z3gzt8t"
   },
+  "chatpatches": {
+    "202.6.4": "/group_0wltx88"
+  },
+  "emi": {
+    "1.1.4+1.20.2+fabric": "/group_5xcy4pv"
+  },
+  "libipn": {
+    "4.0.2": "/group_ogg87if"
+  },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4"
   },
   "entityculling": {
+    "1.6.3": "/group_630bb77",
     "1.6.3.1": "/group_630bb77",
     "1.6.2-mc1.20.1": "/group_630bb77"
   },
@@ -767,10 +836,18 @@
   "bclib": {
     "3.0.14": "/group_q3wwhid"
   },
+  "bobby": {
+    "5.1.0+mc1.20.2": "/group_ogyiqgf"
+  },
+  "rrls": {
+    "3.2.4+mc1.20.2-fabric": "/group_ftc1jya"
+  },
   "fallingleaves": {
+    "1.15.6": "/group_lb9ucjl",
     "1.15.4": "/group_lb9ucjl"
   },
   "entity_model_features": {
+    "1.3": "/group_i5ema1b",
     "1.2.3": "/group_i5ema1b",
     "1.0.2": "/group_i5ema1b"
   },
@@ -778,6 +855,7 @@
     "1.13.0+mc1.20.1": "/group_fehngpk"
   },
   "debugify": {
+    "1.20.2+1.0": "/group_45arwf3",
     "1.20.1+2.0": "/group_45arwf3"
   },
   "shulkerboxtooltip": {
@@ -811,6 +889,7 @@
     "1.1.3+1.20.4": "/group_9zhsosh"
   },
   "moreculling": {
+    "1.20.4-0.22.1": "/group_ceow4ge",
     "1.20.4-0.21.0": "/group_ceow4ge",
     "1.20.1-0.19.0": "/group_ceow4ge"
   },
@@ -829,6 +908,9 @@
   },
   "endrem": {
     "5.2.4": "/group_gxgtv2s"
+  },
+  "canvas": {
+    "20.2.2641": "/group_l0nn6uo"
   },
   "jade": {
     "12.3.0": "/group_2qmktrs",
@@ -849,6 +931,9 @@
   },
   "naturalist": {
     "4.0.3": "/group_yxl0n6g"
+  },
+  "notenoughcrashes": {
+    "4.4.7+1.20.2": "/group_9xhr0v6"
   },
   "yet_another_config_lib": {
     "3.2.1+1.20": "/group_j3ls858",
@@ -881,7 +966,8 @@
     "11.0.99": "/group_5mucwkh"
   },
   "stendhal": {
-    "1.4.1-1.20": "/group_tqh6lxm"
+    "1.4.1-1.20": "/group_tqh6lxm",
+    "1.4.1-1.20.2": "/group_tqh6lxm"
   },
   "fpsreducer": {
     "1.20-2.5": "/group_a5b7gf2"
@@ -891,13 +977,16 @@
   },
   "zoomify": {
     "2.13.2": "/group_83you42",
+    "2.12.0": "/group_83you42",
     "2.11.2": "/group_83you42"
   },
   "continuity": {
+    "3.0.0-beta.4+1.20.2": "/group_s6rge0a",
     "3.0.0-beta.4+1.20.1": "/group_s6rge0a"
   },
   "betterstats": {
-    "3.7+fabric-1.20.1": "/group_tejixgu"
+    "3.7+fabric-1.20.1": "/group_tejixgu",
+    "3.9.6+fabric-1.20.2": "/group_kpi8cql"
   },
   "capes": {
     "1.5.2+1.20": "/group_cvu68n4"
@@ -906,10 +995,14 @@
     "1.6.2": "/group_4uo8oyp"
   },
   "tcdcommons": {
+    "3.9.5+fabric-1.20.2": "/group_r6wi4iz",
     "3.7+fabric-1.20.1": "/group_r6wi4iz"
   },
   "bookshelf": {
     "20.1.8": "/group_tpfjuij"
+  },
+  "inventoryprofilesnext": {
+    "1.10.10": "/group_wuvrmta"
   },
   "creeperoverhaul": {
     "3.0.1": "/group_xzi7aix"
@@ -939,10 +1032,12 @@
     "4.0-439": "/group_iwfaqti"
   },
   "searchables": {
-    "1.0.2": "/group_1ms8za5"
+    "1.0.2": "/group_1ms8za5",
+    "1.0.16": "/group_1ms8za5"
   },
   "controlling": {
-    "12.0.2": "/group_1ms8za5"
+    "12.0.2": "/group_1ms8za5",
+    "13.0.7": "/group_u1x4xbt"
   },
   "origins": {
     "1.10.0": "/group_0wa1svc"
@@ -957,12 +1052,15 @@
     "1.20-2.7.25": "/group_f2yg02p"
   },
   "nochatreports": {
+    "1.20.2-v2.3.1": "/group_5jvgzfz",
     "1.20.1-v2.2.2": "/group_5jvgzfz"
   },
   "xaerominimap": {
+    "24.0.3": "/group_9v0qgkc",
     "23.8.4": "/group_9v0qgkc"
   },
   "xaerobetterpvp": {
+    "24.0.3": "/group_9v0qgkc",
     "23.8.4": "/group_9v0qgkc"
   },
   "iris": {
@@ -981,7 +1079,8 @@
     "12.0.674": "/group_ffk9axb"
   },
   "dynamic_fps": {
-    "3.2.1": "/group_21j33r0"
+    "3.2.1": "/group_21j33r0",
+    "3.4.2": "/group_ba9hpk1"
   },
   "cumulus_menus": {
     "1.20.1-1.0.0-neoforge": "/group_28oavxu"
