@@ -45,6 +45,10 @@ files:
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
       - sv-SE
+  - source: /group_nhafqrf/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-UD
   - source: /group_qdygrud/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -135,6 +139,11 @@ files:
     excluded_target_languages:
       - it
       - ru
+  - source: /group_aiwewkc/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-UD
+      - ja
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -242,6 +251,24 @@ files:
     excluded_target_languages:
       - pt-BR
       - tr
+      - zh-CN
+  - source: /group_91j8kyv/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - it
+      - zh-CN
+  - source: /group_ijlihe5/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - zh-CN
+      - zh-HK
+      - zh-TW
+  - source: /group_oxvms74/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - fr
       - zh-CN
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
@@ -626,6 +653,16 @@ files:
       - tr
       - uk
       - zh-CN
+  - source: /group_b5cyxgj/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - fr
+      - ja
+      - pt-BR
+      - ru
+      - uk
+      - vi
   - source: /group_lb9ucjl/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -1115,6 +1152,21 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_r8dcacd/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-UD
+      - es-ES
+      - fr
+      - ja
+      - ko
+      - pl
+      - ru
+      - sv-SE
+      - uk
+      - zh-CN
+      - zh-TW
   - source: /group_83you42/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -1376,6 +1428,26 @@ files:
       - sv-SE
       - uk
       - zh-CN
+  - source: /group_caitxlk/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - da
+      - de
+      - de-AT
+      - en-GB
+      - en-UD
+      - es-ES
+      - fr
+      - is
+      - ja
+      - ko
+      - nl
+      - 'no'
+      - pl
+      - ru
+      - sv-SE
+      - uk
+      - zh-CN
   - source: /group_j7138wx/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -1538,6 +1610,32 @@ files:
       - sv-SE
       - ta
       - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /group_orrqiga/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - en-CA
+      - en-GB
+      - es-ES
+      - et
+      - fi
+      - fr
+      - fr-CA
+      - hu
+      - it
+      - ja
+      - ko
+      - lv
+      - pl
+      - pt-BR
+      - ro
+      - ru
+      - tl
       - uk
       - vi
       - zh-CN
@@ -1804,6 +1902,117 @@ files:
       - tlh-AA
       - tr
       - uk
+      - zh-CN
+      - zh-TW
+  - source: /group_7afnigl/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ca
+      - de
+      - en-PT
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fi
+      - fr
+      - id
+      - it
+      - ja
+      - ko
+      - nl
+      - nl-BE
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - sk
+      - sr
+      - sv-SE
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /group_3kfao16/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - be
+      - cs
+      - cy
+      - da
+      - de
+      - en-UD
+      - eo
+      - es-CL
+      - es-ES
+      - es-MX
+      - et
+      - fa
+      - fi
+      - fr
+      - hu
+      - id
+      - is
+      - it
+      - ja
+      - kk
+      - ko
+      - nl
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ro
+      - ru
+      - sv-SE
+      - th
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
+  - source: /group_7is91vc/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - be
+      - cs
+      - cy
+      - da
+      - de
+      - en-UD
+      - eo
+      - es-CL
+      - es-ES
+      - es-MX
+      - et
+      - eu
+      - fa
+      - fi
+      - fr
+      - hu
+      - id
+      - is
+      - it
+      - ja
+      - kk
+      - ko
+      - nl
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ro
+      - ru
+      - sv-SE
+      - th
+      - tr
+      - uk
+      - vi
       - zh-CN
       - zh-TW
   - source: /group_zjox4t8/*/*.json
