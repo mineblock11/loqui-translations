@@ -12,8 +12,12 @@
     "1.19-0.3.2": "/group_n4bay11"
   },
   "wakes": {
+    "0.2.2": "/group_p59hrfe",
     "0.2.0": "/group_p59hrfe",
     "0.2.3": "/group_c7h3lvl"
+  },
+  "visualworkbench": {
+    "20.4.1": "/group_p59hrfe"
   },
   "villagernames": {
     "4.5.4": "/group_p59hrfe"
@@ -234,6 +238,9 @@
   },
   "numismaticclaim": {
     "1.0.10": "/group_p59hrfe"
+  },
+  "noxesium": {
+    "1.2.0+669ccb7": "/group_p59hrfe"
   },
   "nitrogen_internals": {
     "1.20.1-1.0.7-neoforge": "/group_p59hrfe"
@@ -759,6 +766,9 @@
   "enhancedblockentities": {
     "0.9.1+1.20.2": "/group_xbe3j1c"
   },
+  "emitrades": {
+    "1.3.0+mc1.20.4": "/group_xbe3j1c"
+  },
   "dynamiccrosshair": {
     "7.7+1.20.4": "/group_xbe3j1c",
     "7.6.2+1.20.2": "/group_xbe3j1c",
@@ -985,6 +995,9 @@
   "forgottengraves": {
     "1.20.4-3.2.7": "/group_kzdx90w"
   },
+  "camerautils": {
+    "1.20.4-1.0.9": "/group_1vabw04"
+  },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x",
     "1.4.4": "/group_m1nrfqk"
@@ -1022,6 +1035,9 @@
     "1.8.0+1.20.4": "/group_uwoc0pd",
     "1.7.0+1.20.2": "/group_uwoc0pd",
     "1.6.11+1.20": "/group_uwoc0pd"
+  },
+  "travelerstitles": {
+    "1.20.4-Fabric-4.4.0": "/group_6i07ai4"
   },
   "suppsquared": {
     "1.20-1.1.12": "/group_6i07ai4"
@@ -1114,6 +1130,9 @@
   },
   "extraalchemy": {
     "1.11.3": "/group_4odwqy0"
+  },
+  "exordium": {
+    "1.2.1": "/group_58utujn"
   },
   "midnightlib": {
     "1.5.3": "/group_nzs7a7t",
@@ -1440,6 +1459,7 @@
     "1.20.2-2.4.28": "/group_du63grv",
     "1.20.1-2.4.32": "/group_du63grv",
     "1.20.4-2.5.8": "/group_oif64gg",
+    "1.20.4-2.5.12": "/group_oif64gg",
     "1.20.2-2.5.12": "/group_oif64gg",
     "1.20.1-2.5.12": "/group_oif64gg"
   },
