@@ -187,6 +187,11 @@ files:
     excluded_target_languages:
       - ja
       - zh-CN
+  - source: /group_fm78mmo/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - zh-TW
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
