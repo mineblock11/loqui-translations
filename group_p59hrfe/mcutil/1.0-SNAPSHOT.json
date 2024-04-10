@@ -1,0 +1,15 @@
+{
+  "text.autoconfig.mcutil.option.showTabSkinsInOffline": "Show Tab Menu Heads in Offline Mode",
+  "text.autoconfig.mcutil.option.alwaysAllowTabList": "Always allow tab list",
+  "text.autoconfig.mcutil.option.alwaysAllowTabList.@Tooltip": "Allow the tab list even while alone in a singleplayer world",
+  "text.autoconfig.mcutil.option.useNumericPingDisplay": "Use numeric ping display",
+  "text.autoconfig.mcutil.option.connectionTimeout": "Connection Timeout (seconds, or 0 to remove timeout)",
+  "text.autoconfig.mcutil.option.connectionTimeout.@Tooltip": "Note: Requires reconnect",
+  "text.autoconfig.mcutil.option.notResponding": "Not Responding",
+  "text.autoconfig.mcutil.option.notResponding.@Tooltip": "Display how long it has been since the server sent a packet",
+  "text.autoconfig.mcutil.option.notResponding.enabled": "Enabled",
+  "text.autoconfig.mcutil.option.notResponding.minTime": "Minimum Time to Show (milliseconds)",
+  "text.autoconfig.mcutil.option.notResponding.x": "X Location",
+  "text.autoconfig.mcutil.option.notResponding.y": "Y Location",
+  "text.autoconfig.mcutil.option.notResponding.textShadow": "Text Shadow"
+}
