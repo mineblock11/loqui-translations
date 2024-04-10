@@ -779,6 +779,16 @@ files:
       - tt-RU
       - zh-CN
       - zh-TW
+  - source: /group_m1nrfqk/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - nl
+      - pt-BR
+      - pt-PT
+      - ru
+      - tt-RU
+      - zh-CN
   - source: /group_lb9ucjl/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
