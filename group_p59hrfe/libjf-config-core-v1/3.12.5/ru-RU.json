@@ -1,0 +1,5 @@
+{
+    "libjf-config-core-v1.jfconfig.title": "Настройки LibJF",
+    "libjf-config-core-v1.jfconfig.watchForChanges": "Автоприменение настроек",
+    "libjf-config-core-v1.jfconfig.watchForChanges.tooltip": "Автоматически перезагружает настройки при их изменении"
+}
