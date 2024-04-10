@@ -2431,6 +2431,32 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /group_q1b0mi7/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-CA
+      - en-PT
+      - en-UD
+      - es-ES
+      - fi
+      - fr
+      - fr-CA
+      - hi
+      - it
+      - ja
+      - kk
+      - ko
+      - nl
+      - pl
+      - pt-BR
+      - ru
+      - ta
+      - tr
+      - uk
+      - zh-CN
+      - zh-HK
+      - zh-TW
   - source: /group_f2yg02p/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
