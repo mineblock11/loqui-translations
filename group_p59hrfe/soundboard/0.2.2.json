@@ -1,0 +1,24 @@
+{
+  "soundboard.title": [
+    {
+      "text": "Soundboard",
+      "color": "aqua",
+      "bold": true
+    }
+  ],
+  "soundboard.keybinds.browser": "Open soundboard browser",
+  "soundboard.keybinds.cancel": "Cancel sound playback",
+  "soundboard.browser.directory_name": [
+    {
+      "index": 0,
+      "bold": true
+    }
+  ],
+  "soundboard.browser.directory_name.tooltip": "Hold Shift and click to open in your file manager",
+  "soundboard.browser.file_name": [
+    {
+      "index": 0
+    }
+  ],
+  "soundboard.browser.file_name.tooltip": "Hold Shift and click to play locally"
+}
