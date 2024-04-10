@@ -112,7 +112,7 @@
     "1.2": "/group_p59hrfe"
   },
   "sodium": {
-    "0.5.8+mc1.20.4": "/group_p59hrfe",
+    "0.5.8+mc1.20.4": "/group_um3olfv",
     "0.5.3": "/group_p59hrfe",
     "0.5.8": "/group_fy96ca4"
   },
@@ -632,6 +632,9 @@
   "neruina": {
     "1.3.0": "/group_ma2ysv3"
   },
+  "metalbundles": {
+    "20.4.4": "/group_ma2ysv3"
+  },
   "extra_details": {
     "0.3-beta": "/group_ma2ysv3"
   },
@@ -1000,7 +1003,7 @@
   },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",
-    "1.7.2+mc1.20.4-build.102": "/group_7wjds3z",
+    "1.7.2+mc1.20.4-build.102": "/group_dmosdm4",
     "1.0.4": "/group_7wjds3z"
   },
   "libgui": {
@@ -1306,7 +1309,7 @@
     "2.11.2": "/group_83you42"
   },
   "continuity": {
-    "3.0.0-beta.4+1.20.2": "/group_s6rge0a",
+    "3.0.0-beta.4+1.20.2": "/group_s1vmk1f",
     "3.0.0-beta.4+1.20.1": "/group_s6rge0a"
   },
   "betterstats": {
@@ -1352,7 +1355,8 @@
     "1.6.0+fabric-mc1.20.1": "/group_caitxlk"
   },
   "biomesoplenty": {
-    "18.0.0.598": "/group_i8ic6xw"
+    "18.0.0.598": "/group_i8ic6xw",
+    "19.0.0.79": "/group_ygfydf7"
   },
   "voicechat": {
     "1.20.2-2.4.28": "/group_du63grv",
