@@ -138,13 +138,6 @@
   "soularia": {
     "1.2": "/group_p59hrfe"
   },
-  "sodium": {
-    "0.5.8+mc1.20.4": "/group_um3olfv",
-    "0.5.8+mc1.20.1": "/group_vje3y2m",
-    "0.5.5": "/group_p59hrfe",
-    "0.5.3": "/group_p59hrfe",
-    "0.5.8": "/group_fy96ca4"
-  },
   "snowundertrees": {
     "2.2.0+1.20.1": "/group_p59hrfe",
     "2.0.0+1.20": "/group_p59hrfe"
@@ -270,7 +263,8 @@
     "0.20.4": "/group_p59hrfe"
   },
   "openloader": {
-    "20.0.5": "/group_p59hrfe"
+    "20.0.5": "/group_p59hrfe",
+    "19.0.3": "/group_p59hrfe"
   },
   "onsoulfire": {
     "1.20.1": "/group_p59hrfe"
@@ -446,6 +440,9 @@
   },
   "herdspanic": {
     "1.0.7": "/group_p59hrfe"
+  },
+  "hearth_and_home": {
+    "1.20.1-2.0.1": "/group_p59hrfe"
   },
   "head_in_the_clouds": {
     "1.0.1": "/group_p59hrfe"
@@ -1677,6 +1674,9 @@
     "2.3.7": "/group_czipgp3",
     "2.2.6": "/group_czipgp3"
   },
+  "another_furniture": {
+    "1.20.1-3.0.1": "/group_glk849d"
+  },
   "yet_another_config_lib": {
     "3.2.2+1.20": "/group_j3ls858",
     "3.2.1+1.20": "/group_j3ls858",
@@ -1940,6 +1940,9 @@
   },
   "copycats": {
     "1.20.1-1.2.6": "/group_7is91vc"
+  },
+  "sodium": {
+    "0.5.8+mc1.20.1": "/group_lmy5kz5"
   },
   "forge": {
     "47.2.0": "/group_2s5r8eh"
