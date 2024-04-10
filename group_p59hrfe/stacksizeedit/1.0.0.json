@@ -1,0 +1,14 @@
+{
+  "text.autoconfig.stacksizeedit.title": "Stack Size Edit Config",
+  "text.autoconfig.stacksizeedit.category.StackSettings": "Stack Settings",
+  "text.autoconfig.stacksizeedit.category.TextSettings": "Text Settings",
+
+  "text.autoconfig.stacksizeedit.option.maxStacker.@PrefixText": "§cChanges do not require a restart. Use if /reload if changed in world.",
+
+  "text.autoconfig.stacksizeedit.option.maxStacker": "Maximum Stack Size",
+  "text.autoconfig.stacksizeedit.option.maxStacker.@Tooltip": "Do not set larger than 2147483647 or below 1",
+  "text.autoconfig.stacksizeedit.option.itemOverride": "Override the stack size of:",
+
+  "text.autoconfig.stacksizeedit.option.fontOverride": "Variable Font Scale Override",
+  "text.autoconfig.stacksizeedit.option.itemCountScaleInt": "Item Text Size"
+}

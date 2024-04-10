@@ -1,0 +1,29 @@
+{
+  "tooltip.enchantery.basic": " is only obtainable via Enchantment Table",
+  "tooltip.enchantery.tradeable": " is only obtainable via Villager Trading",
+  "tooltip.enchantery.treasure": " is only obtainable via world loot",
+  "tooltip.enchantery.untagged1": " has not been added to any enchant tags",
+  "tooltip.enchantery.untagged2": " and may be impossible to obtain,",
+  "tooltip.enchantery.untagged3": " contact modpack creator to resolve.",
+  "tooltip.enchantery.exempt": " is exempt from Enchantery features",
+
+  "enchantment.enchantery.soulbound": "Soulbound",
+  "enchantment.enchantery.diminishing_curse": "Curse of Diminishing",
+  "enchantment.enchantery.backbiting_curse": "Curse of Backbiting",
+  "enchantment.enchantery.butterfinger_curse": "Curse of Butterfingers",
+  "enchantment.enchantery.leeching_curse": "Curse of Leeching",
+  "enchantment.enchantery.devouring_curse": "Curse of Devouring",
+  "enchantment.enchantery.imprecision_curse": "Curse of Imprecision",
+  "enchantment.enchantery.diffusion_curse": "Curse of Diffusion",
+  "enchantment.enchantery.kickback_curse": "Curse of Kickback",
+
+  "enchantment.enchantery.soulbound.desc": "Items with this enchant stay in your inventory after death at the cost of half their current durability.",
+  "enchantment.enchantery.diminishing_curse.desc": "Damage to durability is multiplied by curse level.",
+  "enchantment.enchantery.backbiting_curse.desc": "Weapon damage is increased but half the total damage is dealt back to you.",
+  "enchantment.enchantery.butterfinger_curse.desc": "Held items have a chance to drop to the ground when damage is taken.",
+  "enchantment.enchantery.leeching_curse.desc": "Item will repair themselves at the cost of your own life.",
+  "enchantment.enchantery.devouring_curse.desc": "Blocks mined are occasionally consumed by the tool to repair itself.",
+  "enchantment.enchantery.imprecision_curse.desc": "Arrows shot will be inaccurate.",
+  "enchantment.enchantery.diffusion_curse.desc": "Potion effects applied to you will be copied to those hit by your attacks",
+  "enchantment.enchantery.kickback_curse.desc": "Shooting arrows will propel you backward."
+}
