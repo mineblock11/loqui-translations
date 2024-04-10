@@ -208,6 +208,11 @@ files:
     excluded_target_languages:
       - it
       - uk
+  - source: /group_kd5zrds/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - nl
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
