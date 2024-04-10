@@ -30,6 +30,9 @@
   "third_person_maps": {
     "1.5.1": "/group_p59hrfe"
   },
+  "terraform": {
+    "7.0.1": "/group_p59hrfe"
+  },
   "superbsteeds": {
     "1.20-3": "/group_p59hrfe",
     "1.20-1": "/group_p59hrfe"
@@ -146,6 +149,9 @@
   "numismaticclaim": {
     "1.0.10": "/group_p59hrfe"
   },
+  "nitrogen_internals": {
+    "1.20.1-1.0.7-neoforge": "/group_p59hrfe"
+  },
   "niftycarts": {
     "3.0.0+1.20.1": "/group_p59hrfe"
   },
@@ -208,7 +214,8 @@
     "1.3.4+1.20.1": "/group_p59hrfe"
   },
   "geckolib": {
-    "4.4": "/group_p59hrfe"
+    "4.4": "/group_p59hrfe",
+    "4.4.4": "/group_p59hrfe"
   },
   "gear_core": {
     "0.3.7+1.20.1": "/group_p59hrfe"
@@ -505,6 +512,10 @@
   "enhancedworkbenches": {
     "1.1+1.20.1": "/group_jcjctys"
   },
+  "embeddium": {
+    "0.3.11+mc1.20.1": "/group_0kcts1u",
+    "0.3.13+mc1.20.1": "/group_oxvms74"
+  },
   "jobsaddon": {
     "1.1.5": "/group_9hixdce"
   },
@@ -598,8 +609,8 @@
   "netherite_horse_armor": {
     "1.20.1-1.0.4": "/group_ijlihe5"
   },
-  "embeddium": {
-    "0.3.13+mc1.20.1": "/group_oxvms74"
+  "aether_redux": {
+    "2.0.7d": "/group_3mz32lp"
   },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x"
@@ -642,9 +653,19 @@
   "betterarcheology": {
     "1.1.2-1.20.1": "/group_6ce42q4"
   },
+  "tropicraft": {
+    "9.6.3": "/group_99fsuc6"
+  },
+  "bountifulfares": {
+    "1.0.0-1.20.1": "/group_3ir0igk"
+  },
+  "deep_aether": {
+    "1.20.1-1.0.2": "/group_3ad1g0w"
+  },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",
-    "1.7.2+mc1.20.4-build.102": "/group_7wjds3z"
+    "1.7.2+mc1.20.4-build.102": "/group_7wjds3z",
+    "1.0.4": "/group_7wjds3z"
   },
   "libgui": {
     "8.0.2+1.20": "/group_6f6a5ws",
@@ -671,6 +692,7 @@
     "11.4.0": "/group_maw6yff"
   },
   "terrablender": {
+    "3.0.1.4": "/group_quirsbz",
     "3.0.1.2": "/group_quirsbz"
   },
   "e4mc_minecraft": {
@@ -843,6 +865,9 @@
   "items_displayed": {
     "1.2.1": "/group_du3bzkf"
   },
+  "curios": {
+    "5.7.2+1.20.1": "/group_4qj4i5v"
+  },
   "languagereload": {
     "1.5.9+1.20.1": "/group_0u8y0rt",
     "1.5.10+1.20.2": "/group_qs3v1tu"
@@ -900,12 +925,18 @@
   "railways": {
     "1.6.0+fabric-mc1.20.1": "/group_caitxlk"
   },
+  "biomesoplenty": {
+    "18.0.0.598": "/group_i8ic6xw"
+  },
   "voicechat": {
     "1.20.2-2.4.28": "/group_du63grv",
     "1.20.1-2.4.32": "/group_du63grv",
     "1.20.4-2.5.8": "/group_oif64gg",
     "1.20.2-2.5.12": "/group_oif64gg",
     "1.20.1-2.5.12": "/group_oif64gg"
+  },
+  "quark": {
+    "4.0-439": "/group_iwfaqti"
   },
   "searchables": {
     "1.0.2": "/group_1ms8za5"
@@ -936,11 +967,13 @@
   },
   "iris": {
     "1.6.17": "/group_bi9gofu",
+    "1.6.15a": "/group_bi9gofu",
     "1.6.11": "/group_bi9gofu",
     "1.6.10": "/group_bi9gofu"
   },
   "sodium-extra": {
     "0.5.1+mc1.20.1-build.112": "/group_m56vm8o",
+    "0.5.4.2+mc1.20.1-build.118": "/group_kfkgeon",
     "0.5.4+mc1.20.4-build.116": "/group_kfkgeon"
   },
   "roughlyenoughitems": {
@@ -950,17 +983,26 @@
   "dynamic_fps": {
     "3.2.1": "/group_21j33r0"
   },
+  "cumulus_menus": {
+    "1.20.1-1.0.0-neoforge": "/group_28oavxu"
+  },
   "ultreonlib": {
     "1.5.0": "/group_re27ctc"
   },
   "farmersdelight": {
     "1.20.1-2.0.16+refabricated": "/group_7afnigl"
   },
+  "aether": {
+    "1.20.1-1.3.1-neoforge": "/group_a1rsyff"
+  },
   "create": {
     "0.5.1-f-build.1417+mc1.20.1": "/group_3kfao16"
   },
   "copycats": {
     "1.20.1-1.2.6": "/group_7is91vc"
+  },
+  "forge": {
+    "47.2.0": "/group_2s5r8eh"
   },
   "betterf3": {
     "8.0.3": "/group_zjox4t8",
