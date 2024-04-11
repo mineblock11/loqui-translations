@@ -259,6 +259,11 @@ files:
     excluded_target_languages:
       - fr
       - pt-BR
+  - source: /group_0b4b633/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ko
+      - pl
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -773,6 +778,13 @@ files:
       - pl
       - uk
       - zh-CN
+  - source: /group_lz01bfz/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-MX
+      - pt-BR
+      - ru
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -1117,6 +1129,14 @@ files:
       - ja
       - ru
       - zh-TW
+  - source: /group_cz3mk4e/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - ja
+      - ru
+      - tr
+      - zh-CN
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -3028,6 +3048,22 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_ta9zrr4/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - es-ES
+      - id
+      - ko
+      - pl
+      - pt-BR
+      - pt-PT
+      - ro
+      - ru
+      - uk
+      - vi
+      - zh-CN
   - source: /group_2ftyfjj/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -3412,6 +3448,26 @@ files:
       - sv-SE
       - tr
       - uk
+      - zh-CN
+      - zh-TW
+  - source: /group_p2get1r/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-GB
+      - es-ES
+      - es-MX
+      - fr
+      - it
+      - ja
+      - ko
+      - pl
+      - pt-BR
+      - ro
+      - ru
+      - tr
+      - uk
+      - vi
       - zh-CN
       - zh-TW
   - source: /group_j7138wx/*/*.json

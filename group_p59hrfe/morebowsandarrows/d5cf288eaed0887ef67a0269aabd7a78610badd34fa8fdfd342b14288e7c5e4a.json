@@ -1,0 +1,196 @@
+{
+    "itemGroup.moreBowsAndArrows": "More Bows and Arrows!",
+
+    "item.morebowsandarrows.oak_bow": "Oak Bow",
+    "item.morebowsandarrows.stripped_oak_bow": "Stripped Oak Bow",
+    "morebowsandarrows.text.oak_bow_lore": "A plain bow made from Oak wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.oak_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.dark_oak_bow": "Dark Oak Bow",
+    "item.morebowsandarrows.stripped_dark_oak_bow": "Stripped Dark Oak Bow",
+    "morebowsandarrows.text.dark_oak_bow_lore": "A simple bow made from Dark Oak wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.dark_oak_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.spruce_bow": "Spruce Bow",
+    "item.morebowsandarrows.stripped_spruce_bow": "Stripped Spruce Bow",
+    "morebowsandarrows.text.spruce_bow_lore": "A plain bow made from Spruce wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.spruce_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.birch_bow": "Birch Bow",
+    "item.morebowsandarrows.stripped_birch_bow": "Stripped Birch Bow",
+    "morebowsandarrows.text.birch_bow_lore": "A simple bow made from Birch wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.birch_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.jungle_bow": "Jungle Bow",
+    "item.morebowsandarrows.stripped_jungle_bow": "Stripped Jungle Bow",
+    "morebowsandarrows.text.jungle_bow_lore": "A plain bow made from Jungle wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.jungle_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.acacia_bow": "Acacia Bow",
+    "item.morebowsandarrows.stripped_acacia_bow": "Stripped Acacia Bow",
+    "morebowsandarrows.text.acacia_bow_lore": "A simple bow made from Jungle wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.acacia_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.mangrove_bow": "Mangrove Bow",
+    "item.morebowsandarrows.stripped_mangrove_bow": "Stripped Mangrove Bow",
+    "morebowsandarrows.text.mangrove_bow_lore": "A plain bow made from Mangrove wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.mangrove_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.cherry_bow": "Cherry Bow",
+    "item.morebowsandarrows.stripped_cherry_bow": "Stripped Cherry Bow",
+    "morebowsandarrows.text.cherry_bow_lore": "A simple bow made from Cherry wood, not much stronger than a regular bow...",
+    "morebowsandarrows.text.cherry_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.bamboo_bow": "Bamboo Bow",
+    "item.morebowsandarrows.stripped_bamboo_bow": "Stripped Bamboo Bow",
+    "morebowsandarrows.text.bamboo_bow_lore": "A primitive bow made from Bamboo, pairing well with similar arrows...",
+    "morebowsandarrows.text.bamboo_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.crimson_stem_bow": "Crimson Stem Bow",
+    "item.morebowsandarrows.stripped_crimson_stem_bow": "Stripped Crimson Stem Bow",
+    "morebowsandarrows.text.crimson_stem_bow_lore": "A simple bow made from Crimson hyphae, not much stronger than a regular bow...",
+    "morebowsandarrows.text.crimson_stem_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.warped_stem_bow": "Warped Stem Bow",
+    "item.morebowsandarrows.stripped_warped_stem_bow": "Stripped Warped Stem Bow",
+    "morebowsandarrows.text.warped_stem_bow_lore": "A plain bow made from Warped hyphae, not much stronger than a regular bow...",
+    "morebowsandarrows.text.warped_stem_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.paper_bow": "Paper Bow",
+    "morebowsandarrows.text.paper_bow_lore": "A fragile bow made from paper, known for it's magical properties...",
+    "morebowsandarrows.text.paper_bow_damage": "§2+0 Bonus Damage",
+
+    "item.morebowsandarrows.moss_bow": "Moss Bow",
+    "morebowsandarrows.text.moss_bow_lore": "A weak bow made of moss, known for it's odd properties...",
+    "morebowsandarrows.text.moss_bow_damage": "§2+0 Bonus Damage",
+
+    "item.morebowsandarrows.lapis_bow": "Lapis Bow",
+    "morebowsandarrows.text.lapis_bow_lore": "An unusual bow made from precious Lapis Lazuli, not much is known about it...",
+    "morebowsandarrows.text.lapis_bow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.amethyst_bow": "Amethyst Bow",
+    "morebowsandarrows.text.amethyst_bow_lore": "A mystical bow crafted from shimmering Amethyst crystals, said to channel the power of the arcane...",
+    "morebowsandarrows.text.amethyst_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.bone_bow": "Bone Bow",
+    "morebowsandarrows.text.bone_bow_lore": "A bone bow with sinister engravings, rumored to have been used by ancient necromancers...",
+    "morebowsandarrows.text.bone_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.coal_bow": "Coal Bow",
+    "morebowsandarrows.text.coal_bow_lore": "A unique bow forged from compressed coal, known for its surprising durability...",
+    "morebowsandarrows.text.coal_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.emerald_bow": "Emerald Bow",
+    "morebowsandarrows.text.emerald_bow_lore": "A dazzling bow adorned with precious Emeralds, said to bring luck to its wielder...",
+    "morebowsandarrows.text.emerald_bow_damage": "§2+3 Bonus Damage",
+
+    "item.morebowsandarrows.blaze_bow": "Blaze Bow",
+    "morebowsandarrows.text.blaze_bow_lore": "A fiery bow imbued with the essence of Blazes, capable of launching fiery arrows...",
+    "morebowsandarrows.text.blaze_bow_damage": "§2+3 Bonus Damage",
+
+    "item.morebowsandarrows.obsidian_bow": "Obsidian Bow",
+    "morebowsandarrows.text.obsidian_bow_lore": "A bow crafted from the unbreakable Obsidian, known for its incredible accuracy...",
+    "morebowsandarrows.text.obsidian_bow_damage": "§2+4 Bonus Damage",
+
+    "item.morebowsandarrows.iron_bow": "Iron Bow",
+    "morebowsandarrows.text.iron_bow_lore": "A sturdy bow forged from iron, favored by knights and archers for its reliability...",
+    "morebowsandarrows.text.iron_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.copper_bow": "Copper Bow",
+    "morebowsandarrows.text.copper_bow_lore": "A bow made from durable copper, known for its resistance to corrosion...",
+    "morebowsandarrows.text.copper_bow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.gold_bow": "Gold Bow",
+    "morebowsandarrows.text.gold_bow_lore": "A gilded bow that shines with opulence, said to be favored by champions...",
+    "morebowsandarrows.text.gold_bow_damage": "§2+1 Bonus Damage",
+
+    "item.morebowsandarrows.diamond_bow": "Diamond Bow",
+    "morebowsandarrows.text.diamond_bow_lore": "A bow adorned with brilliant diamonds, known for its unmatched precision...",
+    "morebowsandarrows.text.diamond_bow_damage": "§2+5 Bonus Damage",
+
+    "item.morebowsandarrows.netherite_bow": "Netherite Bow",
+    "morebowsandarrows.text.netherite_bow_lore": "The perfect bow, made from precious Netherite, capable of piercing through the toughest armor...",
+    "morebowsandarrows.text.netherite_bow_damage": "§2+6 Bonus Damage",
+
+    "morebowsandarrows.text.INTERNAL_ARROW_POINTER": "ARROWS ARE PAST THIS POINT",
+
+    "item.morebowsandarrows.flint_and_steel_arrow": "Flint And Steel Arrow",
+    "morebowsandarrows.text.flint_and_steel_arrow_lore": "An arrow tipped with a piece of flint and steel, ready to spark a fiery explosion upon impact...",
+    "morebowsandarrows.text.flint_and_steel_arrow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.ender_pearl_arrow": "Ender Pearl Arrow",
+    "morebowsandarrows.text.ender_pearl_arrow_lore": "An enchanted arrow with an Ender Pearl tip, allowing the archer to teleport to the point of impact...",
+    "morebowsandarrows.text.ender_pearl_arrow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.tnt_arrow": "TNT Arrow",
+    "morebowsandarrows.text.tnt_arrow_lore": "An explosive arrow filled with TNT, designed to cause a devastating blast upon striking its target...",
+    "morebowsandarrows.text.tnt_arrow_damage": "§2+5 Bonus Damage",
+    
+    "item.morebowsandarrows.paper_arrow": "Paper Arrow",
+    "morebowsandarrows.text.paper_arrow_lore": "A lightweight arrow crafted from paper, known for its magical properties and swift flight...",
+    "morebowsandarrows.text.paper_arrow_damage": "§2+0 Bonus Damage",
+
+    "item.morebowsandarrows.moss_arrow": "Moss Arrow",
+    "morebowsandarrows.text.moss_arrow_lore": "A \"crafty\" arrow made from moss, known for its magical properties and swift flight...",
+    "morebowsandarrows.text.moss_arrow_damage": "§2+0 Bonus Damage",
+
+    "item.morebowsandarrows.amethyst_arrow": "Amethyst Arrow",
+    "morebowsandarrows.text.amethyst_arrow_lore": "An arrow tipped with mystical Amethyst crystals, said to harness the power of the arcane...",
+    "morebowsandarrows.text.amethyst_arrow_damage": "§2+3 Bonus Damage",
+
+    "item.morebowsandarrows.bamboo_arrow": "Bamboo Arrow",
+    "morebowsandarrows.text.bamboo_arrow_lore": "An arrow crafted from Bamboo, known for its swift flight and precision...",
+    "morebowsandarrows.text.bamboo_arrow_damage": "§2+1 Bonus Damage",
+
+    "item.morebowsandarrows.blaze_rod_arrow": "Blaze Rod Arrow",
+    "morebowsandarrows.text.blaze_rod_arrow_lore": "An arrow infused with Blaze Rod essence, capable of igniting targets upon impact...",
+    "morebowsandarrows.text.blaze_rod_arrow_damage": "§2+4 Bonus Damage",
+
+    "item.morebowsandarrows.bone_arrow": "Bone Arrow",
+    "morebowsandarrows.text.bone_arrow_lore": "An arrow made from the bones of the fallen, rumored to carry curses...",
+    "morebowsandarrows.text.bone_arrow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.cactus_arrow": "Cactus Arrow",
+    "morebowsandarrows.text.cactus_arrow_lore": "A prickly arrow tipped with Cactus spikes, known for its piercing capabilities...",
+    "morebowsandarrows.text.cactus_arrow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.coal_arrow": "Coal Arrow",
+    "morebowsandarrows.text.coal_arrow_lore": "An arrow forged from compressed coal, designed for accuracy and durability...",
+    "morebowsandarrows.text.coal_arrow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.emerald_arrow": "Emerald Arrow",
+    "morebowsandarrows.text.emerald_arrow_lore": "An arrow adorned with precious Emeralds, said to bring luck to its archer...",
+    "morebowsandarrows.text.emerald_arrow_damage": "§2+3 Bonus Damage",
+
+    "item.morebowsandarrows.lapis_arrow": "Lapis Arrow",
+    "morebowsandarrows.text.lapis_arrow_lore": "An arrow with a mysterious Lapis Lazuli tip, its origins shrouded in mystery...",
+    "morebowsandarrows.text.lapis_arrow_damage": "§2+3 Bonus Damage",
+
+    "item.morebowsandarrows.obsidian_arrow": "Obsidian Arrow",
+    "morebowsandarrows.text.obsidian_arrow_lore": "A finely made arrow crafted from the unbreakable Obsidian, known for its incredible accuracy...",
+    "morebowsandarrows.text.obsidian_arrow_damage": "§2+5 Bonus Damage",
+
+    "item.morebowsandarrows.flint_arrow": "Flint Arrow",
+    "morebowsandarrows.text.flint_arrow_lore": "A sharp arrow made with flint, designed for piercing armor and foes...",
+    "morebowsandarrows.text.flint_arrow_damage": "§2+2 Bonus Damage",
+
+    "item.morebowsandarrows.iron_arrow": "Iron Arrow",
+    "morebowsandarrows.text.iron_arrow_lore": "A heavy iron-tipped arrow with superior penetration, favored by those who seek to pierce armor...",
+    "morebowsandarrows.text.iron_arrow_damage": "§2+3 Bonus Damage",
+    
+    "item.morebowsandarrows.copper_arrow": "Copper Arrow",
+    "morebowsandarrows.text.copper_arrow_lore": "An arrow made from durable copper, known for its sharpness and resistance to corrosion...",
+    "morebowsandarrows.text.copper_arrow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.gold_arrow": "Gold Arrow",
+    "morebowsandarrows.text.gold_arrow_lore": "A gilded arrow that gleams with opulence, said to bring luck to its archer...",
+    "morebowsandarrows.text.gold_arrow_damage": "§2+2 Bonus Damage",
+    
+    "item.morebowsandarrows.diamond_arrow": "Diamond Arrow",
+    "morebowsandarrows.text.diamond_arrow_lore": "An arrow adorned with brilliant diamonds, known for its accuracy and deadly precision...",
+    "morebowsandarrows.text.diamond_arrow_damage": "§2+4 Bonus Damage",
+    
+    "item.morebowsandarrows.netherite_arrow": "Netherite Arrow",
+    "morebowsandarrows.text.netherite_arrow_lore": "The ultimate arrow, forged from precious Netherite, capable of piercing through the toughest defenses...",
+    "morebowsandarrows.text.netherite_arrow_damage": "§2+5 Bonus Damage"
+}
