@@ -496,6 +496,12 @@ files:
       - es-ES
       - fr
       - ru
+  - source: /group_5bbh6pm/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - ru
+      - uk
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
