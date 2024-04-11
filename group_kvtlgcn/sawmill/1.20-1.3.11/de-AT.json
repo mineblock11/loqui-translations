@@ -1,0 +1,9 @@
+{
+  "container.sawmill.sawmill": "Säge",
+  "block.sawmill.sawmill": "Säge",
+  "jei.sawmill.category.woodcutting": "Sägen",
+  "entity.minecraft.villager.sawmill.carpenter": "Schreiner",
+  "entity.minecraft.villager.carpenter": "Schreiner",
+  "subtitles.sawmill.entity.villager.work_carpenter": "Schreiner arbeitet",
+  "subtitles.sawmill.ui.sawmill.take_result": "Tischsäge benutzt"
+}
