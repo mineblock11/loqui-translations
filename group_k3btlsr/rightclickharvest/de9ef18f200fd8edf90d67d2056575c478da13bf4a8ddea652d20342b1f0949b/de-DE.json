@@ -1,0 +1,16 @@
+{
+  "config.rightclickharvest.title": "Rechtsklick-Ernten-Konfiguration",
+  "config.rightclickharvest.requireHoe": "Hacke erforderlich",
+  "config.rightclickharvest.requireHoe.tooltip": "Erlaube die Ernte bestimmter Anbaupflanzen (z.B. Weizen, Karotten) nur, wenn der Spieler eine Hacke in seiner Hand hält.",
+  "config.rightclickharvest.harvestInRadius": "Im Radius ernten",
+  "config.rightclickharvest.harvestInRadius.tooltip": "Hacken aus höherstufigen Materialien ernten mehrere Blöcke in einem Radius. \"Hacke erforderlich\" (`requireHoe`) muss auf \"true\" gestellt sein.",
+  "config.rightclickharvest.hungerLevel": "Nahrungspunkte",
+  "config.rightclickharvest.hungerLevel.tooltip": "Der Nahrungsverbrauch beim Ernten von Pflanzen.",
+  "config.rightclickharvest.hungerLevel.none": "Keine",
+  "config.rightclickharvest.hungerLevel.low": "Gering",
+  "config.rightclickharvest.hungerLevel.normal": "Mittel",
+  "config.rightclickharvest.hungerLevel.high": "Hoch",
+  "config.rightclickharvest.discord": "Chatte auf Discord",
+  "config.rightclickharvest.github": "Melde Bugs und schlage neue Funktionen auf GitHub vor",
+  "config.rightclickharvest.modrinth": "Modrinth auf Updates überprüfen"
+}
