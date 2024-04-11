@@ -342,6 +342,12 @@
   "mobsunscreen": {
     "3.1.0": "/group_p59hrfe"
   },
+  "mobdropsrecipes_overworld": {
+    "2.0.0": "/group_p59hrfe"
+  },
+  "mobdropsrecipes_nether": {
+    "1.0.1": "/group_p59hrfe"
+  },
   "misc_additions": {
     "0.3.0": "/group_p59hrfe"
   },
@@ -478,6 +484,9 @@
   },
   "hearth_and_home": {
     "1.20.1-2.0.1": "/group_p59hrfe"
+  },
+  "healthindicatortxf": {
+    "1.20.4-1.2.2-fabric": "/group_p59hrfe"
   },
   "head_in_the_clouds": {
     "1.0.1": "/group_p59hrfe"
@@ -794,6 +803,9 @@
   "pistorder": {
     "1.6.3": "/group_fy96ca4"
   },
+  "pfm": {
+    "1.2.1": "/group_fy96ca4"
+  },
   "nethersdelight": {
     "1.20.1-4.0.3": "/group_fy96ca4",
     "1.0.0": "/group_ma2ysv3"
@@ -861,6 +873,7 @@
     "1.2.1": "/group_w1ed779"
   },
   "azurelib": {
+    "2.1.6": "/group_w1ed779",
     "2.0.18": "/group_w1ed779"
   },
   "animatica": {
@@ -952,6 +965,9 @@
   "scholar": {
     "1.0.0": "/group_laumisx"
   },
+  "rechiseled": {
+    "1.1.5+b": "/group_laumisx"
+  },
   "masiks_puzzle_dungeon": {
     "1.1.1-1.20.X": "/group_laumisx"
   },
@@ -1014,7 +1030,8 @@
     "0.17.2": "/group_uexjjcg"
   },
   "horseexpert": {
-    "8.1.1": "/group_xbe3j1c"
+    "8.1.1": "/group_xbe3j1c",
+    "20.4.1": "/group_xbe3j1c"
   },
   "enhancedblockentities": {
     "0.9.1+1.20.2": "/group_xbe3j1c",
@@ -1092,6 +1109,7 @@
     "1.20-Fabric-3.0.3": "/group_ifdonj3"
   },
   "expanded_ecosphere": {
+    "3.3.1": "/group_ea2kel0",
     "3.2.4": "/group_ea2kel0"
   },
   "shutter": {
@@ -1170,6 +1188,9 @@
   },
   "mica": {
     "1.0.1": "/group_qp4o5m7"
+  },
+  "hwg": {
+    "2.1.2": "/group_epstfes"
   },
   "lolmct": {
     "1.2.4": "/group_v8dhrrm"
@@ -1438,6 +1459,9 @@
   "veinmining": {
     "3.1.0+1.20.4": "/group_goycb64"
   },
+  "mcwlights": {
+    "1.0.6": "/group_enje5ew"
+  },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",
     "1.7.2+mc1.20.4-build.102": "/group_dmosdm4",
@@ -1632,6 +1656,9 @@
   "redstonebits": {
     "1.11.0+fabric-mc1.20.3": "/group_nrouukl"
   },
+  "fallingtree": {
+    "1.20.4.3": "/group_1wgj1gi"
+  },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4",
     "1.20.4-fabric0.91.2-1.4": "/group_y28yn3q"
@@ -1803,6 +1830,9 @@
   },
   "vivecraft": {
     "1.20.4-1.1.8": "/group_sxp3pr9"
+  },
+  "mcwbridges": {
+    "3.0.0": "/group_ybv5158"
   },
   "jade": {
     "13.3.1": "/group_2qmktrs",

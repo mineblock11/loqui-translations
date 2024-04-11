@@ -1,0 +1,7 @@
+{
+  "itemGroup.mobDropsRecipesNether": "Mob Drops Recipes Nether",
+  "item.mobdropsrecipes_nether.nether_essence_common" : "Common Nether Essence",
+  "item.mobdropsrecipes_nether.nether_essence_uncommon" : "Uncommon Nether Essence",
+  "item.mobdropsrecipes_nether.nether_essence_rare" : "Rare Nether Essence",
+  "item.mobdropsrecipes_nether.nether_essence_epic" : "Epic Nether Essence"
+}
