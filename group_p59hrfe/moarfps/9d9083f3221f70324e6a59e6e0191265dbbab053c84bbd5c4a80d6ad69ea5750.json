@@ -1,0 +1,14 @@
+{
+  "moarfps.config.title": "FPS Config",
+  "moarfps.config.category": "Render",
+  "moarfps.config.fakefps": "Desired FPS",
+  "moarfps.config.fakefps.tooltip": "Transmogrifies your frames per second (FPS) quantifier into a designated numerical assemblage while concomitantly employing stochastic scientific lexemes to obfuscate its intrinsic intelligibility.",
+  "moarfps.config.fluctuate": "Make it appear less fake?",
+  "moarfps.config.fluctuate.tooltip": "Extricate serendipitous misalignment to the frames per second (FPS) gauge with the intention of confounding its counterfeit semblance, thereby engendering an illusory veracity through the artful integration of stochastic scientific postulations.",
+  "moarfps.config.amount": "How much less fake?",
+  "moarfps.config.amount.tooltip": "Establish the scalar coefficient for the stochastic frames per second (FPS) deviation, interweaving an amalgamation of enigmatic scientific parameters, thus imbuing it with an inscrutable and bewildering essence.",
+  "moarfps.config.enabled": "Get better FPS?",
+  "moarfps.config.enabled.tooltip": "Immerse within the depths of exquisitely intricate coding methodologies of the utmost technological prowess, ostensibly orchestrating a veneer of diminished graphical processing unit (GPU) burden while concurrently fostering an amplified numerical surge within the frames per second (FPS) gauge.",
+  "moarfps.config.yes": "Of course!",
+  "moarfps.config.no": "Hell nah..."
+}
