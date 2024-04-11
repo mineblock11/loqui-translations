@@ -1,0 +1,6 @@
+{
+  "text.autoconfig.steppy.option.enableSteppy": "Включить Steppy",
+  "text.autoconfig.steppy.option.enableSteppyWhenSneaking": "Steppy работает только при подкрадывании",
+  "text.autoconfig.steppy.option.stepHeight": "Высота шага",
+  "text.autoconfig.steppy.title": "Steppy"
+}
