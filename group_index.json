@@ -5,6 +5,9 @@
   "yaclx": {
     "1.12+1.20.2": "/group_p59hrfe"
   },
+  "whereisit": {
+    "2.3.4+1.20.4": "/group_p59hrfe"
+  },
   "welcomescreen": {
     "1.0.1": "/group_p59hrfe"
   },
@@ -1815,6 +1818,9 @@
   },
   "physicsmod": {
     "3.0.13": "/group_ze32fsj"
+  },
+  "chesttracker": {
+    "2.3.3+1.20.4": "/group_zjr9ja8"
   },
   "languagereload": {
     "1.5.9+1.20.1": "/group_0u8y0rt",
