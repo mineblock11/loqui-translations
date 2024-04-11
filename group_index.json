@@ -25,6 +25,7 @@
   },
   "wakes": {
     "0.2.2": "/group_p59hrfe",
+    "0.2.1": "/group_p59hrfe",
     "0.2.0": "/group_p59hrfe",
     "0.2.3": "/group_c7h3lvl"
   },
@@ -1665,6 +1666,9 @@
   },
   "fallingtree": {
     "1.20.4.3": "/group_1wgj1gi"
+  },
+  "simple_utilities": {
+    "2.6.1": "/group_gvu0qty"
   },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4",
