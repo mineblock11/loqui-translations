@@ -2162,6 +2162,7 @@
     "12.0.674": "/group_ffk9axb"
   },
   "dynamic_fps": {
+    "3.3.2": "/group_21j33r0",
     "3.2.1": "/group_21j33r0",
     "3.4.2": "/group_ba9hpk1"
   },
@@ -2211,9 +2212,9 @@
   },
   "modmenu": {
     "9.1.0-beta.1": "/group_1s5y3xs",
+    "9.0.0": "/group_1s5y3xs",
     "8.0.1": "/group_x1m11pa",
     "7.2.2": "/group_1s5y3xs",
-    "9.0.0": "/group_1s5y3xs",
     "9.0.0-pre.1": "/group_1s5y3xs",
     "8.0.0": "/group_1s5y3xs"
   },
