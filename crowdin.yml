@@ -890,6 +890,14 @@ files:
       - mk
       - ru
       - zh-CN
+  - source: /group_b91hef5/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - it
+      - pt-BR
+      - vi
+      - zh-CN
+      - zh-TW
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
