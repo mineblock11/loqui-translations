@@ -1,0 +1,27 @@
+{
+ "item.bananabaking.banana_bread": "Banana Bread",
+ "item.bananabaking.banana_pie": "Banana Pie",
+ "item.bananabaking.banana_fried": "Fried Banana",
+ "item.bananabaking.banana_oiled": "Oiled Banana",
+ "item.bananabaking.banana_cookie": "Banana Cookie",
+ "item.bananabaking.banana_donut": "Banana Donut",
+ "item.bananabaking.banana_pudding": "Banana Pudding",
+ "item.bananabaking.banana_pie_slice": "Banana Pie Slice",
+ "item.bananabaking.vanilla_bean_seeds": "Vanilla Bean Seeds",
+ "item.bananabaking.vanilla_beans": "Vanilla Beans",
+ "item.bananabaking.banana_seeds": "Banana Seeds",
+ "item.bananabaking.banana": "Banana",
+ "item.bananabaking.vanilla_extract": "Vanilla Extract",
+ "item.bananabaking.banana_chocolate": "Chocolate Banana",
+ "item.bananabaking.banana_smoothie": "Banana Smoothie",
+ "item.bananabaking.chocolate_bucket": "Chocolate Bucket",
+ "item.bananabaking.banana_bunch": "Banana Bunch",
+
+
+ "itemGroup.bananabaking": "Banana Baking",
+
+ "block.bananabaking.vanilla_bean_crop": "Vanilla Bean Crop",
+ "block.bananabaking.banana_crop": "Banana Crop",
+ "block.bananabaking.baking_oven": "Baking Oven",
+ "block.bananabaking.banana_cake": "Banana Cake"
+}

@@ -1,0 +1,20 @@
+{
+  "itemGroup.nyfsquiver.quiver": "Nyf's Quivers",
+
+  "ui.nyfsquiver.quiver": "Quiver",
+
+  "item.nyfsquiver.basic_quiver": "Quiver",
+  "item.nyfsquiver.iron_quiver": "Iron Quiver",
+  "item.nyfsquiver.copper_quiver": "Copper Quiver",
+  "item.nyfsquiver.silver_quiver": "Silver Quiver",
+  "item.nyfsquiver.gold_quiver": "Gold Quiver",
+  "item.nyfsquiver.diamond_quiver": "Diamond Quiver",
+  "item.nyfsquiver.netherite_quiver": "Netherite Quiver",
+
+  "category.nyfsquiver.keybindings": "Nyf's Quivers",
+  "key.nyfsquiver.open_quiver": "Open Quiver",
+  "key.nyfsquiver.increase_slot": "Next Slot",
+  "key.nyfsquiver.decrease_slot": "Previous Slot",
+  "trinkets.slot.chest.quiver": "Quiver"
+
+}

@@ -1,0 +1,25 @@
+{
+  "item.onlyhammersandexcavators.wooden_excavator": "Wooden Excavator",
+  "item.onlyhammersandexcavators.stone_excavator": "Stone Excavator",
+  "item.onlyhammersandexcavators.iron_excavator": "Iron Excavator",
+  "item.onlyhammersandexcavators.gold_excavator": "Gold Excavator",
+  "item.onlyhammersandexcavators.lapis_excavator": "Lapis Excavator",
+  "item.onlyhammersandexcavators.redstone_excavator": "Redstone Excavator",
+  "item.onlyhammersandexcavators.diamond_excavator": "Diamond Excavator",
+  "item.onlyhammersandexcavators.emerald_excavator": "Emerald Excavator",
+  "item.onlyhammersandexcavators.obsidian_excavator": "Obsidian Excavator",
+  "item.onlyhammersandexcavators.netherite_excavator": "Netherite Excavator",
+
+  "item.onlyhammersandexcavators.wooden_hammer": "Wooden Hammer",
+  "item.onlyhammersandexcavators.stone_hammer": "Stone Hammer",
+  "item.onlyhammersandexcavators.iron_hammer": "Iron Hammer",
+  "item.onlyhammersandexcavators.gold_hammer": "Gold Hammer",
+  "item.onlyhammersandexcavators.lapis_hammer": "Lapis Hammer",
+  "item.onlyhammersandexcavators.redstone_hammer": "Redstone Hammer",
+  "item.onlyhammersandexcavators.diamond_hammer": "Diamond Hammer",
+  "item.onlyhammersandexcavators.emerald_hammer": "Emerald Hammer",
+  "item.onlyhammersandexcavators.obsidian_hammer": "Obsidian Hammer",
+  "item.onlyhammersandexcavators.netherite_hammer": "Netherite Hammer",
+
+  "itemGroup.onlyhammersandexcavators.onlyhammersandexcavators": "Only Hammers And Excavators"
+}

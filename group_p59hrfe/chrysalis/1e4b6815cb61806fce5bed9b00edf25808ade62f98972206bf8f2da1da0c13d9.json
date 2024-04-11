@@ -1,0 +1,70 @@
+{
+  "gui.chrysalis.wiki": "Developer Wiki",
+  "pack.chrysalis.emissive_textures": "Emissive Textures",
+
+  "item.chrysalis.heal": "Heal",
+  "item.chrysalis.heal.desc": "Sets to Maximum Health",
+  "item.chrysalis.fill_hunger": "Fill Hunger",
+  "item.chrysalis.fill_hunger.desc": "Sets to Maximum Hunger Value",
+  "item.chrysalis.give_resistance": "Give Resistance",
+  "item.chrysalis.give_resistance.desc": "Gives Infinite Resistance",
+  "item.chrysalis.clear_effects": "Clear Effects",
+  "item.chrysalis.clear_effects.desc": "Clears All Effects",
+  "item.chrysalis.teleport_to_spawnpoint": "Teleport to Spawnpoint",
+  "item.chrysalis.teleport_to_spawnpoint.desc": "Teleports to Spawn Position",
+  "item.chrysalis.kill_wand": "Kill Wand",
+  "item.chrysalis.kill_wand.desc": "Instantly Kills Targeted Mob",
+  "item.chrysalis.tame_mob": "Tame Mob",
+  "item.chrysalis.tame_mob.desc": "Automatically Tames Mob",
+  "item.chrysalis.debug_stick.desc": "Cycles Between Block States",
+
+  "gui.chrysalis.heal_message": "Successfully healed %s",
+  "gui.chrysalis.fill_hunger_message": "Successfully nourished %s",
+  "gui.chrysalis.give_resistance_message": "Applied infinite resistance to %s",
+  "gui.chrysalis.clear_effects_message": "Cleared all status effects from %s",
+  "gui.chrysalis.teleport_to_spawnpoint_message": "Successfully teleported to spawnpoint",
+  "gui.chrysalis.teleport_to_spawnpoint_failed_message": "You have no set spawnpoint",
+  "gui.chrysalis.tame_mob_message": "%s has successfully been tamed",
+
+  "gui.chrysalis.item.when_used": "When Used with %s:",
+  "gui.chrysalis.item.when_eaten": "When Eaten:",
+  "gui.chrysalis.item.when_drank": "When Drank:",
+  "gui.chrysalis.item.when_held": "When Held:",
+  "gui.chrysalis.item.enchantments": "Enchantments:",
+
+  "gui.chrysalis.screenshot_copied": "Screenshot copied to clipboard",
+
+  "gui.chrysalis.none": "None",
+  "gui.chrysalis.dimension": "Dimension: %s",
+  "gui.chrysalis.coordinates": "X: %s Y: %s Z: %s",
+
+  "gui.chrysalis.facing_direction": "Facing: %s",
+  "gui.chrysalis.direction.north": "North",
+  "gui.chrysalis.direction.south": "South",
+  "gui.chrysalis.direction.east": "East",
+  "gui.chrysalis.direction.west": "West",
+
+  "gui.chrysalis.weather.clear": "Clear",
+  "gui.chrysalis.weather.raining": "Raining",
+  "gui.chrysalis.weather.thundering": "Thundering",
+  "gui.chrysalis.weather.snowing": "Snowing",
+
+  "dimension.minecraft.overworld": "Overworld",
+  "dimension.minecraft.the_nether": "The Nether",
+  "dimension.minecraft.the_end": "The End",
+
+  "gamerule.passiveGriefing": "Allow non-destructive world interactions from mobs",
+  "gamerule.dragonGriefing": "Allow for Ender Dragons to destroy blocks",
+  "gamerule.witherGriefing": "Allow for Withers to destroy blocks",
+  "gamerule.destroyItemsInExplosions": "In explosions, most items will be destroyed",
+  "gamerule.destroyItemsInExplosions.description": "Most items caught in explosions are lost in the explosion.",
+  "gamerule.doNetherPortalActivating": "Allow Nether Portal activating",
+  "gamerule.doEndPortalActivating": "Allow End Portal activating",
+
+  "subtitles.item.heal.use": "Player heals",
+  "subtitles.item.fill_hunger.use": "Player nourishes",
+  "subtitles.item.give_resistance.use": "Player fortifies",
+  "subtitles.item.clear_effects.use": "Player clears effects",
+  "subtitles.item.teleport_to_spawnpoint.fail": "Teleportation fails",
+  "subtitles.item.tame_mob.use": "Mob tamed"
+}

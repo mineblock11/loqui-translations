@@ -1,0 +1,14 @@
+{
+  "config.tradepreview.category.position": "Position",
+  "config.tradepreview.category.colors": "Colours",
+  "config.tradepreview.x": "X Coordinate",
+  "config.tradepreview.y": "Y Coordinate",
+  "config.tradepreview.x.tooltip": "X coordinate for the trade preview overlay. You can set a value outside the slider from the config file.",
+  "config.tradepreview.y.tooltip": "Y coordinate for the trade preview overlay. You can set a value outside the slider from the config file.",
+  "config.tradepreview.reset": "Reset Position",
+  "key.tradepreview.category": "TradePreview",
+  "key.tradepreview.previewedit": "Edit preview position",
+  "key.tradepreview.preview": "Trade preview",
+  "key.tradepreview.down": "Scroll down enchanted items",
+  "key.tradepreview.up": "Scroll up enchanted items"
+}

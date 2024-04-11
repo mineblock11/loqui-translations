@@ -1,0 +1,5 @@
+{
+  "seamless.resource_pack": "Default Seamless Resources",
+  "options.fast_seamless": "Fast Seamless",
+  "options.fast_seamless.tooltip": "This makes Seamless, when looking at a new location, only check for connecting blocks once, improving performance. The downside is that when placing some double blocks, the outline does not connect yet until you look away. Changes to connecting blocks also won't get detected."
+}

@@ -1,0 +1,10 @@
+{
+  "key.categories.originsenhanced": "Origins Enhanced",
+  "key.originsenhanced.navigator": "Open Navigator",
+  "key.originsenhanced.gesture_menu": "Open Gesture Menu",
+  "key.originsenhanced.spawn": "Go to Spawn",
+  "key.originsenhanced.realm": "Go to your Realm",
+  "screen.originsenhanced.config.title": "Origins Enhanced Config",
+  "screen.originsenhanced.config.reset": "Restore Defaults",
+  "feature.originsenhanced.network.toast.outdated": "Your Origins Enhanced is too old for Origin Realms! Please update to use Origins Enhanced features."
+}

@@ -1,7 +1,0 @@
-{
-
-  "text.autoconfig.mod_id.title": "Mod Id Configuration",
-
-  "text.autoconfig.mod_id.option.boolean_config": "Enable boolean configuration",
-  "text.autoconfig.mod_id.option.boolean_config.@Tooltip": "Boolean configuration tooltip"
-}

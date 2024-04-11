@@ -1,0 +1,22 @@
+{
+  "command.ultreonlib.nbt.notBlockEntity": "%1$s is not a block entity.",
+  "command.ultreonlib.nbt.noItemInHand": "You don't have any item in your main hand.",
+  "command.ultreonlib.nbt.noItemTag": "%1$s doesn't have any nbt tag.",
+  "item.ultreonlib.lootContainer.itemReceived": "§aYou received %1$sx %2$s!",
+  "item.ultreonlib.lootContainer.table": "Loot table: %1$s",
+  "gui.ultreonlib.config.title": "User Configuration",
+  "gui.ultreonlib.config.theme": "Theme: ",
+  "gui.ultreonlib.config.title_style": "Title style: ",
+  "ultreonlib.theme.light": "Light",
+  "ultreonlib.theme.normal": "Vanilla",
+  "ultreonlib.theme.mix": "Mixed",
+  "ultreonlib.theme.dark": "Dark",
+  "ultreonlib.title_style.normal": "Normal",
+  "ultreonlib.title_style.detached": "Detached",
+  "ultreonlib.title_style.hidden": "Hidden",
+  "gui.ultreonlib.action_menu.access_denied": "§c§lAccess Denied",
+  "gui.ultreonlib.search_empty": "There was nothing found with that query",
+  "gui.ultreonlib.search_hint": "Search",
+  "screen.ultreonlib.dev_preview.title": "Development Preview",
+  "screen.ultreonlib.dev_preview.description": "There are mods that are in a development preview, see mods below:"
+}

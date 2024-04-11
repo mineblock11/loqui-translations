@@ -1,9 +1,0 @@
-{
-  "text.autoconfig.nnvf.title": "No Night Vision Flickering",
-  "key.nnvf.openConfig": "Open NNVF Config",
-  "text.autoconfig.nnvf.option.FADE_OUT_START_TICK": "Fade-out Start Tick",
-  "text.autoconfig.nnvf.option.FADE_OUT_START_TICK.@Tooltip": "When effect should start(in ticks, 20 ticks = 1s)",
-  "text.autoconfig.nnvf.option.USE_VANILLA_EFFECT": "Use vanilla effect",
-  "text.autoconfig.nnvf.option.PULSE_FREQUENCY": "Vanilla effect frequency",
-  "text.autoconfig.nnvf.option.PULSE_FREQUENCY.@Tooltip": "How fast should vanilla effect loop, lower number means less flashy"
-}

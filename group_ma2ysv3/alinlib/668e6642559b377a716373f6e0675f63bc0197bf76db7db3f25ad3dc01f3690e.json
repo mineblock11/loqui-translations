@@ -1,0 +1,14 @@
+{
+  "alinlib.boolean.true": "ON",
+  "alinlib.boolean.false": "OFF",
+
+  "alinlib.something": "You're a failure :D",
+
+  "alinlib.editbox.secret": "Secret :)",
+
+  "modmenu.alinlib.github": "GitHub",
+  "modmenu.alinlib.modrinth": "Modrinth",
+  "modmenu.alinlib.donate": "DonationAlerts",
+
+  "modmenu.descriptionTranslation.alinlib": "A library to facilitate mod development by Kel Cuprum"
+}

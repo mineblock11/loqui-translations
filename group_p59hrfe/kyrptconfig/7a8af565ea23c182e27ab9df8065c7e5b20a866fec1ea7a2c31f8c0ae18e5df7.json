@@ -1,0 +1,14 @@
+{
+  "key.kyrptconfig.config.restartRequired": "Restart is Required",
+  "key.kyrptconfig.config.exit": "Exit",
+  "key.kyrptconfig.config.saveExit": "Save & Exit",
+  "key.kyrptconfig.config.true": "True",
+  "key.kyrptconfig.config.false": "False",
+  "key.kyrptconfig.config.reset": "Reset",
+  "key.kyrptconfig.config.add": "Add",
+  "key.kyrptconfig.config.delete": "Delete",
+  "key.kyrptconfig.config.clear": "Clear",
+  "key.kyrptconfig.config.hastags": "This field supports tags",
+  "key.kyrptconfig.config.nothastags": "This field does not supports tags",
+  "key.kyrptconfig.config.tagsdisplay": "Note: Tags will only display properly in-game"
+}

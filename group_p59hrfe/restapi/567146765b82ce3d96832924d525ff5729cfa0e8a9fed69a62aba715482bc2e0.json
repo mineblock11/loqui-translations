@@ -1,0 +1,8 @@
+{
+  "item.restapi.test_item": "Test simple item",
+  "item.restapi.test_simple_food": "Test simple food",
+  "item.restapi.test_effect_food": "Test effect food",
+  "item.restapi.test_sword": "Test sword",
+  "itemGroup.restapi.test_tab": "Test tab",
+  "sounds.restapi.sound_test": "Sound test"
+}

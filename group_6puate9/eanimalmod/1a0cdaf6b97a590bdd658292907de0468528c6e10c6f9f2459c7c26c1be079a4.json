@@ -1,0 +1,39 @@
+{
+  "item.eanimalmod.cooked_equine_meat" : "Cooked equine meat",
+  "item.eanimalmod.raw_equine_meat" : "Raw equine meat",
+  "item.eanimalmod.cooked_camel_meat" : "Cooked camel meat",
+  "item.eanimalmod.raw_camel_meat" : "Raw camel meat",
+  "item.eanimalmod.cooked_bear_meat" : "Cooked bear meat",
+  "item.eanimalmod.raw_bear_meat" : "Raw bear meat",
+  "item.eanimalmod.fried_bee_wing" : "Fried bee wing",
+  "item.eanimalmod.cooked_strider_meat" : "Hot strider meat",
+  "item.eanimalmod.raw_strider_meat" : "Cold strider meat",
+  "item.eanimalmod.cooked_cat_meat" : "Cooked cat meat",
+  "item.eanimalmod.raw_cat_meat" : "Raw cat meat",
+  "item.eanimalmod.cooked_sniffer_meat" : "Cooked sniffer meat",
+  "item.eanimalmod.raw_sniffer_meat" : "Raw sniffer meat",
+  "item.eanimalmod.cooked_parrot" : "Cooked parrot",
+  "item.eanimalmod.parrot" : "Parrot",
+  "item.eanimalmod.cooked_turtle_meat" : "Cooked turtle fillet",
+  "item.eanimalmod.raw_turtle_meat" : "Raw turtle fillet",
+  "item.eanimalmod.axolotl_tail" : "Axolotl tail",
+  "item.eanimalmod.cooked_axolotl_tail" : "Cooked Axolotl tail",
+  "item.eanimalmod.squid_tentacle" : "Squid tentacle",
+  "item.eanimalmod.fried_squid_tentacle" : "Fried squid tentacle",
+  "item.eanimalmod.bat_wing" : "Bat wing",
+  "item.eanimalmod.fried_bat_wing" : "Fried bat wing",
+  "item.eanimalmod.frog_leg" : "Frog leg",
+  "item.eanimalmod.fried_frog_leg" : "Fried frog leg",
+  "item.eanimalmod.cooked_wolf_meat" : "Cooked wolf meat",
+  "item.eanimalmod.raw_wolf_meat" : "Raw wolf meat",
+
+
+
+  "item.eanimalmod.fox_fur" : "Fox fur",
+  "item.eanimalmod.panda_hide" : "Panda hide",
+  "item.eanimalmod.polar_bear_hide" : "Polar bear hide",
+  "item.eanimalmod.strider_skin" : "Strider skin",
+  "item.eanimalmod.bee_wing" : "Bee wing",
+  "item.eanimalmod.sniffer_leaves" : "Sniffer leaves"
+
+}

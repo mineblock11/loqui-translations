@@ -1,9 +1,0 @@
-{
-    "text.autoconfig.herdspanic.title": "HerdsPanic Config",
-    "text.autoconfig.herdspanic.option.herd_panic": "Herds Panic",
-    "text.autoconfig.herdspanic.option.shelter_seeking": "Animal Sheltering",
-    "text.autoconfig.herdspanic.option.excluded_entities": "Excluded Entity List",
-    "text.autoconfig.herdspanic.option.panic_time": "Panic Time",
-    "text.autoconfig.herdspanic.option.panic_distance": "Panic Distance",
-    "text.autoconfig.herdspanic.option.alert_all_animals": "Alert All Animals"
-}
