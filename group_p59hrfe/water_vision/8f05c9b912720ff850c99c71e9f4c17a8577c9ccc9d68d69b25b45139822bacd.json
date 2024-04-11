@@ -1,0 +1,7 @@
+{
+  "config.water_vision.title": "Water Vision Config",
+  "config.water_vision.category": "Water Vision",
+  "config.water_vision.enable": "Enable",
+  "config.water_vision.scale_close": "Fog Start Value",
+  "config.water_vision.scale_far": "Fog End Value"
+}
