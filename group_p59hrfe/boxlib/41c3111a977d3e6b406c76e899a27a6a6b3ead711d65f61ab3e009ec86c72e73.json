@@ -1,0 +1,26 @@
+{
+  "boxlib.exampleconfigscreen": "Example Config Screen",
+
+  "boxlib.wiki": "Wiki...",
+
+  "boxlib.anArgbField": "An ARGB Field",
+  "boxlib.aBoolean": "Boolean: %s",
+  "boxlib.aDouble": "A Double",
+  "boxlib.aFloat": "A Float",
+  "boxlib.anEnum": "Enum: %s",
+  "boxlib.anEnum.big": "BIG",
+  "boxlib.anEnum.small": "SMALL",
+  "boxlib.anEnum.tiny": "TINY",
+  "boxlib.anEnum.normal": "NORMAL",
+  "boxlib.anEnum.gigantic": "GIGANTIC",
+  "boxlib.aHexColor": "A Hex Color",
+  "boxlib.anInt": "An Integer",
+  "boxlib.aString": "A String",
+  "boxlib.aLong": "A Long",
+  "boxlib.aShort": "A Short",
+  "boxlib.anotherDouble": "Another Double: %s",
+  "boxlib.anotherFloat": "Another Float: %s",
+  "boxlib.anotherInt": "Another Integer: %s",
+  "boxlib.anotherLong": "Another Long: %s",
+  "boxlib.anotherShort": "Another Short: %s"
+}

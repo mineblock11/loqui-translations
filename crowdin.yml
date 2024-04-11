@@ -955,6 +955,13 @@ files:
       - en-GB
       - pt-BR
       - zh-CN
+  - source: /group_9pn5k13/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - ja
+      - ko
+      - ru
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
