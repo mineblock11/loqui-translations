@@ -1,0 +1,7 @@
+{
+	"block.minecraft.crafter": "Crafter",
+	"container.crafter": "Crafter",
+	"subtitles.block.minecraft.crafter.craft": "Crafter crafted",
+	"subtitles.block.minecraft.crafter.fail": "Crafter failed",
+	"crafter.gui.toggleable_slot": "Click to disable slot"
+}

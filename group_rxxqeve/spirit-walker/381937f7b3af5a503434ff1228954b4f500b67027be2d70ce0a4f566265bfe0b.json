@@ -1,0 +1,32 @@
+{
+    "effect.spirit-walker.spirit_walk": "Spirit Walk",
+    "effect.spirit-walker.spirit_walk.desc": "Temporarily removes you from your body",
+    "item.minecraft.potion.effect.spirit_walk": "Potion of Spirit Walking",
+    "item.minecraft.splash_potion.effect.spirit_walk": "Splash Potion of Spirit Walking",
+    "item.minecraft.lingering_potion.effect.spirit_walk": "Lingering Potion of Spirit Walking",
+    "item.minecraft.tipped_arrow.effect.spirit_walk": "Arrow of Spirit Walking",
+
+    "advancements.spirit-walker.brew_spirit_walk.title": "Astral Projection In A Bottle",
+    "advancements.spirit-walker.brew_spirit_walk.description": "Brew a Spirit Walk potion",
+    "advancements.spirit-walker.die_while_spirit_walking.title": "An Unfortunate Series Of Events",
+    "advancements.spirit-walker.die_while_spirit_walking.description": "Die while spirit walking, unable to defend yourself",
+
+    "text.config.spirit-walker.title": "Spirit Walker Config",
+    "text.config.spirit-walker.option.enableDefaultRecipe": "Enable Default Recipe",
+    "text.config.spirit-walker.option.enableDefaultRecipe.tooltip": [
+        "Enables the default recipe for the potion.\n",
+        "Disable this if you want to use your own."
+    ],
+    "text.config.spirit-walker.option.normalPotionLength": "Normal Potion Length",
+    "text.config.spirit-walker.option.normalPotionLength.tooltip": "The length of the normal potion, in seconds",
+    "text.config.spirit-walker.option.strongPotionLength": "Strong Potion Length",
+    "text.config.spirit-walker.option.strongPotionLength.tooltip": "The length of the strong potion, in seconds",
+    "text.config.spirit-walker.option.longPotionLength": "Long Potion Length",
+    "text.config.spirit-walker.option.longPotionLength.tooltip": "The length of the long potion, in seconds",
+    "text.config.spirit-walker.option.allowReturningImmediately": "Allow Returning Immediately",
+    "text.config.spirit-walker.option.allowReturningImmediately.tooltip": "Allows you to end spirit walking by attacking yourself",
+    "text.config.spirit-walker.option.disableSplashAndLingering": "Disable Splash And Lingering",
+    "text.config.spirit-walker.option.disableSplashAndLingering.tooltip": "Disables the splash and lingering variants of the potions",
+    "text.config.spirit-walker.option.listenFromBody": "Listen from Body",
+    "text.config.spirit-walker.option.listenFromBody.tooltip": "Sounds will be heard from the body, not the camera"
+}

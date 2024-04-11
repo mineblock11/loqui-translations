@@ -1,0 +1,8 @@
+{
+  "itemGroup.reinfcore.reinforced_storage": "Reinforced Storage",
+
+  "text.autoconfig.reinfcore.title": "Reinforced Core",
+  "text.autoconfig.reinfcore.option.screenType": "Screen Type",
+  "text.autoconfig.reinfcore.option.scrollScreen": "Scroll Screen Settings",
+  "text.autoconfig.reinfcore.option.scrollScreen.rows": "Inventory Rows"
+}
