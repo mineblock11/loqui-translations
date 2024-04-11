@@ -73,6 +73,10 @@ files:
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
       - fi
+  - source: /group_v3cx9v5/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - 'no'
   - source: /group_qdygrud/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -213,6 +217,11 @@ files:
     excluded_target_languages:
       - fr
       - nl
+  - source: /group_blwkn6l/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ko
+      - uk
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -447,6 +456,12 @@ files:
       - ru
       - tr
       - uk
+  - source: /group_xec8tzv/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - fr
+      - pt-BR
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -896,6 +911,14 @@ files:
       - it
       - pt-BR
       - vi
+      - zh-CN
+      - zh-TW
+  - source: /group_t3hqu4s/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - pl
+      - ru
       - zh-CN
       - zh-TW
   - source: /group_nzs7a7t/*/*.json
@@ -2006,6 +2029,34 @@ files:
       - uk
       - zh-CN
       - zh-HK
+      - zh-TW
+  - source: /group_ga9cjj2/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - ja
+      - ko
+      - nl
+      - pt-BR
+      - ru
+      - tr
+      - uk
+      - zh-CN
+  - source: /group_vs1zfhn/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - et
+      - it
+      - pl
+      - pt-BR
+      - ru
+      - tr
+      - uk
+      - vi
+      - zh-CN
       - zh-TW
   - source: /group_0u8y0rt/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
