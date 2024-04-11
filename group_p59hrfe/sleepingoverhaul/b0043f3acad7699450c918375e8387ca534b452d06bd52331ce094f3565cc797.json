@@ -1,0 +1,8 @@
+{
+  "config.sleepingoverhaul.sleepAction": "The action to perform when all players are sleeping",
+  
+  "gui.sleepingoverhaul.sleepButton": "Sleep",
+  
+  "death.attack.sleepingoverhaul2.timelapseKill": "%1$s died in their sleep",
+  "death.attack.sleepingoverhaul2.timelapseKill.player": "%1$s was killed in their sleep by %2$s"
+}
