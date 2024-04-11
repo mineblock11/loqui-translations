@@ -1,0 +1,34 @@
+{
+  "timm.commands.foo": "foo command returned %s",
+
+  "timm.commands.nowPlaying.song": "Now Playing: %s",
+  "timm.commands.nowPlaying.null": "Not playing any song!",
+
+  "timm.commands.stop": "Stopped playback.",
+
+  "timm.commands.skip.success": "Skipped to %s",
+  "timm.commands.skip.badId": "Error while executing skip: Unknown SoundEvent \"%s\"",
+
+
+  "timm.config.text": "Config Menu",
+
+  "timm.config.close.text": "Close",
+  "timm.config.close.tooltip": "Close this menu.",
+
+  "timm.config.songMin.text": "Minimum Game Song Delay",
+  "timm.config.songMin.slider": "Minimum: %d",
+
+  "timm.config.songMax.text": "Maximum Game Song Delay",
+  "timm.config.songMax.slider": "Maximum: %d",
+
+  "timm.config.menuMin.text": "Minimum Menu Song Delay",
+  "timm.config.menuMin.slider": "Minimum: %d",
+
+  "timm.config.menuMax.text": "Maximum Menu Song Delay",
+  "timm.config.menuMax.slider": "Maximum: %d",
+
+  "timm.config.debug.text": "Enable Debug Logs",
+
+
+  "timm.": ""
+}
