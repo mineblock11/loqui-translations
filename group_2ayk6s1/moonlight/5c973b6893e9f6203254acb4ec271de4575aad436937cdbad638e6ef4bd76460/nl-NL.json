@@ -1,0 +1,11 @@
+{
+  "fluid.moonlight.generic_fluid": "Naamloze vloeistof",
+  "item.minecraft.potion_lingering": "Draaldrankje",
+  "item.minecraft.potion_splash": "Spattende Drank",
+  "gui.moonlight.open_mod_page": "Open de %s CurseForge pagina",
+  "message.moonlight.anti_repost": "Het lijkt erop dat je %1$s van een slechte site gedownload hebt :( Krijg de echte versie %2$s.",
+  "message.moonlight.anti_repost_link": "hier",
+  "wood_type.twilightforest.dark": "Donker Hout",
+  "leaves_type.twilightforest.dark": "Donker Hout",
+  "leaves_type.ulterlands.souldrained": "Versteend"
+}
