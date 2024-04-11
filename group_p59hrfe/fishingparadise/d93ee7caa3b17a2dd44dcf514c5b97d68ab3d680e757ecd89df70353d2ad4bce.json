@@ -1,0 +1,36 @@
+{
+  "item.fishingparadise.raw_anchoveta": "Raw Anchoveta",
+  "item.fishingparadise.cooked_anchoveta": "Cooked Anchoveta",
+  "item.fishingparadise.raw_carp": "Raw Carp",
+  "item.fishingparadise.cooked_carp": "Cooked Carp",
+  "item.fishingparadise.raw_hering": "Raw Hering",
+  "item.fishingparadise.cooked_hering": "Cooked Hering",
+  "item.fishingparadise.raw_shrimp": "Raw Shrimp",
+  "item.fishingparadise.cooked_shrimp": "Cooked Shrimp",
+  "item.fishingparadise.raw_tilapia": "Raw Tilapia",
+  "item.fishingparadise.cooked_tilapia": "Cooked Tilapia",
+  "item.fishingparadise.raw_tuna": "Raw Tuna",
+  "item.fishingparadise.cooked_tuna": "Cooked Tuna",
+
+  "item.fishingparadise.starfish": "Starfish",
+  "item.fishingparadise.raw_crab": "Raw Crab",
+
+  "item.fishingparadise.fish_fillets": "Fish Fillets",
+  "item.fishingparadise.cooked_fish_fillets": "Cooked Fish Fillets",
+  "item.fishingparadise.fish_and_chips": "Fish And Chips",
+  "item.fishingparadise.fish_pie": "Fish Pie",
+  "item.fishingparadise.fish_stew": "Fish Stew",
+  "item.fishingparadise.sea_food": "Sea Food",
+  "item.fishingparadise.sushi": "Sushi",
+
+  "item.fishingparadise.octopus": "Octopus",
+  "item.fishingparadise.anglerfish": "Anglerfish",
+  "item.fishingparadise.serpent": "Serpent",
+
+  "item.fishingparadise.bamboo_fishing_rod": "Bamboo Fishing Rod",
+  "item.fishingparadise.wooden_fishing_rod": "Wooden Fishing Rod",
+  "item.fishingparadise.metal_fishing_rod": "Metal Fishing Rod",
+  "item.fishingparadise.netherite_fishing_rod": "Netherite Fishing Rod",
+
+  "itemgroup.fish": "Fishing Paradise"
+}

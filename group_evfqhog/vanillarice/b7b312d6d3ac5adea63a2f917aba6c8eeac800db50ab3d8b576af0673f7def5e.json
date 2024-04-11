@@ -1,0 +1,15 @@
+{
+	"item.vanillarice.rice_seeds": "Rice seeds",
+	"item.vanillarice.rice_grain": "Rice",
+	"item.vanillarice.rice_bowl": "Bowl of Rice",
+	"item.vanillarice.maki_sushi": "Maki Sushi",
+	"item.vanillarice.fried_rice": "Fried Rice",
+	"item.vanillarice.mochi": "Mochi",
+	"item.vanillarice.rice_bag": "Bag of rice",
+
+	"item.vanillarice.rice_crop": "Rice plant",
+
+	"itemGroup.vanillarice": "Rice",
+	
+	"langfile_author": "LeLoomi"
+}

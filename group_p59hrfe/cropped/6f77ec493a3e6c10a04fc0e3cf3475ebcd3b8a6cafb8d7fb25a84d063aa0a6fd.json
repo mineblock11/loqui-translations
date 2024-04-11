@@ -1,0 +1,13 @@
+{
+  "title.cropped.config": "Cropped Config",
+  "text.autoconfig.cropped.option.rainWatering": "Rain Watering",
+  "text.autoconfig.cropped.option.rainWatering.@Tooltip": "Rain waters crops, letting them grow faster.",
+  "text.autoconfig.cropped.option.rainWateringMultiplier": "Rain Watering Multiplier",
+    "text.autoconfig.cropped.option.rainWateringMultiplier.@Tooltip": "How much to speed growth up while raining.",
+  "text.autoconfig.cropped.option.dontBreakOnJump": "Don't Break On Jump",
+  "text.autoconfig.cropped.option.dontBreakOnJump.@Tooltip": "Crops don't break when they're jumped on.",
+  "text.autoconfig.cropped.option.rightClickHarvest": "Right Click Harvest",
+  "text.autoconfig.cropped.option.rightClickHarvest.@Tooltip": "Right click crops to harvest them.",
+  "text.autoconfig.cropped.option.dispenserPlanting": "Dispenser Planting",
+  "text.autoconfig.cropped.option.dispenserPlanting.@Tooltip": "Dispensers can plant crops."
+}

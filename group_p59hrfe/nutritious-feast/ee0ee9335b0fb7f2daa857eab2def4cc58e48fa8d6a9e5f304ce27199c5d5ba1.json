@@ -1,0 +1,26 @@
+{
+  "item.nutritious-feast.apple_pie" : "Apple Pie",
+  "item.nutritious-feast.sweet_berry_pie" : "Sweet Berry Pie",
+  "item.nutritious-feast.blueberry_pie" : "Blueberry Pie",
+  "item.nutritious-feast.chocolate_pie" : "Chocolate Pie",
+  "item.nutritious-feast.carrot_pie" : "Carrot Pie",
+  "item.nutritious-feast.glow_berry_pie" : "Glow Berry Pie",
+  "item.nutritious-feast.illuminating_pie" : "Illuminating Pie",
+  "item.nutritious-feast.chorus_pie" : "Chorus Pie",
+  "item.nutritious-feast.honey_bread" : "Honey Bread",
+  "item.nutritious-feast.honey_cookie" : "Honey Cookie",
+  "item.nutritious-feast.potato_soup" : "Potato Soup",
+  "item.nutritious-feast.fungus_stew" : "Fungus Stew",
+  "item.nutritious-feast.blueberries" : "Blueberries",
+  "item.nutritious-feast.illuminating_sugar" : "Illuminating Sugar",
+
+  "block.nutritious-feast.illuminating_flower" : "Illuminating Flower",
+  "block.nutritious-feast.potted_illuminating_flower" : "Potted Illuminating Flower",
+  "block.nutritious-feast.blueberry_bush" : "Blueberry Bush",
+
+  "block.nutritious-feast.empty_jar" : "Empty Jar",
+  "block.nutritious-feast.cookie_jar" : "Cookie Jar",
+  "block.nutritious-feast.honey_jar" : "Honey Jar",
+  "block.nutritious-feast.sweet_berry_jam_jar" : "Sweet Berry Jam Jar",
+  "block.nutritious-feast.blueberry_jam_jar" : "Blueberry Jam Jar"
+}
