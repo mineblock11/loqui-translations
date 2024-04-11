@@ -1,0 +1,11 @@
+{
+  "options.capes.title": "Köpeny Beállítás",
+  "options.capes.capetype": "Köpeny típus: %s",
+  "options.capes.optifineeditor": "OptiFine Köpenyszerkesztő",
+  "options.capes.elytra": "Köpeny Textúra Kitinszárnyon",
+  "options.capes.selector": "Köpenykiválasztó",
+  "options.capes.toggle": "Ki/bekapcsolás",
+  "options.capes.other": "Egyéb",
+  "options.capes.selector.elytra": "Kitinszárny ki/bekapcsolása",
+  "options.capes.selector.player": "Játékos ki/bekapcsolása"
+}
