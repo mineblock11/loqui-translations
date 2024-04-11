@@ -284,6 +284,11 @@ files:
     excluded_target_languages:
       - es-ES
       - ja
+  - source: /group_k545s1i/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - uk
+      - zh-CN
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -2561,6 +2566,18 @@ files:
       - lol
       - ru
       - tr
+      - zh-CN
+  - source: /group_ad4da5j/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - it
+      - ja
+      - pl
+      - ru
+      - uk
       - zh-CN
   - source: /group_2qmktrs/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
@@ -4911,6 +4928,36 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_7uc825a/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - eo
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fr
+      - fr-CA
+      - it
+      - ja
+      - ko
+      - nl
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - sv-SE
+      - zh-CN
+      - zh-HK
   - source: /group_ba9hpk1/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -4975,6 +5022,38 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /group_3eeaxfz/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - eo
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fr
+      - fr-CA
+      - it
+      - ja
+      - ko
+      - nl
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - sv-SE
+      - uk
+      - zh-CN
+      - zh-HK
   - source: /group_28oavxu/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
