@@ -593,6 +593,10 @@
   "forgeconfigscreens": {
     "8.0.2": "/group_p59hrfe"
   },
+  "forge": {
+    "47.1.104": "/group_p59hrfe",
+    "47.2.0": "/group_2s5r8eh"
+  },
   "foglooksgoodnow": {
     "2.2.0+1.20.1": "/group_p59hrfe"
   },
@@ -1176,6 +1180,14 @@
   "seamless": {
     "2.2.2": "/group_hskssqf"
   },
+  "citresewn": {
+    "1.20.1-5": "/group_puhbcao",
+    "1.1.3+1.20": "/group_9zhsosh",
+    "1.1.3+1.20.4": "/group_9zhsosh",
+    "1.0.0+1.20.4": "/group_9zhsosh",
+    "1.1.5+1.20.1": "/group_ec1pmgu",
+    "1.1.4+1.20.4": "/group_ec1pmgu"
+  },
   "sound_physics_remastered": {
     "1.20.1-1.2.1": "/group_qdygrud",
     "1.20.4-1.3.1": "/group_qjsbmtc",
@@ -1318,7 +1330,8 @@
   },
   "embeddium": {
     "0.3.11+mc1.20.1": "/group_0kcts1u",
-    "0.3.13+mc1.20.1": "/group_692l2so"
+    "0.3.13+mc1.20.1": "/group_692l2so",
+    "0.3.12+mc1.20.1": "/group_oxvms74"
   },
   "lychee": {
     "5.1.11": "/group_9hixdce"
@@ -1848,6 +1861,7 @@
   "emi": {
     "1.1.4+1.20.4+fabric": "/group_5xcy4pv",
     "1.1.4+1.20.2+fabric": "/group_5xcy4pv",
+    "1.1.4+1.20.1+forge": "/group_5xcy4pv",
     "1.1.4+1.20.1+fabric": "/group_5xcy4pv",
     "1.0.29+1.20.4+fabric": "/group_5xcy4pv"
   },
@@ -1932,6 +1946,7 @@
     "1.6.4": "/group_630bb77",
     "1.6.3": "/group_630bb77",
     "1.6.3.1": "/group_630bb77",
+    "1.6.2": "/group_630bb77",
     "1.6.2-mc1.20.1": "/group_630bb77"
   },
   "apoli": {
@@ -2061,13 +2076,6 @@
   "blur": {
     "3.2.0": "/group_h53rfml",
     "3.1.0": "/group_h53rfml"
-  },
-  "citresewn": {
-    "1.1.3+1.20": "/group_9zhsosh",
-    "1.1.3+1.20.4": "/group_9zhsosh",
-    "1.0.0+1.20.4": "/group_9zhsosh",
-    "1.1.5+1.20.1": "/group_ec1pmgu",
-    "1.1.4+1.20.4": "/group_ec1pmgu"
   },
   "moreculling": {
     "1.20.4-0.22.1": "/group_ceow4ge",
@@ -2415,7 +2423,8 @@
     "5.3.4": "/group_hvf7nvx"
   },
   "jei": {
-    "17.3.0.49": "/group_wyu08df"
+    "17.3.0.49": "/group_wyu08df",
+    "15.3.0.4": "/group_wyu08df"
   },
   "iris": {
     "1.7.0-snapshot+mc1.20.4-5983468": "/group_bi9gofu",
@@ -2478,9 +2487,6 @@
   },
   "voxelmap": {
     "1.20.4-1.12.17": "/group_exr79w1"
-  },
-  "forge": {
-    "47.2.0": "/group_2s5r8eh"
   },
   "betterf3": {
     "9.0.2": "/group_zjox4t8",
