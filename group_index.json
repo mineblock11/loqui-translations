@@ -806,6 +806,7 @@
     "3.2.1": "/group_fy96ca4"
   },
   "spyglass_astronomy": {
+    "1.0.8-mc1.20.2": "/group_fy96ca4",
     "1.0.8-mc1.20.1": "/group_fy96ca4"
   },
   "seamless_loading_screen": {
@@ -999,7 +1000,8 @@
     "2.3.7": "/group_knvajdx"
   },
   "detailab": {
-    "2.6.3+1.20.1-fabric": "/group_knvajdx"
+    "2.6.3+1.20.1-fabric": "/group_knvajdx",
+    "2.6.3+1.20.4-fabric": "/group_clax0ds"
   },
   "numismatics": {
     "1.0.2+fabric-mc1.20.1": "/group_nhafqrf"
@@ -1237,7 +1239,8 @@
     "1.1.2-fabric": "/group_9pbu8pf"
   },
   "easyanvils": {
-    "8.0.2": "/group_wirie2e"
+    "8.0.2": "/group_wirie2e",
+    "20.4.3": "/group_q3q1rdk"
   },
   "walljump": {
     "1.20.4-1.1.5-fabric": "/group_dnls53b"
@@ -1358,7 +1361,8 @@
     "2.2.1": "/group_1ym4vru"
   },
   "ctov": {
-    "3.4.3": "/group_27vx22j"
+    "3.4.3": "/group_27vx22j",
+    "3.4.2": "/group_27vx22j"
   },
   "sn0wfrogs_capybaras": {
     "1.1.0-mc1.20.4": "/group_bb3vhhn"
@@ -1383,6 +1387,9 @@
   },
   "netherchested": {
     "20.4.1": "/group_7t6zk3e"
+  },
+  "freecam": {
+    "1.2.3": "/group_cwz98e7"
   },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x",
@@ -1569,7 +1576,8 @@
     "2001.1.5": "/group_93o1alj"
   },
   "easymagic": {
-    "8.0.1": "/group_x9w1rpa"
+    "8.0.1": "/group_x9w1rpa",
+    "20.4.0": "/group_unpont3"
   },
   "smoothswapping": {
     "0.9.3.1": "/group_s00huco"
@@ -1812,6 +1820,7 @@
     "1.1.9+1.20.2": "/group_w16nkom"
   },
   "blur": {
+    "3.2.0": "/group_h53rfml",
     "3.1.0": "/group_h53rfml"
   },
   "citresewn": {

@@ -1,0 +1,6 @@
+{
+  "container.enchant.experience.many": "%s Experience Points",
+  "container.enchant.experience.one": "1 Experience Point",
+  "container.enchant.reroll": "Reroll enchantments",
+  "container.invalidBlock": "Unable to open. Break and replace to use."
+}
