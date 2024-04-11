@@ -979,6 +979,13 @@ files:
       - ja
       - ko
       - ru
+  - source: /group_3tvlyph/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - ru
+      - tr
+      - zh-CN
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -1379,6 +1386,14 @@ files:
       - pt-BR
       - ru
       - uk
+  - source: /group_20jlm3r/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - ja
+      - ko
+      - zh-CN
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -2149,6 +2164,26 @@ files:
       - ja
       - ru
       - uk
+      - zh-CN
+  - source: /group_e11uhid/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-UD
+      - es-ES
+      - ja
+      - ko
+      - ru
+      - zh-CN
+  - source: /group_e6g37ft/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-AR
+      - fr
+      - fr-CA
+      - pl
+      - pt-PT
+      - ru
       - zh-CN
   - source: /group_lb9ucjl/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
@@ -3388,6 +3423,21 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /group_drs0v4t/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - it
+      - ja
+      - ko
+      - pt-BR
+      - ru
+      - sv-SE
+      - uk
+      - zh-CN
+      - zh-TW
   - source: /group_83you42/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -3660,6 +3710,22 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_pflnxqg/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - bg
+      - de
+      - es-ES
+      - fi
+      - it
+      - ko
+      - pl
+      - ru
+      - tr
+      - uk
+      - zh-CN
+      - zh-HK
+      - zh-TW
   - source: /group_2ftyfjj/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
