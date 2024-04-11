@@ -69,7 +69,7 @@
   "text.autoconfig.spell_engine.option.client.spellHotbar_1_defer": "Repli de la case 1 de la barre de sorts",
   "text.autoconfig.spell_engine.option.client.spellHotbar_1_defer.@Tooltip": "Utilisez la case 1 pour utiliser l'une des touches liées en vanilla, quand elle n'est pas déjà assignée dans Options/Contrôles/Touches",
   "text.autoconfig.spell_engine.option.client.spellHotbar_2_defer": "Repli de la case 2 de la barre de sorts",
-  "text.autoconfig.spell_engine.option.client.spellHotbar_2_defer.@Tooltip": "Utilisez la case 2 pour utiliser l'une des touches liées en vanilla, quand elle n'est pas déjà assignée dans Options/Contrôles/Touches",
+  "text.autoconfig.spell_engine.option.client.spellHotbar_2_defer.@Tooltip": "Utilisez la case 1 pour utiliser l'une des touches liées en vanilla, quand elle n'est pas déjà assignée dans Options/Contrôles/Touches",
   "text.autoconfig.spell_engine.option.client.spellHotbar_3_defer": "Repli de la case 3 de la barre de sorts",
   "text.autoconfig.spell_engine.option.client.spellHotbar_3_defer.@Tooltip": "Utilisez la case 3 pour utiliser l'une des touches liées en vanilla, quand elle n'est pas déjà assignée dans Options/Contrôles/Touches",
   "text.autoconfig.spell_engine.option.client.spellHotbar_4_defer": "Repli de la case 4 de la barre de sorts",
