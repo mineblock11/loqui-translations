@@ -1,0 +1,107 @@
+{
+
+  "block.rethinkingores.charcoal_block": "Charcoal Block",
+
+
+
+  "item.rethinkingores.copper_nugget": "Copper Nugget",
+  "item.rethinkingores.copper_plating": "Copper Plate",
+  "item.rethinkingores.copper_pickaxe": "Copper Pickaxe",
+  "item.rethinkingores.copper_axe": "Copper Axe",
+  "item.rethinkingores.copper_shovel": "Copper Shovel",
+  "item.rethinkingores.copper_hoe": "Copper Hoe",
+  "item.rethinkingores.copper_sword": "Copper Sword",
+  "item.rethinkingores.copper_helmet": "Copper Helmet",
+  "item.rethinkingores.copper_chestplate": "Copper Chestplate",
+  "item.rethinkingores.copper_leggings": "Copper Leggings",
+  "item.rethinkingores.copper_boots": "Copper Boots",
+  "item.rethinkingores.copper_horse_armor": "Copper Horse Armor",
+
+
+
+  "block.rethinkingores.copper_plated_block": "Copper Plated Block",
+
+  "item.rethinkingores.mixed_raw_copper_gold": "Mixed Raw Copper Gold",
+  "item.rethinkingores.copper_plated_ingot": "Copper Plated Ingot",
+  "item.rethinkingores.copper_plated_nugget": "Copper Plated Nugget",
+  "item.rethinkingores.copper_plated_pickaxe": "Copper Plated Pickaxe",
+  "item.rethinkingores.copper_plated_axe": "Copper Plated Axe",
+  "item.rethinkingores.copper_plated_shovel": "Copper Plated Shovel",
+  "item.rethinkingores.copper_plated_hoe": "Copper Plated Hoe",
+  "item.rethinkingores.copper_plated_sword": "Copper Plated Sword",
+  "item.rethinkingores.copper_plated_helmet": "Copper Plated Helmet",
+  "item.rethinkingores.copper_plated_chestplate": "Copper Plated Chestplate",
+  "item.rethinkingores.copper_plated_leggings": "Copper Plated Leggings",
+  "item.rethinkingores.copper_plated_boots": "Copper Plated Boots",
+  "item.rethinkingores.copper_plated_horse_armor": "Copper Plated Horse Armor",
+
+
+
+  "block.rethinkingores.steel_ore": "Steel Ore",
+  "block.rethinkingores.deepslate_steel_ore": "Deepslate Steel Ore",
+  "block.rethinkingores.nether_steel_ore": "Nether Steel Ore",
+  "block.rethinkingores.pig_iron_block": "Pig Iron Block",
+  "block.rethinkingores.steel_block": "Steel Block",
+  "block.rethinkingores.steel_door": "Steel Door",
+  "block.rethinkingores.steel_trapdoor": "Steel Trapdoor",
+
+  "item.rethinkingores.steel_ingot": "Steel Ingot",
+  "item.rethinkingores.steel_nugget": "Steel Nugget",
+  "item.rethinkingores.pig_iron": "Pig Iron",
+  "item.rethinkingores.steel_pickaxe": "Steel Pickaxe",
+  "item.rethinkingores.steel_axe": "Steel Axe",
+  "item.rethinkingores.steel_shovel": "Steel Shovel",
+  "item.rethinkingores.steel_hoe": "Steel Hoe",
+  "item.rethinkingores.steel_sword": "Steel Sword",
+  "item.rethinkingores.steel_helmet": "Steel Helmet",
+  "item.rethinkingores.steel_chestplate": "Steel Chestplate",
+  "item.rethinkingores.steel_leggings": "Steel Leggings",
+  "item.rethinkingores.steel_boots": "Steel Boots",
+  "item.rethinkingores.steel_horse_armor": "Steel Horse Armor",
+
+
+
+  "block.rethinkingores.platinum_ore": "Platinum Ore",
+  "block.rethinkingores.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.rethinkingores.nether_platinum_ore": "Nether Platinum Ore",
+  "block.rethinkingores.raw_platinum_block": "Raw Platinum Block",
+  "block.rethinkingores.platinum_block": "Platinum Block",
+
+  "item.rethinkingores.raw_platinum": "Raw Platinum",
+  "item.rethinkingores.platinum_nugget": "Platinum Nugget",
+  "item.rethinkingores.platinum_ingot": "Platinum Ingot",
+  "item.rethinkingores.platinum_pickaxe": "Platinum Pickaxe",
+  "item.rethinkingores.platinum_axe": "Platinum Axe",
+  "item.rethinkingores.platinum_shovel": "Platinum Shovel",
+  "item.rethinkingores.platinum_hoe": "Platinum Hoe",
+  "item.rethinkingores.platinum_sword": "Platinum Sword",
+  "item.rethinkingores.platinum_helmet": "Platinum Helmet",
+  "item.rethinkingores.platinum_chestplate": "Platinum Chestplate",
+  "item.rethinkingores.platinum_leggings": "Platinum Leggings",
+  "item.rethinkingores.platinum_boots": "Platinum Boots",
+  "item.rethinkingores.platinum_horse_armor": "Platinum Horse Armor",
+
+
+
+  "block.rethinkingores.titanium_ore": "Titanium Ore",
+  "block.rethinkingores.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.rethinkingores.nether_titanium_ore": "Nether Titanium Ore",
+  "block.rethinkingores.raw_titanium_block": "Raw Titanium Block",
+  "block.rethinkingores.titanium_block": "Titanium Block",
+
+  "item.rethinkingores.raw_titanium": "Raw Titanium",
+  "item.rethinkingores.titanium_nugget": "Titanium Nugget",
+  "item.rethinkingores.titanium_ingot": "Titanium Ingot",
+  "item.rethinkingores.titanium_pickaxe": "Titanium Pickaxe",
+  "item.rethinkingores.titanium_axe": "Titanium Axe",
+  "item.rethinkingores.titanium_shovel": "Titanium Shovel",
+  "item.rethinkingores.titanium_hoe": "Titanium Hoe",
+  "item.rethinkingores.titanium_sword": "Titanium Sword",
+  "item.rethinkingores.titanium_helmet": "Titanium Helmet",
+  "item.rethinkingores.titanium_chestplate": "Titanium Chestplate",
+  "item.rethinkingores.titanium_leggings": "Titanium Leggings",
+  "item.rethinkingores.titanium_boots": "Titanium Boots",
+  "item.rethinkingores.titanium_horse_armor": "Titanium Horse Armor",
+
+  "itemgroup.rethinking_ores_group": "Rethinking Ores"
+}
