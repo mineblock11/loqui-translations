@@ -845,6 +845,27 @@ files:
       - ja
       - pt-BR
       - zh-CN
+  - source: /group_t922oe2/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - pt-BR
+      - pt-PT
+      - tr
+      - zh-CN
+  - source: /group_8iyv4ak/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - fr
+      - uk
+      - zh-CN
+  - source: /group_33h36uc/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - ko
+      - pt-BR
+      - ru
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -1582,6 +1603,24 @@ files:
       - pl
       - zh-CN
       - zh-TW
+  - source: /group_4of8mnd/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - et
+      - fr
+      - ru
+      - zh-CN
+      - zh-HK
+      - zh-TW
+  - source: /group_vhkkdr4/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - ko
+      - pt-BR
+      - uk
   - source: /group_z6um4qb/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -2027,6 +2066,39 @@ files:
       - pl
       - ru
       - uk
+  - source: /group_woomhu2/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - it
+      - ko
+      - pt-BR
+      - uk
+      - zh-CN
+      - zh-TW
+  - source: /group_i3gu5ad/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - ja
+      - ko
+      - ru
+      - zh-CN
+      - zh-TW
+  - source: /group_20vm9is/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - fr
+      - hy-AM
+      - pl
+      - ru
+      - uk
+      - zh-CN
   - source: /group_3127oq7/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -2982,6 +3054,21 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_4ldhtzo/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - bg
+      - de
+      - fr
+      - ja
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
   - source: /group_83you42/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -3734,6 +3821,26 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_rv76twt/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ar
+      - ca
+      - de
+      - es-ES
+      - fi
+      - fr
+      - fr-CA
+      - hu
+      - ja
+      - ko
+      - nl
+      - 'no'
+      - pt-BR
+      - ru
+      - sv-SE
+      - uk
+      - zh-CN
   - source: /group_j7138wx/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -4940,6 +5047,45 @@ files:
       - uk
       - vi
       - zh-CN
+      - zh-TW
+  - source: /group_r7jxt7h/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - de-AT
+      - de-CH
+      - el
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - et
+      - fi
+      - fr
+      - fr-CA
+      - he
+      - it
+      - ja
+      - ko
+      - nl
+      - nl-BE
+      - nn-NO
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ro
+      - ru
+      - sr
+      - sv-SE
+      - tr
+      - uk
+      - zh-CN
+      - zh-HK
       - zh-TW
   - source: /group_exr79w1/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
