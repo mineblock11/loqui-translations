@@ -1,0 +1,77 @@
+{
+  "tooltip.frozenlib.locked_due_to_server": "Entry cannot be modified while connected to this server.\nRequires operator permissions to modify.\nYou can leave the server to modify this entry, and rejoin afterwards.",
+  "tooltip.frozenlib.locked_due_to_sync": "Entry is overriden by this server.\nRequires operator permissions to modify.",
+  "tooltip.frozenlib.locked_due_to_server_lan": "Entry cannot be modified while connected to this world.\nMust be host or have operator permissions to modify.\nYou can leave the world to modify this entry, and rejoin afterwards.",
+  "tooltip.frozenlib.locked_due_to_sync_lan": "Entry is overriden by this world.\nMust be host or have operator permissions to modify.",
+  "tooltip.frozenlib.locked_due_to_unknown_reason": "Entry cannot be modified for an unknown reason.\nPlease submit an issue report for this mod.",
+  "tooltip.frozenlib.entry_sync_notice": "Entry will sync with all clients.",
+
+  "frozenlib.config.discard": "Discard changes",
+  "frozenlib.config.save": "Save changes",
+
+  "option.frozenlib.component.title": "FrozenLib Options",
+  "option.frozenlib.false": "§cDisabled",
+  "option.frozenlib.true": "§aEnabled",
+
+  "option.frozenlib.config": "FrozenLib Config",
+
+  "option.frozenlib.datafixer": "DataFixer",
+  "tooltip.frozenlib.datafixer": "Contains options for DataFixers",
+
+  "option.frozenlib.disabled_datafix_types": "Disabled DataFix Types",
+  "tooltip.frozenlib.disabled_datafix_types": "A list of DataFix types that are excluded from running through\nthe modified DataFixerUpper API by The Quilt Project\n\nWorldgen settings are disabled by default to\nprevent a compatibility issue with Lithium + BCLib\n\nThe vanilla DataFix types are...\n'level', 'player', 'chunk', 'hotbar', 'options', 'structure', 'stats',\n'saved_data', 'advancements', 'poi_chunk', 'entity_chunk',\nand 'world_gen_settings'",
+
+  "option.frozenlib.use_wind_on_non_frozenlib_servers": "Wind On Non-FrozenLib Servers",
+  "option.frozenlib.use_wind_on_non_frozenlib_servers.false": "§cOFF",
+  "option.frozenlib.use_wind_on_non_frozenlib_servers.true": "§aON",
+  "tooltip.frozenlib.use_wind_on_non_frozenlib_servers": "When disabled, the client won't use wind on servers that\ndon't have FrozenLib installed.\nWhen enabled, the client will generate a random seed to use\nfor wind on servers that don't have FrozenLib installed.",
+
+  "option.frozenlib.save_item_cooldowns": "Save Item Cooldowns",
+  "option.frozenlib.save_item_cooldowns.false": "§cOFF",
+  "option.frozenlib.save_item_cooldowns.true": "§aON",
+  "tooltip.frozenlib.save_item_cooldowns": "Whether or not item cooldowns will save instead of being\ncleared upon switching dimensions or rejoining a world.",
+
+  "option.frozenlib.remove_experimental_warning": "Remove Experimental Warning",
+  "option.frozenlib.remove_experimental_warning.false": "§cOFF",
+  "option.frozenlib.remove_experimental_warning.true": "§aON",
+  "tooltip.frozenlib.remove_experimental_warning": "Whether or not the Experimental Features warning can show on world creation.",
+
+  "option.frozenlib.warden_spawn_tracker_command": "Warden Spawn Tracker Command",
+  "option.frozenlib.warden_spawn_tracker_command.false": "§cOFF",
+  "option.frozenlib.warden_spawn_tracker_command.true": "§aON",
+  "tooltip.frozenlib.warden_spawn_tracker_command": "Enables or disables the Warden Spawn Tracker command.",
+
+  "commands.wind.success": "Set wind to %s, %s, %s.",
+  "commands.wind.toggle.success": "Toggled wind override to: %s.",
+
+  "commands.screenshake.success": "Created screen shake at %s, %s, %s, with intensity %s, duration %s, falloff start %s, and distance %s.",
+  "commands.screenshake.player.success": "Sent screen shake to %sat %s, %s, %s, with intensity %s, duration %s, falloff start %s, and distance %s.",
+  "commands.screenshake.remove.player.success.multiple": "Players %shave had their screen shakes removed.",
+  "commands.screenshake.remove.player.success": "Removed screen shakes for %s.",
+  "commands.screenshake.entity.success": "Created screen shake appended to %swith intensity %s, duration %s, falloff start %s, and distance %s.",
+  "commands.screenshake.remove.entity.success.multiple": "Entities %shave had their screen shakes removed.",
+  "commands.screenshake.remove.entity.success": "Removed screen shakes from entity %s.",
+  "commands.screenshake.remove.entity.failure": "Could not find entities with screen shakes.",
+
+  "commands.frozenlib_config.reload.single": "Reloaded 1 config from %s.",
+  "commands.frozenlib_config.reload.multiple": "Reloaded %s configs from %s.",
+
+  "commands.frozenlib.taglist.footer": "Listed %s tags in %s.",
+  "commands.frozenlib.taglist.tag.invalid": "Invalid tag: %s",
+
+  "commands.warden_spawn_tracker.clear.success.multiple": "Cleared warden spawn warnings from %s players",
+  "commands.warden_spawn_tracker.clear.success.single": "Cleared warden spawn warnings from %s",
+  "commands.warden_spawn_tracker.set.success.multiple": "Set warden spawn warning %s to %s players",
+  "commands.warden_spawn_tracker.set.success.single": "Set warden spawn warning %s to %s",
+
+  "frozenlib.loot_table_whacker.fail.no_name": "Loot Table Whacker has not been named!",
+  "frozenlib.loot_table_whacker.fail.no_colon": "Invalid ResourceLocation: No : present!",
+  "frozenlib.loot_table_whacker.fail.no_loot_table": "Loot table does not exist: %s",
+  "frozenlib.loot_table_whacker.success": "Set loot table to: %s",
+
+  "frozenlib.core.registry_sync.more": "%s more...",
+  "frozenlib.core.registry_sync.and": " and ",
+  "frozenlib.core.registry_sync.unsupported_mod_protocol": "Unsupported mod protocol versions for:\n%s",
+  "frozenlib.core.registry_sync.require_main_mod_protocol": "This server requires %s with protocol version of %s.",
+  "frozenlib.core.registry_sync.main_mod_protocol": "You are on %s with protocol version of %s."
+}
