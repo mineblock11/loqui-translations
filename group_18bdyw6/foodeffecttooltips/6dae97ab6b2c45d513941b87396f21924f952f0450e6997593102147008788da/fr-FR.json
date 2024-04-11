@@ -1,0 +1,8 @@
+{
+  "foodeffecttooltips.food.withChance": "%s [%d%%]",
+  "foodeffecttooltips.food.whenEaten": "When Eaten:",
+  "text.autoconfig.FoodEffectTooltips.option.ShowSuspiciousStewTooltips": "Montre les effets de la soupe suspecte",
+  "text.autoconfig.FoodEffectTooltips.option.UseAsWhitelistInstead": "Utilisez des listes comme listes blanches à la place",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedItemIdentifiers": "Identificateur d'objets bannis",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedModsIDs": "ID des mods bannis"
+}
