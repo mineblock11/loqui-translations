@@ -1,0 +1,8 @@
+{
+  "catloaf.config.header": "Cat Loaf Config",
+  "catloaf.config.category.general": "General",
+  "catloaf.config.loafChance": "Loaf Chance (%)",
+  "catloaf.config.loafChance.description": "Defines the chance of the cat becoming a loaf instead of sitting.",
+  "catloaf.config.overrideChanceWithBread": "Override Chance With Bread",
+  "catloaf.config.overrideChanceWithBread.description": "If holding bread, the chance of the cat becoming a loaf is 100%"
+}
