@@ -1,0 +1,10 @@
+{
+    "text.autoconfig.nethermap.title": "Configuration de la carte du meilleur Nether",
+    "text.autoconfig.nethermap.option.useMapCreationHeight": "Utilise la hauteur de la création de la carte",
+    "text.autoconfig.nethermap.option.dimensions": "Dimensions",
+    "text.autoconfig.nethermap.option.DimensionEntry": "Entrée de dimension",
+    "text.autoconfig.nethermap.option.DimensionEntry.dimension": "ID de dimension",
+    "text.autoconfig.nethermap.option.DimensionEntry.scanHeight": "Scan de la hauteur",
+    "modmenu.descriptionTranslation.nethermap": "Améliore le fonctionnement des cartes dans le Nether et toutes les autres dimensions souterraines.",
+    "modmenu.summaryTranslation.nethermap": "Améliore les cartes des dimensions souterraines"
+}
