@@ -1,0 +1,15 @@
+{
+  "blur.midnightconfig.title": "Налады Blur",
+  "blur.midnightconfig.category.style": "Style",
+  "blur.midnightconfig.category.screens": "Экраны",
+  "blur.midnightconfig.blurExclusions": "Выключэнні Blur",
+  "blur.midnightconfig.fadeTimeMillis": "Час згасання (у мілісекундах)",
+  "blur.midnightconfig.fadeOutTimeMillis": "Час знікнення (у мілісекундах)",
+  "blur.midnightconfig.ease": "Лёгкая анімацыя",
+  "blur.midnightconfig.radius": "Radius",
+  "blur.midnightconfig.gradientStart": "Пачатковы колер градыента",
+  "blur.midnightconfig.gradientEnd": "Канечны колер градыента",
+  "blur.midnightconfig.gradientStartAlpha": "Пачатковы альфа-канал градыента",
+  "blur.midnightconfig.gradientEndAlpha": "Канечны альфа-канал градыента",
+  "blur.midnightconfig.showScreenTitle": "Загаловак экрана журнала"
+}
