@@ -1,0 +1,9 @@
+{
+    "map_png.success": "Downloaded: %s",
+    "key.category.map_png": "Map.png",
+    "key.map_png.download": "Download Map",
+    "map_png.invalid_target.msg": "Hold or look at a map to download it.",
+    "map_png.invalid_target.title": "Invalid Target",
+    "map_png.error.title": "Download Failed",
+    "map_png.error.msg": "Please report this!"
+}
