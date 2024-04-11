@@ -3198,6 +3198,20 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_q0ptg0o/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - es-AR
+      - es-ES
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - sk
+      - uk
+      - zh-CN
   - source: /group_0u8y0rt/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
