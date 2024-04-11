@@ -3918,6 +3918,25 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_hzn96gx/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ca
+      - de
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fr
+      - it
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - zh-CN
   - source: /group_jz71tw8/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

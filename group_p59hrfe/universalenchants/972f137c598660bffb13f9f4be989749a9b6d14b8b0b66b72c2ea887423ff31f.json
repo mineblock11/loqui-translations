@@ -1,0 +1,4 @@
+{
+  "commands.enchant.remove.success.single": "Removed enchantment %s from %s's item",
+  "commands.enchant.remove.success.multiple": "Removed enchantment %s from %s entities"
+}
