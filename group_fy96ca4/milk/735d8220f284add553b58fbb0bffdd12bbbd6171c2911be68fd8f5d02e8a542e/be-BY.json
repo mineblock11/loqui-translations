@@ -1,0 +1,9 @@
+{
+  "block.milk.milk_cauldron": "Кацёл малака",
+  "item.milk.milk_bottle": "Зелле малака",
+  "item.milk.splash_milk_bottle": "Выбухное малочнае зелле",
+  "item.milk.lingering_milk_bottle": "Трывалае малочнае зелле",
+  "block.milk.milk_fluid_block": "Milk",
+  "fluid.milk.still_milk": "Milk",
+  "fluid.milk.flowing_milk": "Milk"
+}
