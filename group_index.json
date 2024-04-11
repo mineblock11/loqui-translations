@@ -339,6 +339,9 @@
   "misc_additions": {
     "0.3.0": "/group_p59hrfe"
   },
+  "minihud": {
+    "0.30.2": "/group_i43b1vh"
+  },
   "medieval_enemies": {
     "1.0.2": "/group_p59hrfe"
   },
@@ -1021,9 +1024,6 @@
   "tweakeroo": {
     "0.19.2": "/group_i43b1vh"
   },
-  "minihud": {
-    "0.30.2": "/group_i43b1vh"
-  },
   "masa_gadget_mod": {
     "3.2.334+08c8f70-stable": "/group_i43b1vh"
   },
@@ -1682,6 +1682,7 @@
   "presencefootsteps": {
     "1.9.1": "/group_zg9k8ox",
     "1.10.0": "/group_zg9k8ox",
+    "1.11.2": "/group_dhvwbf4",
     "1.9.3": "/group_ii21ug0",
     "1.11.3": "/group_ii21ug0"
   },
