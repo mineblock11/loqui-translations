@@ -1,0 +1,22 @@
+{
+	"key.minebp.settings": "Big Pony",
+	"minebp.options.title": "Big Pony Settings",
+	"minebp.options.body": "Body",
+	"minebp.options.camera": "Camera",
+	"minebp.options.presets": "Presets",
+	"minebp.options.disabled": "* Some features are disabled. Please contact your server administrator.",
+	"minebp.scale.global": "Global Scale",
+	"minebp.scale.x": "X Scale: %dx",
+	"minebp.scale.y": "Y Scale: %dx",
+	"minebp.scale.z": "Z Scale: %dx",
+	"minebp.camera.height": "Eye Height: %dx",
+	"minebp.camera.distance": "Camera Distance: %dx",
+	"minebp.camera.auto": "Auto-Detect from Mine Little Pony",
+	"minebp.presets.human": "Default",
+	"minebp.presets.mare": "Mare",
+	"minebp.presets.stallion": "Stallion",
+	"minebp.presets.alicorn": "Alicorn",
+	"minebp.presets.filly": "Filly",
+	"minebp.presets.giant": "Giant",
+	"minebp.presets.ant": "Tiny"
+}

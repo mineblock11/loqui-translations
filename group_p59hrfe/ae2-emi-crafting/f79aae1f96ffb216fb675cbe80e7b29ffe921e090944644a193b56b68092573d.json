@@ -1,0 +1,16 @@
+{
+  "ae2-emi-crafting.category_condenser": "Matter Condenser",
+  "ae2-emi-crafting.category_inscriber": "Inscriber",
+  "ae2-emi-crafting.category_attunement": "P2P Tunnel Attunement",
+  "ae2-emi-crafting.category_transform": "In-World Transformation",
+  "ae2-emi-crafting.category_charger": "Charger",
+  "ae2-emi-crafting.category_entropy_manipulator": "Entropy Manipulator",
+  "ae2-emi-crafting.error.crafting.storage_terminal": "Cannot craft using a ME Storage Terminal",
+  "text.autoconfig.ae2-emi-crafting.title": "AE2 EMI Crafting Integration",
+  "text.autoconfig.ae2-emi-crafting.category.emi": "EMI",
+  "text.autoconfig.ae2-emi-crafting.category.integration": "Mod Integration",
+  "text.autoconfig.ae2-emi-crafting.option.bomsync": "Bill of Materials Sync",
+  "text.autoconfig.ae2-emi-crafting.option.bomsync.@Tooltip": "Allows for EMI to read the contents of the ME system",
+  "text.autoconfig.ae2-emi-crafting.option.exmi": "Extra Mod Integrations",
+  "text.autoconfig.ae2-emi-crafting.option.exmi.@Tooltip": "Removes ExMI AE2 recipes from being registered"
+}

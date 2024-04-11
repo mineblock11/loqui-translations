@@ -1,0 +1,15 @@
+{
+  "emi.category.emi_enchanting.enchantments": "Enchantment Info",
+  "emi_enchanting.yes_good": "§0Yes",
+  "emi_enchanting.no_good": "§4No",
+  "emi_enchanting.yes_bad": "§4Yes",
+  "emi_enchanting.no_bad": "§0No",
+  "emi_enchanting.treasure": "Treasure: %s",
+  "emi_enchanting.curse": "Curse: %s",
+  "emi_enchanting.tradeable": "Villagers Trade: %s",
+  "emi_enchanting.random": "Randomly Selectable: %s",
+  "emi_enchanting.maxLvl": "Max Level: %s",
+  "emi_enchanting.valid_items": "Valid Items",
+  "emi_enchanting.description": "Enchantment Description",
+  "emi_enchanting.exclusions": "Exclusions"
+}
