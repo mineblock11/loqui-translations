@@ -3,7 +3,7 @@
   "text.autoconfig.HorseBuff.category.Server": "Server",
   "text.autoconfig.HorseBuff.category.Client": "Client",
   "text.autoconfig.HorseBuff.option.noWander": "Kein Pferde-Herumwandern",
-  "text.autoconfig.HorseBuff.option.noWander.@Tooltip": "Ja - gesattelte Pferde wandern nicht herum.\nNein - gesattelte Pferde wandern herum.",
+  "text.autoconfig.HorseBuff.option.noWander.@Tooltip": "Ja - gesattelte Pferde wandern nicht herum.\nNein - gesattelte wandern herum,.",
   "text.autoconfig.HorseBuff.option.fairBreeds": "Zuchtänderungen",
   "text.autoconfig.HorseBuff.option.fairBreeds.@Tooltip": "Ja - das Spiel verwendet einen anderen Zuchtalgorithmus.\nNein - das Spiel verwendet den Vanilla-Zuchtalgorithmus.",
   "text.autoconfig.HorseBuff.option.portalPatch": "Durch Portale reiten",
