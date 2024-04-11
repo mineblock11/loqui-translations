@@ -1,0 +1,19 @@
+{
+	"coat.action.abort": "Przerwij",
+	"coat.action.abort.screen.title": "Odrzucanie zmian!",
+	"coat.action.abort.screen.desc": "Zamierzasz odrzucić wszystkie wprowadzone zmiany. Czy chcesz kontynuować?",
+	"coat.action.accept_risk": "Zaakceptuj ryzyko",
+	"coat.action.save": "Zapisz i zamknij",
+	"coat.action.save.errors": "Wykryto błędy w bieżącej konfiguracji.\n§lKontynuacja spowoduje utratę danych!",
+	"coat.action.save.warnings": "W obecnej konfiguracji znajdują się pewne ostrzeżenia.\nPrzeglądaj je, a następnie kontynuuj.",
+	"coat.default": "Domyślne",
+	"coat.default.hover": "Resetuj do:",
+	"coat.list.append": "Utwórz nowy wpis",
+	"coat.message.jump": "Przejdź do problemu",
+	"coat.message.level.info": "Informacje",
+	"coat.message.level.warning": "Ostrzeżenie",
+	"coat.message.level.error": "Błąd",
+	"coat.tree.expand": "+",
+	"coat.tree.collapse": "-",
+	"coat.tree.open": "Otwórz"
+}
