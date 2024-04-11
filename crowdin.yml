@@ -1683,6 +1683,18 @@ files:
       - ru
       - tr
       - zh-CN
+  - source: /group_sxp3pr9/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-CA
+      - en-GB
+      - es-ES
+      - fr
+      - nl
+      - pl
+      - ru
+      - zh-CN
   - source: /group_2qmktrs/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
