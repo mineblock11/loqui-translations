@@ -122,6 +122,9 @@
   "spoiledz": {
     "1.0.8": "/group_p59hrfe"
   },
+  "spectrelib": {
+    "0.15.2+1.20.4": "/group_p59hrfe"
+  },
   "spawnanimations": {
     "1.9.4+mod": "/group_p59hrfe"
   },
@@ -694,6 +697,7 @@
     "1.2.2": "/group_p59hrfe"
   },
   "additionalentityattributes": {
+    "1.6.0+1.20.4": "/group_p59hrfe",
     "1.3.0+1.20.0": "/group_p59hrfe"
   },
   "ad_astra_rocketed": {
@@ -1277,6 +1281,9 @@
   "everycomp": {
     "1.20-2.6.49": "/group_p2fo4dg"
   },
+  "mythicupgrades": {
+    "2.4.2+mc1.20.4": "/group_u5rfdzl"
+  },
   "waveycapes": {
     "1.3.2": "/group_oki2n7x",
     "1.4.4": "/group_m1nrfqk"
@@ -1372,6 +1379,9 @@
   "enchanted-vertical-slabs": {
     "1.9.1": "/group_91ke5bo"
   },
+  "veinmining": {
+    "3.1.0+1.20.4": "/group_goycb64"
+  },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",
     "1.7.2+mc1.20.4-build.102": "/group_dmosdm4",
@@ -1456,6 +1466,9 @@
   },
   "smoothswapping": {
     "0.9.3.1": "/group_s00huco"
+  },
+  "mythicmetals": {
+    "0.19.5+1.20.4": "/group_hs35jmq"
   },
   "midnightlib": {
     "1.5.3": "/group_nzs7a7t",
@@ -1791,6 +1804,7 @@
     "1.2.16": "/group_r8dcacd"
   },
   "alloy_forgery": {
+    "2.1.3+1.20.3": "/group_tk3zsf7",
     "2.1.2+1.20": "/group_tk3zsf7"
   },
   "ecologics": {
@@ -1839,6 +1853,7 @@
   },
   "bookshelf": {
     "23.0.8": "/group_tpfjuij",
+    "23.0.6": "/group_tpfjuij",
     "20.1.9": "/group_tpfjuij",
     "20.1.8": "/group_tpfjuij"
   },
@@ -1925,6 +1940,7 @@
     "1.10.0": "/group_0wa1svc"
   },
   "enchdesc": {
+    "20.0.2": "/group_fy16z5s",
     "17.0.13": "/group_fy16z5s"
   },
   "figura": {
@@ -1960,6 +1976,9 @@
   },
   "incendium": {
     "5.3.4": "/group_hvf7nvx"
+  },
+  "jei": {
+    "17.3.0.49": "/group_wyu08df"
   },
   "iris": {
     "1.7.0-snapshot+mc1.20.4-5983468": "/group_bi9gofu",
