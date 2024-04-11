@@ -1,9 +1,0 @@
-{
-  "header.noindium.indium": "Waarschuwing: Indium ontbreekt in spel",
-  "message.noindium.indium": "Waarschuwing: Een of meer mods aanwezig in je spel kunnen problemen hebben. Deze problemen worden veroorzaakt door het gebruik van de Sodium mod zonder Indium en variëren van kleine visuele artefacten tot spelcrashes. Klik op een van de knoppen hieronder om Indium te downloaden, om deze problemen te voorkomen en meer:",
-  "header.noindium.optifabric": "Waarschuwing: Optifabric aanwezig in spel",
-  "message.noindium.optifabric": "Waarschuwing: Een of meer mods aanwezig in je spel kunnen problemen hebben. Deze problemen worden veroorzaakt door het gebruik van Optifabric en variëren van kleine visuele artefacten tot spelcrashes. Het is aangeraden om de mod te verwijderen om deze problemen te voorkomen en meer. Als u Optifine nodig had, voor welke reden dan ook, bekijk dan LamdAurora's Optifine alternatievenlijst:",
-  "label.noindium.open_mods_folder": "Open Mods Folder",
-  "label.noindium.optifine_alternatives": "Optifine Alternatieven",
-  "label.noindium.proceed": "Toch Doorgaan"
-}

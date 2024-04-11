@@ -1,7 +1,0 @@
-{
-    "text.e4mc_minecraft.domainAssigned": "Lokaal spel gehost op domein [%s]",
-    "text.e4mc_minecraft.closeServer": "Lokaal spel is niet meer publiekelijk gehost",
-    "text.e4mc_minecraft.serverAlreadyClosed": "Lokaal spel is niet publiekelijk gehost",
-    "text.e4mc_minecraft.clickToStop": " (Klik hier om te stoppen)",
-    "text.e4mc_minecraft.error": "Er is een fout opgetreden in e4mc"
-}

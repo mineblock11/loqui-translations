@@ -1,7 +1,0 @@
-{
-    "text.e4mc_minecraft.domainAssigned": "Jogo local aberto no IP [%s]",
-    "text.e4mc_minecraft.closeServer": "O jogo local não está mais aberto ao público",
-    "text.e4mc_minecraft.serverAlreadyClosed": "Jogo local não aberto ao público ",
-    "text.e4mc_minecraft.clickToStop": "(clique aqui para parar)",
-    "text.e4mc_minecraft.error": "Um erro aconteceu no e4mc"
-}

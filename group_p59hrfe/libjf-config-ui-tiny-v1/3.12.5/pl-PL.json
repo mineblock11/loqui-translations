@@ -1,9 +1,0 @@
-{
-  "libjf-config-v1.presets": "Szablony",
-  "libjf-config-v1.default": "Domyślne",
-  "libjf-config-v1.see-also": "Zobacz: %s",
-  "libjf-config-v1.reset": "Zresetuj",
-  "libjf-config-core-v1.no-screen": "Brak ekranu",
-  "libjf-config-core-v1.no-screen.description": "Nie znaleziono moda do renderowania interfejsów użytkownika konfiguracji. Zainstaluj LibJF, aby go dodać.",
-  "libjf-config-core-v1.edit": "Edytuj"
-}
