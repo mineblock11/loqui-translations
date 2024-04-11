@@ -1,0 +1,11 @@
+{
+  "panoramaScreens.options.settings": "Panorama Screens Settings",
+  "panoramaScreens.options.settings.general": "General",
+  "panoramaScreens.options.settings.general.printScreens": "Print screen names on logs:",
+  "panoramaScreens.options.settings.general.allowList": "Allow List:",
+  "panoramaScreens.options.settings.general.blockList": "Block List:",
+  "panoramaScreens.clothConfigError": "Cloth Config is missing!",
+  "panoramaScreens.clothConfigError.description1": "To access Panorama Screens config, please install Cloth Config API:",
+  "panoramaScreens.clothConfigError.description2": "https://modrinth.com/mod/cloth-config"
+
+}
