@@ -1,0 +1,8 @@
+{
+  "pistorder.push": "Push",
+  "pistorder.retract": "Retract",
+  "pistorder.block_count.pre": "",
+  "pistorder.block_count.post": " блокі",
+  "pistorder.clear_display": "Ачысціць дысплэй Pistorder",
+  "pistorder.clear_display.hint": "Інфармацыйны дысплэй Pistorder ачышчаны"
+}
