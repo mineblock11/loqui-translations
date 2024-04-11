@@ -1,0 +1,13 @@
+{
+  "libjf-web-v0.jfconfig.title": "LibJF Web v0",
+  "libjf-web-v0.jfconfig.serverIp": "IP сервера",
+  "libjf-web-v0.jfconfig.serverIp.tooltip": "Публичный IP или название хоста, который нужно отправлять клиентским сторонам",
+  "libjf-web-v0.jfconfig.port": "Порт",
+  "libjf-web-v0.jfconfig.port.tooltip": "Порт, на котором должен содержаться контент",
+  "libjf-web-v0.jfconfig.portOverride": "Переопределение порта",
+  "libjf-web-v0.jfconfig.portOverride.tooltip": "Порт, который нужно отправлять клиентским сторонам (для обратных прокси: укажите -1, чтобы выключить)",
+  "libjf-web-v0.jfconfig.maxConnections": "Максимальное кол-во подключений",
+  "libjf-web-v0.jfconfig.maxConnections.tooltip": "Максимальное число конкурирующих соединений с этим сервером",
+  "libjf-web-v0.jfconfig.enableFileHost": "Включить хост файлов",
+  "libjf-web-v0.jfconfig.enableFileHost.tooltip": "То, должны ли файлы из настроек или wwwroot размещаться как статичные ресурсы или нет"
+}
