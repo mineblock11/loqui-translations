@@ -1,0 +1,23 @@
+{
+  "container.repair.work": "Work Cost: %d",
+  "item.tinkerers_smithing.broken": "Broken",
+  "tag.tinkerers_smithing.dework_ingredients": "De-working Materials",
+  "tag.tinkerers_smithing.sacrifice.netherite_1": "1-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_2": "2-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_3": "3-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_4": "4-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_5": "5-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_6": "6-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_7": "7-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_8": "8-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_9": "9-Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_1_plus": "Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_2_plus": "2+ Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_3_plus": "3+ Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_4_plus": "4+ Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_5_plus": "5+ Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_6_plus": "6+ Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_7_plus": "7+ Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_8_plus": "8+ Cost Netherite Equipment",
+  "tag.tinkerers_smithing.sacrifice.netherite_9_plus": "9+ Cost Netherite Equipment"
+}

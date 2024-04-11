@@ -1,0 +1,6 @@
+{
+  "gamerule.animalMobCap": "Animal mob cap",
+  "gamerule.animalMobCap.description": "Constant to help determine when to stop spawning animals in a world.",
+  "gamerule.persistentAnimals": "Persistent animals",
+  "gamerule.persistentAnimals.description": "Animals will stay in the world forever and can only be reproduced from breeding."
+}

@@ -15,7 +15,7 @@
     "1.0.1": "/group_p59hrfe"
   },
   "weaponworks": {
-    "1.4.1-1.20.1-fabric": "/group_p59hrfe"
+    "1.4.1-1.20.1-fabric": "/group_ma2ysv3"
   },
   "weaponmaster": {
     "3.0.5": "/group_p59hrfe"
@@ -105,6 +105,9 @@
   "textile_backup": {
     "3.1.3-1.20": "/group_p59hrfe"
   },
+  "texelspaintings": {
+    "8.2.0": "/group_p59hrfe"
+  },
   "terraform": {
     "7.0.1": "/group_p59hrfe"
   },
@@ -172,6 +175,9 @@
   "snifferplus": {
     "0.2.0": "/group_p59hrfe"
   },
+  "sneakycurses": {
+    "8.0.2": "/group_p59hrfe"
+  },
   "smoothboot": {
     "1.20.4-0.1.2": "/group_p59hrfe",
     "1.20.2-0.1.1": "/group_p59hrfe"
@@ -217,6 +223,9 @@
   "roughlysearchable": {
     "2.6.0+1.20.1": "/group_p59hrfe"
   },
+  "rotten_flesh_to_leather": {
+    "1.0.0": "/group_p59hrfe"
+  },
   "rosegoldequipment": {
     "1.1": "/group_p59hrfe"
   },
@@ -230,7 +239,11 @@
     "0.10.1-1.20.1-fabric": "/group_p59hrfe"
   },
   "respawninganimals": {
-    "8.1.1": "/group_p59hrfe"
+    "8.1.1": "/group_p59hrfe",
+    "8.2.0": "/group_fy96ca4"
+  },
+  "resourcepackoverrides": {
+    "8.0.3": "/group_p59hrfe"
   },
   "resolutioncontrol": {
     "1.20.4-3.0.2": "/group_p59hrfe",
@@ -242,12 +255,18 @@
   "reciperemover": {
     "1.0.8": "/group_ma2ysv3"
   },
+  "recipe_reshaper": {
+    "1.1.4": "/group_p59hrfe"
+  },
   "reacharound": {
     "1.1.2": "/group_p59hrfe"
   },
   "reach-entity-attributes": {
     "2.5.0": "/group_p59hrfe",
     "2.4.0": "/group_p59hrfe"
+  },
+  "ranged_weapon": {
+    "1.1.0+1.20.1": "/group_p59hrfe"
   },
   "raised": {
     "3.1.3": "/group_p59hrfe"
@@ -275,6 +294,9 @@
   "porting_lib_gametest": {
     "2.1.1127+1.20": "/group_p59hrfe",
     "2.1.1090+1.20": "/group_p59hrfe"
+  },
+  "portfolio": {
+    "1.20.1-1.3.5-fabric": "/group_p59hrfe"
   },
   "pickupnotifications": {
     "1.7.0": "/group_p59hrfe"
@@ -314,7 +336,11 @@
     "19.0.3": "/group_p59hrfe"
   },
   "onsoulfire": {
-    "1.20.1": "/group_p59hrfe"
+    "1.20.1": "/group_p59hrfe",
+    "1.20-2": "/group_p59hrfe"
+  },
+  "oaks_painting": {
+    "1.0": "/group_p59hrfe"
   },
   "nvidium": {
     "0.2.6-beta": "/group_p59hrfe"
@@ -327,6 +353,10 @@
   },
   "noxesium": {
     "1.2.0+669ccb7": "/group_p59hrfe"
+  },
+  "nnvf": {
+    "0.1.3_1.20": "/group_p59hrfe",
+    "0.1.5": "/group_6ehjgeg"
   },
   "nmc": {
     "2.1": "/group_p59hrfe"
@@ -450,6 +480,9 @@
   "libjf-config-core-v1": {
     "3.12.5": "/group_p59hrfe"
   },
+  "legacies_and_legends": {
+    "1.3.7": "/group_p59hrfe"
+  },
   "leahs-immersive-thunder": {
     "1.20.4+1.2.2": "/group_p59hrfe",
     "1.20.2+1.2.2": "/group_p59hrfe",
@@ -461,7 +494,8 @@
   },
   "kyrptconfig": {
     "1.5.8-1.20.2": "/group_p59hrfe",
-    "1.5.6-1.20": "/group_p59hrfe"
+    "1.5.6-1.20": "/group_p59hrfe",
+    "1.5.3-1.20": "/group_p59hrfe"
   },
   "jumpoverfences": {
     "1.3.1": "/group_p59hrfe"
@@ -475,8 +509,11 @@
   "jamlib": {
     "1.0.8+1.20.4": "/group_p59hrfe"
   },
+  "itemfavorites": {
+    "1.0.5+1.20.1": "/group_p59hrfe"
+  },
   "inventorymanagement": {
-    "1.3.1": "/group_p59hrfe"
+    "1.3.1": "/group_ma2ysv3"
   },
   "interactic": {
     "0.2.0+1.20": "/group_p59hrfe"
@@ -501,10 +538,11 @@
     "2.1.2": "/group_p59hrfe"
   },
   "herdspanic": {
+    "1.1.0": "/group_p59hrfe",
     "1.0.7": "/group_p59hrfe"
   },
   "hearth_and_home": {
-    "1.20.1-2.0.1": "/group_p59hrfe"
+    "1.20.1-2.0.1": "/group_ma2ysv3"
   },
   "healthindicatortxf": {
     "1.20.4-1.2.2-fabric": "/group_p59hrfe"
@@ -541,6 +579,9 @@
   "fullbrightnesstoggle": {
     "3.0": "/group_p59hrfe"
   },
+  "forgeconfigscreens": {
+    "8.0.2": "/group_p59hrfe"
+  },
   "foglooksgoodnow": {
     "2.2.0+1.20.1": "/group_p59hrfe"
   },
@@ -555,6 +596,9 @@
   },
   "fastpaintings": {
     "1.20-1.2.5": "/group_p59hrfe"
+  },
+  "fabricvanilla_friendly_paintings": {
+    "1.0.0": "/group_p59hrfe"
   },
   "extendedhotbar": {
     "3.0.0": "/group_p59hrfe"
@@ -592,6 +636,9 @@
   "earlystage": {
     "1.1.1": "/group_ma2ysv3"
   },
+  "dynmus": {
+    "2.3.2+1.20": "/group_p59hrfe"
+  },
   "dynamiclights": {
     "1.7.1+mod": "/group_p59hrfe"
   },
@@ -601,6 +648,9 @@
   },
   "dsurround": {
     "0.3.3": "/group_p59hrfe"
+  },
+  "dragonfight": {
+    "1.20.1-4.4": "/group_p59hrfe"
   },
   "doapi": {
     "1.2.9": "/group_p59hrfe",
@@ -615,6 +665,9 @@
   },
   "derelict": {
     "1.0.0": "/group_p59hrfe"
+  },
+  "darkpaintings": {
+    "17.0.4": "/group_p59hrfe"
   },
   "customportals": {
     "3.3.1": "/group_p59hrfe"
@@ -644,6 +697,12 @@
   "craterlib": {
     "1.1.0": "/group_p59hrfe"
   },
+  "cr-config": {
+    "2.8.3+1.20": "/group_p59hrfe"
+  },
+  "cr-compass-ribbon": {
+    "2.8.3+1.20": "/group_p59hrfe"
+  },
   "connectiblechains": {
     "2.2.1+1.20.1": "/group_p59hrfe"
   },
@@ -657,6 +716,9 @@
   },
   "colored_lamps": {
     "0.0.1-fabric": "/group_p59hrfe"
+  },
+  "clickthrough": {
+    "1.20.1": "/group_p59hrfe"
   },
   "cleardespawn": {
     "1.1.15": "/group_p59hrfe"
@@ -676,20 +738,28 @@
   "chassis": {
     "1.3.0+01": "/group_p59hrfe"
   },
+  "charmonium": {
+    "6.0.7": "/group_p59hrfe"
+  },
   "chainstory": {
     "1.3.1": "/group_p59hrfe"
   },
   "carrotconfig": {
-    "1.1.2+1.20.4": "/group_p59hrfe"
+    "1.1.2+1.20.4": "/group_p59hrfe",
+    "1.1.1+1.20.1": "/group_p59hrfe"
   },
   "carpeted": {
     "1.20-1.4": "/group_p59hrfe"
+  },
+  "cameraoverhaul": {
+    "1.4.0-fabric-universal": "/group_p59hrfe"
   },
   "caligo": {
     "0.0.1+1.20.4": "/group_p59hrfe"
   },
   "bwncr": {
     "3.19.0": "/group_ma2ysv3",
+    "3.17.0": "/group_p59hrfe",
     "3.18.0": "/group_ma2ysv3"
   },
   "bushierflowers": {
@@ -812,6 +882,9 @@
     "1.0.0-beta.22+mc1.20.4": "/group_uq37rd2",
     "1.0.0-beta.20+mc1.20-pre1": "/group_8yta42z"
   },
+  "youthief": {
+    "1.4.0": "/group_fy96ca4"
+  },
   "tweakermore": {
     "3.17.0": "/group_fy96ca4"
   },
@@ -839,6 +912,9 @@
   },
   "resourcify": {
     "1.3.1": "/group_fy96ca4"
+  },
+  "plushables": {
+    "1.1.3": "/group_fy96ca4"
   },
   "pistorder": {
     "1.6.3": "/group_fy96ca4"
@@ -931,12 +1007,24 @@
   "respackopts": {
     "4.7.2": "/group_mda6lbt"
   },
+  "majruszlibrary": {
+    "7.0.5": "/group_mda6lbt"
+  },
   "grassoverhaul": {
     "23.6.9": "/group_mda6lbt"
+  },
+  "emojitype": {
+    "2.2.3+1.20.4": "/group_mda6lbt"
+  },
+  "wandering_collector": {
+    "1.2.1+mc1.20-pre5": "/group_ma2ysv3"
   },
   "voidz": {
     "1.0.11": "/group_ma2ysv3",
     "1.0.10": "/group_ma2ysv3"
+  },
+  "tinkerers_smithing": {
+    "2.6.7+1.20": "/group_ma2ysv3"
   },
   "simplystatus": {
     "2.1.0": "/group_ma2ysv3"
@@ -944,8 +1032,12 @@
   "removeblockoutline": {
     "1.1.2-1.20.1": "/group_ma2ysv3"
   },
+  "quickstack": {
+    "1.0.2+1.20.1": "/group_ma2ysv3"
+  },
   "projectile_damage": {
-    "3.2.2+1.20.1": "/group_ma2ysv3"
+    "3.2.2+1.20.1": "/group_ma2ysv3",
+    "3.2.3+1.20.1": "/group_irw33ma"
   },
   "neruina": {
     "1.3.0": "/group_ma2ysv3"
@@ -953,17 +1045,26 @@
   "metalbundles": {
     "20.4.4": "/group_ma2ysv3"
   },
+  "magiccombatwands": {
+    "1.1.1": "/group_ma2ysv3"
+  },
   "libraryferret": {
     "4.0.0": "/group_ma2ysv3"
   },
   "extra_details": {
     "0.3-beta": "/group_ma2ysv3"
   },
+  "extra-mod-integrations": {
+    "0.4.2+1.20.1": "/group_ma2ysv3"
+  },
   "enderzoology": {
     "20.4.3": "/group_ma2ysv3"
   },
   "dynamicpack": {
     "1.0.30+1.20.4": "/group_ma2ysv3"
+  },
+  "dwdsb": {
+    "1.5.1": "/group_ma2ysv3"
   },
   "draggable_lists": {
     "1.0.5": "/group_ma2ysv3"
@@ -996,9 +1097,6 @@
   "rpgdifficulty": {
     "1.3.13": "/group_qdygrud"
   },
-  "nnvf": {
-    "0.1.5": "/group_6ehjgeg"
-  },
   "nameplate": {
     "1.1.4": "/group_qdygrud"
   },
@@ -1006,6 +1104,7 @@
     "1.0.7+1.20.1": "/group_6ehjgeg"
   },
   "do_a_barrel_roll": {
+    "3.5.4+1.20.1": "/group_6ehjgeg",
     "3.3.7+1.20": "/group_6ehjgeg"
   },
   "defaultoptions": {
@@ -1018,7 +1117,7 @@
     "1.0.0": "/group_laumisx"
   },
   "rechiseled": {
-    "1.1.5+b": "/group_laumisx"
+    "1.1.5+b": "/group_ifdonj3"
   },
   "masiks_puzzle_dungeon": {
     "1.1.1-1.20.X": "/group_laumisx"
@@ -1059,6 +1158,9 @@
   },
   "bettertrims": {
     "2.3.0": "/group_v3cx9v5"
+  },
+  "seamless": {
+    "2.2.2": "/group_hskssqf"
   },
   "sound_physics_remastered": {
     "1.20.1-1.2.1": "/group_qdygrud",
@@ -1142,6 +1244,9 @@
     "2.0.0-beta.4": "/group_ifdonj3",
     "2.1.1": "/group_t9giklo"
   },
+  "dummmmmmy": {
+    "1.20-1.8.14": "/group_ifdonj3"
+  },
   "betterwitchhuts": {
     "1.20-Fabric-3.0.3": "/group_ifdonj3"
   },
@@ -1179,13 +1284,16 @@
     "1.2.8": "/group_yy5wy4y"
   },
   "snuffles": {
-    "1.0.0+1.20": "/group_wls187q"
+    "1.0.0+1.20": "/group_bqt7p3k"
   },
   "nethermap": {
     "3.0.0-1.20.1": "/group_18bdyw6"
   },
   "bettercommandblockui": {
     "0.5.1": "/group_18bdyw6"
+  },
+  "kleeslabs": {
+    "15.0.0": "/group_jcjctys"
   },
   "forgeconfigapiport": {
     "8.0.0": "/group_jcjctys",
@@ -1225,6 +1333,9 @@
   },
   "eanimalmod": {
     "1.2.3-1.20.1": "/group_6puate9"
+  },
+  "deathfinder": {
+    "8.0.1": "/group_6puate9"
   },
   "charmofundying": {
     "6.4.5+1.20.1": "/group_6puate9"
@@ -1279,6 +1390,9 @@
   "walljump": {
     "1.20.4-1.1.5-fabric": "/group_dnls53b"
   },
+  "extrasounds": {
+    "2.3.1+1.20.1~lonefelidae16-build.1": "/group_folphl5"
+  },
   "roughlyenoughprofessions": {
     "2.0.2": "/group_5jnfeau"
   },
@@ -1317,7 +1431,8 @@
     "0.16.2": "/group_z08bfp4"
   },
   "regions_unexplored": {
-    "0.5.5+1.20.4": "/group_irw33ma"
+    "0.5.5+1.20.4": "/group_irw33ma",
+    "0.5.5+1.20.1": "/group_irw33ma"
   },
   "exposure": {
     "1.2.2": "/group_irw33ma",
@@ -1328,7 +1443,8 @@
     "0.18.3": "/group_bqt7p3k"
   },
   "archers": {
-    "1.0.7+1.20.1": "/group_bqt7p3k"
+    "1.0.7+1.20.1": "/group_bqt7p3k",
+    "1.2.1+1.20.1": "/group_x3vac4e"
   },
   "mcwroofs": {
     "2.3.0": "/group_t3i850r",
@@ -1339,9 +1455,11 @@
     "20.1.0": "/group_kgtaee7"
   },
   "spell_power": {
-    "0.9.19+1.20.1": "/group_0hv8yhw"
+    "0.9.19+1.20.1": "/group_0hv8yhw",
+    "0.10.0+1.20.1": "/group_0hv8yhw"
   },
   "spell_engine": {
+    "0.14.0+1.20.1": "/group_0hv8yhw",
     "0.12.5+1.20.1": "/group_0hv8yhw"
   },
   "pehkui": {
@@ -1356,6 +1474,9 @@
   },
   "catalogue": {
     "1.8.0": "/group_fz61okn"
+  },
+  "companion": {
+    "5.1.0": "/group_2mh2acx"
   },
   "beautify": {
     "1.1.0+1.20": "/group_pv8rm0v"
@@ -1378,6 +1499,9 @@
   },
   "netherite_horse_armor": {
     "1.20.1-1.0.4": "/group_ijlihe5"
+  },
+  "clean-debug": {
+    "0.4.4": "/group_oxvms74"
   },
   "justenoughbreeding": {
     "1.2.1": "/group_3mz32lp"
@@ -1515,6 +1639,9 @@
   "carpet": {
     "1.4.128+v231205": "/group_q84z8iy"
   },
+  "tinyskeletons": {
+    "8.0.1": "/group_oa30n1f"
+  },
   "brewery": {
     "1.1.5": "/group_oa30n1f"
   },
@@ -1566,6 +1693,12 @@
     "5.10.2+mc1.20.4": "/group_z1mitem",
     "5.10.1+mc1.20.2": "/group_z1mitem"
   },
+  "wizards": {
+    "1.2.0+1.20.1": "/group_85a2tnn"
+  },
+  "paladins": {
+    "1.2.0+1.20.1": "/group_85a2tnn"
+  },
   "betterdungeons": {
     "1.20-Fabric-4.0.3": "/group_85a2tnn"
   },
@@ -1574,6 +1707,7 @@
     "1.3.5": "/group_b8al7yz"
   },
   "kiwi": {
+    "11.6.0": "/group_maw6yff",
     "11.5.5": "/group_maw6yff",
     "11.4.0": "/group_maw6yff"
   },
@@ -1638,6 +1772,21 @@
   "itemcollectors": {
     "1.1.9": "/group_2kvffrv"
   },
+  "gardens_of_the_dead": {
+    "4.0.1": "/group_q3q1rdk"
+  },
+  "villager-hats": {
+    "1.6.2+1.20": "/group_inzxjua"
+  },
+  "chatpatches": {
+    "201.5.5": "/group_e1f97le",
+    "204.6.4": "/group_0wltx88",
+    "202.6.4": "/group_0wltx88"
+  },
+  "bosses_of_mass_destruction": {
+    "1.7.5-1.20.1": "/group_xaqv7wj",
+    "1.8.2-1.20.4": "/group_odhvwow"
+  },
   "midnightlib": {
     "1.5.3": "/group_nzs7a7t",
     "1.5.2": "/group_nzs7a7t",
@@ -1650,7 +1799,8 @@
     "0.10.22": "/group_m769yjd"
   },
   "fabrishot": {
-    "1.10.0": "/group_ajwi6ln"
+    "1.10.0": "/group_ajwi6ln",
+    "1.10.1": "/group_5obyyr4"
   },
   "mcwwindows": {
     "2.2.1": "/group_mqbll8u"
@@ -1670,13 +1820,10 @@
   "goated": {
     "1.20-1.3.4": "/group_0wltx88"
   },
-  "chatpatches": {
-    "204.6.4": "/group_0wltx88",
-    "202.6.4": "/group_0wltx88"
-  },
   "emi": {
     "1.1.4+1.20.4+fabric": "/group_5xcy4pv",
     "1.1.4+1.20.2+fabric": "/group_5xcy4pv",
+    "1.1.4+1.20.1+fabric": "/group_5xcy4pv",
     "1.0.29+1.20.4+fabric": "/group_5xcy4pv"
   },
   "libipn": {
@@ -1690,9 +1837,6 @@
   },
   "enchantinginfuser": {
     "20.4.1": "/group_kb4ri9y"
-  },
-  "bosses_of_mass_destruction": {
-    "1.8.2-1.20.4": "/group_odhvwow"
   },
   "world-host": {
     "0.4.9": "/group_388a1il"
@@ -1747,6 +1891,12 @@
   "symbol-chat": {
     "1.20.4-1.2.1": "/group_vlis9rr"
   },
+  "beansbackpacks": {
+    "0.23-v2": "/group_rvze4pq"
+  },
+  "plushies": {
+    "1.4.0": "/group_frlalia"
+  },
   "advancementinfo": {
     "1.20-fabric0.83.0-1.4": "/group_ng58qj4",
     "1.20.4-fabric0.91.2-1.4": "/group_y28yn3q"
@@ -1761,6 +1911,7 @@
     "2.9.0": "/group_dd9hrtg"
   },
   "combatroll": {
+    "1.3.2+1.20.1": "/group_hkrj0qe",
     "1.3.1+1.20.1": "/group_hkrj0qe"
   },
   "geodes": {
@@ -1800,6 +1951,7 @@
     "1.9.3": "/group_lamqgfh"
   },
   "amendments": {
+    "1.20-1.1.18": "/group_vukpkgk",
     "1.20-1.1.17": "/group_vukpkgk"
   },
   "immersive_weathering": {
@@ -1810,6 +1962,9 @@
   },
   "inventoryhud": {
     "3.4.19": "/group_b77qlo9"
+  },
+  "puffish_skills": {
+    "0.11.6": "/group_i60t3hi"
   },
   "fallingleaves": {
     "1.15.6": "/group_lb9ucjl",
@@ -1934,6 +2089,7 @@
     "13.3.1": "/group_2qmktrs",
     "13.2.0": "/group_2qmktrs",
     "12.3.0": "/group_2qmktrs",
+    "11.8.0": "/group_2qmktrs",
     "11.6.2": "/group_2qmktrs"
   },
   "fastquit": {
@@ -1945,6 +2101,7 @@
     "1.3.10+mc.1.20.1": "/group_ve8bct2"
   },
   "polymorph": {
+    "0.49.3+1.20.1": "/group_b4d3h2u",
     "0.49.1+1.20.1": "/group_b4d3h2u"
   },
   "multirecipe": {
@@ -1966,6 +2123,9 @@
   },
   "friendsandfoes": {
     "2.0.10": "/group_jbfxey6"
+  },
+  "cherishedworlds": {
+    "6.1.6+1.20.1": "/group_7bxmbs1"
   },
   "yet_another_config_lib": {
     "3.2.2+1.20": "/group_j3ls858",
@@ -1999,10 +2159,14 @@
   "decorative_blocks": {
     "5.0.2": "/group_mh29wjt"
   },
+  "fwaystones": {
+    "3.3.2+mc1.20.1": "/group_lfks1gu"
+  },
   "languagereload": {
     "1.5.9+1.20.1": "/group_0u8y0rt",
     "1.5.10+1.20.3": "/group_p3foa3p",
-    "1.5.10+1.20.2": "/group_p3foa3p"
+    "1.5.10+1.20.2": "/group_p3foa3p",
+    "1.5.10+1.20.1": "/group_qs3v1tu"
   },
   "cloth-config2": {
     "13.0.121": "/group_5mucwkh",
@@ -2032,6 +2196,9 @@
   },
   "ecologics": {
     "2.2.0": "/group_6w0dvzl"
+  },
+  "majruszsenchantments": {
+    "1.10.7": "/group_olkz5vk"
   },
   "zoomify": {
     "2.13.2": "/group_83you42",
@@ -2080,7 +2247,8 @@
     "23.0.8": "/group_tpfjuij",
     "23.0.6": "/group_tpfjuij",
     "20.1.9": "/group_tpfjuij",
-    "20.1.8": "/group_tpfjuij"
+    "20.1.8": "/group_tpfjuij",
+    "20.1.10": "/group_tpfjuij"
   },
   "inventoryprofilesnext": {
     "1.10.10": "/group_wuvrmta"
@@ -2118,11 +2286,12 @@
   "connectedglass": {
     "1.1.11": "/group_87ig0k6"
   },
+  "naturescompass": {
+    "1.20.1-2.2.3-fabric": "/group_wlacpqj",
+    "1.20.4-2.2.3-fabric": "/group_fprdk9g"
+  },
   "ryoamiclights": {
     "0.2.1+mc1.20.1": "/group_j7138wx"
-  },
-  "naturescompass": {
-    "1.20.4-2.2.3-fabric": "/group_fprdk9g"
   },
   "biomesoplenty": {
     "18.0.0.598": "/group_i8ic6xw",
