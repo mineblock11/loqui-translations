@@ -223,6 +223,7 @@
     "8.1.1": "/group_p59hrfe"
   },
   "resolutioncontrol": {
+    "1.20.4-3.0.2": "/group_p59hrfe",
     "1.20.2-3.0.0": "/group_p59hrfe"
   },
   "reloadkey": {
@@ -313,6 +314,9 @@
   },
   "noxesium": {
     "1.2.0+669ccb7": "/group_p59hrfe"
+  },
+  "nmc": {
+    "2.1": "/group_p59hrfe"
   },
   "nitrogen_internals": {
     "1.20.1-1.0.7-neoforge": "/group_p59hrfe"
@@ -566,6 +570,9 @@
   "enchantery": {
     "1.20.1-0.0.9": "/group_p59hrfe"
   },
+  "easy-bedrock-breaker": {
+    "0.1.0-1.20.2": "/group_p59hrfe"
+  },
   "earlystage": {
     "1.1.1": "/group_ma2ysv3"
   },
@@ -764,6 +771,9 @@
     "0.1.5+1.20.3": "/group_uq37rd2",
     "0.1.0-pre.20+1.20.2": "/group_uq37rd2"
   },
+  "fullbright": {
+    "2.0.0": "/group_uq37rd2"
+  },
   "extended_drawers": {
     "2.1.1+mc.1.20.1": "/group_uq37rd2"
   },
@@ -816,6 +826,9 @@
   },
   "monster_roster": {
     "0.1.1": "/group_fy96ca4"
+  },
+  "minihudextra": {
+    "0.1.1-mc1.20.4-fabric": "/group_fy96ca4"
   },
   "milk": {
     "1.2.60": "/group_fy96ca4"
@@ -1469,6 +1482,9 @@
   },
   "mcwlights": {
     "1.0.6": "/group_enje5ew"
+  },
+  "autofish": {
+    "1.0.0-fabric-1.20.4": "/group_02wagd4"
   },
   "reeses-sodium-options": {
     "1.6.5+mc1.20.1-build.95": "/group_1due3a5",

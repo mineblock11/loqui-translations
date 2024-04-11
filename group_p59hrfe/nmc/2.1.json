@@ -1,0 +1,5 @@
+{
+  "key.nmc.toggle": "Toggle Mining Cooldown",
+  "message.nmc.cooldown_enabled": "Mining cooldown enabled",
+  "message.nmc.cooldown_disabled": "Mining cooldown disabled"
+}

@@ -1,0 +1,17 @@
+{
+  "fullbright.config.title": "Fullbright Configuration",
+  "fullbright.config.categories.main.name": "Main Configuration",
+  "fullbright.config.categories.main.tooltip": "",
+  "fullbright.config.categories.main.options.enabled.name": "Enabled",
+  "fullbright.config.categories.main.options.enabled.description": "Enable and disable the fullbright mod.",
+  "fullbright.config.categories.main.options.brightness.name": "Fullbright Brightness",
+  "fullbright.config.categories.main.options.brightness.description": "This is what the gamma value is set to when enabling fullbright.",
+  "fullbright.config.categories.main.options.default-brightness.name": "Default Brightness",
+  "fullbright.config.categories.main.options.default-brightness.description": "This is what the gamma value is set to when disabling fullbright.",
+  "fullbright.config.categories.main.options.keybindings": "Please configure your keybindings in the controls menu. Currently set to: %d",
+  "fullbright.config.categories.main.options.keybindings.notice": "Note: The keybinding told above is not updated until you reopen this screen.",
+  "fullbright.config.categories.main.options.open-controls.name": "Open Keybindings",
+  "fullbright.config.categories.main.options.open-controls.description": "Open the controls menu to configure the keybinding.",
+  "key.fullbright.toggle": "Toggle Fullbright",
+  "category.fullbright.main": "Fullbright"
+}
