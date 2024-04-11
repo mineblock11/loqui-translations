@@ -1,0 +1,13 @@
+{
+    "text.autoconfig.veindigging.option.sneakActivation": "Sneak Activation",
+    "text.autoconfig.veindigging.option.sneakActivation.@Tooltip": "Allow players to veindig while sneaking.",
+    "text.autoconfig.veindigging.option.bindActivation": "Keybind Activation",
+    "text.autoconfig.veindigging.option.bindActivation.@Tooltip": "Allow players with the mod to veindig with the keybind.",
+    "text.autoconfig.veindigging.option.useGlobalWhitelist": "Global Whitelist",
+    "text.autoconfig.veindigging.option.useBindWhitelist": "Keybind Whitelist",
+    "text.autoconfig.veindigging.option.useShiftWhitelist": "Sneak Whitelist",
+    "text.autoconfig.veindigging.option.maxBlocks": "Max Blocks",
+    "text.autoconfig.veindigging.option.maxBlocks.@Tooltip": "The maximum number of blocks that can be mined at once.",
+    "text.autoconfig.veindigging.option.maxRange": "Max Range",
+    "text.autoconfig.veindigging.option.maxRange.@Tooltip": "The maximum range that can be reached while mining."
+}
