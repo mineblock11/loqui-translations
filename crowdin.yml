@@ -1061,6 +1061,14 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_da6f23o/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ko
+      - pt-BR
+      - ru
+      - sl
+      - vi
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
