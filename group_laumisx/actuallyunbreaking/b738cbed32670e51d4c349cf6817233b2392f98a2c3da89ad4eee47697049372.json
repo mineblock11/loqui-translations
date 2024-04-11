@@ -1,0 +1,19 @@
+{
+  "text.config.actuallyunbreaking.title": "Actually Unbreaking Config",
+
+  "text.config.actuallyunbreaking.option.maxLevelOnly": "max level only",
+  "text.config.actuallyunbreaking.option.useUnbreakableAtLevel": "use the unbreakable at level number",
+  "text.config.actuallyunbreaking.option.unbreakableAtLevel": "unbreakable at level",
+  "text.config.actuallyunbreaking.option.useOnlyUnbreakableAtLevel": "only make the tool unbreakable at one specified level",
+  "text.config.actuallyunbreaking.option.onlyUnbreakableAtLevel": "the only level that makes the tool unbreakable",
+  "text.config.actuallyunbreaking.option.mendingIncompatibility": "is incompatible with mending",
+  "text.config.actuallyunbreaking.option.useUnbreakableTag": "use the unbreakable tag",
+
+  "text.config.actuallyunbreaking.comment.maxLevelOnly": "only the last level of unbreaking will set the tool\nto be unbreakable if this is true.",
+  "text.config.actuallyunbreaking.comment.useUnbreakableAtLevel": "if this is true, the tool will only be\nunbreakable at a specified level\nand above that level (overrides max level option).",
+  "text.config.actuallyunbreaking.comment.unbreakableAtLevel": "the specified level the tool will be unbreakable at.",
+  "text.config.actuallyunbreaking.comment.useOnlyUnbreakableAtLevel": "if this is true, it makes the tool\nunbreakable only at a specified level.\n(overrides max level and unbreakable at options)",
+  "text.config.actuallyunbreaking.comment.onlyUnbreakableAtLevel": "the specified level the tool will be unbreakable at.",
+  "text.config.actuallyunbreaking.comment.mendingIncompatibility": "unbreaking will be incompatible with mending\nif this is true.",
+  "text.config.actuallyunbreaking.comment.useUnbreakableTag": "when the tool takes damage, the unbreakable\nnbt tag will be added and unbreaking (and mending) will be\nremoved from the tool (you will no longer be able\nto add unbreaking and mending to the tool) if this is true."
+}
