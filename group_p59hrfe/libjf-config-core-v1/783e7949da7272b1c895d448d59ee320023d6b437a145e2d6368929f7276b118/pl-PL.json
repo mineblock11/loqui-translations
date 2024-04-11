@@ -1,0 +1,5 @@
+{
+    "libjf-config-core-v1.jfconfig.title": "LibJF Config",
+    "libjf-config-core-v1.jfconfig.watchForChanges": "Obserwuj zmiany",
+    "libjf-config-core-v1.jfconfig.watchForChanges.tooltip": "Automatycznie przeładuj konfiguracje po ich zmianie"
+}
