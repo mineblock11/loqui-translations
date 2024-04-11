@@ -1439,6 +1439,16 @@ files:
       - ko
       - ru
       - tr
+  - source: /group_b77qlo9/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - fr
+      - it
+      - ja
+      - ru
+      - zh-CN
   - source: /group_lb9ucjl/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
