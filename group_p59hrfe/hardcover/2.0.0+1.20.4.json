@@ -1,0 +1,23 @@
+{
+    "hardcover.reset": "Reset",
+    "hardcover.done": "Done",
+    "hardcover.alternative-recipe-button": "Alt. Recipe Button",
+    "hardcover.tooltip.alternative-recipe-button": "Displays the resulting item instead of the recipe and a tooltip shows the material list",
+    "hardcover.dark-mode": "Dark Mode",
+    "hardcover.tooltip.dark-mode": "VanillaTweaks-based dark mode for the tweaked texture of the alternative recipe button",
+    "hardcover.ungroup-recipes": "Ungroup Recipes",
+    "hardcover.tooltip.ungroup-recipes": "Ungroup any grouped recipes into single recipes",
+    "hardcover.recipe-book": "Recipe Book",
+    "hardcover.tooltip.recipe-book": "Toggles the recipe book button in supported screens",
+    "hardcover.unlock-all-recipes": "Unlock All Recipes",
+    "hardcover.tooltip.unlock-all-recipes": "Unlock all recipes when a player enters a world",
+    "hardcover.bounce": "Bounce Effect",
+    "hardcover.tooltip.bounce": "Toggles the subtle bounce effect seen when new recipes are added",
+    "hardcover.circular-scrolling": "Circular Scrolling",
+    "hardcover.tooltip.circular-scrolling": "Enables circular scrolling when using the next and previous buttons",
+    "hardcover.centered-inventory": "Centered Inventory",
+    "hardcover.tooltip.centered-inventory": "Centers the inventory and prevents it from moving when the recipe book is opened",
+    "hardcover.mouse-wheel-scrolling": "Mouse Wheel Scrolling",
+    "hardcover.tooltip.mouse-wheel-scrolling": "Enables mouse wheel scrolling within the recipe book",
+    "hardcover.experimental-tooltip": "Uses an experimental tooltip to show the recipe"
+}

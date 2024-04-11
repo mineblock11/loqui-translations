@@ -1,0 +1,10 @@
+{
+  "recursiveresources.sort.a-z": "A-Z",
+  "recursiveresources.sort.z-a": "Z-A",
+  "recursiveresources.view.folder": "Folder View",
+  "recursiveresources.view.flat": "Flat View",
+  "recursiveresources.folder.back": "(Back)",
+  "recursiveresources.folder.folder": "(Folder)",
+  "recursiveresources.availablepacks.title.hover": "Enable all",
+  "recursiveresources.selectedpacks.title.hover": "Disable all"
+}
