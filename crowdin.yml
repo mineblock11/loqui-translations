@@ -264,6 +264,11 @@ files:
     excluded_target_languages:
       - ko
       - pl
+  - source: /group_2ealslh/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ru
+      - tt-RU
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
