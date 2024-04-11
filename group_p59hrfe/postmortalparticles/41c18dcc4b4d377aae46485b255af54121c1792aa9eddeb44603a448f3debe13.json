@@ -1,0 +1,63 @@
+{
+  "postmortalparticles.title": "Postmortal Particles Config",
+
+  "postmortalparticles.category.particle": "Particles",
+
+  "postmortalparticles.vortex.group": "Vortex",
+  "postmortalparticles.vortex.group.tooltip": "Vortex particle options",
+  "postmortalparticles.vortex.enabled": "Vortex Particle",
+  "postmortalparticles.vortex.enabled.tooltip": "Should the vortex be shown?",
+
+  "postmortalparticles.sparkle.group": "Sparkles",
+  "postmortalparticles.sparkle.group.tooltip": "Sparkle particles options",
+  "postmortalparticles.sparkle.enabled": "Sparkle Particle",
+  "postmortalparticles.sparkle.enabled.tooltip": "Should the sparkle particles be shown?",
+  "postmortalparticles.sparkle.time": "Particle Timer",
+  "postmortalparticles.sparkle.time.tooltip": "How long should the sparkles last(in seconds)?",
+
+  "postmortalparticles.explosion.group": "Sparkle Explosion",
+  "postmortalparticles.explosion.group.tooltip": "Sparkle explosion particles options",
+  "postmortalparticles.explosion.enabled": "Sparkle Explosion Particles",
+  "postmortalparticles.explosion.enabled.tooltip": "Should the sparkle explosion particles be shown?",
+
+  "postmortalparticles.totem.group": "Totem",
+  "postmortalparticles.totem.group.tooltip": "Totem particle options",
+  "postmortalparticles.totem.enabled": "Visible Totem Particle",
+  "postmortalparticles.totem.enabled.tooltip": "Should the visible totem particle be shown?",
+  "postmortalparticles.shattered.enabled": "Shattered Totem Particles",
+  "postmortalparticles.shattered.enabled.tooltip": "Should the shattered totem particles be shown?",
+  "postmortalparticles.shattered.amount": "Shattered Amount",
+  "postmortalparticles.shattered.amount.tooltip": "How many shattered particles should be shown?",
+
+  "postmortalparticles.beam.group": "Beam Particles",
+  "postmortalparticles.beam.group.tooltip": "Beam particles options",
+  "postmortalparticles.beam.enabled": "Beam Particles",
+  "postmortalparticles.beam.enabled.tooltip": "Should the beam particles be shown?",
+  "postmortalparticles.beam.time": "Particle Timer",
+  "postmortalparticles.beam.time.tooltip": "How long should the beam particles last(in seconds)?",
+
+  "postmortalparticles.trail.group": "Trail Particles",
+  "postmortalparticles.trail.group.tooltip": "Trail particles options",
+  "postmortalparticles.trail.enabled": "Trail Particles",
+  "postmortalparticles.trail.enabled.tooltip": "Should the trail particles be shown?",
+  "postmortalparticles.trail.time": "Particle Timer",
+  "postmortalparticles.trail.time.tooltip": "How long should the trail particles last(in seconds)?",
+
+  "postmortalparticles.default.group": "Default Particles",
+  "postmortalparticles.default.group.tooltip": "Default particles options",
+  "postmortalparticles.default.enabled": "Default Particles",
+  "postmortalparticles.default.enabled.tooltip": "Should the default particles be shown?",
+  "postmortalparticles.default.time": "Particle Timer",
+  "postmortalparticles.default.time.tooltip": "How long should the default particles last(in seconds)?",
+
+
+
+  "postmortalparticles.category.other": "Other",
+
+  "postmortalparticles.other.group": "Other Mod Options",
+  "postmortalparticles.other.group.tooltip": "Sometimes useful other mod options",
+  "postmortalparticles.other.modenabled": "Mod Enabled?",
+  "postmortalparticles.other.modenabled.tooltip": "Should the mod be enabled?",
+  "postmortalparticles.other.spamlogs": "Debug Logs Enabled?",
+  "postmortalparticles.other.spamlogs.tooltip": "§cWarning§r: Will spam logs!"
+}
