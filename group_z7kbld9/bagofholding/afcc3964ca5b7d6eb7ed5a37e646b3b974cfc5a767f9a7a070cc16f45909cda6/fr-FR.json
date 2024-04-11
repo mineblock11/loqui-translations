@@ -1,0 +1,8 @@
+{
+  "enchantment.bagofholding.preservation": "Conservation",
+  "enchantment.bagofholding.preservation.desc": "Empêche un sac de rétention d'être perdu lors de la mort. Le niveau d'enchantement est réduit d'un à chaque fois.",
+  "item.bagofholding.golden_bag_of_holding": "Sac de rétention en or",
+  "item.bagofholding.iron_bag_of_holding": "Sac de rétention en fer",
+  "item.bagofholding.leather_bag_of_holding": "Sac de rétention en cuir",
+  "itemGroup.bagofholding.main": "Sac de rétention"
+}
