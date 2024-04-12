@@ -1,0 +1,16 @@
+{
+  "category.sei.mod": "Simple Health Indicator",
+  "key.sei.open.menu": "Open SEI Config Menu",
+
+  "text.autoconfig.simple-health-indicator.title": "SEI Config Options",
+
+  "text.autoconfig.simple-health-indicator.option.isEnabled": "Enabled",
+  "text.autoconfig.simple-health-indicator.option.isEnabled.@Tooltip[0]": "You: \"But I thought this was a simple indicator",
+  "text.autoconfig.simple-health-indicator.option.isEnabled.@Tooltip[1]": "mod with no config options?\"",
+  "text.autoconfig.simple-health-indicator.option.isEnabled.@Tooltip[2]": "\n",
+  "text.autoconfig.simple-health-indicator.option.isEnabled.@Tooltip[3]": "Me: \"Shhhhhhh...\"",
+
+  "text.autoconfig.simple-health-indicator.option.indicatorPosition": "Indicator Position",
+
+  "text.autoconfig.simple-health-indicator.option.numberType": "Number Type"
+}
