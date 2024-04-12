@@ -1,0 +1,8 @@
+{
+  "modmenu.descriptionTranslation.music_delay_reducer": "This mod lets Minecraft music play more often.",
+  "text.autoconfig.music_delay_reducer.option.minTime": "Minimum Time Delay",
+  "text.autoconfig.music_delay_reducer.option.minTime.@Tooltip": "The minimum waiting time (in minutes) that must elapse before a new track is played.",
+  "text.autoconfig.music_delay_reducer.option.maxTime": "Maximum Time Delay",
+  "text.autoconfig.music_delay_reducer.option.maxTime.@Tooltip": "The maximum waiting time (in minutes) that may elapse before a new track is played.",
+  "text.autoconfig.music_delay_reducer.title": "Music Delay Reducer Options"
+}

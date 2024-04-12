@@ -1089,6 +1089,13 @@ files:
       - ja
       - ru
       - zh-CN
+  - source: /group_k2q7p5k/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - it
+      - nl
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
