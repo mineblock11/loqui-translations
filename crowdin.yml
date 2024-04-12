@@ -2840,6 +2840,17 @@ files:
       - nl-BE
       - pt-BR
       - pt-PT
+  - source: /group_iffz7cn/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - de-CH
+      - es-MX
+      - fr
+      - lol
+      - uk
+      - zh-CN
   - source: /group_3127oq7/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
