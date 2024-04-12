@@ -1529,6 +1529,14 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_g5x8f1n/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - ru
+      - zh-CN
+      - zh-HK
+      - zh-TW
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
