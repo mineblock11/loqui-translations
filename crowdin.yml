@@ -341,6 +341,11 @@ files:
     excluded_target_languages:
       - de
       - fr
+  - source: /group_h9emgwl/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - lol
+      - zh-CN
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
