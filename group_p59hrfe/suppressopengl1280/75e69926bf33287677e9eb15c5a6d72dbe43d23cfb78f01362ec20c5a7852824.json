@@ -1,0 +1,14 @@
+{
+  "text.autoconfig.suppressopengl1280.title": "Suppress OpenGL Error 1280",
+  "text.autoconfig.suppressopengl1280.option.suppress1280": "Suppress error 1280",
+  "text.autoconfig.suppressopengl1280.option.suppress1280.@Tooltip[0]": "Error details: GL_INVALID_ENUM",
+  "text.autoconfig.suppressopengl1280.option.suppress1280.@Tooltip[1]": "Known causes: Overwolf FPS Overlay",
+  "text.autoconfig.suppressopengl1280.option.suppress1281": "Suppress error 1281",
+  "text.autoconfig.suppressopengl1280.option.suppress1281.@Tooltip[0]": "Error details: GL_INVALID_VALUE",
+  "text.autoconfig.suppressopengl1280.option.suppress1281.@Tooltip[1]": "Known causes: §o<Unknown>§r",
+  "text.autoconfig.suppressopengl1280.option.suppress1281.@Tooltip[2]": "Do a web search for 'GL_INVALID_VALUE Minecraft' to find causes; there are a lot.",
+  "text.autoconfig.suppressopengl1280.option.suppress1282": "Suppress error 1282",
+  "text.autoconfig.suppressopengl1280.option.suppress1282.@Tooltip[0]": "Error details: GL_INVALID_OPERATION",
+  "text.autoconfig.suppressopengl1280.option.suppress1282.@Tooltip[1]": "Known causes: Outdated graphics card, outdated OptiFine, missing opengl32.dll file, etc.",
+  "text.autoconfig.suppressopengl1280.option.suppress1282.@Tooltip[2]": "Do a web search for 'GL_INVALID_OPERATION Minecraft' to find other causes; there are a lot."
+}

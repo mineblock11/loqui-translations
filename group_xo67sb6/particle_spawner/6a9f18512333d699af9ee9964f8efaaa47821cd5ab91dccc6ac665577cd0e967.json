@@ -1,0 +1,9 @@
+{
+  "itemGroup.particle_spawner_tab": "Particle Spawner",
+
+  "message.particle_spawner.tool.desc": "Right-click to change the mode",
+  "message.particle_spawner.spawner.desc": "Use the Adjustment Tool to activate",
+
+  "block.particle_spawner.particle_spawner": "Particle Spawner",
+  "item.particle_spawner.adjustment_tool": "Adjustment Tool"
+}

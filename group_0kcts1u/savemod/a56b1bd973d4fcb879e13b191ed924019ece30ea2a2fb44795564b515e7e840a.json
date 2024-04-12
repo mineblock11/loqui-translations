@@ -1,0 +1,44 @@
+{
+  "savemod.list.title": "Save list",
+  "savemod.list.play": "Play Selected Save",
+  "savemod.list.create": "Create New Save",
+  "savemod.list.rename": "Rename",
+  "savemod.list.delete": "Delete",
+  "savemod.list.duplicate": "Duplicate",
+
+  "savemod.message.closing": "Closing world...",
+  "savemod.message.deleting": "Deleting previous world...",
+  "savemod.message.uncompressing": "Uncompressing save...",
+  "savemod.message.saving": "Saving...",
+
+  "savemod.delete.question" : "Are you sure you want to delete this save ?",
+
+  "savemod.name.title.new": "Name your new save",
+  "savemod.name.title.rename": "Rename your save",
+  "savemod.name.hint": "Leave blank for \"%s\"",
+  "savemod.name.rename": "Rename",
+  "savemod.name.create": "Create",
+  "savemod.name.copy": "Copy",
+
+  "savemod.toast.succesful": "Successful!",
+  "savemod.toast.succesful.save": "Save created.",
+  "savemod.toast.succesful.duplicate": "Save duplicated.",
+  "savemod.toast.failed": "Failed!",
+  "savemod.toast.failed.name": "Name is invalid.",
+  "savemod.toast.failed.delete": "Save not deleted.",
+  "savemod.toast.failed.load": "Could not load.",
+  "savemod.toast.failed.save": "Could not save.",
+  "savemod.toast.failed.duplicate": "Save not duplicated.",
+  "savemod.toast.failed.uncompress": "Could not uncompress.",
+
+  "key.savemod.open_list": "Open save list",
+  "key.savemod.save": "Open save screen",
+
+  "savemod.options": "SaveMod Options",
+  "options.savemod.gameMenu": "Game menu button",
+  "options.savemod.gameMenu.tooltip": "Add a button on the game pause menu to open the save list",
+  "options.savemod.worldEntries": "World entries button",
+  "options.savemod.worldEntries.tooltip": "Add a button on each world entry of the world list to open their save list",
+  "options.savemod.compression": "Compress saves",
+  "options.savemod.compression.tooltip": "Compression is slower but takes ~20% less space"
+}

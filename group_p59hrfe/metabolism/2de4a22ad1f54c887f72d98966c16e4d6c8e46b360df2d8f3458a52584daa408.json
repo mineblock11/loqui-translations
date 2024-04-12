@@ -1,0 +1,38 @@
+{
+  "metabolism.midnightconfig.title": "Metabolism Configs",
+  "metabolism.midnightconfig.category.server": "Server",
+  "metabolism.midnightconfig.category.debug": "Debug Overlay",
+  "metabolism.midnightconfig.category.metabolism_hud": "Metabolism HUD",
+  "metabolism.midnightconfig.category.tooltip": "Tooltips",
+  
+  "metabolism.midnightconfig.preciseFeedback": "Enable more precise heat feedback",
+  "metabolism.midnightconfig.disableHeat": "Set the heat target to 0",
+  "metabolism.midnightconfig.convertResources": "Enable food/hydration conversion",
+  "metabolism.midnightconfig.debugShowOverlay": "Enable the Debug Overlay",
+  "metabolism.midnightconfig.debugOverlayAnchor": "Position of the Debug Overlay",
+  "metabolism.midnightconfig.debugOverlayTextScale": "Scale Text",
+  "metabolism.midnightconfig.metabolismOverlayShow": "Enable the Metabolism HUD",
+  "metabolism.midnightconfig.metabolismOverlayAnchor": "Position of the Metabolism HUD",
+  "metabolism.midnightconfig.metabolismOverlayOffsetX": "Fine-tune the X position",
+  "metabolism.midnightconfig.metabolismOverlayOffsetY": "Fine-tune the Y position",
+  "metabolism.midnightconfig.metabolismOverlayTextScale": "Scale Text",
+  "metabolism.midnightconfig.showToolTip": "Show metabolite data in detailed tooltips",
+  "metabolism.midnightconfig.alwaysShowToolTip": "Always show metabolite tooltips",
+  
+  "metabolism.midnightconfig.enum.Anchor.TOP_LEFT": "Top Left",
+  "metabolism.midnightconfig.enum.Anchor.TOP_CENTER": "Top Center",
+  "metabolism.midnightconfig.enum.Anchor.TOP_RIGHT": "Top Right",
+  "metabolism.midnightconfig.enum.Anchor.CENTER_LEFT": "Center Left",
+  "metabolism.midnightconfig.enum.Anchor.CENTER_CENTER": "Center",
+  "metabolism.midnightconfig.enum.Anchor.CENTER_RIGHT": "Center Right",
+  "metabolism.midnightconfig.enum.Anchor.BOTTOM_LEFT": "Bottom Left",
+  "metabolism.midnightconfig.enum.Anchor.BOTTOM_CENTER": "Bottom Center",
+  "metabolism.midnightconfig.enum.Anchor.BOTTOM_RIGHT": "Bottom Right",
+  
+  
+  "effect.metabolism.metabolism": "metabolism",
+  "command.metabolism.warmth": "Player Warmth: %s",
+  "command.metabolism.heat": "Player Heat: %s",
+  "command.metabolism.hydration": "Player Hydration: %s",
+  "command.metabolism.food": "Player Food: %s"
+}

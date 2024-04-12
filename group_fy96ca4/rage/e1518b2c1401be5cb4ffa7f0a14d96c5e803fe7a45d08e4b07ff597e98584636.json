@@ -1,0 +1,6 @@
+{
+  "rage.notify": "Rage: %s",
+  "rage.notify.full": "You have entered into a Rage. Your next attack will do bonus damage",
+  "adv.rage.full_rage": "Enraged!",
+  "adv.rage.full_rage.desc": "You have brought yourself to full rage by damaging each other with your enemies. Your next attack will do bonus damage!"
+}

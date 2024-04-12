@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.wifmga.title": "wifmga config",
+  "text.autoconfig.wifmga.option.iterations": "Iterations",
+  "text.autoconfig.wifmga.option.iterations.@Tooltip": "The number of Dual Kawase filter iterations.",
+  "text.autoconfig.wifmga.option.offset": "Offset",
+  "text.autoconfig.wifmga.option.offset.@Tooltip": "Multiplier for the distance of Dual filter samples.",
+  "text.autoconfig.wifmga.option.gradientStart": "Gradient Start Color",
+  "text.autoconfig.wifmga.option.gradientEnd": "Gradient End Color"
+}
