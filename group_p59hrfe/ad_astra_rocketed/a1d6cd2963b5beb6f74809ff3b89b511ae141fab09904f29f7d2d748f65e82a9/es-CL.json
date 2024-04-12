@@ -1,0 +1,10 @@
+{
+  "item.ad_astra_rocketed.tier_5_rocket": "Cohete de Nivel 5",
+  "item.ad_astra_rocketed.tier_6_rocket": "Cohete de nivel 6",
+  "item.ad_astra_rocketed.tier_7_rocket": "Cohete de nivel 7",
+  "creativetab.ad_astra_rocketed_tab": "Compatibilidad entre Create y Blue Skies",
+  "itemGroup.ad_astra_rocketed.main": "Ad Astra Rocketed",
+  "entity.ad_astra.tier_5_rocket": "Cohete de Nivel 5",
+  "entity.ad_astra.tier_6_rocket": "Cohete de nivel 6",
+  "entity.ad_astra.tier_7_rocket": "Cohete de nivel 7"
+}
