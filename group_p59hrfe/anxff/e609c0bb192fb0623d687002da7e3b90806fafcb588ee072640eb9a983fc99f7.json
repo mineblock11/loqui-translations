@@ -1,0 +1,13 @@
+{
+	"entity.anxff.firefly": "Firefly",
+	"item.anxff.firefly_bottle": "Caught Firefly",
+	"item.anxff.firefly_spawn_egg": "Firefly Spawn Egg",
+	"item.anxff.glow_powder": "Glow Powder",
+	"item.anxff.photocyte": "Photocyte",
+	"item.minecraft.potion.effect.glow_potion": "Potion of Glowing",
+	"item.minecraft.potion.effect.long_glow_potion": "Potion of Glowing",
+	"subtitle.anxff.firefly_catch": "Firefly Caught",
+	"subtitle.anxff.firefly_release": "Firefly Released",
+	"subtitle.anxff.firefly_death": "Firefly Dies",
+	"subtitle.anxff.firefly_ambient": "Firefly Flutters"
+}
