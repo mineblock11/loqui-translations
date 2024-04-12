@@ -19,7 +19,7 @@
     "fastquit.config.performance.backgroundPriority.5": "5 (Padrão)",
     "fastquit.config.performance.backgroundPriority.10": "10 (Máximo)",
     "fastquit.config.compat": "Compatibilidade com Mods",
-    "fastquit.config.compat.allowMultipleServers": "Permitir vários Mundos em execução",
+    "fastquit.config.compat.allowMultipleServers": "Permitir vários mundos em execução",
     "fastquit.config.compat.allowMultipleServers.description": "Quando esta opção estiver habilitada, você pode entrar em um novo mundo enquanto o antigo ainda estiver sendo salvo.\nÉ seguro fazer isso no Minecraft vanilla, mas alguns mods podem ter problemas quando 2 servidores são executados ao mesmo tempo.",
     "fastquit.config.compat.allowMultipleServers.disabledForCompat": "§cEsta opção está desabilitada para evitar problemas com os seguintes mods:\n%s",
     "text.autoconfig.fastquit.category.default": "Geral",
@@ -35,6 +35,6 @@
     "text.autoconfig.fastquit.category.compat": "Compatibilidade com Mods",
     "text.autoconfig.fastquit.option.allowMultipleServers": "Permitir vários Mundos em execução",
     "text.autoconfig.fastquit.option.allowMultipleServers.@Tooltip": "Quando esta opção estiver habilitada, você pode entrar em um novo mundo enquanto o antigo ainda estiver sendo salvo.\nÉ seguro fazer isso no Minecraft vanilla, mas alguns mods podem ter problemas quando 2 servidores são executados ao mesmo tempo.",
-    "fastquit.modmenu.summaryTranslation.fastquit": "Retorne à Tela de Título enquanto um mundo ainda estiver sendo salvo!",
-    "fastquit.modmenu.descriptionTranslation.fastquit": "Este mod permite que você retorne para a Tela de Título mais cedo enquanto seu mundo ainda está sendo salvo em segundo plano."
+    "fastquit.modmenu.summaryTranslation.fastquit": "Retorne à tela inicial enquanto um mundo ainda estiver sendo salvo!",
+    "fastquit.modmenu.descriptionTranslation.fastquit": "Este mod permite que você retorne para a tela inicial mais cedo enquanto seu mundo ainda está sendo salvo em segundo plano."
 }
