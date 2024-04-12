@@ -1,0 +1,20 @@
+{
+  "datapackdownloader.title": "Install Datapacks",
+  "datapackdownloader.download": "Download Datapacks",
+  "datapackdownloader.download.warning": "It only adds the datapacks in the folder, install them in the 'Data Packs' menu.",
+  "datapackdownloader.field.search.datapack": "Search datapacks",
+  "datapackdownloader.field.search.world": "Search worlds",
+  "datapackdownloader.button.search": "Search",
+  "datapackdownloader.button.results": "More results",
+  "datapackdownloader.button.back": "Back",
+  "datapackdownloader.label.search.worlds": "Search for worlds",
+  "datapackdownloader.label.search.datapacks": "Search for datapacks",
+  "datapackdownloader.label.results": "Results : %d",
+  "datapackdownloader.narration.world": "Datapack World List",
+  "datapackdownloader.narration.datapack": "Datapack List",
+  "datapackdownloader.button.datapack.uninstall": "Uninstall",
+  "datapackdownloader.button.datapack.install": "Install",
+  "datapackdownloader.error.datapack.world": "No World Selected!",
+  "datapackdownloader.error.datapack.result": "No Results Found!",
+  "datapackdownloader.error.datapackinfo.datapack": "No Datapack Selected!"
+}

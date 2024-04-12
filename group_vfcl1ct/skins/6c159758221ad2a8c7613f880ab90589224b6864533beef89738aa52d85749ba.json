@@ -1,0 +1,23 @@
+{
+  "openmcskins.command.added": "§a+ %s",
+  "openmcskins.command.removed": "§c- %s",
+  "openmcskins.command.list": "Configured hosts:",
+  "openmcskins.command.moved": "A host was moved from %d to %d successfully.",
+  "openmcskins.options.title": "OpenMCSkins options",
+  "openmcskins.category.general": "General",
+  "openmcskins.option.cacheTextures": "Texture caching",
+  "openmcskins.option.verboseLogs": "Verbose logs",
+  "openmcskins.option.loaderTimeout": "Loader timeout",
+  "openmcskins.option.refreshOnConfigSave": "Refresh on config save",
+  "openmcskins.option.uuidMode": "Refresh UUID",
+  "openmcskins.option.uuidMode.never": "Never",
+  "openmcskins.option.uuidMode.always": "Always",
+  "openmcskins.option.uuidMode.offline": "When offline",
+  "openmcskins.command.noPreset": "No preset found.",
+  "openmcskins.command.listEntry": "%d§7. %s",
+  "openmcskins.command.invalidFileFormat": "Invalid input file format.",
+  "openmcskins.command.unableToRefresh": "Unable to refresh skins.",
+  "openmcskins.command.cleanupAlready": "The cache is already clearing.",
+  "openmcskins.command.cleanupSuccess": "Cache successfully cleared.",
+  "openmcskins.command.cleanupFailed": "Unable to clear cache: %s"
+}
