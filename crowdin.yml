@@ -5435,6 +5435,35 @@ files:
       - zh-CN
       - zh-HK
       - zh-TW
+  - source: /group_uzjcvg9/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - eo
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fr
+      - fr-CA
+      - ja
+      - ko
+      - nl
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - sv-SE
+      - zh-CN
+      - zh-HK
   - source: /group_21j33r0/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

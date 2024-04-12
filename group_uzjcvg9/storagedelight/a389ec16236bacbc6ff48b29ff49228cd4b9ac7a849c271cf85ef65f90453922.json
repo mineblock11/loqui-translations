@@ -1,0 +1,34 @@
+{
+  "container.storagedelight.drawer": "Drawer",
+  "container.storagedelight.glass_cabinet": "Glass Cabinet",
+  "container.storagedelight.default_cabinet": "Cabinet",
+
+  "block.storagedelight.cherry_cabinet": "Cherry Cabinet",
+  "block.storagedelight.bamboo_cabinet": "Bamboo Cabinet",
+
+  "block.storagedelight.oak_drawer": "Oak Drawer",
+  "block.storagedelight.birch_drawer": "Birch Drawer",
+  "block.storagedelight.spruce_drawer": "Spruce Drawer",
+  "block.storagedelight.cherry_drawer": "Cherry Drawer",
+  "block.storagedelight.jungle_drawer": "Jungle Drawer",
+  "block.storagedelight.acacia_drawer": "Acacia Drawer",
+  "block.storagedelight.dark_oak_drawer": "Dark Oak Drawer",
+  "block.storagedelight.mangrove_drawer": "Mangrove Drawer",
+  "block.storagedelight.crimson_drawer": "Crimson Drawer",
+  "block.storagedelight.warped_drawer": "Warped Drawer",
+  "block.storagedelight.bamboo_drawer": "Bamboo Drawer",
+
+  "block.storagedelight.glass_oak_cabinet": "Glass Oak Cabinet",
+  "block.storagedelight.glass_birch_cabinet": "Glass Birch Cabinet",
+  "block.storagedelight.glass_spruce_cabinet": "Glass Spruce Cabinet",
+  "block.storagedelight.glass_cherry_cabinet": "Glass Cherry Cabinet",
+  "block.storagedelight.glass_jungle_cabinet": "Glass Jungle Cabinet",
+  "block.storagedelight.glass_acacia_cabinet": "Glass Acacia Cabinet",
+  "block.storagedelight.glass_dark_oak_cabinet": "Glass Dark Oak Cabinet",
+  "block.storagedelight.glass_mangrove_cabinet": "Glass Mangrove Cabinet",
+  "block.storagedelight.glass_crimson_cabinet": "Glass Crimson Cabinet",
+  "block.storagedelight.glass_warped_cabinet": "Glass Warped Cabinet",
+  "block.storagedelight.glass_bamboo_cabinet": "Glass Bamboo Cabinet",
+
+  "itemGroup.storagedelight": "Storage Delight"
+}
