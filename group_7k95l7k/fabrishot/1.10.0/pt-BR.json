@@ -6,7 +6,7 @@
   "fabrishot.config.override_screenshot_key": "Sobrepor as capturas de tela normais com as do Fabrishot",
   "fabrishot.config.hide_hud": "Ocultar a interface automaticamente",
   "fabrishot.config.save_file": "Salvar a captura de tela",
-  "fabrishot.config.disable_gui_scaling": "Desativar o ajuste da Interface",
+  "fabrishot.config.disable_gui_scaling": "Desativar o ajuste da interface",
   "fabrishot.config.width": "Largura da captura de tela",
   "fabrishot.config.height": "Altura da captura de tela",
   "fabrishot.config.delay": "Atraso de captura",
