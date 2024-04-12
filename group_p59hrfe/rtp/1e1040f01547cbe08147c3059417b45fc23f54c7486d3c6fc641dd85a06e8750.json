@@ -1,0 +1,6 @@
+{
+  "gamerule.doCountSpawnRegion.description": "Select to count or not the spawn region in the rtp settings. When disabled, you will be able to rtp in 0,0",
+  "gamerule.do_count_spawn_region": "Count Spawn Region?",
+  "gamerule.do_count_spawn_region.description": "Select to count or not the spawn region in the rtp settings. When disabled, you will be able to rtp in 0,0",
+  "gamerule.doCountSpawnRegion": "Count Spawn Region?"
+}
