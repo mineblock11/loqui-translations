@@ -1,0 +1,12 @@
+{
+  "block.randomium.randomium_ore": "Рандомиевая руда",
+  "block.randomium.randomium_block": "Рандомиевый блок",
+  "block.randomium.randomium_stabilized": "Стабилизированный рандомий",
+  "item.randomium.randomium": "Рандомий",
+  "message.randomium.description": "Нестабильный, изменяет форму при крафте",
+  "block.randomium.randomium_ore_end": "Рандомиевая руда Энда",
+  "block.randomium.randomium_ore_deepslate": "Рандомиеносный глубинный сланец",
+  "entity.randomium.moving_block": "Рандомиевая руда Энда",
+  "item.randomium.any_item": "[Любой предмет]",
+  "randomium.jei.duplicate": "Дубликаты"
+}
