@@ -1,0 +1,15 @@
+{
+  "enchant_icon.key": "Enchant Icon",
+  "enchant_icon.key.toggle": "Toggle Enchantments Icon",
+
+  "enchant_icon.config": "Enchant Icon Config",
+  "enchant_icon.config.general": "General",
+  "enchant_icon.config.background_type": "Background Type",
+  "enchant_icon.config.background_type.tooltip": "Type of background texture to use. ",
+  "enchant_icon.config.level_mark_type": "Level Mark Type",
+  "enchant_icon.config.level_mark_type.tooltip": "Type of level mark texture to use. ",
+  "enchant_icon.config.scope_for_gui_like": "Applying Scope For GUI-like Scenario",
+  "enchant_icon.config.scope_for_gui_like.tooltip": "Scope in which this mod should display enchantment icons, when in a GUI-like scenario, for example inventory or item frame.",
+  "enchant_icon.config.scope_for_hand_held": "Applying Scope For Hand-held Scenario",
+  "enchant_icon.config.scope_for_hand_held.tooltip": "Scope in which this mod should display enchantment icons, when the item is hand-held by someone."
+}
