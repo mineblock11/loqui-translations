@@ -1,0 +1,12 @@
+{
+	"key.categories.fakerlib": "FakerLib",
+	"fakerlib.toggleTrails": "Toggle Patreon Trails",
+	"fakerlib.toggleWings": "Toggle Patreon Wings",
+	"fakerlib.toggleTrailsOn": "Toggle Patreon Trails on",
+	"fakerlib.toggleWingsOn": "Toggle Patreon Wings on",
+	"fakerlib.toggleTrailsOff": "Toggle Patreon Trails off",
+	"fakerlib.toggleWingsOff": "Toggle Patreon Wings off",
+	"fakerlib.cmd.serialize_success": "Saved %s to %s.",
+	"fakerlib.cmd.serialize_failure": "An error occured during the serialization process.",
+	"fakerlib.cmd.not_found": "%s was not found."
+}

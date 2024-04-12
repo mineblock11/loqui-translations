@@ -2505,6 +2505,16 @@ files:
       - tr
       - uk
       - zh-CN
+  - source: /group_bs0j7kz/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
   - source: /group_lb9ucjl/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

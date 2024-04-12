@@ -1,0 +1,183 @@
+{
+    "item.modifiers.both_hands": "When Held:",
+
+    "zenith_attributes.adv.base": "[Entity: %s | Item: %s]",
+    "zenith_attributes.adv.sharpness_bonus": "[Sharp: +%s]",
+
+	"zenith_attributes.value.flat": "%s",
+	"zenith_attributes.value.percent": "%s%%",
+
+	"zenith_attributes.value.boolean.enabled": "Enabled",
+	"zenith_attributes.value.boolean.disabled": "Disabled",
+	"zenith_attributes.value.boolean.enable": "Enables",
+	"zenith_attributes.value.boolean.force_disable": "Forcibly Disables",
+	"zenith_attributes.value.boolean.invalid": "Invalid",
+
+	"zenith_attributes.modifier.plus": "+%s %s",
+	"zenith_attributes.modifier.take": "-%s %s",
+	"zenith_attributes.modifier.bool": "%s %s",
+
+	"zenith_attributes.gui.attributes": "Attributes",
+	"zenith_attributes.gui.base": "Base: %s",
+	"zenith_attributes.gui.min": "Min: %s",
+	"zenith_attributes.gui.max": "Max: %s",
+	"zenith_attributes.gui.modifiers": "Modifiers",
+	"zenith_attributes.gui.addition": "Addition: %s",
+	"zenith_attributes.gui.multiply_base": "Multiply Base: %s",
+	"zenith_attributes.gui.multiply_total": "Multiply Total: %s",
+	"zenith_attributes.gui.press_shift": "Hold Shift for more info.",
+	"zenith_attributes.gui.current": "Current: %s",
+	"zenith_attributes.gui.show_attributes": "Show Attributes",
+
+	"attribute.name.generic.armor.desc": "Increases physical damage reduction.",
+	"attribute.name.generic.armor_toughness.desc": "Reduces the effectiveness of enemy armor reduction.",
+	"attribute.name.generic.attack_damage.desc": "Physical damage dealt with a fully charged attack.",
+	"attribute.name.generic.attack_knockback.desc": "How far your melee attacks knock back foes, in half-blocks.",
+	"attribute.name.generic.attack_speed.desc": "How many fully charged attacks you can execute per second.",
+	"attribute.name.generic.knockback_resistance.desc": "How much knockback you ignore.",
+	"attribute.name.generic.luck.desc": "Increases the likelihood of good things happening.",
+	"attribute.name.generic.max_health.desc": "How many hit points you can have.",
+	"attribute.name.generic.movement_speed.desc": "Movement speed while walking.",
+
+	"porting_lib.entity_reach.desc": "How far you can interact with entities, in blocks.",
+	"porting_lib.entity_gravity.desc": "Acceleration towrds the ground, in blocks/s²",
+	"porting_lib.name_tag_distance.desc": "How far away another player must be to see your name.",
+	"porting_lib.block_reach.desc": "How far you can interact with blocks, in blocks.",
+	"porting_lib.step_height_addition.desc": "How many blocks you may step up without jumping.",
+	"porting_lib.swim_speed.desc": "How fast you swim, relative to normal.",
+
+	"zenith_attributes:draw_speed": "Draw Speed",
+	"zenith_attributes:draw_speed.desc": "How fast you draw ranged weapons, such as bows, crossbows, or tridents.",
+
+	"zenith_attributes:crit_chance": "Crit Chance",
+	"zenith_attributes:crit_chance.desc": "The chance any damage you deal critically strikes, dealing extra damage based on your Crit Damage.",
+
+	"zenith_attributes:crit_damage": "Crit Damage",
+	"zenith_attributes:crit_damage.desc": "Damage multiplier for critical hits, including vanilla jump crits.",
+
+	"zenith_attributes:cold_damage": "Cold Damage",
+	"zenith_attributes:cold_damage.desc": "Bonus magic damage applied on melee attacks, and slows enemies hit.",
+
+	"zenith_attributes:fire_damage": "Fire Damage",
+	"zenith_attributes:fire_damage.desc": "Bonus magic damage applied on melee attacks, and burns enemies hit.",
+
+	"zenith_attributes:life_steal": "Life Steal",
+	"zenith_attributes:life_steal.desc": "Percentage of post-mitigation damage which will heal you.",
+
+	"zenith_attributes:current_hp_damage": "Current HP Damage",
+	"zenith_attributes:current_hp_damage.desc": "Bonus physical damage applied on melee attacks, based on the target's health.",
+
+	"zenith_attributes:overheal": "Overheal",
+	"zenith_attributes:overheal.desc": "Percentage of post-mitigation damage which will grant you an absorption shield.",
+
+	"zenith_attributes:ghost_health": "Ghost Health",
+	"zenith_attributes:ghost_health.desc": "Not Yet Implemented",
+
+	"zenith_attributes:mining_speed": "Mining Speed",
+	"zenith_attributes:mining_speed.desc": "How fast you mine blocks, compared to normal.",
+
+	"zenith_attributes:arrow_damage": "Arrow Damage",
+	"zenith_attributes:arrow_damage.desc": "Damage multiplier for arrows. Tridents are arrows.",
+
+	"zenith_attributes:arrow_velocity": "Arrow Velocity",
+	"zenith_attributes:arrow_velocity.desc": "Speed multiplier for arrows. Arrow damage scales with velocity.",
+
+	"zenith_attributes:experience_gained": "Experience Gained",
+	"zenith_attributes:experience_gained.desc": "Multiplier on how much experience you gain from breaking blocks and killing mobs.",
+
+	"zenith_attributes:healing_received": "Healing Received",
+	"zenith_attributes:healing_received.desc": "Multiplier on all incoming healing.",
+
+	"zenith_attributes:armor_pierce": "Armor Pierce",
+	"zenith_attributes:armor_pierce.desc": "Flat reduction to the target's armor value.",
+
+	"zenith_attributes:armor_shred": "Armor Shred",
+	"zenith_attributes:armor_shred.desc": "Percentage reduction to the target's armor value.",
+
+	"zenith_attributes:prot_pierce": "Protection Pierce",
+	"zenith_attributes:prot_pierce.desc": "Flat reduction to the target's protection point total.",
+
+	"zenith_attributes:prot_shred": "Protection Shred",
+	"zenith_attributes:prot_shred.desc": "Percentage reduction to the target's protection point total.",
+
+	"zenith_attributes:dodge_chance": "Dodge Chance",
+	"zenith_attributes:dodge_chance.desc": "Chance to dodge a melee attack or a projectile.",
+
+	"zenith_attributes:elytra_flight": "Elytra Flight",
+	"zenith_attributes:elytra_flight.desc": "If you can fly as if wearing an Elytra.",
+
+	"zenith_attributes:creative_flight": "Creative Flight",
+	"zenith_attributes:creative_flight.desc": "If you can fly as if in Creative Mode.",
+
+	"comment_id": "MobFx - descriptions are duplicated for JEED support.",
+
+    "effect.zenith_attributes.knowledge": "Ancient Knowledge",
+    "effect.zenith_attributes.knowledge.desc": "Increases experience gained from kills and blocks.",
+    "effect.zenith_attributes.knowledge.description": "Increases experience gained from kills and blocks.",
+
+    "effect.zenith_attributes.sundering": "Sundering",
+    "effect.zenith_attributes.sundering.desc": "Increases damage received.",
+    "effect.zenith_attributes.sundering.description": "Increases damage received.",
+
+    "effect.zenith_attributes.vitality": "Bursting Vitality",
+    "effect.zenith_attributes.vitality.desc": "Increases healing received.",
+    "effect.zenith_attributes.vitality.description": "Increases healing received.",
+
+    "effect.zenith_attributes.grievous": "Grievous Wounds",
+    "effect.zenith_attributes.grievous.desc": "Decreases healing received.",
+    "effect.zenith_attributes.grievous.description": "Decreases healing received.",
+
+    "effect.zenith_attributes.bleeding": "Bleeding",
+    "effect.zenith_attributes.bleeding.desc": "Inflicts damage every two seconds.",
+    "effect.zenith_attributes.bleeding.description": "Inflicts damage every two seconds.",
+
+    "effect.zenith_attributes.detonation": "Flaming Detonation",
+    "effect.zenith_attributes.detonation.desc": "On expiry, inflicts damage based on remaining fire ticks.",
+    "effect.zenith_attributes.detonation.description": "On expiry, inflicts damage based on remaining fire ticks.",
+
+	"effect.zenith_attributes.flying": "Flying",
+	"effect.zenith_attributes.flying.desc": "Grants Creative Flight.",
+	"effect.zenith_attributes.flying.description": "Grant Creative Flight.",
+
+    "effect.minecraft.night_vision.desc": "Allows you to see in the dark.",
+    "effect.minecraft.invisibility.desc": "Makes you invisible, excluding equipment.",
+    "effect.minecraft.jump_boost.desc": "Increases jump height.",
+    "effect.minecraft.fire_resistance.desc": "Makes you immune to fire damage.",
+    "effect.minecraft.water_breathing.desc": "Causes you to be unable to drown.",
+    "effect.minecraft.instant_health.desc": "Instantly restores a bit of your health.",
+    "effect.minecraft.instant_damage.desc": "Instantly causes a bit of magic damage.",
+    "effect.minecraft.poison.desc": "Periodically inflicts non-lethal damage.",
+    "effect.minecraft.regeneration.desc": "Causes you to regenerate health over time.",
+
+    "comment_id": "Damage Sources",
+
+    "death.attack.zenith_attributes:bleeding": "%1$s bled out",
+    "death.attack.zenith_attributes:bleeding.item": "%1$s bled out due to %2$s's %3$s",
+    "death.attack.zenith_attributes:bleeding.player": "%1$s bled out whilst trying to escape %2$s",
+
+    "death.attack.zenith_attributes:detonation": "%1$s was detonated by flame",
+    "death.attack.zenith_attributes:detonation.item": "%1$s was detonated by flame",
+    "death.attack.zenith_attributes:detonation.player": "%1$s was detonated by flame",
+
+    "death.attack.zenith_attributes:current_hp_damage": "%1$s was struck down",
+    "death.attack.zenith_attributes:current_hp_damage.item": "%1$s was struck down by %2$s using %3$s",
+    "death.attack.zenith_attributes:current_hp_damage.player": "%1$s was struck down whilst fighting %2$s",
+
+    "death.attack.zenith_attributes:fire_damage": "%1$s was scorched to death",
+    "death.attack.zenith_attributes:fire_damage.item": "%1$s was scorched to death by %2$s using %3$s",
+    "death.attack.zenith_attributes:fire_damage.player": "%1$s was scorched to death whilst fighting %2$s",
+
+    "death.attack.zenith_attributes:cold_damage": "%1$s was frozen to death",
+    "death.attack.zenith_attributes:cold_damage.item": "%1$s was frozen to death by %2$s using %3$s",
+    "death.attack.zenith_attributes:cold_damage.player": "%1$s was frozen to death whilst fighting %2$s",
+
+	"comment_id": "Temporary localization hell",
+	"porting_lib.swim_speed": "Swim Speed",
+	"porting_lib.name_tag_distance": "Nametag Render Distance",
+	"porting_lib.entity_gravity": "Gravity",
+	"porting_lib.step_height": "Step Height",
+	"porting_lib.swimSpeed": "Swim Speed",
+	"porting_lib.nameTagDistance": "Nametag Render Distance",
+	"porting_lib.entityGravity": "Gravity",
+	"porting_lib.stepHeight": "Step Height"
+}
