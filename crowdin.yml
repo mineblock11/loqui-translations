@@ -3879,6 +3879,21 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_wshsp9q/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - es-AR
+      - es-CL
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fr
+      - hu
+      - pt-BR
+      - ru
   - source: /group_83you42/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
