@@ -1,0 +1,141 @@
+{
+
+    "command.gemblaze.search.invalid_type"          : "Invalid type: %s",
+    "command.gemblaze.search.invalid_type.detailed" : "Unknown instruction block type `%s` found.",
+    "command.gemblaze.search.success.clear"         : "§aCleared code search.",
+    "command.gemblaze.search.success.set"           : "§aHighlighting code matching search.",
+
+
+    "yacl3.config.gemblaze.title" : "GemBlaze",
+
+    "yacl3.config.gemblaze:config.category.chat" : "Chat",
+        "yacl3.config.gemblaze:config.chatAutoSetMode"      : "Chat Mode",
+        "yacl3.config.gemblaze:config.chatAutoSetMode.desc" : "Automatically switch to a certain chat mode when entering a plot.",
+            "yacl3.config.enum.ChatMode.dont_change" : "§eDont Change",
+            "yacl3.config.enum.ChatMode.dnd"         : "§cDo Not Disturb",
+            "yacl3.config.enum.ChatMode.none"        : "§cNone",
+            "yacl3.config.enum.ChatMode.local"       : "§7Local",
+            "yacl3.config.enum.ChatMode.global"      : "§7Node",
+        "yacl3.config.gemblaze:config.category.chat.group.colours"      : "Colours",
+        "yacl3.config.gemblaze:config.category.chat.group.colours.desc" : "Modify colours of certain incoming chat messages.",
+            "yacl3.config.gemblaze:config.chatColoursNameDefault"      : "Player Name Colour §7(Default)",
+            "yacl3.config.gemblaze:config.chatColoursNameDefault.desc" : "The colour to use for player names.",
+            "yacl3.config.gemblaze:config.chatColoursNameInrange"      : "Player Name Colour §7(In Range)",
+            "yacl3.config.gemblaze:config.chatColoursNameInrange.desc" : "The colour to use for player names of players who are in your render distance.",
+        "yacl3.config.gemblaze:config.category.chat.group.hideTags"      : "Hide Chat Tags",
+        "yacl3.config.gemblaze:config.category.chat.group.hideTags.desc" : "Control displayed tags prefixing player names in incoming chat messages.",
+            "yacl3.config.gemblaze:config.chatHideTagsVIP"        : "VIP",
+            "yacl3.config.gemblaze:config.chatHideTagsVIP.desc"   : "Hide VIP tags in chat messages when in build/dev/spawn.",
+            "yacl3.config.gemblaze:config.chatHideTagsRanks"      : "Ranks",
+            "yacl3.config.gemblaze:config.chatHideTagsRanks.desc" : "Hide rank tags in chat messages when in build/dev/spawn.",
+        "yacl3.config.gemblaze:config.category.chat.group.suppress"      : "Suppress Messages",
+        "yacl3.config.gemblaze:config.category.chat.group.suppress.desc" : "Suppress certain incoming chat messages.",
+            "yacl3.config.gemblaze:config.chatSuppressPlotAds"      : "Plot Ads",
+            "yacl3.config.gemblaze:config.chatSuppressPlotAds.desc" : "Suppress plot ads in chat.
+
+§7Will not suppress the plot ad sound.",
+            "yacl3.config.gemblaze:config.chatSuppressPlotBoosts"      : "Plot Boosts",
+            "yacl3.config.gemblaze:config.chatSuppressPlotBoosts.desc" : "Suppress plot boosts in chat.
+
+§7Will not suppress the plot boost sound.",
+
+        "yacl3.config.gemblaze:config.category.interface" : "Interface",
+        "yacl3.config.gemblaze:config.interfaceHideSidebar"        : "Hide DiamondFire Sidebar",
+        "yacl3.config.gemblaze:config.interfaceHideSidebar.desc"   : "Hide the sidebar when at spawn or in build/dev mode.",
+        "yacl3.config.gemblaze:config.interfaceCpuOverlay"      : "CPU Overlay",
+        "yacl3.config.gemblaze:config.interfaceCpuOverlay.desc" : "Enable the CPU overlay when entering dev mode.",
+        "yacl3.config.gemblaze:config.interfaceCpuOverlayPosition"      : "CPU Overlay Position",
+        "yacl3.config.gemblaze:config.interfaceCpuOverlayPosition.desc" : "Where to display the current plot CPU usage.",
+            "yacl3.config.enum.CpuOverlayPosition.actionbar"   : "Actionbar",
+            "yacl3.config.enum.CpuOverlayPosition.bottom_left"  : "Bottom Left",
+            "yacl3.config.enum.CpuOverlayPosition.bottom_right" : "Bottom Right",
+            "yacl3.config.enum.CpuOverlayPosition.top_left"     : "Top Left",
+            "yacl3.config.enum.CpuOverlayPosition.top_right"    : "Top Right",
+        "yacl3.config.gemblaze:config.interfaceInstructionDocs"      : "Code Documentation",
+        "yacl3.config.gemblaze:config.interfaceInstructionDocs.desc" : "Display documentation about the current opened code block.",
+
+    "yacl3.config.gemblaze:config.category.development" : "Development",
+        "yacl3.config.gemblaze:config.developmentCompactInventory"      : "Compact Inventory",
+        "yacl3.config.gemblaze:config.developmentCompactInventory.desc" : "Switch to the compact inventory layout when entering dev mode.",
+        "yacl3.config.gemblaze:config.developmentAutoWorldeditWandBuild"      : "Worldedit Wand §7(Build)",
+        "yacl3.config.gemblaze:config.developmentAutoWorldeditWandBuild.desc" : "Automatically get the Worldedit wand when entering build mode.",
+        "yacl3.config.gemblaze:config.developmentAutoWorldeditWandDev"      : "Worldedit Wand §7(Dev)",
+        "yacl3.config.gemblaze:config.developmentAutoWorldeditWandDev.desc" : "Automatically get the Worldedit wand when entering dev mode.",
+        "yacl3.config.gemblaze:config.developmentAutoEditValues"      : "Auto Edit Values",
+        "yacl3.config.gemblaze:config.developmentAutoEditValues.desc" : "Automatically open the edit menu when sneak-attack clicking a value.",
+        "yacl3.config.gemblaze:config.developmentNightVision"      : "Night Vision",
+        "yacl3.config.gemblaze:config.developmentNightVision.desc" : "Automatically enable night vision when entering build/dev mode.
+
+§7Can be toggled using §n/nightvis§r§7.",
+        "yacl3.config.gemblaze:config.developmentSearchColour"      : "Search Colour",
+        "yacl3.config.gemblaze:config.developmentSearchColour.desc" : "The highlight colour on signs when using §n/search§r.",
+        "yacl3.config.gemblaze:config.category.development.group.autoFlags"      : "Auto Flags",
+        "yacl3.config.gemblaze:config.category.development.group.autoFlags.desc" : "Automatically set flags in commands.",
+            "yacl3.config.gemblaze:config.developmentAutoFlagCodespaceCompact"      : "Codespace Spacing",
+            "yacl3.config.gemblaze:config.developmentAutoFlagCodespaceCompact.desc" : "The default spacing of newly added codespaces.
+
+§7Manual switches:
+§8  §7Compact: §f§n-c
+§8  §7Sparse: §f§n-s",
+                "yacl3.config.enum.CodespaceSpacing.compact" : "Compact",
+                "yacl3.config.enum.CodespaceSpacing.sparse"  : "Sparse",
+            "yacl3.config.gemblaze:config.developmentAutoFlagCodespaceStyle"      : "Codespace Style",
+            "yacl3.config.gemblaze:config.developmentAutoFlagCodespaceStyle.desc" : "The default style of newly added codespaces.
+
+§7Manual switches:
+§8  §7Line: §f§n-l
+§8  §7Double: §f§n-d
+§8  §7Full: §f§n-f",
+                "yacl3.config.enum.CodespaceStyle.line"   : "Line",
+                "yacl3.config.enum.CodespaceStyle.double" : "Sparse",
+                "yacl3.config.enum.CodespaceStyle.full"   : "Full",
+            "yacl3.config.gemblaze:config.developmentAutoFlagCodespaceColour"      : "Codespace Colour",
+            "yacl3.config.gemblaze:config.developmentAutoFlagCodespaceColour.desc" : "The default colour of newly added codespaces.
+
+§7Manual switches:
+§8  §7Clear: §f§nclear",
+                "yacl3.config.enum.CodespaceColour.clear"      : "§8Clear",
+                "yacl3.config.enum.CodespaceColour.white"      : "§fWhite",
+                "yacl3.config.enum.CodespaceColour.orange"     : "§6Orange",
+                "yacl3.config.enum.CodespaceColour.magenta"    : "§dMagenta",
+                "yacl3.config.enum.CodespaceColour.light_blue" : "§bLight Blue",
+                "yacl3.config.enum.CodespaceColour.yellow"     : "§eYellow",
+                "yacl3.config.enum.CodespaceColour.lime"       : "§aLime",
+                "yacl3.config.enum.CodespaceColour.pink"       : "§dPink",
+                "yacl3.config.enum.CodespaceColour.grey"       : "§8Grey",
+                "yacl3.config.enum.CodespaceColour.light_grey" : "§7Light Grey",
+                "yacl3.config.enum.CodespaceColour.cyan"       : "§3Cyan",
+                "yacl3.config.enum.CodespaceColour.purple"     : "§5Purple",
+                "yacl3.config.enum.CodespaceColour.blue"       : "§9Blue",
+                "yacl3.config.enum.CodespaceColour.brown"      : "§4Brown",
+                "yacl3.config.enum.CodespaceColour.green"      : "§2Green",
+                "yacl3.config.enum.CodespaceColour.red"        : "§cRed",
+                "yacl3.config.enum.CodespaceColour.black"      : "§8Black",
+                "yacl3.config.enum.CodespaceColour.tinted"     : "§7Tinted",
+            "yacl3.config.gemblaze:config.developmentAutoFlagVariableScope"      : "Variable Scope",
+            "yacl3.config.gemblaze:config.developmentAutoFlagVariableScope.desc" : "The default scope of newly created variables.
+
+§7Manual switches:
+§8  §7Line: §9§n-i
+§8  §7Local: §a§n-l
+§8  §7Game: §7§n-g
+§8  §7Save: §e§n-s",
+                "yacl3.config.enum.VariableScope.line"    : "§9Line",
+                "yacl3.config.enum.VariableScope.local"   : "§aLocal",
+                "yacl3.config.enum.VariableScope.unsaved" : "§7Game",
+                "yacl3.config.enum.VariableScope.saved"   : "§eSave",
+        "yacl3.config.gemblaze:config.category.development.group.beta"      : "§4Beta",
+            "yacl3.config.gemblaze:config.developmentCompactCoder"      : "Compact Coder",
+            "yacl3.config.gemblaze:config.developmentCompactCoder.desc" : "Remove stone blocks following code blocks.
+
+§e🗘 You will need to re-enter dev mode for this change to take effect.
+
+§c⚠ §lBETA FEATURE
+   §4ᴇxᴘᴇᴄᴛ ʙᴜɢs",
+
+    "yacl3.config.gemblaze:config.category.optimisation" : "Optimisation",
+        "yacl3.config.gemblaze:config.optimisationChesthideDistance"      : "Chest Hide Distance",
+        "yacl3.config.gemblaze:config.optimisationChesthideDistance.desc" : "Maximum range to display chests (in blocks).",
+        "yacl3.config.gemblaze:config.optimisationChesthideCodespaces"      : "Chest Hide Codespaces",
+        "yacl3.config.gemblaze:config.optimisationChesthideCodespaces.desc" : "Maximum vertical range to display chests in the code area (in codespaces)."
+}
