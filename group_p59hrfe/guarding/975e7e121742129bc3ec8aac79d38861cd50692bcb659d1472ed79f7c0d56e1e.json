@@ -1,0 +1,20 @@
+{
+  "item.guarding.netherite_shield": "Netherite Shield",
+  "item.modifiers.shielding": "When Shielding:",
+  "item.modifiers.netherite_shield": "+2 Knockback Resistance",
+  "enchantment.guarding.barbed": "Barbed",
+  "enchantment.guarding.pummeling": "Pummeling",
+  "enchantment.guarding.retribution": "Retribution",
+  "subtitle.guarding.item.shield.parry": "Shield parries",
+  "subtitle.guarding.item.netherite_shield.block": "Shield blocks",
+  "subtitle.guarding.item.netherite_shield.break": "Shield breaks",
+  "subtitle.guarding.item.netherite_shield.parry": "Shield parries",
+  "subtitle.guarding.item.netherite_shield.equip": "Gear equips",
+
+  "advancements.guarding.story.decorate_shield_with_banner.title": "Shielding with Style!",
+  "advancements.guarding.story.decorate_shield_with_banner.desc": "Decorate a shield with a banner.",
+  "advancements.guarding.story.kill_mob_with_own_arrow.title": "Parry This, You Casual!",
+  "advancements.guarding.story.kill_mob_with_own_arrow.desc": "Kill a Skeleton or Pillager by parrying their own arrow.",
+  "advancements.guarding.nether.obtain_netherite_shield.title": "On Guard!",
+  "advancements.guarding.nether.obtain_netherite_shield.desc": "Use a Netherite Ingot to upgrade a shield."
+}
