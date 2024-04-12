@@ -1,7 +1,7 @@
 {
   "config.sit.empty": "Vide",
   "config.sit.restrictive": "Restrictif",
-  "config.sit.none": "None",
+  "config.sit.none": "Aucun",
   "config.sit.category.general": "Général",
   "config.sit.category.general.tooltip": "Paramètres généraux",
   "config.sit.category.main_hand": "Main Hand",
