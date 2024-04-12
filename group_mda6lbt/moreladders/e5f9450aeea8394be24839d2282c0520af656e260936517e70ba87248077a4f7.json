@@ -1,0 +1,26 @@
+{
+  "block.minecraft.ladder": "Oak Ladder",
+
+  "block.moreladders.spruce_ladder": "Spruce Ladder",
+  "block.moreladders.birch_ladder": "Birch Ladder",
+  "block.moreladders.dark_oak_ladder": "Dark Oak Ladder",
+  "block.moreladders.jungle_ladder": "Jungle Ladder",
+  "block.moreladders.acacia_ladder": "Acacia Ladder",
+  "block.moreladders.crimson_ladder": "Crimson Ladder",
+  "block.moreladders.warped_ladder": "Warped Ladder",
+  "block.moreladders.chain_ladder": "Chain Ladder",
+  "block.moreladders.iron_ladder": "Iron Ladder",
+  "block.moreladders.cherry_ladder": "Cherry Ladder",
+  "block.moreladders.bamboo_ladder": "Bamboo Ladder",
+  "block.moreladders.mangrove_ladder": "Mangrove Ladder",
+  "block.moreladders.gold_ladder": "Golden Ladder",
+  "block.moreladders.copper_ladder": "Copper Ladder",
+  "block.moreladders.exposed_copper_ladder": "Exposed Copper Ladder",
+  "block.moreladders.weathered_copper_ladder": "Weathered Copper Ladder",
+  "block.moreladders.oxidized_copper_ladder": "Oxidized Copper Ladder",
+  "block.moreladders.waxed_copper_ladder": "Waxed Copper Ladder",
+  "block.moreladders.waxed_exposed_copper_ladder": "Waxed Exposed Copper Ladder",
+  "block.moreladders.waxed_weathered_copper_ladder": "Waxed Weathered Copper Ladder",
+  "block.moreladders.waxed_oxidized_copper_ladder": "Waxed Oxidized Copper Ladder",
+  "itemgroup.more-ladders": "More Ladders"
+}

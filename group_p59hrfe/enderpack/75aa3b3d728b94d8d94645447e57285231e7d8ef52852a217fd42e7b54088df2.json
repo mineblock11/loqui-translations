@@ -1,0 +1,8 @@
+{
+  "item.enderpack.enderpack": "Ender Pack",
+  "block.enderpack.enderpack": "Ender Pack",
+  "itemGroup.enderPack": "Ender Pack",
+  "container.enderpack": "Ender Pack",
+  "key.category.enderpack.access": "Ender Pack",
+  "key.enderpack.toggle": "Open Ender Pack"
+}

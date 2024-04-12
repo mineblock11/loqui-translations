@@ -1,0 +1,9 @@
+{
+	"command.nokebab.badRegex": "Not a valid Regex format.",
+	"command.nokebab.migrate.success.literal": "%s paintings were migrated from %s to %s.",
+	"command.nokebab.migrate.success": "%s paintings were migrated.",
+	"command.nokebab.migrate.failure": "No such paintings were found.",
+	"command.nokebab.migrate.sizeError": "%s paintings could not be migrated due to size constraints.",
+	"painting.nokebab.missingno.title": "MISSINGNO.",
+	"painting.nokebab.missingno.author": "No Kebab"
+}

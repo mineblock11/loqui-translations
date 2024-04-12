@@ -1,0 +1,19 @@
+{
+  "block.labelable": "Use a Label Printer to label this block",
+  "command.labelconfig.addition.success": "%s was successfully added to the config!",
+  "command.labelconfig.removal.success": "%s was successfully removed from the config!",
+  "item.labellingcontainers.label_printer": "Label Printer",
+  "item.labellingcontainers.label_printer.gui_display_name": "Label Printer",
+  "item.labellingcontainers.label_printer.mode.copy": "Copy",
+  "item.labellingcontainers.label_printer.mode.copy.error": "You can't copy this block's label!",
+  "item.labellingcontainers.label_printer.mode.copy.success": "Successfully Copied!",
+  "item.labellingcontainers.label_printer.mode.create": "Creation",
+  "item.labellingcontainers.label_printer.paper.error": "You don't have enough paper!",
+  "item.labellingcontainers.label_printer.tooltip.description": "Uses paper to print new labels",
+  "item.labellingcontainers.label_printer.tooltip.display_item": "Icon: ",
+  "item.labellingcontainers.label_printer.tooltip.hidden": "(Press shift for more info)",
+  "item.labellingcontainers.label_printer.tooltip.label": "Label: ",
+  "item.labellingcontainers.label_printer.tooltip.mode": "Mode: ",
+  "item.labellingcontainers.label_printer.tooltip.none": "None",
+  "item.labellingcontainers.label_printer.untaggable.error": "You can't tag this block!"
+}

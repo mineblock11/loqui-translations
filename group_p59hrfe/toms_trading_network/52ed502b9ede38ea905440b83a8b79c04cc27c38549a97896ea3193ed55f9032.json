@@ -1,0 +1,46 @@
+{
+	"block.toms_trading_network.vending_machine": "Vending Machine",
+	
+	"item.toms_trading_network.tag_filter": "Matches Tag:",
+	
+	"itemGroup.toms_trading_network.tab": "Tom's Trading Network",
+	
+	"tooltip.toms_trading_network.hold_shift_for_info": "Hold SHIFT for more info.",
+	"tooltip.toms_trading_network.side.bottom": "Bottom",
+	"tooltip.toms_trading_network.side.top": "Top",
+	"tooltip.toms_trading_network.side.front": "Front",
+	"tooltip.toms_trading_network.side.left": "Left",
+	"tooltip.toms_trading_network.side.back": "Back",
+	"tooltip.toms_trading_network.side.right": "Right",
+	"tooltip.toms_trading_network.side_config0": "No Access",
+	"tooltip.toms_trading_network.side_config1": "Insert Only",
+	"tooltip.toms_trading_network.side_config2": "Extract Only",
+	"tooltip.toms_trading_network.side_config3": "Insert & Extract",
+	"tooltip.toms_trading_network.match_nbt": "Match NBT: %s",
+	"tooltip.toms_trading_network.textfield": "%s: %s",
+	"tooltip.toms_trading_network.item_count": "Item count",
+	"tooltip.toms_trading_network.ignoredNBT": "Accepts matching item with any NBT data",
+	"tooltip.toms_trading_network.to_tag_filter": "Convert to tag filter",
+	
+	"narrator.toms_trading_network.vending_machine_name": "Vending Machine Name",
+	"narrator.toms_trading_network.vending_machine.trade_amount": "Trade Amount",
+	
+	"button.toms_trading_network.vending_machine.open_trading": "Trading View",
+	"button.toms_trading_network.vending_machine.trade": "Trade",
+	
+	"label.toms_trading_network.vending_machine.cost": "Cost",
+	"label.toms_trading_network.vending_machine.result": "Result",
+	"label.toms_trading_network.vending_machine.input": "Input",
+	"label.toms_trading_network.vending_machine.output": "Output",
+	"label.toms_trading_network.vending_machine.noItems": "Not enough items in stock",
+	
+	"chat.toms_trading_network.vending_machine.trade_error": "Vending Machine transaction error (%d finished out of %d): %s",
+	"chat.toms_trading_network.vending_machine.trade_error.1": "Not enough items in your inventory",
+	"chat.toms_trading_network.vending_machine.trade_error.2": "Not enough items in the vending machine",
+	"chat.toms_trading_network.vending_machine.trade_error.3": "Not enough space in your inventory",
+	"chat.toms_trading_network.vending_machine.trade_error.4": "Not enough space in the vending machine",
+	
+	"config.jade.plugin_toms_trading_network.vending_machine": "Vending Machine Info",
+	
+	"jade.toms_trading_network.noServerInfo": "Details not available"
+}
