@@ -15,7 +15,7 @@
   "main_screen.btn.delete.list": "Liste gedämpfter Soundeffekte entfernen",
   "main_screen.btn.delete.anchor": "Anker löschen",
   "main_screen.btn.accept": "Accept",
-  "main_screen.btn.cancel": "Cancel",
+  "main_screen.btn.cancel": "Abbrechen",
   "main_screen.btn.next_sounds": "Nächste Soundeffekte",
   "main_screen.btn.previous_sounds": "Vorherige Soundeffekte",
   "main_screen.btn.anchors.disabled": "Anker sind deaktiviert!",
