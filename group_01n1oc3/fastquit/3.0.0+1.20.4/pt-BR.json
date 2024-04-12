@@ -21,8 +21,8 @@
     "text.autoconfig.fastquit.option.backgroundPriority": "Prioridade de Thread em segundo plano",
     "text.autoconfig.fastquit.option.backgroundPriority.@Tooltip": "Define a prioridade de \"thread\" do servidor ao salvar mundos em segundo plano.\nIsso é feito para melhorar o desempenho do cliente ao salvar, mas tornará o tempo de salvamento mais longo no geral.",
     "text.autoconfig.fastquit.category.compat": "Compatibilidade com Mods",
-    "text.autoconfig.fastquit.option.allowMultipleServers": "Permitir vários Mundos em execução",
+    "text.autoconfig.fastquit.option.allowMultipleServers": "Permitir vários mundos em execução",
     "text.autoconfig.fastquit.option.allowMultipleServers.@Tooltip": "Quando esta opção estiver habilitada, você pode entrar em um novo mundo enquanto o antigo ainda estiver sendo salvo.\nÉ seguro fazer isso no Minecraft vanilla, mas alguns mods podem ter problemas quando 2 servidores são executados ao mesmo tempo.",
-    "fastquit.modmenu.summaryTranslation.fastquit": "Retorne à Tela de Título enquanto um mundo ainda estiver sendo salvo!",
-    "fastquit.modmenu.descriptionTranslation.fastquit": "Este mod permite que você retorne para a Tela de Título mais cedo enquanto seu mundo ainda está sendo salvo em segundo plano."
+    "fastquit.modmenu.summaryTranslation.fastquit": "Retorne à tela inicial enquanto um mundo ainda estiver sendo salvo!",
+    "fastquit.modmenu.descriptionTranslation.fastquit": "Este mod permite que você retorne para a tela inicial mais cedo enquanto seu mundo ainda está sendo salvo em segundo plano."
 }
