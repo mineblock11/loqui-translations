@@ -1,0 +1,14 @@
+{
+  "config.njb.title": "Not Just Biomes Config",
+  "config.njb.button.birch_forest": "Birch Forest Module",
+  "config.njb.button.cherry_grove": "Cherry Grove Module",
+  "config.njb.button.dungeon": "Dungeon Module",
+  "config.njb.button.forest": "Forest Module",
+  "config.njb.button.mansion": "Mansion Module",
+  "config.njb.button.ore_vein": "Ore Vein Module",
+  "config.njb.button.swamp": "Swamp Module",
+  "config.njb.button.taiga": "Taiga Module",
+  "config.njb.button.tectonic_trees": "Tectonic Trees Module",
+  "config.njb.button.tectonic_trees.tooltip": "Enables the custom trees that\nwere formerly a part of Tectonic",
+  "config.njb.button.well": "Well Module"
+}
