@@ -1,0 +1,18 @@
+{
+	"switcheroo.error.blockNotFound": "Block not found",
+	"switcheroo.error.mobNotFound": "Mob not found",
+	"text.autoconfig.switcheroo.title": "Switcheroo",
+	"text.autoconfig.switcheroo.option.alwaysFastest": "Always use the fastest tool",
+	"text.autoconfig.switcheroo.option.minDurability": "Minimum durability",
+	"text.autoconfig.switcheroo.option.minDurability.@Tooltip": "Enchanted items with lower durability will be ignored.",
+	"text.autoconfig.switcheroo.option.blacklist": "Blacklist",
+	"text.autoconfig.switcheroo.option.blacklist.blocks": "Blocks",
+	"text.autoconfig.switcheroo.option.blacklist.blocks.@Tooltip": "List of blocks to avoid switching on",
+	"text.autoconfig.switcheroo.option.blacklist.mobs": "Mobs",
+	"text.autoconfig.switcheroo.option.blacklist.mobs.@Tooltip": "List of mobs to avoid switching on",
+	"text.autoconfig.switcheroo.option.prefer": "Prefer",
+	"text.autoconfig.switcheroo.option.prefer.silk_touch": "Silk Touch",
+	"text.autoconfig.switcheroo.option.prefer.silk_touch.@Tooltip": "List of blocks to prefer using Silk Touch on",
+	"text.autoconfig.switcheroo.option.debug": "Debug",
+	"text.autoconfig.switcheroo.option.debug.@Tooltip": "Shows additional information to the console."
+}

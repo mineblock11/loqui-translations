@@ -1,0 +1,11 @@
+{
+  "resclone.jfconfig.title": "Resclone",
+  "resclone.jfconfig.packs": "Packs",
+  "resclone.jfconfig.packs.tooltip": "The packs to download and add",
+  "resclone.jfconfig.pruneUnused": "Prune Unused",
+  "resclone.jfconfig.pruneUnused.tooltip": "Automatically remove all downloaded packs that are not in the config to free up unneeded space",
+  "resclone.jfconfig.filterPacks": "Filter Packs",
+  "resclone.jfconfig.filterPacks.tooltip": "Whether to filter packs to remove files unchanged from vanilla and empty directories",
+  "resclone.jfconfig.logProcessing": "Log Processing",
+  "resclone.jfconfig.logProcessing.tooltip": "Log automatic processing steps applied to downloaded packs"
+}

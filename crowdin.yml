@@ -350,6 +350,16 @@ files:
     excluded_target_languages:
       - lol
       - zh-CN
+  - source: /group_xvhuor1/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - ko
+  - source: /group_4mhdzwq/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-CA
+      - fr-CA
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

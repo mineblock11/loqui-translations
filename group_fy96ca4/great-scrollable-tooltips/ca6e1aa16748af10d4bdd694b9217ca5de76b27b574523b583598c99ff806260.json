@@ -1,0 +1,14 @@
+{
+    "great-scrollable-tooltips.ui.title": "Great Scrollable Tooltips",
+    "great-scrollable-tooltips.ui.config.enable.true": "Enable: §atrue",
+    "great-scrollable-tooltips.ui.config.enable.false": "Enable: §cfalse",
+    "great-scrollable-tooltips.ui.config.sensitivity": "Sensitivity: %s",
+    "great-scrollable-tooltips.ui.config.reload": "Reload config",
+    "great-scrollable-tooltips.ui.config.save-and-exit": "Save and exit",
+    "great-scrollable-tooltips.ui.config.discard-and-exit": "Discard and exit",
+    "great-scrollable-tooltips.key-binding.category": "Great Scrollable Tooltips",
+    "great-scrollable-tooltips.key-binding.scroll-up": "Scroll up",
+    "great-scrollable-tooltips.key-binding.scroll-left": "Scroll left",
+    "great-scrollable-tooltips.key-binding.scroll-down": "Scroll down",
+    "great-scrollable-tooltips.key-binding.scroll-right": "Scroll right"
+}

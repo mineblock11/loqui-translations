@@ -1,0 +1,22 @@
+{
+  "item.shield.vodka": "Vodka",
+  "item.shield.wine": "Wine",
+  "item.shield.beer": "Beer",
+  "item.shield.jaegermeister": "Jägermeister",
+  "item.shield.molotov": "Molotov",
+  "item.shield.broken_bottle": "Broken Bottle",
+  
+  "block.shield.vodka": "Vodka",
+  "block.shield.wine": "Wine",
+  "block.shield.beer": "Beer",
+  "block.shield.jaegermeister": "Jägermeister",
+  "block.shield.beer_glass": "Beer Glass",
+  "block.shield.full_beer_glass": "Full Beer Glass",
+  "block.shield.alcohol_barrel_block": "Alcohol Barrel",
+
+  "effect.shield.drunkinnis": "Drunkinnis",
+
+  "entity.minecraft.villager.the_drunk_guy": "Alcoholic",
+
+  "itemgroup.all_the_alcohol": "All the alcohol"
+}
