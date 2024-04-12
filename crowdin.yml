@@ -1553,6 +1553,14 @@ files:
       - pt-BR
       - vi
       - zh-CN
+  - source: /group_pu2l195/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - ko
+      - ru
+      - uk
+      - zh-CN
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
