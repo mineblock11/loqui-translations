@@ -5577,6 +5577,28 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_xwc03oj/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - en-PT
+      - en-UD
+      - en-WS
+      - es-ES
+      - fr
+      - hu
+      - it
+      - lol
+      - nl
+      - pl
+      - pt-PT
+      - ru
+      - sv-SE
+      - tr
   - source: /group_du63grv/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
