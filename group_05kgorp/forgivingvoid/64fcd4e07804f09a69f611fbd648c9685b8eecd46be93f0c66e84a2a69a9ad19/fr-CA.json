@@ -1,0 +1,23 @@
+{
+  "config.forgivingvoid.title": "Vide Pardonnant",
+  "config.forgivingvoid.triggerAtDistanceBelow": "Déclencher en dessous de la distance",
+  "config.forgivingvoid.triggerAtDistanceBelow.tooltip": "La distance au niveau y minimum à partir duquel Forgiving Void devrait pardonner le joueur et le renvoyer vers le ciel.",
+  "config.forgivingvoid.damageOnFall": "Dégâts de chute",
+  "config.forgivingvoid.damageOnFall.tooltip": "La quantité de dégâts infligés au joueur lorsqu'il atterrit.",
+  "config.forgivingvoid.fallingHeight": "Hauteur de chute",
+  "config.forgivingvoid.fallingHeight.tooltip": "La hauteur à laquelle le joueur tombera après être tombé dans le vide.",
+  "config.forgivingvoid.preventDeath": "Empêcher de mourir",
+  "config.forgivingvoid.preventDeath.tooltip": "Prévenir la mort en cas de chute dans le vide (limite les dégâts pour laisser au moins 0,5 cœurs)",
+  "config.forgivingvoid.triggerInOverworld": "Déclencher dans l'Overworld",
+  "config.forgivingvoid.triggerInOverworld.tooltip": "Définissez cette valeur sur false pour empêcher le déclenchement de Vide Pardonnant dans le vide de l'Overworld (dimension 0).",
+  "config.forgivingvoid.triggerInNether": "Déclencher dans le Nether",
+  "config.forgivingvoid.triggerInNether.tooltip": "Définissez cette valeur sur false pour empêcher le déclenchement de Vide Pardonnant dans le vide du Nether (dimension -1).",
+  "config.forgivingvoid.triggerInEnd": "Déclencher dans l'End",
+  "config.forgivingvoid.triggerInEnd.tooltip": "Définissez cette valeur sur false pour empêcher le déclenchement de Vide Pardonnant dans le vide de l'End (dimension 1).",
+  "config.forgivingvoid.disableVanillaAntiCheatWhileFalling": "Désactiver le Vanilla AntiCheat pendant la chute",
+  "config.forgivingvoid.disableVanillaAntiCheatWhileFalling.tooltip": "Définissez sur true si les joueurs subissent des sauts en arrière lorsqu'ils tombent dans le vide. Si vous hébergez un serveur public, vous ne devriez le faire que si vous avez un anti-triche approprié installé.",
+  "config.forgivingvoid.dimensionAllowList": "Liste des dimensions autorisées",
+  "config.forgivingvoid.dimensionAllowList.tooltip": "Liste des identifiants de dimension autorisés pour Vide Pardonnant. Les options triggerInOverworld, etc. ont la priorité.",
+  "config.forgivingvoid.dimensionDenyList": "Liste des dimensions refusées",
+  "config.forgivingvoid.dimensionDenyList.tooltip": "Liste des identifiants de dimensions supplémentaires à exclure de Forgiving Void. Les options triggerInOverworld, etc. ont la priorité. Ignoré si dimensionAllowList est défini."
+}
