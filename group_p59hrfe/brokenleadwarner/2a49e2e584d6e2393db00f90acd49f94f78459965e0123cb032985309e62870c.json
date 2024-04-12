@@ -1,0 +1,18 @@
+{
+  "chat.brokenleadwarner.broken_lead": "Your Lead Broke!",
+  "subtitles.brokenleadwarner.warning_sound": "Broken Leash Notification",
+
+  "brokenleadwarner.midnightconfig.title": "Broken Lead Warner Options",
+  "brokenleadwarner.midnightconfig.enabled": "Mod Enabled?",
+  "brokenleadwarner.midnightconfig.enabled.tooltip": "Should the mod be enabled?",
+  "brokenleadwarner.midnightconfig.warningMethodEnum": "Warning Method",
+  "brokenleadwarner.midnightconfig.warningMethodEnum.tooltip": "How should you be warned?",
+  "brokenleadwarner.midnightconfig.enum.WarningMethodEnum.HOTBAR": "Hotbar",
+  "brokenleadwarner.midnightconfig.enum.WarningMethodEnum.CHAT": "Chat",
+  "brokenleadwarner.midnightconfig.playSound": "Play Warning Sound?",
+  "brokenleadwarner.midnightconfig.playSound.tooltip": "Should the warning sound be played?",
+  "brokenleadwarner.midnightconfig.showText": "Show Warning Text?",
+  "brokenleadwarner.midnightconfig.showText.tooltip": "Should any warning text appear?",
+  "brokenleadwarner.midnightconfig.soundVolume": "Warning Sound Volume",
+  "brokenleadwarner.midnightconfig.soundVolume.tooltip": "The volume of the warning sound"
+}
