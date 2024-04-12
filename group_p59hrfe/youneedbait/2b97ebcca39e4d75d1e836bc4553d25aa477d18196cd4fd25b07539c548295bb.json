@@ -1,0 +1,68 @@
+{
+  "item.youneedbait.muskellunge": "Muskellunge",
+  "item.youneedbait.northernpike": "Northern Pike",
+  "item.youneedbait.largemouthbass": "Largemouth Bass",
+  "item.youneedbait.walleye": "Walleye",
+  "item.youneedbait.pumpkinseed": "PumpkinSeed Sunfish",
+  "item.youneedbait.catfish": "Cat Fish",
+  "item.youneedbait.blackcrappie": "Black Crappie",
+  "item.youneedbait.redherring": "Red Herring",
+  "item.youneedbait.salt": "Raw Salt",
+  "item.youneedbait.azuromite_ingot": "Azuromite Ingot",
+  "item.youneedbait.rawfishfilet": "Raw Fish Filet",
+  "item.youneedbait.saltedfishfilet": "Salted Fish Filet",
+  "item.youneedbait.driedfishfilet": "Dried Fish Filet",
+  "item.youneedbait.saltedbeef": "Salted Beef",
+  "item.youneedbait.beefjerky": "Beef Jerky",
+  "item.youneedbait.lesssuspiciousstew": "Less Suspicious Stew",
+  "item.youneedbait.muskellungespawnegg": "Muskellunge Spawn Egg",
+  "item.youneedbait.blackcrappiespawnegg": "Black Crappie Spawn Egg",
+  "item.youneedbait.largemouthbassspawnegg": "LargeMouth Bass Spawn Egg",
+  "item.youneedbait.northernpikespawnegg": "Northern Pike Spawn Egg",
+  "item.youneedbait.catfishspawnegg": "Cat Fish Spawn Egg",
+  "item.youneedbait.pumpkinseedspawnegg": "PumpkinSeed Spawn Egg",
+  "item.youneedbait.hook": "Fishing Hook",
+  "item.youneedbait.worm": "Worm",
+  "item.youneedbait.caterpillar": "Caterpillar",
+  "item.youneedbait.onion_bulbs": "Onion Bulb",
+  "item.youneedbait.filetknife": "Filet Knife",
+  "item.youneedbait.minnow": "Minnow",
+  "item.youneedbait.suckerminnow": "Sucker Minnow",
+  "item.youneedbait.onion_crop": "Onion",
+  "item.youneedbait.mutilated_flesh": "Mutilated Flesh",
+  "item.youneedbait.canofworms": "Can Of Worms",
+
+  "block.youneedbait.salt_block": "Salt Ore",
+  "block.youneedbait.azuromite_block": "Azuromite Block",
+  "block.youneedbait.minnowtrap_block": "Minnow Trap",
+  "block.youneedbait.minnowbucket_block": "Minnow Bucket",
+  "block.youneedbait.tacklebox_block": "Tackle Box",
+
+  "itemgroup.youneedbait": "YouNeedBait",
+
+  "entity.minecraft.villager.masterfisherman": "Master Fisherman",
+
+  "tooltip.youneedbait.muskellunge.tooltip.shift": "Long & Strong Fish",
+  "tooltip.youneedbait.muskellunge.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.youneedbait.blackcrappie.tooltip.shift": "Little Baby Fish",
+  "tooltip.youneedbait.blackcrappie.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.youneedbait.walleye.tooltip.shift": "Bass But Different",
+  "tooltip.youneedbait.walleye.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.youneedbait.largemouthbass.tooltip.shift": "Fun To Catch",
+  "tooltip.youneedbait.largemouthbass.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.youneedbait.northernpike.tooltip.shift": "Similar to Muskellunge",
+  "tooltip.youneedbait.northernpike.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.youneedbait.pumpkinseed.tooltip.shift": "What You Get When You Want Bass",
+  "tooltip.youneedbait.pumpkinseed.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.youneedbait.catfish.tooltip.shift": "Ugh i have to get the hook out of this?",
+  "tooltip.youneedbait.catfish.tooltip": "Press §eSHIFT§r for more Information",
+
+  "tooltip.youneedbait.canofworms.tooltip.shift": "You Feel Disgusted Even Holding This Abomination",
+  "tooltip.youneedbait.canofworms.tooltip": "Press §eSHIFT§r for more Information"
+}

@@ -1,0 +1,115 @@
+{
+  "key.categories.fbp": "Fancy Block Particles",
+
+  "key.fbp.toggle": "Enable/Disable",
+  "key.fbp.settings": "Open settings",
+  "key.fbp.freeze": "Toggle freeze effect",
+  "key.fbp.kill_particles": "Kill particles",
+  "key.fbp.fast_blacklist": "Fast add block to blacklist",
+
+  "screen.fbp.freeze": "§lFreeze effect!",
+
+  "screen.fbp.settings": "Fancy Block Particles - Settings",
+  "screen.fbp.blacklist": "Blacklist a block",
+
+  "screen.fbp.reset_confirm": "Are you sure you want to reset the FBP settings?",
+  "screen.fbp.reload_alert": "Config has been successfully reloaded!",
+
+  "button.fbp.homepage": "FBP homepage here!",
+  "button.fbp.report": "Found a bug?\nReport it here!",
+
+  "button.fbp.enabled": "Enabled",
+  "button.fbp.particles_decay": "Particle decay",
+
+  "button.fbp.particles_per_axis": "Particles per axis: ",
+  "button.fbp.min_lifetime": "Particle min lifetime: ",
+  "button.fbp.max_lifetime": "Particle max lifetime: ",
+  "button.fbp.scale_multiplier": "Scale multiplier: ",
+  "button.fbp.rotation_multiplier": "Rotation multiplier: ",
+  "button.fbp.gravity_multiplier": "Gravity multiplier: ",
+  "button.fbp.weather_particle_density": "Weather particle density: ",
+
+  "button.fbp.fancy_block_breaking": "Fancy block breaking",
+  "button.fbp.fancy_flame": "Fancy flame",
+  "button.fbp.fancy_smoke": "Fancy smoke",
+  "button.fbp.fancy_rain": "Fancy rain",
+  "button.fbp.fancy_snow": "Fancy snow",
+  "button.fbp.fancy_place_animation": "Fancy placing animation",
+
+  "button.fbp.cartoon_mode": "Cartoon mode",
+  "button.fbp.cull_particles": "Cull particles",
+
+  "button.fbp.smart_breaking": "Smart breaking",
+  "button.fbp.low_traction": "Low traction",
+  "button.fbp.spawn_while_frozen": "Spawn while frozen",
+  "button.fbp.smooth_animation_lighting": "Smooth animation lighting",
+
+  "button.fbp.spawn_place_particles": "Spawn placing particles",
+  "button.fbp.rest_on_floor": "Rest on floor",
+  "button.fbp.bounce_off_walls": "Bounce off walls",
+  "button.fbp.entity_collision": "Entity collisions",
+  "button.fbp.water_physics": "Water physics",
+
+  "button.fbp.random_scale": "Random scale",
+  "button.fbp.random_rotation": "Random rotation",
+  "button.fbp.random_fading_speed": "Random fading speed",
+
+  "button.fbp.previous": "< Previous",
+  "button.fbp.next": "Next >",
+
+  "button.fbp.reload": "Reload config",
+  "button.fbp.reset": "Reset",
+  "button.fbp.done": "Done",
+
+  "button.fbp.ticks": " ticks",
+
+  "tooltip.fbp.default": "Default: ",
+
+  "tooltip.fbp.enabled": "Enabled or disable FBP.",
+  "tooltip.fbp.particles_decay": "If disabled, particles will not disappear.",
+
+  "tooltip.fbp.particles_per_axis": "Number of the destroy particles on x, y and z axis.",
+  "tooltip.fbp.min_lifetime": "Minimum, random value for the lifetime of the particles.\nIf you want every particle to disappear at the same time, set the same value for minimum and maximum particle lifetime.",
+  "tooltip.fbp.max_lifetime": "Maximum, random value for the lifetime of the particles.\nIf you want every particle to disappear at the same time, set the same value for minimum and maximum particle lifetime.",
+  "tooltip.fbp.scale_multiplier": "Particle scale multiplier. The higher the value, the larger the particles will be.",
+  "tooltip.fbp.rotation_multiplier": "Particle rotation multiplier. The higher the value, the faster and more the particles will rotate.",
+  "tooltip.fbp.gravity_multiplier": "Particle gravity multiplier. The higher the value, the faster the particles will fall to the ground.",
+  "tooltip.fbp.weather_particle_density": "Weather particle density. The higher the value, the more weather particles will appear.",
+
+  "tooltip.fbp.fancy_block_breaking": "Enable or disable fancy block breaking particles.",
+  "tooltip.fbp.fancy_flame": "Enable or disable fancy flame particles.",
+  "tooltip.fbp.fancy_smoke": "Enable or disable fancy smoke particles.",
+  "tooltip.fbp.fancy_rain": "Enable or disable fancy rain particles.",
+  "tooltip.fbp.fancy_snow": "Enable or disable fancy snow particles.",
+  "tooltip.fbp.fancy_place_animation": "Enable or disable fancy block placing animation.",
+
+  "tooltip.fbp.cartoon_mode": "Enable or disable particles cartoon mode.",
+  "tooltip.fbp.cull_particles": "Enable or disable particle culling.",
+
+  "tooltip.fbp.smart_breaking": "Enable or disable smart breaking.",
+  "tooltip.fbp.low_traction": "Enable or disable particle low traction.",
+  "tooltip.fbp.spawn_while_frozen": "Enable or disable particle spawning while frozen.",
+  "tooltip.fbp.smooth_animation_lighting": "Enable or disable smooth animation lighting.",
+
+  "tooltip.fbp.spawn_place_particles": "Enable or disable spawning block placing particles.",
+  "tooltip.fbp.rest_on_floor": "Enable or disable resting particles on floor.",
+  "tooltip.fbp.bounce_off_walls": "Enable or disable bouncing particles off walls.",
+  "tooltip.fbp.entity_collision": "Enable or disable particles collisions with entities.",
+  "tooltip.fbp.water_physics": "Enable or disable particles water physics.",
+
+  "tooltip.fbp.random_scale": "Enable or disable particles random scale.",
+  "tooltip.fbp.random_rotation": "Enable or disable particles random rotation.",
+  "tooltip.fbp.random_fading_speed": "Enable or disable particles random fading speed.",
+
+  "button.fbp.true": "§atrue",
+  "button.fbp.false": "§cfalse",
+
+  "tooltip.fbp.animation": "PLACING ANIMATION",
+  "tooltip.fbp.particles": "PARTICLES",
+
+  "tooltip.fbp.add": "ADD",
+  "tooltip.fbp.remove": "REMOVE",
+
+  "text.fbp.version": "Version: %s",
+  "text.fbp.page": "Page %d of %d"
+}

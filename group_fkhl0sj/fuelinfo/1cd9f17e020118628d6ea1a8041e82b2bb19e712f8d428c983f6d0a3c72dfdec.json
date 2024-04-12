@@ -1,0 +1,11 @@
+{
+  "message.fuelinfo.furnace.items": "§7This furnace can smelt §e%d §7item(s)",
+  "message.fuelinfo.furnace.stacks": "§7This furnace can smelt §e%d §7stack(s)",
+  "message.fuelinfo.furnace.both": "§7This furnace can smelt §e%d §7stack(s) and §e%d §7item(s)",
+
+  "message.fuelinfo.brewing_stand": "§7This Brewing Stand can produce §e%d §7potions",
+  "message.fuelinfo.brewing_stand.set": "§7This Brewing Stand can produce §e%d §fsets §7of potions",
+
+  "message.fuelinfo.timer": "%s:%s §7remaining",
+  "message.fuelinfo.timer.current": "%s:%s §7remaining for current item"
+}

@@ -1,0 +1,58 @@
+{
+  "item-group.resource_cracker": "Resource Cracker",
+
+  "item.chisel.tooltip": "Scrape Saltpeter from Bricks.",
+  "item.crack_hammer.tooltip": "Process raw ores into dust.",
+
+  "item.scythe.tooltip": "Harvest Crops much faster",
+  "item.scythe.tooltip.radius": "Current radius: ",
+
+  "attribute.resource_cracker.attack_range": "Attack Range",
+
+  "item.resource_cracker.crack_hammer_copper": "Copper Crack Hammer",
+  "item.resource_cracker.crack_hammer_gold": "Gold Crack Hammer",
+  "item.resource_cracker.crack_hammer_iron": "Iron Crack Hammer",
+  "item.resource_cracker.crack_hammer_diamond": "Diamond Crack Hammer",
+  "item.resource_cracker.crack_hammer_netherite": "Netherite Crack Hammer",
+  "item.resource_cracker.crack_hammer_steel": "Steel Crack Hammer",
+
+  "item.resource_cracker.chisel_copper": "Copper Chisel",
+  "item.resource_cracker.chisel_gold": "Gold Chisel",
+  "item.resource_cracker.chisel_iron": "Iron Chisel",
+  "item.resource_cracker.chisel_diamond": "Diamond Chisel",
+  "item.resource_cracker.chisel_netherite": "Netherite Chisel",
+  "item.resource_cracker.chisel_steel": "Steel Chisel",
+
+  "item.resource_cracker.scythe_copper": "Copper Scythe",
+  "item.resource_cracker.scythe_iron": "Iron Scythe",
+  "item.resource_cracker.scythe_gold": "Gold Scythe",
+  "item.resource_cracker.scythe_steel": "Steel Scythe",
+  "item.resource_cracker.scythe_diamond": "Diamond Scythe",
+  "item.resource_cracker.scythe_netherite": "Netherite Scythe",
+
+  "item.resource_cracker.material_dust_carbon": "Carbon Dust",
+  "item.resource_cracker.material_dust_copper": "Copper Dust",
+  "item.resource_cracker.material_dust_iron": "Iron Dust",
+  "item.resource_cracker.material_dust_gold": "Gold Dust",
+  "item.resource_cracker.material_dust_diamond": "Diamond Dust",
+  "item.resource_cracker.material_dust_steel": "Steel Dust",
+  "item.resource_cracker.material_dust_emerald": "Emerald Dust",
+  "item.resource_cracker.material_dust_netherite_scrap": "Netherite Scrap Dust",
+  "item.resource_cracker.material_dust_netherite": "Netherite Dust",
+  "item.resource_cracker.material_dust_sulfur": "Sulfur",
+  "item.resource_cracker.material_dust_saltpeter": "Saltpeter",
+
+  "item.resource_cracker.steel_ingot": "Steel Ingot",
+  "item.resource_cracker.nugget_diamond": "Diamond Nugget",
+  "item.resource_cracker.nugget_emerald": "Emerald Nugget",
+  "item.resource_cracker.nugget_copper": "Copper Nugget",
+
+  "item.resource_cracker.garlic": "Garlic",
+
+  "block.resource_cracker.garlic_crop": "Garlic",
+  "block.resource_cracker.steel_block": "Steel Block",
+  "block.resource_cracker.lava_spring_block": "Lava Spring",
+  "block.resource_cracker.water_spring_block": "Water Spring",
+
+  "item.resource_cracker.beef_jerky": "Beef Jerky"
+}

@@ -1,0 +1,5 @@
+{
+  "item.drinkingflask.drinking_flask": "Drinking Flask",
+  "item.drinkingflask.drinking_flask.fullness": "%s/%s",
+  "item.drinkingflask.phantom_drinking_flask": "Phantom Drinking Flask"
+}
