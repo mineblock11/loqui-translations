@@ -1,0 +1,40 @@
+{
+  "enchantment.wisdom_enchantment.wisdom.desc": "Mobs will drop more XP when killed.",
+  "enchantment.persistent.persistent.desc": "Causes armor and gear in a loaded chunk to take 20 minutes to despawn rather than 5.",
+  "enchantment.endlessbiomes.shared_pain.desc": "When a mob is killed with this weapon and more damage is dealt than necessary to kill it the excess damage will be dealt to other nearby enemies.",
+  "enchantment.betterarcheology.penetrating_strike.desc": "Damage dealt by the enchanted weapon ignores the protection enchantment.",
+  "enchantment.betterarcheology.tunneling.desc": "Breaks the block that is underneath the block broken with this tool.",
+  "enchantment.betterarcheology.soaring_winds.desc": "The enchanted elytra gives the wearer a small boost when taking off.",
+  "enchantment.hunters_return.bounce.desc": "The enchanted boomerang will bounce more when thrown.",
+  "enchantment.galosphere.rupture.desc": "Shatters the saltbound tablet's pillars into shard projectiles once they break.",
+  "enchantment.galosphere.sustain.desc": "Extends the duration of the saltbound tablet's pillars.",
+  "enchantment.galosphere.enfeeble.desc": "Inflicts slowness on entities hit by the saltbound tablet's pillars.",
+  "enchantment.spawnersplus.soul_stealing.desc": "Causes certain mobs to drop their souls when killed.",
+
+  "item.extra_compat.reinforced_gold_knife": "Reinforced Gold Knife",
+  "item.extra_compat.reinforced_gold_great_axe": "Reinforced Gold Great Axe",
+  "item.extra_compat.reinforced_gold_great_pickaxe": "Reinforced Gold Great Pickaxe",
+  "item.extra_compat.reinforced_gold_greatsword": "Reinforced Gold Greatsword",
+  "item.extra_compat.reinforced_gold_machete": "Reinforced Gold Machete",
+
+  "extra_compat.sniffs_weapons_tab": "Sniff's Weapons Compat",
+  "extra_compat.farmers_delight_tab": "Farmer's Delight Compat",
+  "extra_compat.nethers_delight_tab": "Nether's Delight Compat",
+
+  "effect.habitat.prickling.description": "Causes damage to enemies attacking the affected entity.",
+  "effect.galosphere.astral.description": "Allows the affected player to phase through blocks.",
+  "effect.endersdelight.phasing.description": "Randomly teleports the affected player.",
+  "effect.enemyexpansion.bitten.description": "Causes the affected entity to burn in daylight.",
+  "effect.enemyexpansion.swift_flight.description": "An unobtainable effect used only for certain mob's abilities.",
+  "effect.netherdungeons.vampirism.description": "When the affected player kills an entity they gain a few health points.",
+  "effect.netherdungeons.durability.description": "When being hurt the affected entity has a 25% chance to ignore all damage.",
+  "effect.netherdungeons.vulnerability.description": "Causes the affected entity to take more damage when hurt.",
+
+  "fluid.extra_compat.animal_oil_bottle": "Animal Oil",
+  "fluid.extra_compat.nut_butter_bottle": "Nut Butter",
+
+
+  "item.minecraft.tipped_arrow.effect.astral" : "Arrow of Astral",
+
+  "block.quarkdelight.ancient_fruit_crate": "Enchanted Fruit Crate"
+}

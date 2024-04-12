@@ -1,0 +1,17 @@
+{
+  "picohud.directions.south":  "Facing South",
+  "picohud.directions.southwest": "Facing Southwest",
+  "picohud.directions.west":  "Facing West",
+  "picohud.directions.northwest": "Facing Northwest",
+  "picohud.directions.north":  "Facing North",
+  "picohud.directions.northeast": "Facing Northeast",
+  "picohud.directions.east":  "Facing East",
+  "picohud.directions.southeast": "Facing Southeast",
+
+  "picohud.hud.coordinates": "%d, %d, %d",
+  "picohud.hud.time.default": "Day %s, %s",
+  "picohud.hud.time.seasons": "%s %d %s",
+
+  "key.picohud.show": "Show Overlay",
+  "category.picohud.picohud": "PicoHUD"
+}

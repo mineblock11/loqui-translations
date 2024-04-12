@@ -1,0 +1,9 @@
+{
+  "deleteworldstotrash.selectWorld.deleteButton": "Move To %s",
+  "deleteworldstotrash.selectWorld.deleteFailure": "Failed to move to %s",
+  "deleteworldstotrash.selectWorld.deleteWarning": "'%s' will be moved to the %s, so you can restore it later if necessary.",
+  "deleteworldstotrash.selectWorld.recycleBin": "recycle bin",
+  "deleteworldstotrash.selectWorld.recycleBinButton": "Recycle Bin",
+  "deleteworldstotrash.selectWorld.trash": "trash",
+  "deleteworldstotrash.selectWorld.trashButton": "Trash"
+}

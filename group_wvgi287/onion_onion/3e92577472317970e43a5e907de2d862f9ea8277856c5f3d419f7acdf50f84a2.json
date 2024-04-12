@@ -1,0 +1,14 @@
+{
+  "item.onion_onion.onion_slice": "Onion Slices",
+  "item.onion_onion.onion_rings": "Onion Rings",
+  "item.onion_onion.motley_grill": "Bowl of Motley Grill",
+  "block.onion_onion.motley_grill_block": "Motley Grill",
+
+  "death.attack.onion_damage": "%s cried to death",
+  "death.attack.onion_damage.player": "%1s cried to death to avoid %2s",
+
+  "advancements.onion_onion.onion_ninja.description": "While invisible, bring at least ten creatures to tears by cutting Onions",
+  "advancements.onion_onion.onion_ninja.title": "Ninjas Cutting Onions Again...",
+  "advancements.onion_onion.onion_ghast.description": "Make a Ghast shed a tear by cutting Onions nearby",
+  "advancements.onion_onion.onion_ghast.title": "Cry Me a River"
+}

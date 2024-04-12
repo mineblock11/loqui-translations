@@ -1,0 +1,52 @@
+{
+  "mcpings.name": "MCPings",
+
+  "text.config.mcpings-config.title": "MCPings Config",
+
+  "text.config.mcpings-config.option.pingChannel": "Ping Channel",
+
+  "text.config.mcpings-config.category.audioNest": "Audio",
+
+  "text.config.mcpings-config.option.audioNest.pingVolume": "Ping Volume",
+  "text.config.mcpings-config.option.audioNest.pingVolume.tooltip": "Controls overall volume",
+
+  "text.config.mcpings-config.option.audioNest.pingVolumeFalloff": "Ping Volume Falloff",
+  "text.config.mcpings-config.option.audioNest.pingVolumeFalloff.tooltip": "Controls how loud/quiet far away pings are.\nHigher values result in more falloff",
+
+  "text.config.mcpings-config.category.visualsNest": "Visuals",
+
+  "text.config.mcpings-config.option.visualsNest.pingDuration": "Ping Duration",
+  "text.config.mcpings-config.option.visualsNest.pingDuration.tooltip": "Controls how long pings will stay",
+
+  "text.config.mcpings-config.option.visualsNest.pingDistance": "Maximum Ping Distance",
+  "text.config.mcpings-config.option.visualsNest.pingDistance.tooltip": "Pings past this distance will not be shown",
+
+  "text.config.mcpings-config.option.visualsNest.pingSourceDistance": "Maximum Ping Source Distance",
+  "text.config.mcpings-config.option.visualsNest.pingSourceDistance.tooltip": "Pings sent by players past this distance will not be shown",
+
+  "text.config.mcpings-config.option.visualsNest.pingSizeMult": "Ping Size",
+  "text.config.mcpings-config.option.visualsNest.pingSizeMult.tooltip": "Multiplier for Ping's size",
+
+  "text.config.mcpings-config.option.visualsNest.pingSizeMult.value.one": "1x",
+  "text.config.mcpings-config.option.visualsNest.pingSizeMult.value.two": "2x",
+  "text.config.mcpings-config.option.visualsNest.pingSizeMult.value.three": "3x",
+
+  "text.config.mcpings-config.option.visualsNest.pingShowUsername": "Show Pinger's Username",
+  "text.config.mcpings-config.option.visualsNest.pingShowUsername.tooltip": "Shows the sender's username above the ping",
+
+  "text.config.mcpings-config.option.visualsNest.pingHitOnlySolid": "Only Ping Solid Blocks",
+  "text.config.mcpings-config.option.visualsNest.pingHitOnlySolid.tooltip": "When enabled, pings will go through blocks like tall grass and saplings",
+
+  "text.config.mcpings-config.option.visualsNest.pingColorText": "Color Text",
+  "text.config.mcpings-config.option.visualsNest.pingColorText.tooltip": "When enabled, text above pings will share the same color as the icon. Otherwise text will be white",
+
+  "text.config.mcpings-config.category.colorNest": "Colors",
+
+  "text.config.mcpings-config.option.colorNest.pingStandardColor": "Standard Ping Color",
+  "text.config.mcpings-config.option.colorNest.pingMonsterColor": "Monster Ping Color",
+  "text.config.mcpings-config.option.colorNest.pingAngerableColor": "Neutral Mob Ping Color",
+  "text.config.mcpings-config.option.colorNest.pingFriendlyColor": "Friendly Mob Ping Color",
+  "text.config.mcpings-config.option.colorNest.pingPlayerColor": "Player Ping Color",
+
+  "mcpings.key.mark-location": "Ping Location"
+}

@@ -1,0 +1,63 @@
+{
+  "brewinandchewin.container.keg.frigid": "Frigid: %s",
+  "brewinandchewin.container.keg.cold": "Cold: %s",
+  "brewinandchewin.container.keg.normal": "Normal: %s",
+  "brewinandchewin.container.keg.warm": "Warm: %s",
+  "brewinandchewin.container.keg.hot": "Hot: %s",
+
+  "brewinandchewin.jei.fermenting": "Keg Fermenting",
+
+  "brewinandchewin.container.keg": "Keg",
+  "brewinandchewin.container.recipe_book.fermentable": "Showing Fermentable",
+
+  "brewinandchewin.block.cheese.use_knife": "I should use a knife to cut this!",
+  "brewinandchewin.tooltip.tipsy1": "Tipsy I",
+  "brewinandchewin.tooltip.tipsy2": "Tipsy II",
+  "brewinandchewin.tooltip.tipsy3": "Tipsy III",
+  "brewinandchewin.tooltip.dread_nog": "Dread Nog",
+
+  "effect.brewinandchewin.tipsy": "Tipsy",
+  "effect.brewinandchewin.sweet_heart": "Sweet Heart",
+  "effect.brewinandchewin.satisfaction": "Satisfaction",
+
+  "itemgroup.brewinandchewin.bccreativetab": "Brewin' And Chewin'",
+
+  "block.brewinandchewin.keg": "Keg",
+  "block.brewinandchewin.unripe_flaxen_cheese_wheel": "Unripe Flaxen Cheese Wheel",
+  "block.brewinandchewin.flaxen_cheese_wheel": "Flaxen Cheese Wheel",
+  "block.brewinandchewin.unripe_scarlet_cheese_wheel": "Unripe Scarlet Cheese Wheel",
+  "block.brewinandchewin.scarlet_cheese_wheel": "Scarlet Cheese Wheel",
+  "block.brewinandchewin.cheese_pizza": "Cheese Pizza",
+  "block.brewinandchewin.supreme_pizza": "Supreme Pizza",
+
+  "item.brewinandchewin.tankard": "Tankard",
+  "item.brewinandchewin.beer": "Beer",
+  "item.brewinandchewin.vodka": "Vodka",
+  "item.brewinandchewin.mead": "Mead",
+  "item.brewinandchewin.rice_wine": "Rice Wine",
+  "item.brewinandchewin.strongroot_ale": "Strongroot Ale",
+  "item.brewinandchewin.saccharine_rum": "Saccharine Rum",
+  "item.brewinandchewin.pale_jane": "Pale Jane",
+  "item.brewinandchewin.egg_grog": "Egg Grog",
+  "item.brewinandchewin.dread_nog": "Dread Nog",
+  "item.brewinandchewin.salty_folly": "Salty Folly",
+  "item.brewinandchewin.steel_toe_stout": "Steel Toe Stout",
+  "item.brewinandchewin.glittering_grenadine": "Glittering Grenadine",
+  "item.brewinandchewin.bloody_mary": "Bloody Mary",
+  "item.brewinandchewin.red_rum": "Red Rum",
+  "item.brewinandchewin.withering_dross": "Withering Dross",
+
+  "item.brewinandchewin.kimchi": "Kimchi",
+  "item.brewinandchewin.pickled_pickles": "Pickled Pickles",
+  "item.brewinandchewin.kippers": "Kippers",
+  "item.brewinandchewin.cocoa_fudge": "Cocoa Fudge",
+  "item.brewinandchewin.flaxen_cheese_wedge": "Flaxen Cheese Wedge",
+  "item.brewinandchewin.scarlet_cheese_wedge": "Scarlet Cheese Wedge",
+  "item.brewinandchewin.cheese_pizza_slice": "Cheese Pizza Slice",
+  "item.brewinandchewin.supreme_pizza_slice": "Supreme Pizza Slice",
+  "item.brewinandchewin.ham_and_cheese_sandwich": "Ham and Cheese Sandwich",
+  "item.brewinandchewin.vegetable_omelet": "Vegetable Omelet",
+  "item.brewinandchewin.cheesy_pasta": "Cheesy Pasta",
+  "item.brewinandchewin.scarlet_pierogies": "Scarlet Pierogies",
+  "item.brewinandchewin.creamy_onion_soup": "Creamy Onion Soup"
+}

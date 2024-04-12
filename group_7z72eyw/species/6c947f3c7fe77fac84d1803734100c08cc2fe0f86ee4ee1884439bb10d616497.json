@@ -1,0 +1,90 @@
+{
+  "itemGroup.species.species": "Species",
+
+  "entity.species.wraptor": "Wraptor",
+  "block.species.wraptor_egg": "Wraptor Egg",
+  "block.species.cracked_wraptor_egg": "Cracked Wraptor Egg",
+  "item.species.cracked_wraptor_egg": "Cracked Wraptor Egg",
+  "item.species.wraptor_spawn_egg": "Wraptor Spawn Egg",
+
+  "effect.species.wither_resistance": "Wither Resistance",
+
+  "subtitles.entity.species.wraptor.aggro": "Wraptor crows",
+  "subtitles.entity.species.wraptor.agitated": "Wraptor bawks",
+  "subtitles.entity.species.wraptor.attack": "Wraptor pecks",
+  "subtitles.entity.species.wraptor.death": "Wraptor dies",
+  "subtitles.entity.species.wraptor.hurt": "Wraptor hurts",
+  "subtitles.entity.species.wraptor.idle": "Wraptor clucks",
+  "subtitles.entity.species.wraptor.shear": "Shears cut",
+  "subtitles.entity.species.wraptor.step": "Wraptor steps",
+  "subtitles.entity.species.wraptor.feather_loss": "Wraptor looses feathers",
+  "subtitles.entity.species.wraptor.egg": "Wraptor lays an egg",
+  "subtitles.block.species.wraptor_egg.crack": "Wraptor egg cracks",
+  "subtitles.block.species.wraptor_egg.hatch": "Wraptor egg hatches",
+  "subtitles.item.species.cracked_wraptor_egg.slurp": "Slurping",
+  "advancements.species.shear_wraptor_completely.title": "Clever Girl",
+  "advancements.species.shear_wraptor_completely.description": "Shear a Wraptor completely and face the consequences",
+  "advancements.species.hatch_wraptor.title": "Though Love",
+  "advancements.species.hatch_wraptor.description": "Hatch a Wraptor Egg using an Anvil",
+
+  "entity.species.deepfish": "Deepfish",
+  "item.species.deepfish_spawn_egg": "Deepfish Spawn Egg",
+  "item.species.deepfish_bucket": "Bucket of Deepfish",
+
+  "subtitles.entity.species.deepfish.flop": "Deepfish flops",
+  "subtitles.entity.species.deepfish.death": "Deepfish dies",
+  "subtitles.entity.species.deepfish.hurt": "Deepfish hurts",
+  "subtitles.entity.species.deepfish.idle": "Deepfish howls",
+
+  "advancements.species.deepfish_in_a_bucket.title": "Song of the deep",
+  "advancements.species.deepfish_in_a_bucket.description": "Catch a Deepfish in a Bucket",
+
+  "entity.species.roombug": "Roombug",
+  "item.species.roombug_spawn_egg": "Roombug Spawn Egg",
+
+  "subtitles.entity.species.roombug.eat": "Roombug eats",
+  "subtitles.entity.species.roombug.death": "Roombug dies",
+  "subtitles.entity.species.roombug.hurt": "Roombug hurts",
+  "subtitles.entity.species.roombug.idle": "Roombug clicks",
+  "subtitles.entity.species.roombug.snoring": "Roombug snores",
+  "subtitles.entity.species.roombug.step": "Roombug strides",
+
+  "entity.species.birt": "Birt",
+  "entity.species.birt_egg": "Birt Egg",
+  "item.species.birt_spawn_egg": "Birt Spawn Egg",
+  "item.species.birt_egg": "Birt Egg",
+  "block.species.birt_dwelling": "Birt Dwelling",
+
+  "item.species.music_disc_dial": "Music Disc",
+  "item.species.music_disc_dial.desc": "bunten - dial",
+
+  "effect.species.birtd": "Birt'd",
+
+  "subtitles.entity.species.birt.death": "Birt dies",
+  "subtitles.entity.species.birt.hurt": "Birt hurts",
+  "subtitles.entity.species.birt.idle": "Birt chirps",
+  "subtitles.entity.species.birt.fly": "Birt flies",
+  "subtitles.entity.species.birt.message": "Birt communicates",
+  "subtitles.entity.birtd": "Birts cause confusion",
+  "subtitles.block.species.birt_dwelling.collect": "Birt Egg collected",
+  "subtitles.block.species.birt_dwelling.enter": "Birt enters dwelling",
+  "subtitles.block.species.birt_dwelling.exit": "Birt exits dwelling",
+  "subtitles.block.species.birt_dwelling.work": "Birts are plotting",
+  "subtitles.item.species.birt_egg.throw": "Birt Egg thrown",
+  "subtitles.item.species.birt_egg.hit": "Birt Egg hits something",
+
+  "advancements.species.birt_egg_at_warden.title": "Birt is the Word",
+  "advancements.species.birt_egg_at_warden.description": "Throw a birt egg at a warden and live to tell the tale",
+
+  "entity.species.limpet": "Limpet",
+  "item.species.limpet_spawn_egg": "Limpet Spawn Egg",
+
+  "subtitles.entity.species.limpet.death": "Limpet dies",
+  "subtitles.entity.species.limpet.hurt": "Limpet hurts",
+  "subtitles.entity.species.limpet.idle": "Limpet squeaks",
+  "subtitles.entity.species.limpet.step": "Limpet steps",
+  "subtitles.entity.species.limpet.deflect": "Limpet deflects",
+
+  "advancements.species.silk_touch_break_limpet.title": "The Conchequences of Hiding",
+  "advancements.species.silk_touch_break_limpet.description": "Break the Shell of a Limpet using Silk Touch"
+}

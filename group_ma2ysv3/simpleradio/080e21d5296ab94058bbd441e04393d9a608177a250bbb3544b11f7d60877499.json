@@ -1,0 +1,29 @@
+{
+  "item_group.simpleradio": "Simple Radio",
+
+  "item.simpleradio.transmitting_module": "Transmitting Module",
+  "item.simpleradio.receiving_module": "Receiving Module",
+  "item.simpleradio.speaker_module": "Speaker Module",
+
+  "item.simpleradio.transceiver": "Transceiver",
+  "block.simpleradio.radio": "Radio",
+  "block.simpleradio.radiosmither": "Radiosmithing Station",
+
+  "screen.simpleradio.radiosmither": "Radiosmithing Station",
+  "screen.simpleradio.radiosmither.am": "AM",
+  "screen.simpleradio.radiosmither.fm": "FM",
+  "screen.simpleradio.radiosmither.am_description": "More range, worse sound quality",
+  "screen.simpleradio.radiosmither.fm_description": "Better sound quality, less range",
+
+  "subtitles.simpleradio.radio_open": "Radio starts broadcasting",
+  "subtitles.simpleradio.radio_close": "Radio stops broadcasting",
+
+  "tooltip.simpleradio.transceiver_frequency": "Frequency: %s",
+  "tooltip.simpleradio.receiver_user": "User: %s",
+
+  "lexiconfig.simpleradio.title": "Simple Radio Settings",
+
+  "lexiconfig.simpleradio.maxRadioDistance": "Maximum Radio Distance",
+  "lexiconfig.simpleradio.maxRadioDistance_description": "The maximum distance a radio can transmit."
+}
+

@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.chatabove.category": "Chat Above",
+  "text.autoconfig.chatabove.title": "Chat Above",
+  "text.autoconfig.chatabove.option.enabled": "enable",
+  "text.autoconfig.chatabove.option.maxLineSize": "maximum line length",
+  "text.autoconfig.chatabove.option.fadeSeconds": "display time",
+  "text.autoconfig.chatabove.option.animationType": "animation type"
+}
