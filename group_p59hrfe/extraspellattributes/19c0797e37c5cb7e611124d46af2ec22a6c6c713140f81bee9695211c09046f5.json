@@ -1,0 +1,40 @@
+{
+  "attribute.name.extraspellattributes.reabsorption": "Reabsorption",
+  "attribute.name.extraspellattributes.converttofire": "Attack Damage gained as Fire Power",
+  "attribute.name.extraspellattributes.convertfromfire": "Fire Power gained as Attack Damage",
+  "attribute.name.extraspellattributes.converttoarcane": "Attack Damage gained as Arcane Power",
+  "attribute.name.extraspellattributes.convertfromarcane": "Arcane Power gained as Attack Damage",
+  "attribute.name.extraspellattributes.converttofrost": "Attack Damage gained as Frost Power",
+  "attribute.name.extraspellattributes.convertfromfrost": "Frost Power gained as Attack Damage",
+  "attribute.name.extraspellattributes.converttoheal": "Attack Damage gained as Healing Power",
+  "attribute.name.extraspellattributes.glancingblow": "Chance to Receive a Glancing Blow",
+  "attribute.name.extraspellattributes.spellsuppression": "Chance to Suppress Spell Damage",
+  "attribute.name.extraspellattributes.serenity": "Serenity",
+  "attribute.name.extraspellattributes.endu": "Endurance",
+  "attribute.name.extraspellattributes.determination": "Determination",
+
+  "desc.extraspellattributes.glance": "A Glancing Blow deals only 65% damage. You cannot receive Glancing Blows from attacks which don't come from an entity (Such as Fire and Poison).",
+
+  "desc.extraspellattributes.supp": "A Suppressed Spell deals only 50% damage.",
+
+  "desc.extraspellattributes.endu": "Your % Endurance is how much of your maximum health is deducted from the damage glancing blows would do.",
+  "desc.extraspellattributes.acro":"Your % Serenity is the chance that a suppressed spell instead deals no damage.",
+  "desc.extraspellattributes.determination":"Your % Determination is the proportion of health lost that regenerates as health over the next four seconds.",
+  "desc.extraspellattributes.reabsorption":"You regenerate Absorption (Yellow Hearts) up to your maximum Reabsorption gradually after not being hit for 2 seconds.",
+
+  "itemGroup.extraspellattributes.general": "Extra RPG Attributes Trinkets",
+  "item.extraspellattributes.netheritediamondring": "Netherite Diamond Ring",
+  "item.extraspellattributes.goldquartzring": "Gold Quartz Ring",
+  "item.extraspellattributes.netheritediamondamulet": "Netherite Diamond Amulet",
+  "item.extraspellattributes.goldquartzamulet": "Gold Quartz Amulet",
+  "item.extraspellattributes.martialbracer": "Turtle Bracer",
+  "item.extraspellattributes.arcanebracer": "Amethyst Bracer",
+  "item.extraspellattributes.nonbelieversamulet": "Nonbeliever's Amulet",
+  "item.extraspellattributes.turtlegirdle": "Turtle Girdle",
+  "item.extraspellattributes.defiancering": "Ring of Defiance",
+  "item.extraspellattributes.undyingsoul": "Undying Soul"
+
+
+
+
+}
