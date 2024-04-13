@@ -6265,6 +6265,28 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_8au6pc8/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ar
+      - de
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - et
+      - fr
+      - pl
+      - pt-BR
+      - ru
+      - sr
+      - tr
+      - uk
+      - vi
+      - zh-CN
   - source: /group_du63grv/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
