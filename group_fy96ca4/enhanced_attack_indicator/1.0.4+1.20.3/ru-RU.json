@@ -1,7 +1,7 @@
 {
   "enhanced_attack_indicator.midnightconfig.title": "Enhanced Attack Indicator",
   "enhanced_attack_indicator.midnightconfig.showBlockBreaking": "Показывать прогресс разрушения блока",
-  "enhanced_attack_indicator.midnightconfig.showRangeWeaponDraw": "Показать натягивание оружия дальнего боя",
+  "enhanced_attack_indicator.midnightconfig.showRangeWeaponDraw": "Показать натягивание у дальнобойного оружия",
   "enhanced_attack_indicator.midnightconfig.showItemCooldowns": "Показывать перезарядку предметов ",
   "enhanced_attack_indicator.midnightconfig.showFoodAndPotions": "Показывать еду и зелья",
   "enhanced_attack_indicator.midnightconfig.disablePickaxesAndShovels": "Отключить перезарядку для кирки и лопаты",
