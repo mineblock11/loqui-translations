@@ -3768,6 +3768,18 @@ files:
       - ru
       - tr
       - zh-CN
+  - source: /group_9f8kp2q/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - da
+      - de
+      - el
+      - eo
+      - fr
+      - nn-NO
+      - 'no'
+      - pl
+      - sq
   - source: /group_2qmktrs/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

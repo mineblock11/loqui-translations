@@ -1,0 +1,21 @@
+{
+  "debug.weather.clear": "Weather: Clear",
+  "debug.weather.rain": "Weather: Rain",
+  "debug.weather.thunder": "Weather: Thunder",
+  "debug.weather.error": "Unable to open weather changer; no permission",
+
+  "debug.time.day": "Time: Day",
+  "debug.time.noon": "Time: Noon",
+  "debug.time.night": "Time: Night",
+  "debug.time.midnight": "Time: Midnight",
+  "debug.time.error": "Unable to open time changer; no permission",
+
+  "debug.difficulty.peaceful": "Difficulty: Peaceful",
+  "debug.difficulty.easy": "Difficulty: Easy",
+  "debug.difficulty.normal": "Difficulty: Normal",
+  "debug.difficulty.hard": "Difficulty: Hard",
+  "debug.difficulty.error": "Unable to open difficulty changer; no permission",
+
+  "modmenu.summaryTranslation.dashboard": "More menus like the gamemode switcher.",
+  "modmenu.descriptionTranslation.dashboard": "Dashboard adds several switchers like the game mode switcher for other things such as Weather, Time, and Difficulty."
+}
