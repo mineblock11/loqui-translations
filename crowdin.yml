@@ -375,6 +375,11 @@ files:
     excluded_target_languages:
       - de
       - tr
+  - source: /group_zxrp842/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - tt-RU
+      - zh-CN
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -4696,6 +4701,22 @@ files:
       - ja
       - ru
       - uk
+  - source: /group_vbx478x/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - cs
+      - de
+      - es-ES
+      - it
+      - ko
+      - pt-BR
+      - pt-PT
+      - ru
+      - sv-SE
+      - tr
+      - uk
+      - zh-CN
+      - zh-TW
   - source: /group_2ftyfjj/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
