@@ -1,0 +1,11 @@
+{
+  "item.framing_templates.functional_storage_template": "Functional Storage Framing Template",
+  "item.framing_templates.storage_drawers_template": "Drawer Framing Template",
+  "tooltip.framing_templates.applicable_to": "Applicable to framed drawers from %s",
+  "tooltip.framing_templates.applied_decorations": "Decorated with",
+  "tooltip.framing_templates.makes_copy": "(Creates a copy of the input template)",
+  "tooltip.framing_templates.sides.front": "Front",
+  "tooltip.framing_templates.sides.front_divider": "Divider",
+  "tooltip.framing_templates.sides.side": "Side",
+  "tooltip.framing_templates.sides.trim": "Trim"
+}

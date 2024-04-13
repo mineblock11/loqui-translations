@@ -1,0 +1,6 @@
+{
+  "biome.javd.void": "The Void",
+  "block.javd.portal_block": "Void Portal",
+  "javd.invalid.pos": "Unable to find valid portal location",
+  "javd.invalid.world": "Unable to find world '%s'"
+}

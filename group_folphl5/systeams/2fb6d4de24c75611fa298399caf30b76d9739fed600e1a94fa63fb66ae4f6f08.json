@@ -1,0 +1,84 @@
+{
+  "item.systeams.steam_bucket": "Steam Bucket",
+  "fluid_type.systeams.steam": "Steam",
+  "item.systeams.boiler_pipe": "Steam Pipe",
+  "item.systeams.boiler_pipe.keyword": "steam dynamo boiler coil",
+  "item.thermal.rf_coil.keyword": "steam dynamo boiler",
+  "item.systeams.boiler_pipe.desc": "Shift-use on a Dynamo to convert to a Boiler. Returns the other head piece",
+  "item.thermal.rf_coil.desc": "Shift-use on a Boiler to convert to a Dynamo. Returns the Steam Pipe",
+  "itemGroup.systeams": "Systeams",
+  "info.systeams.augment.type.DynamoBoiler": "Dynamo & Boiler",
+
+  "info.systeams.steam": "Steam",
+  "info.systeams.steam_prod": "Steam prod",
+  "info.systeams.water_cons": "Water cons",
+
+  "info.systeams.air": "Air",
+  "info.systeams.air_pressure": "Pressure",
+  "info.systeams.air_volume": "Air",
+  "info.systeams.air_base_volume": "Base Volume",
+  "info.systeams.air_max_usage": "Max Usage",
+  "info.systeams.air_volume_unit": "mL",
+  "info.systeams.air_per_tick": "Max Air Usage",
+  "info.systeams.air_per_tick_unit": "mL/t",
+
+  "block.pneumaticcraft.advanced_pressure_tube.desc": "Shift-use on a Dynamo to convert to a Boiler. Returns the Steam Pipe",
+
+  "block.systeams.steam_dynamo": "Steam Dynamo",
+  "info.systeams.steam_dynamo.0": "Turns steam into power.",
+  "info.systeams.steam_dynamo.1": "It's getting steamy in here",
+  "block.systeams.steam_dynamo.keyword": "engine generator boiler power",
+
+  "info.systeams.boiler.throttle": "Will not waste buffered fuel when the output is full.",
+
+  "block.systeams.stirling_boiler": "Stirling Boiler",
+  "info.systeams.stirling_boiler.0": "Generates Steam using solid fuels.",
+  "info.systeams.stirling_boiler.1": "Most things that work in a Furnace work here too.",
+  "block.systeams.stirling_boiler.keyword": "charcoal coke engine generator steam",
+
+  "block.systeams.magmatic_boiler": "Magmatic Boiler",
+  "info.systeams.magmatic_boiler.0": "Generates Steam using extremely hot fluids.",
+  "info.systeams.magmatic_boiler.1": "Fluids dissipate into nothingness as a result of this process.",
+  "block.systeams.magmatic_boiler.keyword": "engine generator lava steam",
+
+  "block.systeams.compression_boiler": "Compression Boiler",
+  "info.systeams.compression_boiler.0": "Generates Steam using combustible fluids.",
+  "block.systeams.compression_boiler.keyword": "engine fuel generator steam",
+
+  "block.systeams.disenchantment_boiler": "Disenchantment Boiler",
+  "info.systeams.disenchantment_boiler.0": "Generates Steam using enchanted items.",
+  "info.systeams.disenchantment_boiler.1": "The item is destroyed along with the enchantment. That's why it works.",
+  "block.systeams.disenchantment_boiler.keyword": "book engine generator steam",
+
+  "block.systeams.gourmand_boiler": "Gourmand Boiler",
+  "info.systeams.gourmand_boiler.0": "Generates Steam using food!",
+  "info.systeams.gourmand_boiler.1": "Who knows what sort of beast you may be feeding.",
+  "info.systeams.gourmand_boiler.2": "It's calorific!",
+  "block.systeams.gourmand_boiler.keyword": "engine food generator steam",
+
+  "block.systeams.lapidary_boiler": "Lapidary Boiler",
+  "info.systeams.lapidary_boiler.0": "Generates Steam using gems!",
+  "info.systeams.lapidary_boiler.1": "Probably a portal to an alternate dimension of sparkle-obsessed goblins.",
+  "info.systeams.lapidary_boiler.2": "Gems are really just pretty rocks anyways.",
+  "block.systeams.lapidary_boiler.keyword": "engine gem generator steam",
+
+  "block.systeams.numismatic_boiler": "Numismatic Boiler",
+  "info.systeams.numismatic_boiler.0": "Generates Steam using economic arbitrage.",
+  "info.systeams.numismatic_boiler.1": "Might be a portal to an alternate dimension of pure avarice.",
+  "info.systeams.numismatic_boiler.2": "Don't overthink it, just insert coins.",
+  "block.systeams.numismatic_boiler.keyword": "coin engine generator steam",
+
+  "block.systeams.pneumatic_boiler": "Pneumatic Boiler",
+  "info.systeams.pneumatic_boiler.0": "Generates Steam using pressurized air.",
+  "info.systeams.pneumatic_boiler.1": "Some say it's a load of hot air",
+  "info.systeams.pneumatic_boiler.2": "Don't worry, only the water heats up in here!",
+  "block.systeams.pneumatic_boiler.keyword": "air pressure engine generator steam",
+
+  "block.systeams.frost_boiler": "Frost Boiler",
+  "info.systeams.frost_boiler.0": "Generates Steam using cold items.",
+  "info.systeams.frost_boiler.1": "Don't question it.",
+  "block.systeams.frost_boiler.keyword": "blizz snow ice cold engine generator steam",
+
+  "info.systeams.mekanism_gas_output.1": "Mekanism gas handler detected on output!",
+  "info.systeams.mekanism_gas_output.2": "Make sure the handler is set to actively pull from this boiler"
+}

@@ -1,0 +1,152 @@
+{
+  "item.factory_blocks.debug": "Debug Item (will be removed)",
+  "subtitles.factory_block.metal_sound": "Metal Sound",
+  "block.factory_blocks.test_block": "Test Block",
+
+  "block.factory_blocks.factory": "Factory Block",
+  "item.factory_blocks.factory.tooltip": "Dotted Rusty Plate",
+
+  "block.factory_blocks.rust": "Factory Block",
+  "item.factory_blocks.rust.tooltip": "Rusty Plate",
+
+  "block.factory_blocks.vrust": "Factory Block",
+  "item.factory_blocks.vrust.tooltip": "Very Rusty Plate",
+
+  "block.factory_blocks.srust": "Factory Block",
+  "item.factory_blocks.srust.tooltip": "Slightly Rusty Plate",
+
+  "block.factory_blocks.wireframe": "Factory Block",
+  "item.factory_blocks.wireframe.tooltip": "Wireframe",
+
+  "block.factory_blocks.pwireframe": "Factory Block",
+  "item.factory_blocks.pwireframe.tooltip": "Purple Wireframe",
+
+  "block.factory_blocks.hazard": "Factory Block",
+  "item.factory_blocks.hazard.tooltip": "Yellow-Black Caution Stripes",
+
+  "block.factory_blocks.hazardo": "Factory Block",
+  "item.factory_blocks.hazardo.tooltip": "Orange-White Caution Stripes",
+
+  "block.factory_blocks.circuit": "Factory Block",
+  "item.factory_blocks.circuit.tooltip": "Circuit",
+
+  "block.factory_blocks.metalbox": "Factory Block",
+  "item.factory_blocks.metalbox.tooltip": "Metal Box",
+
+  "block.factory_blocks.gcircuit": "Factory Block",
+  "item.factory_blocks.gcircuit.tooltip": "Gold-Plated Circuit",
+
+  "block.factory_blocks.pgcircuit": "Factory Block",
+  "item.factory_blocks.pgcircuit.tooltip": "Gold-Framed Purple Circuit",
+
+  "block.factory_blocks.grinder": "Factory Block",
+  "item.factory_blocks.grinder.tooltip": "Grinder",
+
+  "block.factory_blocks.old_vents": "Factory Block",
+  "item.factory_blocks.old_vents.tooltip": "Old Vents",
+
+  "block.factory_blocks.rust_plates": "Factory Block",
+  "item.factory_blocks.rust_plates.tooltip": "Segmented Rusty Plates",
+
+  "block.factory_blocks.bcircuit": "Factory Block",
+  "item.factory_blocks.bcircuit.tooltip": "Blue-Framed Circuit",
+
+  "block.factory_blocks.ice": "Factory Block",
+  "item.factory_blocks.ice.tooltip": "Ice Ice Ice",
+
+  "block.factory_blocks.mosaic": "Factory Block",
+  "item.factory_blocks.mosaic.tooltip": "Blue Circuit",
+
+  "block.factory_blocks.bwireframe": "Factory Block",
+  "item.factory_blocks.bwireframe.tooltip": "Blue Wireframe",
+
+  "block.factory_blocks.rusty_scaffold": "Factory Block",
+  "item.factory_blocks.rusty_scaffold.tooltip": "Rusty Scaffold",
+
+  "block.factory_blocks.large_pipes": "Factory Block",
+  "item.factory_blocks.large_pipes.tooltip": "Large Pipes",
+
+  "block.factory_blocks.small_pipes": "Factory Block",
+  "item.factory_blocks.small_pipes.tooltip": "Small Pipes",
+
+  "block.factory_blocks.vent": "Factory Block",
+  "item.factory_blocks.vent.tooltip": "Vent",
+
+  "block.factory_blocks.gvent": "Factory Block",
+  "item.factory_blocks.gvent.tooltip": "Glowing Vent",
+
+  "block.factory_blocks.insulation": "Factory Block",
+  "item.factory_blocks.insulation.tooltip": "Insulation",
+
+  "block.factory_blocks.gears": "Factory Block",
+  "item.factory_blocks.gears.tooltip": "Gears & Flywheels",
+
+  "block.factory_blocks.caution": "Factory Block",
+  "item.factory_blocks.caution.tooltip": "Rusty Scaffold",
+
+  "block.factory_blocks.cables": "Factory Block",
+  "item.factory_blocks.cables.tooltip": "Cables",
+
+  "block.factory_blocks.rust_bplates": "Factory Block",
+  "item.factory_blocks.rust_bplates.tooltip": "Rusty Bolted Plates",
+
+  "block.factory_blocks.grate": "Factory Block",
+  "item.factory_blocks.grate.tooltip": "Grate",
+
+  "block.factory_blocks.rgrate": "Factory Block",
+  "item.factory_blocks.rgrate.tooltip": "Rusty Grate",
+
+  "block.factory_blocks.hex": "Factory Block",
+  "item.factory_blocks.hex.tooltip": "Massive Hexagonal",
+
+  "block.factory_blocks.wgpanel": "Factory Block",
+  "item.factory_blocks.wgpanel.tooltip": "Extremely Corroded Panels",
+
+  "block.factory_blocks.wopanel": "Factory Block",
+  "item.factory_blocks.wopanel.tooltip": "Extremely Rusted Panels",
+
+  "block.factory_blocks.sturdy": "Factory Block",
+  "item.factory_blocks.sturdy.tooltip": "Sturdy",
+
+  "block.factory_blocks.megacell": "Factory Block",
+  "item.factory_blocks.megacell.tooltip": "Megacell Battery",
+
+  "block.factory_blocks.exhaust": "Factory Block",
+  "item.factory_blocks.exhaust.tooltip": "Exhaust Plating",
+
+  "block.factory_blocks.engineer": "Factory Block",
+  "item.factory_blocks.engineer.tooltip": "Engineer's Pipes",
+
+  "block.factory_blocks.scaffold": "Factory Block",
+  "item.factory_blocks.scaffold.tooltip": "Large Rusty Scaffold",
+
+  "block.factory_blocks.piping": "Factory Block",
+  "item.factory_blocks.piping.tooltip": "Piping",
+
+  "block.factory_blocks.large_plating": "Factory Block",
+  "item.factory_blocks.large_plating.tooltip": "Sloppy Plating",
+
+  "block.factory_blocks.fan_side": "Factory Block",
+  "item.factory_blocks.fan_side.tooltip": "Smooth Metal",
+
+  "block.factory_blocks.fan": "Factory Block",
+  "item.factory_blocks.fan.tooltip": "Fan (Redstone Powered)",
+
+  "block.factory_blocks.fan_on": "Factory Block",
+  "item.factory_blocks.fan_on.tooltip": "Fan (Always On)",
+
+  "block.factory_blocks.fan_four": "Factory Block",
+  "item.factory_blocks.fan_four.tooltip": "Fan (Redstone Four Sided)",
+
+  "block.factory_blocks.fan_four_on": "Factory Block",
+  "item.factory_blocks.fan_four_on.tooltip": "Fan (Always On Four Sided)",
+
+  "block.factory_blocks.fan_malfunction": "Factory Block",
+  "item.factory_blocks.fan_malfunction.tooltip": "Fan (Redstone Malfunctioning)",
+
+  "block.factory_blocks.fan_malfunction_on": "Factory Block",
+  "item.factory_blocks.fan_malfunction_on.tooltip": "Fan (Always On Malfunctioning)",
+
+  "block.factory_blocks.medium_fan": "Factory Block",
+  "item.factory_blocks.medium_fan.tooltip": "Medium Fan"
+}
