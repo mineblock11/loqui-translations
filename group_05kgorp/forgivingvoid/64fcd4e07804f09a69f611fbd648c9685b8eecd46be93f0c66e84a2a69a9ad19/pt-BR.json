@@ -1,0 +1,23 @@
+{
+  "config.forgivingvoid.title": "Vazio Perdoador",
+  "config.forgivingvoid.triggerAtDistanceBelow": "Ativar a uma Distância Abaixo de",
+  "config.forgivingvoid.triggerAtDistanceBelow.tooltip": "A distância até o nível y mínimo em que o Vazio Perdoador deve perdoar o jogador e enviá-lo para o céu.",
+  "config.forgivingvoid.damageOnFall": "Dano na Queda",
+  "config.forgivingvoid.damageOnFall.tooltip": "A quantidade de dano aplicada ao jogador quando eles pousam.",
+  "config.forgivingvoid.fallingHeight": "Altura da Queda",
+  "config.forgivingvoid.fallingHeight.tooltip": "A altura da qual o jogador estará caindo após cair no vazio.",
+  "config.forgivingvoid.preventDeath": "Prevenir Morte",
+  "config.forgivingvoid.preventDeath.tooltip": "Prevenir a morte ao cair no vazio (limita o dano para deixar pelo menos 0.5 corações)",
+  "config.forgivingvoid.triggerInOverworld": "Ativar na Superfície",
+  "config.forgivingvoid.triggerInOverworld.tooltip": "Defina como falso para fazer com que o Vazio Perdoador não seja acionado no vazio da Superfície (dimensão 0).",
+  "config.forgivingvoid.triggerInNether": "Ativar no Nether",
+  "config.forgivingvoid.triggerInNether.tooltip": "Defina como falso para fazer com que o Vazio Perdoador não seja acionado no vazio do nether (dimensão -1).",
+  "config.forgivingvoid.triggerInEnd": "Ativar no Fim",
+  "config.forgivingvoid.triggerInEnd.tooltip": "Defina como falso para fazer com que o Vazio Perdoador não seja acionado no vazio do fim (dimensão 1).",
+  "config.forgivingvoid.disableVanillaAntiCheatWhileFalling": "Desativar o AntiCheat do Vanilla enquanto estiver caindo",
+  "config.forgivingvoid.disableVanillaAntiCheatWhileFalling.tooltip": "Defina como verdadeiro se os jogadores estiverem sofrendo de lag ao cair no vazio. Se você estiver hospedando um servidor público, só faça isso se tiver um anti-cheat adequado instalado.",
+  "config.forgivingvoid.dimensionAllowList": "Lista de Dimensões Permitidas",
+  "config.forgivingvoid.dimensionAllowList.tooltip": "Lista de IDs de dimensão permitidas para o Vazio Perdoador. Opções como triggerInOverworld, etc. têm prioridade.",
+  "config.forgivingvoid.dimensionDenyList": "Lista de Dimensões Negadas",
+  "config.forgivingvoid.dimensionDenyList.tooltip": "Lista de IDs de dimensões adicionais a serem excluídas da lista do Vazio Perdoador. As opções triggerInOverworld etc. têm prioridade. Ignorado se a lista de dimensões permitidas estiver definida."
+}
