@@ -1,0 +1,69 @@
+{
+  "creativemodetab.gf_tab": "Golden Food!",
+  "item.goldenfoods.golden_apple": "Golden Apple",
+  "item.goldenfoods.enchanted_golden_apple": "Enchanted Golden Apple",
+  "item.goldenfoods.golden_melon_slice": "Golden Melon Slice",
+  "item.goldenfoods.enchanted_golden_melon_slice": "Enchanted Golden Melon Slice",
+  "item.goldenfoods.golden_sweet_berries": "Golden Sweet Berries",
+  "item.goldenfoods.enchanted_golden_sweet_berries": "Enchanted Golden Sweet Berries",
+  "item.goldenfoods.golden_glow_berries": "Golden Glow Berries",
+  "item.goldenfoods.enchanted_golden_glow_berries": "Enchanted Golden Glow Berries",
+  "item.goldenfoods.golden_chorus_fruit": "Golden Chorus Fruit",
+  "item.goldenfoods.enchanted_golden_chorus_fruit": "Enchanted Golden Chorus Fruit",
+  "item.goldenfoods.golden_carrot": "Golden Carrot",
+  "item.goldenfoods.enchanted_golden_carrot": "Enchanted Golden Carrot",
+  "item.goldenfoods.golden_baked_potato": "Golden Baked Potato",
+  "item.goldenfoods.enchanted_golden_baked_potato": "Enchanted Golden Baked Potato",
+  "item.goldenfoods.golden_beetroot": "Golden Beetroot",
+  "item.goldenfoods.enchanted_golden_beetroot": "Enchanted Golden Beetroot",
+  "item.goldenfoods.golden_dried_kelp": "Golden Dried Kelp",
+  "item.goldenfoods.enchanted_golden_dried_kelp": "Enchanted Golden Dried Kelp",
+  "item.goldenfoods.golden_cooked_beef": "Golden Cooked Beef",
+  "item.goldenfoods.enchanted_golden_cooked_beef": "Enchanted Golden Cooked Beef",
+  "item.goldenfoods.golden_cooked_porkchop": "Golden Cooked Porkchop",
+  "item.goldenfoods.enchanted_golden_cooked_porkchop": "Enchanted Golden Cooked Porkchop",
+  "item.goldenfoods.golden_cooked_mutton": "Golden Cooked Mutton",
+  "item.goldenfoods.enchanted_golden_cooked_mutton": "Enchanted Golden Cooked Mutton",
+  "item.goldenfoods.golden_cooked_chicken": "Golden Cooked Chicken",
+  "item.goldenfoods.enchanted_golden_cooked_chicken": "Enchanted Golden Cooked Chicken",
+  "item.goldenfoods.golden_cooked_rabbit": "Golden Cooked Rabbit",
+  "item.goldenfoods.enchanted_golden_cooked_rabbit": "Enchanted Golden Cooked Rabbit",
+  "item.goldenfoods.golden_cooked_cod": "Golden Cooked Cod",
+  "item.goldenfoods.enchanted_golden_cooked_cod": "Enchanted Golden Cooked Cod",
+  "item.goldenfoods.golden_cooked_salmon": "Golden Cooked Salmon",
+  "item.goldenfoods.enchanted_golden_cooked_salmon": "Enchanted Golden Cooked Salmon",
+  "item.goldenfoods.golden_bread": "Golden Bread",
+  "item.goldenfoods.enchanted_golden_bread": "Enchanted Golden Bread",
+  "item.goldenfoods.golden_cookie": "Golden Cookie",
+  "item.goldenfoods.enchanted_golden_cookie": "Enchanted Golden Cookie",
+  "item.goldenfoods.golden_pumpkin_pie": "Golden Pumpkin Pie",
+  "item.goldenfoods.enchanted_golden_pumpkin_pie": "Enchanted Golden Pumpkin Pie",
+
+
+  "item.goldenfoods.golden_cake": "Golden Cake",
+  "item.goldenfoods.enchanted_golden_cake": "Enchanted Golden Cake",
+  "item.goldenfoods.golden_cake_item": "Golden Cake",
+  "item.goldenfoods.enchanted_golden_cake_item": "Enchanted Golden Cake",
+  "block.goldenfoods.golden_cake": "Golden Cake",
+  "block.goldenfoods.enchanted_golden_cake": "Enchanted Golden Cake",
+
+  "item.goldenfoods.golden_mushroom_stew": "Golden Mushroom Stew",
+  "item.goldenfoods.enchanted_golden_mushroom_stew": "Enchanted Golden Mushroom Stew",
+  "item.goldenfoods.golden_beetroot_soup": "Golden Beetroot Soup",
+  "item.goldenfoods.enchanted_golden_beetroot_soup": "Enchanted Golden Beetroot Soup",
+  "item.goldenfoods.golden_rabbit_stew": "Golden Rabbit Stew",
+  "item.goldenfoods.enchanted_golden_rabbit_stew": "Enchanted Golden Rabbit Stew",
+  "item.goldenfoods.golden_milk_bucket": "Golden Milk Bucket",
+  "item.goldenfoods.enchanted_golden_milk_bucket": "Enchanted Golden Milk Bucket",
+  "item.goldenfoods.golden_honey_bottle": "Golden Honey Bottle",
+  "item.goldenfoods.enchanted_golden_honey_bottle": "Enchanted Golden Honey Bottle",
+
+
+  "enchantment.goldenfoods.gf_enchantment": "Golden Food Enchantment",
+  "enchantment.goldenfoods.gf_enchantment.desc": "Makes golden food better!"
+
+
+
+
+
+}
