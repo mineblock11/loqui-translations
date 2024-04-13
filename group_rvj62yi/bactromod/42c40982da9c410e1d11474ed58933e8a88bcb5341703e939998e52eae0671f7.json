@@ -1,0 +1,48 @@
+{
+  "bactromod.options.title": "BactroMod Settings",
+
+  "bactromod.options.gamma": "Brightness boost",
+  "bactromod.options.gamma.description": "Boosts in-game brightness by set factor.",
+
+  "bactromod.options.pumpkinblur": "Pumpkin blur",
+  "bactromod.options.pumpkinblur.description": "Disables black texture overlay that strongly limits view when player wears a carved pumpkin.",
+
+  "bactromod.options.fireoffset": "Fire offset",
+  "bactromod.options.fireoffset.description": "Moves fire texture in height. Usually you would select a negative value to move fire texture down and free up your view.",
+
+  "bactromod.options.shieldoffset": "Shield offset",
+  "bactromod.options.shieldoffset.description": "Moves shield in height when in first-person perspective. Usually you would select a negative value to move shield down and free up your view.",
+
+  "bactromod.options.boatmap": "Show map in boat",
+  "bactromod.options.boatmap.description": "Allows maps to always be shown when moving in boat.",
+
+  "bactromod.options.lavafog": "Lava fog",
+  "bactromod.options.lavafog.description": "Disables fog caused by diving into lava.",
+
+  "bactromod.options.snowfog": "Powder snow fog",
+  "bactromod.options.snowfog.description": "Disables fog caused by diving into powder snow.",
+
+  "bactromod.options.blindnessfog": "Blindness fog",
+  "bactromod.options.blindnessfog.description": "Disables fog caused by blindness effect.",
+
+  "bactromod.options.darknessfog": "Darkness fog",
+  "bactromod.options.darknessfog.description": "Disables fog caused by darkness effect.",
+
+  "bactromod.options.waterfog": "Water fog",
+  "bactromod.options.waterfog.description": "Disables fog caused by diving into water.",
+
+  "bactromod.options.skyfog": "Sky fog",
+  "bactromod.options.skyfog.description": "Disables sky fog.",
+
+  "bactromod.options.thickfog": "Thick fog",
+  "bactromod.options.thickfog.description": "Disables thick fog (e.g. in Nether).",
+
+  "bactromod.options.terrainfog": "Terrain fog",
+  "bactromod.options.terrainfog.description": "Disables terrain fog.",
+
+  "bactromod.options.windowborders": "Dark window borders",
+  "bactromod.options.windowborders.description": "Enables dark window border in Minecraft (only on Windows 11).",
+
+  "modmenu.summaryTranslation.bactromod": "A lightweight mod with some game optimizations and features.",
+  "modmenu.descriptionTranslation.bactromod": "A lightweight mod with some game optimizations and features."
+}

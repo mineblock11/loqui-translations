@@ -1,0 +1,8 @@
+{
+	"packrulemenus.featureflag.warning.title": "Feature Flags",
+	"packrulemenus.featureflag.warning.message": "You are attempting to enable or disable one or more feature flags. Restarting the world is required to apply those changes.",
+	"packrulemenus.featureflag.warning.checkbox": "I know what I'm doing; exit the world now.",
+	"packrulemenus.vanillapack.warning.title": "Vanilla Data-Pack",
+	"packrulemenus.vanillapack.warning.message": "You are attempting to disable the Vanilla Datapack. THIS IS VERY LIKELY TO BREAK THE WORLD. Are you REALLY SURE you want to proceed?",
+	"packrulemenus.vanillapack.warning.checkbox": "I am ready to face the consequences."
+}

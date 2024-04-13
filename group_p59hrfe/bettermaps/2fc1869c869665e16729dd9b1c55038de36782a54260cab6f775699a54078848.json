@@ -1,0 +1,12 @@
+{
+  "gamerule.doBetterMaps": "Toggle 'Maps of the Unknown'",
+  "gamerule.doBetterMaps.description": "Use the 'Maps of the Unknown' exploration map generator, to lighten the loot processing load",
+  "gamerule.doBetterMapsLoot": "Toggle 'Maps of the Unknown' in loot chests",
+  "gamerule.doBetterMapsLoot.description": "Use 'Maps of the Unknown' map generator in loot chests ; requires main mod toggle",
+  "gamerule.doBetterMapsTrades": "Toggle 'Maps of the Unknown' in villager trades",
+  "gamerule.doBetterMapsTrades.description": "Use 'Maps of the Unknown' map generator in villager trades ; requires main mod toggle",
+  "gamerule.doBetterMapFromPlayerPos": "Locate map from player pos",
+  "gamerule.doBetterMapFromPlayerPos.description": "Makes the 'Maps of the Unknown' maps locate the structure from the player pos when activated, instead of the original chest pos",
+  "gamerule.doBetterMapsDynamicLocating": "Dynamic map structure locating",
+  "gamerule.doBetterMapsDynamicLocating.description": "Makes locating structures threaded, to prevent freezing the world while it is running"
+}
