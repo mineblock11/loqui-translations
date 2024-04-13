@@ -1,0 +1,36 @@
+{
+  "text.ok-boomer.prefix": [
+    "",
+    { "text": "[", "color": "dark_gray" },
+    { "text": "OK ", "color": "#bb1a34" },
+    { "text": "Boomer", "color": "#fcab40" },
+    { "text": "]", "color": "dark_gray" }
+  ],
+  "key.ok-boomer.boom": [
+    { "translate": "text.ok-boomer.prefix" },
+    " Boom"
+  ],
+  "key.ok-boomer.screen_boom": [
+    { "translate": "text.ok-boomer.prefix" },
+    " Screen Boom"
+  ],
+  "key.ok-boomer.rotat": [
+    { "translate": "text.ok-boomer.prefix" },
+    " Rotat"
+  ],
+  "text.config.ok-boomer.title": [
+    { "translate": "text.ok-boomer.prefix" },
+    " Configuration"
+  ],
+  "text.config.ok-boomer.option.useCinematicCamera": "Use Cinematic Camera when Booming",
+  "text.config.ok-boomer.option.enableScreenBooming": "Allow Booming in Screens",
+  "text.config.ok-boomer.option.boomScrollSensitivity": "Boom Scrolling Sensitivity",
+  "text.config.ok-boomer.option.boomTransition": "Boom Transition",
+  "text.config.ok-boomer.option.defaultBoom": "Default Boom",
+  "text.config.ok-boomer.option.boomTransitionSpeed": "Boom Transition Speed",
+  "text.config.ok-boomer.category.boomLimits": "Boom Limits",
+  "text.config.ok-boomer.option.boomLimits.enableLimits": "Enable Limits",
+  "text.config.ok-boomer.option.boomLimits.allowBoomingOut": "Allow Booming Out",
+  "text.config.ok-boomer.option.boomLimits.maxBoom": "Maximum Boom",
+  "text.config.ok-boomer.option.boomLimits.maxScreenBoom": "Maximum Screen Boom"
+}
