@@ -1,0 +1,23 @@
+{
+  "fps.display.fps":    "FPS: %s",
+  "fps.display.ping":   "Ping: %s",
+  "fps.display.memory": "Mem: %s%% %s/%sMB",
+
+  "fps.key.toggle_fps":    "Toggle Fps",
+  "fps.key.toggle_ping":   "Toggle Ping",
+  "fps.key.toggle_memory": "Toggle Memory",
+  "fps.key.toggle_all":    "Toggle All",
+
+  "text.autoconfig.fps.title":                       "FPS Monitor",
+  "text.autoconfig.fps.option.posX":                 "Display Position - Horizontal",
+  "text.autoconfig.fps.option.posY":                 "Display Position - Vertical",
+  "text.autoconfig.fps.option.transparency":         "Text Transparency",
+  "text.autoconfig.fps.option.shadow":               "Has Text Shadow",
+  "text.autoconfig.fps.option.toggleFps":            "Toggles FPS HUD",
+  "text.autoconfig.fps.option.fpsColor":             "Selects FPS Font Color",
+  "text.autoconfig.fps.option.togglePing":           "Toggles Ping HUD",
+  "text.autoconfig.fps.option.pingColor":            "Selects Ping Font Color",
+  "text.autoconfig.fps.option.toggleMemory":         "Toggles Memory HUD",
+  "text.autoconfig.fps.option.memoryColor":          "Selects Memory Font Color",
+  "text.autoconfig.fps.option.enableGameWindowInfo": "Display Info - Game-Window Bar"
+}
