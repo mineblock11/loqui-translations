@@ -1,0 +1,10 @@
+{
+  "text.autoconfig.talk_balloons.option.balloonsHeightOffset": "Balloons height offset",
+  "text.autoconfig.talk_balloons.option.distanceBetweenBalloons": "Distance between balloons",
+  "text.autoconfig.talk_balloons.option.maxBalloons": "Max balloons",
+  "text.autoconfig.talk_balloons.option.minBalloonWidth": "Min balloon width",
+  "text.autoconfig.talk_balloons.option.maxBalloonWidth": "Max balloon width",
+  "text.autoconfig.talk_balloons.option.balloonAge": "Balloon age",
+  "text.autoconfig.talk_balloons.option.textColor": "Text color",
+  "text.autoconfig.talk_balloons.option.showOwnBalloon": "Show own balloon"
+}

@@ -1,0 +1,10 @@
+{
+  "modmenu.nameTranslation.visible_offhand": "Visible Offhand",
+  "modmenu.descriptionTranslation.visible_offhand": "Show both hands at the same time!",
+  "button.vo.double_hands": "Double Hands",
+  "button.vo.reload_config": "Reload Profile/Done",
+  "button.vo.on": "ON",
+  "button.vo.off": "OFF",
+
+  "config.vo.reloaded": "The configuration file has been reloaded!"
+}

@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.timestamp_chat.title": "Timestamp Chat Config",
+  "text.autoconfig.timestamp_chat.option.pattern": "Pattern",
+  "text.autoconfig.timestamp_chat.option.color": "Color"
+}

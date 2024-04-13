@@ -1,0 +1,6 @@
+{
+  "enchantment.usefulspyglass.marking": "Marking",
+  "enchantment.usefulspyglass.marking.desc": "Left click to apply the glowing effect to mobs viewed through a spyglass.",
+  "enchantment.usefulspyglass.precision": "Precision",
+  "enchantment.usefulspyglass.precision.desc": "Offhanding a spyglass and crouching while using a ranged weapon provides zoom. Arrows gain perfect accuracy and aren't affected by gravity."
+}

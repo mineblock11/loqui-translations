@@ -1,0 +1,12 @@
+{
+  "eyespy.title": "Eye Spy",
+  "key.eyespy.ping": "Eye Spy: Ping",
+  "eyespy.toast.ping.noSpyglass": "Press %s to ping.",
+  "eyespy.toast.ping.noZoom": "Press %s when holding a %s to ping a block or entity.",
+  "eyespy.toast.ping.withZoom": "Press %s when zoomed in with a %s to ping a block or entity.",
+  "eyespy.rangefinder.outOfRange": "Out of range",
+  "eyespy.command.config.clickToOpenWiki": "Click to open the wiki page for this option",
+  "eyespy.command.config.check": "%s: %s",
+  "eyespy.command.config.change": "%s: %s -> %s",
+  "eyespy.command.config.unchanged": "%s: %s (unchanged)"
+}
