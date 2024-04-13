@@ -1,0 +1,41 @@
+{
+  "config.PixelHud.title": "Pixel-Hud Configuration",
+
+  "config.PixelHud.playerCoordinates": "Player Coordinates",
+  "config.PixelHud.playerCoordinates.textColor": "Coordinates Text Color",
+  "config.PixelHud.playerCoordinates.backgroundColor": "Coordinates Background Color",
+  "config.PixelHud.playerCoordinates.xPercentage": "Coordinates X Percentage Hud",
+  "config.PixelHud.playerCoordinates.yPercentage": "Coordinates Y Percentage Hud",
+  "config.PixelHud.playerCoordinates.display": "Display the Coordinates Hud",
+
+  "config.PixelHud.armorItem": "Armor and Item",
+  "config.PixelHud.armorItem.textColor": "Armor and Item Text Color",
+  "config.PixelHud.armorItem.backgroundColor": "Armor and Item Background Color",
+  "config.PixelHud.armorItem.xPercentage": "Armor and Item X Percentage Hud",
+  "config.PixelHud.armorItem.yPercentage": "Armor and Item Y Percentage Hud",
+  "config.PixelHud.armorItem.display": "Display the Armor and Item Hud",
+
+  "config.PixelHud.elytra": "Elytra",
+  "config.PixelHud.elytra.textColor": "Elytra Text Color",
+  "config.PixelHud.elytra.backgroundColor": "Elytra Background Color",
+  "config.PixelHud.elytra.xPercentage": "Elytra X Percentage Hud",
+  "config.PixelHud.elytra.yPercentage": "Elytra Y Percentage Hud",
+  "config.PixelHud.elytra.display": "Display the Elytra Hud",
+
+  "config.PixelHud.timeDisplay": "Time Display",
+  "config.PixelHud.timeDisplay.textColor": "Time Display Text Color",
+  "config.PixelHud.timeDisplay.backgroundColor": "Time Display Background Color",
+  "config.PixelHud.timeDisplay.xPercentage": "Time Display X Percentage Hud",
+  "config.PixelHud.timeDisplay.yPercentage": "Time Display Y Percentage Hud",
+  "config.PixelHud.timeDisplay.display": "Display the Time Hud",
+
+  "config.PixelHud.fpsDisplay": "FPS Display",
+  "config.PixelHud.fpsDisplay.textColor": "FPS Display Text Color",
+  "config.PixelHud.fpsDisplay.backgroundColor": "FPS Display Background Color",
+  "config.PixelHud.fpsDisplay.xPercentage": "FPS Display X Percentage Hud",
+  "config.PixelHud.fpsDisplay.yPercentage": "FPS Display Y Percentage Hud",
+  "config.PixelHud.fpsDisplay.display": "Display the FPS Hud",
+
+  "config.PixelHud.about": "About",
+  "key.hud": "Configuration Menu"
+}
