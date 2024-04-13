@@ -1,0 +1,14 @@
+{
+  "horse.tooltip.health": "Gesundheit:",
+  "horse.tooltip.health.unit": "%s Herzen",
+  "horse.tooltip.jump_height": "Sprunghöhe: %s",
+  "horse.tooltip.jump_height.unit": "%s Blöcke",
+  "horse.tooltip.max": "Max: %s",
+  "horse.tooltip.min": "Min: %s",
+  "horse.tooltip.speed": "Geschwindigkeit: %s",
+  "horse.tooltip.speed.unit": "%s Blöcke/Sekunde",
+  "horse.tooltip.strength": "Lagerplatz: %s",
+  "horse.tooltip.strength.unit": "%s Inventarplätze",
+  "item.horseexpert.monocle": "Monokel",
+  "item.horseexpert.monocle.tooltip": "Setze es auf und schau dein Reittier an, um seine Werte zu sehen!"
+}
