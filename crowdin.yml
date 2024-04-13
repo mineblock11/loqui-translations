@@ -2485,6 +2485,15 @@ files:
       - ja
       - pl
       - ru
+  - source: /group_1sn6it2/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - pt-BR
+      - pt-PT
+      - ru
+      - uk
+      - zh-CN
   - source: /group_z6um4qb/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

@@ -1,0 +1,21 @@
+{
+  "item.plasmamod.plasma_pickaxe": "Plasma Pickaxe",
+  "item.plasmamod.plasmatic_orb": "Plasmatic Orb",
+  "entity.plasmamod.plasmatron_spider": "Plasmatron Spider",
+  "subtitles.plasmatron_spider.ambient": "Plasmatron Spider Hisses",
+  "subtitles.plasmatron_spider.death": "Plasmatron Spider Dies",
+  "subtitles.plasmatron_spider.step": "Plasmatron Spider Walks",
+  "item.plasmamod.plasmatron_spider_spawn_egg": "Plasmatron Spider Spawn Egg",
+  "item.plasmamod.plasma_hoe": "Plasma Hoe",
+  "subtitles.plasmatron_spider_step": "Plasmatron Spider Walks",
+  "subtitles.plasmatron_spider_death": "Plasmatron Spider Dies",
+  "item_group.plasmamod.plasma_mod": "Plasma Mod",
+  "subtitles.plasmatron_spider_hurt": "Plasmatron Spider Hurts",
+  "item.plasmamod.plasma_shovel": "Plasma Shovel",
+  "subtitles.plasmatron_spider.hurt": "Plasmatron Spider Hurts",
+  "subtitles.stepa": "aaaa",
+  "item.plasmamod.plasma_axe": "Plasma Axe",
+  "item.plasmamod.plasma_sword": "Plasma Sword",
+  "subtitles.plasmatron_spider.say": "Plasmatron Spider Hisses",
+  "subtitles.plasmatron_spider_ambient": "Plasmatron Spider Hisses"
+}

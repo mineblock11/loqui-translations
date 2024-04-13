@@ -1,0 +1,5 @@
+{
+  "modmenu.descriptionTranslation.silk-mod-pass": "This system includes a program interface for operating mod data in Silk API, making it easier to access mod data. Almost all advanced systems in the API are developed using this interface.",
+  "modmenu.nameTranslation.silk-mod-pass": "Silk API: Mod Pass",
+  "modmenu.summaryTranslation.silk-mod-pass": "Sub-API for manipulating mod data."
+}

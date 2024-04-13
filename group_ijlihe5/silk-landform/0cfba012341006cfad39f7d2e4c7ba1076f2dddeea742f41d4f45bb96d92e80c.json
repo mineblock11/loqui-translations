@@ -1,0 +1,20 @@
+{
+  "modmenu.nameTranslation.silk-landform": "Silk API：Landform",
+  "modmenu.summaryTranslation.silk-landform": "Sub-API for impl world generation functionality.",
+  "modmenu.descriptionTranslation.silk-landform": "This system includes Silk API used to implement vanilla noise chunk generator modifications, terrain, biome modifications, and world upgrader and other functions related to world generation.",
+  "// world_upgrade": "Text translation of the world upgrade system",
+  "text.silk-api.world_upgrade.upgrade.tooltip": "This world was created in an earlier version of '%1$s'. It is recommended to upgrade the world to better play '%1$s'.",
+  "text.silk-api.world_upgrade.downgrade.tooltip": "This world was created in an newer version of '%1$s'. Forcibly playing this world may have unexpected consequences. You must downgrade the world or update the latest version of '%1$s' to play this world!",
+  "title.silk-api.world_upgrade.flush": "Flush World",
+  "title.silk-api.world_upgrade.upgrade": "Upgrade World",
+  "title.silk-api.world_upgrade.downgrade": "Downgrade World",
+  "text.silk-api.world_upgrade.prompt": "The world upgrader will detect the contents of each chunk to determine whether this chunk should be modified.\nAll chunks that need to be modified will be §c§lDELETE§r for regeneration.\nDepending on the state of the world, you may §c§lLOSE§r data saved in certain chunks.\nIf you are not sure whether this data is important, we recommend that you §6§lBACKUP§r your world before %1$s.",
+  "title.silk-api.world_upgrade.warning": "Need Upgrade World!",
+  "text.silk-api.world_upgrade.warning": "This world is not the latest version and requires a world upgrade.\nIf the world is not upgraded, the world will be forced to upgrade to the latest version, which may have unpredictable consequences.\nWe recommend that you go to '%1$s' to upgrade the world so that you can play this world better.\nIf you understand the consequences and want to continue playing, we recommend that you backup your world first just in case.",
+  "title.silk-api.world_upgrade.screen": "%1$s '%2$s'",
+  "text.silk-api.world_upgrade.deleted": "Deleted chunks: %1$s",
+  "text.silk-api.world_upgrade.handled": "Handled chunks：%1$s",
+  "text.silk-api.world_upgrade.upgrading": "Upgrading chunks...",
+  "text.silk-api.world_upgrade.downgrading": "Downgrading chunks...",
+  "text.silk-api.world_upgrade.flushing": "Flushing chunks..."
+}

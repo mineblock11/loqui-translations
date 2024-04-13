@@ -1,0 +1,21 @@
+{
+  "advancements.reframed.description": "Get all the frame types.",
+  "block.reframed.cube": "Cube Frame",
+  "block.reframed.half_stair": "Half Stair Frame",
+  "block.reframed.half_stairs_slab": "Half Stairs Slab Frame",
+  "block.reframed.half_stairs_stair": "Half Stairs Stair Frame",
+  "block.reframed.layer": "Layer Frame",
+  "block.reframed.slab": "Slab Frame",
+  "block.reframed.slabs_cube": "Slabs Cube Frame",
+  "block.reframed.small_cube": "Small Cube Frame",
+  "block.reframed.small_cubes_step": "Small Cubes Step Frame",
+  "block.reframed.stair": "Stair Frame",
+  "block.reframed.stairs_cube": "Stairs Cube Frame",
+  "block.reframed.step": "Step Frame",
+  "block.reframed.steps_slab": "Steps Slab Frame",
+  "item.reframed.blueprint": "Blueprint",
+  "item.reframed.blueprint_written": "Blueprint Written",
+  "item.reframed.hammer": "Hammer",
+  "item.reframed.screwdriver": "Screwdriver",
+  "itemGroup.reframed.tab": "Frames"
+}

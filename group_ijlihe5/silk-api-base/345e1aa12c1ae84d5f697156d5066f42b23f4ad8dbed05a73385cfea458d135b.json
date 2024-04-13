@@ -1,0 +1,10 @@
+{
+  "modmenu.descriptionTranslation.silk-api": "Advanced Fabric API extensions for adding fancy mod items, blocks, mobs and features. The goal is to make it easy for fabric mod developers to produce a variety of advanced operations.",
+  "modmenu.descriptionTranslation.silk-api-base": "This system contains the most commonly used and basic interfaces and practical utils in Silk API, which are used by other systems in Silk API.",
+  "modmenu.nameTranslation.silk-api": "Silk API",
+  "modmenu.nameTranslation.silk-api-base": "Silk API: Base",
+  "modmenu.summaryTranslation.silk-api": "Fabric API extensions for making fancy functionality.",
+  "modmenu.summaryTranslation.silk-api-base": "Sub-API for providing basic utils.",
+  "modmenu.support.afdian": "Support: Afdian",
+  "modmenu.support.patreon": "Support: Patreon"
+}
