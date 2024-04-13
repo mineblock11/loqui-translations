@@ -1,0 +1,12 @@
+{
+  "spruceui.reset": "Reset",
+  "spruceui.gui.unbind": "Unbind",
+  "spruceui.narrator.separator": "%s separador",
+  "spruceui.narration.toggle_switch": "Interruptor: %s, com estado %s",
+  "spruceui.options.generic": "%s: %s",
+  "spruceui.options.generic.fancy": "Detalhados",
+  "spruceui.options.generic.fast": "Fast",
+  "spruceui.options.generic.fastest": "Mais rápido",
+  "spruceui.options.generic.simple": "Simple",
+  "spruceui.widget.separator": "Separator"
+}
