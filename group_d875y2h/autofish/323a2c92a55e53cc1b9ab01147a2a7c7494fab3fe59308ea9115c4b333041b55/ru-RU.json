@@ -43,5 +43,5 @@
   "options.autofish.clear_regex.tooltip_1": "в чате появляется данный паттерн.",
   "options.autofish.clear_regex.tooltip_2": "§6Этот шаблон является §aрегулярным выражением§6.",
   "options.autofish.basic.title": "Основные настройки",
-  "options.autofish.advanced.title": "Расширенные настройки"
+  "options.autofish.advanced.title": "Настройки для продвинутых пользователей"
 }
