@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.consolesounds.title": "Console Sounds Configuration",
+  "text.autoconfig.consolesounds.option.enableHoverSounds": "Enable Hover Sounds",
+  "text.autoconfig.consolesounds.option.enableInGameClickSounds": "Enable In-Game Menu Click Sounds",
+  "text.autoconfig.consolesounds.option.enableCraftingSounds": "Enable Crafting Sounds",
+  "text.autoconfig.consolesounds.option.enableSliderSounds": "Enable Slider Sounds",
+  "text.autoconfig.consolesounds.option.playSoundOnPauseMenu": "Play Sound on Pause Menu Open",
+  "text.autoconfig.consolesounds.option.playSoundOnInGameMenu": "Play Sound on In-Game Menu Open",
+  "text.autoconfig.consolesounds.option.playSoundOnMenuExit": "Play Sound on Menu Close",
+  "text.autoconfig.consolesounds.option.playSoundOnInGameMenuExit": "Play Sound on In-Game Menu Close"
+}
