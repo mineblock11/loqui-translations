@@ -1,0 +1,40 @@
+{
+    "key.autotools.get_tool" : "Pick Tool",
+    "key.autotools.category" : "AutoTools",
+
+    "chat.enabled_autotools": "§2Enabled§f AutoTools!",
+    "chat.disabled_autotools": "§4Disabled§f AutoTools!",
+
+    "ui.config.toggle" : "Toggle",
+    "ui.config.showDPS" : "Show Dps",
+    "ui.config.keepSlot": "Keep selected slot",
+    "ui.config.disableCreative": "Disable in Creative",
+    "ui.config.preferSilkTouch": "Prefer Silk Touch",
+    "ui.config.preferSilkTouch.always": "Always",
+    "ui.config.preferSilkTouch.always_ores": "Ores",
+    "ui.config.preferSilkTouch.except_ores": "Except ores",
+    "ui.config.preferSilkTouch.never": "Never",
+    "ui.config.preferFortune": "Always prefer Fortune",
+    "ui.config.onlyNecessary": "Only switch if necessary",
+    "ui.config.preferHotbarTool": "Prefer Hotbar slot",
+    "ui.config.preferLowDurability": "Prefer lower durability",
+    "ui.config.switchBack": "Switch Back",
+    "ui.config.changeForEntities": "Change for entites",
+
+    "ui.desc.toggle" : "AutoTools will always be active and try to get you the best tool. Can be toggled with the set key. (works best with \"Switch Back\")",
+    "ui.desc.showDPS" : "Displays the weapons Dps when hovering over it.",
+    "ui.desc.keepSlot" : "Keeps the selected slot when swapping to a new tool instead of using the vanilla mechanics.",
+    "ui.desc.disableCreative" : "Disables AutoTools in creative-mode if toggle is disabled",
+
+    "ui.desc.preferSilkTouch.always": "Autotools additionally will use SilkTouch for: grass, stone, ores, leaves, snow",
+    "ui.desc.preferSilkTouch.always_ores": "AutoTools additionally will use SilkTouch for ores",
+    "ui.desc.preferSilkTouch.except_ores": "Autotools additionally will SilkTouch for: grass, stone, leaves, snow",
+    "ui.desc.preferSilkTouch.never": "Autotools will use SilkTouch if its required to mine a block.",
+
+    "ui.desc.preferFortune": "Autotools will use Fortune for Gravel and Leaves",
+    "ui.desc.onlyNecessary": "AutoTools will only switch items if you can't mine a block with your current one",
+    "ui.desc.preferHotbarTool": "AutoTools will prefer the tool already in your hotbar if multiple tools have the same mining speed, regardless their durability",
+    "ui.desc.preferLowDurability": "AutoTools will prefer the tool with the lower durability, instead of the higher one, if they have the same mining speed",
+    "ui.desc.switchBack": "AutoTools will switch back to the previous tool or item you had in your hand before breaking the block",
+    "ui.desc.changeForEntities": "AutoTools will change to the tool with the most DPS when looking at an entity."
+}
