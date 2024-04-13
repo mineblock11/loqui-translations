@@ -1,9 +1,9 @@
 {
-  "text.autoconfig.nnvf.title": "No Night Vision Flickering",
-  "key.nnvf.openConfig": "Open NNVF Config",
+  "text.autoconfig.nnvf.title": "Убрать мерцание ночного видения",
+  "key.nnvf.openConfig": "Открыть настройки NNVF",
   "text.autoconfig.nnvf.option.FADE_OUT_START_TICK": "Fade-out Start Tick",
   "text.autoconfig.nnvf.option.FADE_OUT_START_TICK.@Tooltip": "Когда должно начаться действие эффекта (в тактах, 20 тактов = 1 с.)",
-  "text.autoconfig.nnvf.option.USE_VANILLA_EFFECT": "Use vanilla effect",
+  "text.autoconfig.nnvf.option.USE_VANILLA_EFFECT": "Использовать ванильный эффект",
   "text.autoconfig.nnvf.option.PULSE_FREQUENCY": "Vanilla effect frequency",
   "text.autoconfig.nnvf.option.PULSE_FREQUENCY.@Tooltip": "How fast should vanilla effect loop, lower number means less flashy"
 }
