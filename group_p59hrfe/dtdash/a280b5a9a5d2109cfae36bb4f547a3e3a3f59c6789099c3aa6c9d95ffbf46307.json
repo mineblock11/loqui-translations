@@ -1,0 +1,46 @@
+{
+  "dtdash.err.sync": "Could not synchronise Double-Tap Dash config: %s",
+  "dtdash.err.sync_parse": "Could not read Double-Tap Dash config sent by server: %s",
+
+  "dtdash.momentum_mode.add": "Add",
+  "dtdash.momentum_mode.set": "Set",
+
+  "key.dtdash.dash": "Dash",
+  "key.dtdash.dash_forward": "Forward Dash",
+  "key.dtdash.dash_backwards": "Backward Dash",
+  "key.dtdash.dash_left": "Left Dash",
+  "key.dtdash.dash_right": "Right Dash",
+  "key.categories.dtdash": "Double-tap Dash",
+
+  "options.dtdash.strength": "Strength",
+  "options.dtdash.y_velocity": "Y Velocity",
+  "options.dtdash.momentum_mode": "Momentum Mode: %s",
+
+  "options.dtdash.cooldown": "Cooldown",
+  "options.dtdash.resets_attack": "Reset Attack: %s",
+  "options.dtdash.double_tap_sensitivity": "Sensitivity",
+  "options.dtdash.exhaustion": "Exhaustion",
+
+  "options.dtdash.double_tap_dash": "Double-Tap to Dash: %s",
+  "options.dtdash.forward_dash": "Forward Dash: %s",
+  "options.dtdash.backwards_dash": "Backward Dash: %s",
+  "options.dtdash.left_dash": "Left Dash: %s",
+  "options.dtdash.right_dash": "Right Dash: %s",
+  "options.dtdash.diagonal_dash": "Diagonal Dash: %s",
+
+  "options.dtdash.dash_midair": "Dash Midair: %s",
+  "options.dtdash.dash_while_gliding": "Dash While Gliding: %s",
+  "options.dtdash.dash_while_swimming": "Dash While Swimming: %s",
+  "options.dtdash.dash_while_floating": "Dash While Floating: %s",
+
+  "options.dtdash.icon": "Icon Position (%s)",
+
+  "screen.dtdash.client": "Client-Side",
+  "screen.dtdash.config": "Dash Config",
+  "screen.dtdash.config.disabled": "This config option is currently being controlled by the server.",
+  "screen.dtdash.config.invalidOptions": "Options have invalid values: %s",
+  "screen.dtdash.contexts": "Dash Contexts",
+  "screen.dtdash.directions": "Dash Directions",
+  "screen.dtdash.momentum": "Momentum",
+  "screen.dtdash.miscellaneous": "Miscellaneous"
+}
