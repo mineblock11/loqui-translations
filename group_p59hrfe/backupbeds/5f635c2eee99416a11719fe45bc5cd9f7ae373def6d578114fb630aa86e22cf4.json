@@ -1,0 +1,5 @@
+{
+  "message.backupbeds.respawn_set": "%s%s respawn point set",
+  "message.backupbeds.respawn_points_exceeded": "Maximum respawn points exceeded. Remove a previous bed",
+  "message.backupbeds.can_already_respawn_at": "This is your %s%s respawn point"
+}

@@ -5324,6 +5324,23 @@ files:
       - ru
       - zh-CN
       - zh-TW
+  - source: /group_snomarc/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - fr
+      - ja
+      - ko
+      - pl
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
   - source: /group_cvu68n4/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
