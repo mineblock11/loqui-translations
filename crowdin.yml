@@ -2294,6 +2294,15 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_vi773q2/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - be
+      - it
+      - pt-BR
+      - ru
+      - tt-RU
+      - zh-CN
   - source: /group_z6um4qb/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
