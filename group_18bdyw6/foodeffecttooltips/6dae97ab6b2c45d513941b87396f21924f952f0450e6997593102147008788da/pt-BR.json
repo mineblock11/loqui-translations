@@ -1,0 +1,8 @@
+{
+  "foodeffecttooltips.food.withChance": "%s [%d%%]",
+  "foodeffecttooltips.food.whenEaten": "When Eaten:",
+  "text.autoconfig.FoodEffectTooltips.option.ShowSuspiciousStewTooltips": "Mostrar Efeitos para Ensopado Suspeito",
+  "text.autoconfig.FoodEffectTooltips.option.UseAsWhitelistInstead": "Use Listas como Listas de Permissões em vez disso",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedItemIdentifiers": "Identificadores de Itens na Lista Negra",
+  "text.autoconfig.FoodEffectTooltips.option.BlacklistedModsIDs": "IDs de Mods na Lista Negra"
+}
