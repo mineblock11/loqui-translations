@@ -1,0 +1,4 @@
+{
+  "deleteworldstotrash.selectWorld.deleteButton.recycle_bin": "'%s' will be moved to the recycle bin, so you can restore it later if necessary.",
+  "deleteworldstotrash.selectWorld.deleteButton.trash": "'%s' will be moved to the trash, so you can restore it later if necessary."
+}

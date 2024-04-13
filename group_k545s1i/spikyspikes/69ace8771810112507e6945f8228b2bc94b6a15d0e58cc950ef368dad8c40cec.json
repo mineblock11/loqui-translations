@@ -1,0 +1,21 @@
+{
+  "block.spikyspikes.diamond_spike": "Diamond Spike",
+  "block.spikyspikes.diamond_spike.description": "Killed mobs drop all loot like when killed by a player. Accepts most sword enchantments via an anvil.",
+  "block.spikyspikes.golden_spike": "Golden Spike",
+  "block.spikyspikes.golden_spike.description": "Killed mobs only drop experience without any loot.",
+  "block.spikyspikes.iron_spike": "Iron Spike",
+  "block.spikyspikes.iron_spike.description": "Killed mobs only drop normal loot without experience.",
+  "block.spikyspikes.netherite_spike": "Netherite Spike",
+  "block.spikyspikes.netherite_spike.description": "Killed mobs drop all loot like when killed by a player. Accepts most sword enchantments via an anvil. Resistant to explosions and the wither boss. Does not damage players.",
+  "block.spikyspikes.stone_spike": "Stone Spike",
+  "block.spikyspikes.stone_spike.description": "Killed mobs do not drop any loot or experience.",
+  "block.spikyspikes.wooden_spike": "Wooden Spike",
+  "block.spikyspikes.wooden_spike.description": "Slowly damages mobs, but does not deal a killing blow.",
+  "death.attack.spike": "%1$s now rests in a less spiky world",
+  "death.attack.spike.player": "%1$s oversaw a spike trying to flee from %2$s",
+  "item.spikyspikes.spike.tooltip.damage": "Damage: %s",
+  "item.spikyspikes.spike.tooltip.hearts": "%s Heart(s)",
+  "item.spikyspikes.spike.tooltip.more": "Hold %s for more information",
+  "item.spikyspikes.spike.tooltip.shift": "Shift",
+  "itemGroup.spikyspikes.main": "Spiky Spikes"
+}

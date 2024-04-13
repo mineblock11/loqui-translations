@@ -1,0 +1,21 @@
+{
+  "item.miniumstone.minium_shard": "Minium Shard",
+  "item.miniumstone.minium_stone": "Minium Stone",
+  "item.miniumstone.minium_stone.changeSelection": "Press %s + %s to cycle mode",
+  "item.miniumstone.minium_stone.changedSelection": "Changed Selection Mode to %s",
+  "item.miniumstone.minium_stone.charge": "Press %s to charge",
+  "item.miniumstone.minium_stone.crafting": "Press %s to open crafting grid",
+  "item.miniumstone.minium_stone.cube": "Cube",
+  "item.miniumstone.minium_stone.flat": "Flat",
+  "item.miniumstone.minium_stone.line": "Line",
+  "item.miniumstone.minium_stone.more": "Hold %s for more information",
+  "item.miniumstone.minium_stone.selection": "Selection Mode: %s",
+  "item.miniumstone.minium_stone.shift": "Shift",
+  "key.categories.miniumstone": "Minium Stone",
+  "key.chargeMiniumStone": "Charge Minium Stone",
+  "key.openCraftingGrid": "Open Crafting Grid",
+  "recipe_type.miniumstone.transmutation_in_world": "Block Transmutation",
+  "subtitles.item.miniumstone.charge": "Minium Stone charges",
+  "subtitles.item.miniumstone.transmute": "Minium Stone transmutes",
+  "subtitles.item.miniumstone.uncharge": "Minium Stone uncharges"
+}
