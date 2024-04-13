@@ -1,0 +1,9 @@
+{
+  "container.sawmill.sawmill": "Cutt'r",
+  "block.sawmill.sawmill": "Cutt'r",
+  "jei.sawmill.category.woodcutting": "Sawing",
+  "entity.minecraft.villager.sawmill.carpenter": "Build'r",
+  "entity.minecraft.villager.carpenter": "Build'r",
+  "subtitles.sawmill.entity.villager.work_carpenter": "Build'r workin'",
+  "subtitles.sawmill.ui.sawmill.take_result": "Cutt'r used"
+}
