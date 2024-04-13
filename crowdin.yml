@@ -1859,6 +1859,14 @@ files:
       - nl
       - ru
       - tr
+  - source: /group_rdduyya/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ja
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
