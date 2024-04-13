@@ -1,0 +1,30 @@
+{
+  "category.armor_indicator.mod": "Armor Indicator",
+  "key.armor_indicator.open.menu": "Open Menu",
+
+  "text.autoconfig.armor_indicator.title": "Armor Indicator Config",
+
+  "text.autoconfig.armor_indicator.option.verticalIndicatorType.@PrefixText": "Armor Indicator Options",
+  "text.autoconfig.armor_indicator.option.verticalIndicatorType": "Indicator Type",
+
+  "text.autoconfig.armor_indicator.option.verticalIndicatorYPosition": "Vertical Indicator Position",
+
+  "text.autoconfig.armor_indicator.option.verticalIndicatorSide": "Vertical Indicator Side",
+
+  "text.autoconfig.armor_indicator.option.durabilityTextIndicator": "Durability Text Indicator",
+
+  "text.autoconfig.armor_indicator.option.compactUI": "Compact UI",
+
+  "text.autoconfig.armor_indicator.option.coloredDurabilityText": "Colored Durability Text",
+  "text.autoconfig.armor_indicator.option.coloredDurabilityText.@Tooltip": "Have the text be colored according to your armor's durability level",
+
+  "text.autoconfig.armor_indicator.option.advancedDurabilityTooltip": "Advanced Durability Tooltip",
+  "text.autoconfig.armor_indicator.option.advancedDurabilityTooltip.@Tooltip": "Have the text show \"current durability/total durability\"",
+
+  "text.autoconfig.armor_indicator.option.itemIndicator.@PrefixText": "Item Indicator Options",
+  "text.autoconfig.armor_indicator.option.itemIndicator": "Item Indicator",
+
+  "text.autoconfig.armor_indicator.option.itemIndicatorSide": "Item Indicator Side",
+
+  "text.autoconfig.armor_indicator.option.itemIndicatorColored": "Item Indicator Colored Text"
+}
