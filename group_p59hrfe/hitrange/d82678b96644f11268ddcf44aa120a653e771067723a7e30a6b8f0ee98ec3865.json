@@ -1,0 +1,21 @@
+{
+  "hitrange.enabled": "Enabled",
+  "hitrange.circleSegments": "Circle Segments",
+  "hitrange.radius": "Radius",
+  "hitrange.renderMode": "Render Mode",
+  "hitrange.thickness": "Thickness",
+  "hitrange.color": "Color",
+  "hitrange.inRangeColor": "In Range Color",
+  "hitrange.randomColors": "Random Colors",
+  "hitrange.colorWhenInRange": "Change Color When In Range",
+  "hitrange.height": "Height",
+  "hitrange.nearestOnly": "Nearest Player Only",
+  "hitrange.showSelf": "Show Own Circle",
+  "hitrange.preventZFight": "Prevent Z Fighting",
+  "hitrange.maxDistance": "Max Drawing Distance",
+  "hitrange.maxSearchDistance": "Max Search Distance",
+  "hitrange.computeAngles": "Recalculate Angles",
+  "hitrange.mode.line": "Line",
+  "hitrange.mode.thick": "Thick",
+  "hitrange.mode.filled": "Filled"
+}
