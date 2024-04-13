@@ -1,6 +1,6 @@
 {
-	"item.umu_backpack.backpack": "Backpack",
-	"container.umu_backpack.backpack": "Backpack",
+	"item.umu_backpack.backpack": "Rucksack",
+	"container.umu_backpack.backpack": "Rucksack",
 	"enchantment.umu_backpack.cram": "Quetschen",
 	"enchantment.umu_backpack.load": "Fracht",
 	"enchantment.umu_backpack.back_protection": "Rückenschutz",
