@@ -1331,6 +1331,13 @@ files:
       - pt-BR
       - pt-PT
       - zh-CN
+  - source: /group_jvbknei/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-UD
+      - es-ES
+      - ko
+      - zh-CN
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

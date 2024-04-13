@@ -1,0 +1,8 @@
+{
+    "cactus_config.texts.are_you_sure": "Are you sure?",
+    "cactus_config.mod.config_title": "Cactus Config Preferences",
+    "cactus_config.mod.tabs.general": "General",
+    "cactus_config.mod.tabs.desc.general": "General Settings and Preferences",
+    "cactus_config.option.mod.general.skip_reset_confirmation": "Skip Reset Confirmation",
+    "cactus_config.option.desc.mod.general.skip_reset_confirmation": "If true, clicking reset will immediately reset a mod's config."
+}

@@ -1,0 +1,19 @@
+{
+    "crops_love_rain.config.title": "Crops Love Rain Configuration",
+    "crops_love_rain.config.general": "General",
+    "crops_love_rain.config.general.desc": "(Lower values are equal to a higher speed.)",
+    "cactus_config.option.general.useRainGrowthSpeed": "Rain Growth Boost",
+    "cactus_config.option.general.rainGrowthSpeed": "Rain Growth Speed",
+    "crops_love_rain.config.individual": "Individual",
+    "crops_love_rain.config.individual.desc": "Change the settings for each plant individually.",
+    "cactus_config.option.individual.useIndividualSpeeds": "Use Individual Speeds",
+    "cactus_config.separator.individualSeparator": "Use General Speed For:",
+    "cactus_config.option.individual.useGeneralSpeedBamboo": "Bamboo",
+    "cactus_config.option.individual.bambooCustomSpeed": "Bamboo Custom Speed",
+    "cactus_config.option.individual.useGeneralSpeedCrops": "Crops",
+    "cactus_config.option.individual.cropsCustomSpeed": "Crops Custom Speed",
+    "cactus_config.option.individual.useGeneralSpeedSaplings": "Saplings",
+    "cactus_config.option.individual.saplingCustomSpeed": "Sapling Custom Speed",
+    "cactus_config.option.individual.useGeneralSpeedSugarCane": "Sugar Cane",
+    "cactus_config.option.individual.sugarCaneCustomSpeed": "Sugar Cane Custom Speed"
+}
