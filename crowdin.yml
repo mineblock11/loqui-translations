@@ -403,6 +403,11 @@ files:
     excluded_target_languages:
       - tr
       - zh-CN
+  - source: /group_x93d03s/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - he
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -5505,6 +5510,23 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_p8qb7hd/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - es-AR
+      - es-CL
+      - es-ES
+      - es-MX
+      - es-UY
+      - fr
+      - fr-CA
+      - it
+      - pt-BR
+      - pt-PT
   - source: /group_cvu68n4/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

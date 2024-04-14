@@ -1,0 +1,12 @@
+{
+	"gui.inventory_sort.sort.tooltip": "Sort",
+	"gui.inventory_sort.sort_inventory.tooltip": "Sort Inventory",
+	"gui.inventory_sort.sort_container.tooltip": "Sort Container",
+	"gui.inventory_sort.restock.tooltip": "Restock",
+	"gui.inventory_sort.quick_stack.tooltip": "Quick Stack",
+	"gui.inventory_sort.loot_all.tooltip": "Loot All",
+	"gui.inventory_sort.deposit_all.tooltip": "Deposit All",
+
+	"text.config.inventory_sort.title": "Chai's Inventory Sorter Config",
+	"text.config.inventory_sort.option.sortOrder": "Sort Order"
+}

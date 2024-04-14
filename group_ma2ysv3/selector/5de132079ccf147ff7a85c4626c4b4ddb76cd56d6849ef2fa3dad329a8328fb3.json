@@ -1,0 +1,7 @@
+{
+  "exception.selectorwheel.missing_scheme": "The provided URL doesn't contain a valid scheme",
+  "exception.selectorwheel.unsupported_scheme": "The scheme of the URL is unsupported",
+  "util.selectorwheel.reload": "Reloading...",
+  "util.selectorwheel.null_widget": "§6It's empty in here :( §7\n\nIt seems like it's time to create your own widget! It's not hard, trust me!",
+  "util.selectorwheel.empty": "Is the title missing?"
+}

@@ -1,0 +1,51 @@
+{
+  "itemgroup.invisible_armor": "Matowo's Invisible Armor",
+
+
+  "item.matowos_invisible_armor.invisible_armor_smithing_template": "Smithing Template",
+  "item.minecraft.invisible_smithing_template.tittle": "Invisible Armor Upgrade",
+  "item.minecraft.invisible_smithing_template.applies_to": "Any Armor",
+  "item.minecraft.invisible_smithing_template.ingredients": "Copper Ingot",
+  "item.minecraft.invisible_smithing_template.base_slot_description": "Add Armor",
+  "item.minecraft.invisible_smithing_template.additions_slot_description": "Add Copper Ingot",
+
+  "item.matowos_invisible_armor.visible_armor_smithing_template": "Smithing Template",
+  "item.minecraft.visible_smithing_template.tittle": "Visible Armor Upgrade",
+  "item.minecraft.visible_smithing_template.applies_to": "Invisible Armors",
+  "item.minecraft.visible_smithing_template.ingredients": "Copper Ingot",
+  "item.minecraft.visible_smithing_template.base_slot_description": "Add Invisible Armor",
+  "item.minecraft.visible_smithing_template.additions_slot_description": "Add Copper Ingot",
+
+
+  "item.matowos_invisible_armor.invisible_leather_helmet": "Invisible Leather Cap",
+  "item.matowos_invisible_armor.invisible_leather_chestplate": "Invisible Leather Tunic",
+  "item.matowos_invisible_armor.invisible_leather_leggings": "Invisible Leather Pants",
+  "item.matowos_invisible_armor.invisible_leather_boots": "Invisible Leather Boots",
+
+  "item.matowos_invisible_armor.invisible_chainmail_helmet": "Invisible Chainmail Helmet",
+  "item.matowos_invisible_armor.invisible_chainmail_chestplate": "Invisible Chainmail Chestplate",
+  "item.matowos_invisible_armor.invisible_chainmail_leggings": "Invisible Chainmail Leggings",
+  "item.matowos_invisible_armor.invisible_chainmail_boots": "Invisible Chainmail Boots",
+
+  "item.matowos_invisible_armor.invisible_iron_helmet": "Invisible Iron Helmet",
+  "item.matowos_invisible_armor.invisible_iron_chestplate": "Invisible Iron Chestplate",
+  "item.matowos_invisible_armor.invisible_iron_leggings": "Invisible Iron Leggings",
+  "item.matowos_invisible_armor.invisible_iron_boots": "Invisible Iron Boots",
+
+  "item.matowos_invisible_armor.invisible_golden_helmet": "Invisible Golden Helmet",
+  "item.matowos_invisible_armor.invisible_golden_chestplate": "Invisible Golden Chestplate",
+  "item.matowos_invisible_armor.invisible_golden_leggings": "Invisible Golden Leggings",
+  "item.matowos_invisible_armor.invisible_golden_boots": "Invisible Golden Boots",
+
+  "item.matowos_invisible_armor.invisible_diamond_helmet": "Invisible Diamond Helmet",
+  "item.matowos_invisible_armor.invisible_diamond_chestplate": "Invisible Diamond Chestplate",
+  "item.matowos_invisible_armor.invisible_diamond_leggings": "Invisible Diamond Leggings",
+  "item.matowos_invisible_armor.invisible_diamond_boots": "Invisible Diamond Boots",
+
+  "item.matowos_invisible_armor.invisible_netherite_helmet": "Invisible Netherite Helmet",
+  "item.matowos_invisible_armor.invisible_netherite_chestplate": "Invisible Netherite Chestplate",
+  "item.matowos_invisible_armor.invisible_netherite_leggings": "Invisible Netherite Leggings",
+  "item.matowos_invisible_armor.invisible_netherite_boots": "Invisible Netherite Boots",
+
+  "item.matowos_invisible_armor.invisible_turtle_helmet": "Invisible Turtle Shell"
+}

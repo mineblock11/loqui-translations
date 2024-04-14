@@ -1,0 +1,14 @@
+{
+  "menu.bbm.config.title": "Better Boat Movement",
+  "menu.bbm.config.category.title": "General",
+  "menu.bbm.config.category.ground_step_height.title": "Step height",
+  "menu.bbm.config.category.ground_step_height.description": "Defines the height on which the boat starts moving the block up.",
+  "menu.bbm.config.category.player_eject_ticks.title": "Player eject ticks",
+  "menu.bbm.config.category.player_eject_ticks.description": "Defines the ticks that should pass before ejecting a player, when the player lost control over the boat.",
+  "menu.bbm.config.category.boost_underwater.title": "Boost underwater",
+  "menu.bbm.config.category.boost_underwater.description": "Toggles, whether a boat, which is underwater should be boosted upwards with half of the step height.",
+  "menu.bbm.config.category.wall_hit_cooldown_ticks.title": "Wall hit cooldown ticks",
+  "menu.bbm.config.category.wall_hit_cooldown_ticks.description": "Defines the ticks that should pass before moving the boat up a block.",
+  "menu.bbm.config.category.only_for_players.title": "Only for players",
+  "menu.bbm.config.category.only_for_players.description": "Toggles, whether the boosts configured below should only work if the boat carries a player."
+}
