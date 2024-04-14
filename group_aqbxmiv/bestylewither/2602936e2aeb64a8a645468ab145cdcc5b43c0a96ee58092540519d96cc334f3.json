@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.bestylewither.title": "BE Style Wither",
+  "text.autoconfig.bestylewither.option.enableBounceBlueWitherSkull": "Enable Bounce Blue Wither Skull",
+  "text.autoconfig.bestylewither.option.enableMoreInertialBlueWitherSkull": "Enable More Inertial Blue Wither Skull",
+  "text.autoconfig.bestylewither.option.enableShootMoreBlueWitherSkull": "Enable Shoot More Blue Wither Skull",
+  "text.autoconfig.bestylewither.option.enableSpinAndWhiteSummon": "Enable Spin And White Summon",
+  "text.autoconfig.bestylewither.option.enableExplodeByHalfHealth": "Enable Explode By Half Health",
+  "text.autoconfig.bestylewither.option.enableExplodeByDie": "Enable Explode By Die",
+  "text.autoconfig.bestylewither.option.enableChargeAttack": "Enable Charge Attack",
+  "text.autoconfig.bestylewither.option.enableDoubleHealth": "Enable Double Health",
+  "text.autoconfig.bestylewither.option.enableMaintainWeakenedState": "Enable Maintain Weakened State"
+}
