@@ -1,0 +1,17 @@
+{
+	"message.paucal.patron": "Hey, %s! Thanks for supporting me on \u00a76Patreon\u00a7r and helping me make more great Minecraft mods. :] --petrak@",
+	"paucal.subtitles.pet": "Player gets headpat",
+	"command.paucal.contributor": "%s is a contributor! Patron level: %s. Is dev: %s. %s entries total.",
+	"command.paucal.contributor.not_contributor": "%s is not a contributor",
+	"command.paucal.reload": "Reloading contributors...",
+	"command.paucal.reload.disabled": "Contributors are disabled in the config.",
+	"command.paucal.patSelf.disabled": "Headpats are disabled in the config.",
+	"command.paucal.patSelf.bad_count": "Should have matched exactly 1 player but instead got %s",
+	"stat.paucal.players_patted": "Headpats Given",
+	"stat.paucal.headpats_gotten": "Headpats Received",
+	"text.autoconfig.paucal.title": "PAUCAL",
+	"text.autoconfig.paucal.option.commonInstance": "Common Config",
+	"text.autoconfig.paucal.option.commonInstance.allowPats": "Allow headpats",
+	"text.autoconfig.paucal.option.commonInstance.loadContributors": "Load contributors from Github",
+	"dedented": "This is a multi ksjdflgh skjdlhgf \nline test! wahoo. yippee. Letsa go. \nLorem ipsum dolor sic amet foobar foobar hunoz \nPoison apples poison worms"
+}
