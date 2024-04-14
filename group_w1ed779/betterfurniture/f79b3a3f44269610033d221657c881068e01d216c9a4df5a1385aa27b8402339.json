@@ -1,0 +1,49 @@
+{
+
+  "itemgroup.better_furniture": "Better Furniture",
+
+  "block.betterfurniture.table_furled": "Furled Table",
+  "block.betterfurniture.chair_furled": "Furled Chair",
+  "block.betterfurniture.stool_furled": "Furled Stool",
+
+  "block.betterfurniture.table_oak": "Oak Table",
+  "block.betterfurniture.chair_oak": "Oak Chair",
+  "block.betterfurniture.stool_oak": "Oak Stool",
+
+  "block.betterfurniture.table_spruce": "Spruce Table",
+  "block.betterfurniture.chair_spruce": "Spruce Chair",
+  "block.betterfurniture.stool_spruce": "Spruce Stool",
+
+  "block.betterfurniture.table_birch": "Birch Table",
+  "block.betterfurniture.chair_birch": "Birch Chair",
+  "block.betterfurniture.stool_birch": "Birch Stool",
+
+  "block.betterfurniture.table_jungle": "Jungle Table",
+  "block.betterfurniture.chair_jungle": "Jungle Chair",
+  "block.betterfurniture.stool_jungle": "Jungle Stool",
+
+  "block.betterfurniture.table_acacia": "Acacia Table",
+  "block.betterfurniture.chair_acacia": "Acacia Chair",
+  "block.betterfurniture.stool_acacia": "Acacia Stool",
+
+  "block.betterfurniture.table_dark_oak": "Dark Oak Table",
+  "block.betterfurniture.chair_dark_oak": "Dark Oak Chair",
+  "block.betterfurniture.stool_dark_oak": "Dark Oak Stool",
+
+  "block.betterfurniture.table_crimson": "Crimson Table",
+  "block.betterfurniture.chair_crimson": "Crimson Chair",
+  "block.betterfurniture.stool_crimson": "Crimson Stool",
+
+  "block.betterfurniture.table_warped": "Warped Table",
+  "block.betterfurniture.chair_warped": "Warped Chair",
+  "block.betterfurniture.stool_warped": "Warped Stool",
+
+  "block.betterfurniture.table_mangrove": "Mangrove Table",
+  "block.betterfurniture.chair_mangrove": "Mangrove Chair",
+  "block.betterfurniture.stool_mangrove": "Mangrove Stool",
+
+  "block.betterfurniture.table_cherry": "Cherry Table",
+  "block.betterfurniture.chair_cherry": "Cherry Chair",
+  "block.betterfurniture.stool_cherry": "Cherry Stool"
+  
+}
