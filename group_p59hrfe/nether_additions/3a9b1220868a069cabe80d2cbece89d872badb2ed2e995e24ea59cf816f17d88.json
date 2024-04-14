@@ -1,0 +1,28 @@
+{
+  "itemgroup.NetherAdditions": "Nether Additions",
+
+  "item.nether_additions.lavacanth": "Lavacanth",
+  "item.nether_additions.ectocarp": "Ectocarp",
+  "item.nether_additions.goldhead_wrasse": "Goldhead Wrasse",
+  "item.nether_additions.pyrolithid": "Pyrolithid",
+  "item.nether_additions.weeping_fishing_rod": "Weeping Fishing Rod",
+  "item.nether_additions.lithid_soup": "Lithid Soup",
+
+  "block.nether_additions.chiseled_basalt": "Chiseled Basalt",
+  "block.nether_additions.basalt_bricks": "Basalt Bricks",
+  "block.nether_additions.basalt_brick_stairs": "Basalt Brick Stairs",
+  "block.nether_additions.basalt_brick_wall": "Basalt Brick Wall",
+  "block.nether_additions.basalt_brick_slab": "Basalt Bricks Slab",
+  "block.nether_additions.cracked_basalt_bricks": "Cracked Basalt Bricks",
+  "block.nether_additions.basalt_tiles": "Basalt Tiles",
+  "block.nether_additions.basalt_tiles_slab": "Basalt Tiles Slab",
+
+  "effect.nether_additions.fungal_aroma": "Fungal Aroma",
+
+  "item.minecraft.potion.effect.levitation_potion": "Potion of Levitation",
+  "item.minecraft.potion.effect.longer_levitation_potion": "Potion of Levitation",
+  "item.minecraft.splash_potion.effect.levitation_potion": "Splash Potion of Levitation",
+  "item.minecraft.splash_potion.effect.longer_levitation_potion": "Splash Potion of Levitation",
+  "item.minecraft.lingering_potion.effect.levitation_potion": "Lingering Potion of Levitation",
+  "item.minecraft.lingering_potion.effect.longer_levitation_potion": "Lingering Potion of Levitation"
+}

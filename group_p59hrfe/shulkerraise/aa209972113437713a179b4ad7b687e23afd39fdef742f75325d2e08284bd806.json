@@ -1,0 +1,5 @@
+{
+  "text.config.shulkerraise.title": "Shulker Raise",
+  "text.config.shulkerraise.option.alwaysRenderWithBlockEntity": "Always Render with Block Entity",
+  "text.config.shulkerraise.option.alwaysRenderWithBlockEntity.tooltip": "Makes the block always render\nwith the shulker box's block entity.\nThis will make the closing animation\nsmoother, but will make culling not\nhappen for that block, causing\nproblems with transparent blocks."
+}

@@ -1,0 +1,21 @@
+{
+  "modmenu.descriptionTranslation.ridehud": "Shows advanced information about ridable animals.",
+
+  "config.ridehud" : "Ride Hud Settings",
+  "config.ridehud.display_mode": "Display Mode",
+  "config.ridehud.display_mode.comment.0": "How to display the speed and jump statistics.",
+  "config.ridehud.display_mode.comment.1": " Maximum: Show the maximum speed and jump height.",
+  "config.ridehud.display_mode.comment.2": " Current: Show the current speed and jump height.",
+  "config.ridehud.display_mode.max": "Maximum",
+  "config.ridehud.display_mode.current": "Current",
+  "config.ridehud.display_text": "Display Text",
+  "config.ridehud.display_text.comment": "If stats should also be displayed in text form.",
+  "config.ridehud.bar_offset": "Bar Offset",
+  "config.ridehud.bar_offset.comment": "Offsets of the speed and jump bars in the vertical direction.",
+  "config.ridehud.heart_offset": "Heart Offset",
+  "config.ridehud.heart_offset.comment": "Offsets of the additional hearts in the vertical direction.",
+  "config.ridehud.open_gui" : "Open Settings",
+
+  "ridehud.unit.blocks": "b",
+  "ridehud.unit.blocks_per_second": "b/s"
+}

@@ -1,0 +1,18 @@
+{
+  "creativemodetab.turtlechargingstation_creative_tab": "Turtle Charging Station",
+
+  "block.turtlechargingstation.turtle_charging_station": "Turtle Charging Station",
+  "block.turtlechargingstation.thundercharge_dynamo": "Tundercharge Dynamo",
+
+  "tooltip.turtlechargingstation.thundercharge_dynamo": "Generates energy when struck by lightning",
+  "tooltip.turtlechargingstation.thundercharge_dynamo.shift": "[SHIFT]",
+
+  "gui.turtlechargingstation.turtle_charging_station.turtle_name": "Name",
+  "gui.turtlechargingstation.turtle_charging_station.fuel_level": "Fuel Level",
+  "gui.turtlechargingstation.turtle_charging_station.down": "Down",
+  "gui.turtlechargingstation.turtle_charging_station.up": "Up",
+  "gui.turtlechargingstation.turtle_charging_station.north": "North",
+  "gui.turtlechargingstation.turtle_charging_station.south": "South",
+  "gui.turtlechargingstation.turtle_charging_station.east": "East",
+  "gui.turtlechargingstation.turtle_charging_station.west": "West"
+}

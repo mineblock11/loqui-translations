@@ -1,0 +1,18 @@
+{
+  "itemGroup.newshieldvariants_tab": "New Shield Variants!",
+  "item.newshieldvariants.stone_shield": "Stone Shield",
+  "item.newshieldvariants.iron_shield": "Iron Shield",
+  "item.newshieldvariants.gold_shield": "Gold Shield",
+  "item.newshieldvariants.diamond_shield": "Diamond Shield",
+  "item.newshieldvariants.netherite_shield": "Netherite Shield",
+
+  "item.newshieldvariants.ender_shield": "Ender Shield",
+  "item.newshieldvariants.blaze_shield": "Blaze Shield",
+  "item.newshieldvariants.fire_charge_shield": "Fire Charge Shield",
+
+  "item.newshieldvariants.shulker_shield": "Shulker Shield",
+  "item.newshieldvariants.dragon_head_shield": "Dragon Head Shield",
+  "item.newshieldvariants.tnt_shield": "TNT Shield",
+
+  "item.newshieldvariants.redstone_shield": "Redstone Shield"
+}

@@ -1,0 +1,36 @@
+{
+  "item.teatime.tea_cup": "Tea Cup",
+  "item.teatime.unfired_tea_cup": "Un-Fired Tea Cup",
+  "item.teatime.chorus_fruit_tea": "Chorus Fruit Tea",
+  "item.teatime.cinnamon_tea": "Cinnamon Tea",
+  "item.teatime.flower_tea": "Flower Tea",
+  "item.teatime.ginger_tea": "Ginger Tea",
+  "item.teatime.glow_berry_tea": "Glow Berry Tea",
+  "item.teatime.green_tea": "Green Tea",
+  "item.teatime.gunpowder_green_tea": "Gunpowder-Green Tea",
+  "item.teatime.herbal_tea": "Herbal Tea",
+  "item.teatime.jasmine_tea": "Jasmine Tea",
+  "item.teatime.kombucha_tea": "Kombucha Tea",
+  "item.teatime.lotus_tea": "Lotus Tea",
+  "item.teatime.nether_fungus_tea": "Crimson Fungus Tea",
+  "item.teatime.warped_nether_fungus_tea": "Warped Fungus Tea",
+  "item.teatime.pitcher_plant_tea": "Pitcher Plant Tea",
+  "item.teatime.pumpkin_spice_tea": "Pumpkin Spice Tea",
+  "item.teatime.sage_tea": "Sage Tea",
+  "item.teatime.spore_blossom_tea": "Spore Blossom Tea",
+  "item.teatime.torch_flower_tea": "Torch Flower Tea",
+  "item.teatime.vanilla_tea": "Vanilla Tea",
+  "item.teatime.wither_rose_tea": "Wither Rose Tea",
+  "item.teatime.novel_tea": "Novel Tea",
+
+  "item.teatime.sage": "Sage Leaf",
+  "item.teatime.lotus": "Lotus Flower",
+  "item.teatime.vanilla": "Vanilla Bean",
+  "item.teatime.ginger": "Ginger",
+  "item.teatime.jasmine": "Jasmine Flower",
+  "item.teatime.roasted_leaf": "Roasted Leaf",
+
+  "block.teatime.tea_pot_block": "Tea Pot",
+
+ "entity.minecraft.villager.tea_brewer": "Tea Brewer"
+}
