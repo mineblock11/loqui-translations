@@ -1,0 +1,30 @@
+{
+	"text.autoconfig.TrueDarknessFork.title" : "True Darkness Fork Config",
+	
+	"text.autoconfig.TrueDarknessFork.option.blockLightOnly": "Affect Block Light Only",
+	"text.autoconfig.TrueDarknessFork.help.blockLightOnly": "Areas lit by sky will not be fully dark",
+	
+	"text.autoconfig.TrueDarknessFork.option.ignoreMoonPhase": "Ignore Moon Phase",
+	"text.autoconfig.TrueDarknessFork.help.ignore_moon_phase": "Night is truly dark even when the moon is full",
+	
+	"text.autoconfig.TrueDarknessFork.option.darkOverworld": "Dark Overworld",
+	"text.autoconfig.TrueDarknessFork.help.darkOverworld": "Enable in Overworld",
+	
+	"text.autoconfig.TrueDarknessFork.option.darkNether": "Dark Nether",
+	"text.autoconfig.TrueDarknessFork.help.darkNether": "Enable in Nether",
+	
+	"text.autoconfig.TrueDarknessFork.option.darkEnd": "Dark End",
+	"text.autoconfig.TrueDarknessFork.help.darkEnd": "Enable in The End",
+	
+	"text.autoconfig.TrueDarknessFork.option.darkDefault": "Modded Dimension Darkness",
+	"text.autoconfig.TrueDarknessFork.help.darkDefault": "Enable in modded dimensions with a sky",
+	
+	"text.autoconfig.TrueDarknessFork.option.darkSkyless": "Modded Skyless Dimension Darkness",
+	"text.autoconfig.TrueDarknessFork.help.darkSkyless": "Enable in modded dimensions with no sky",
+
+	"text.autoconfig.TrueDarknessFork.option.darkNetherFog": "Dark Nether Fog [Value between 0.0 and 1.0]",
+	"text.autoconfig.TrueDarknessFork.help.darkNetherFog": "Amount of fog in Nether",
+
+	"text.autoconfig.TrueDarknessFork.option.darkEndFog": "Dark End Fog [Value between 0.0 and 1.0]",
+	"text.autoconfig.TrueDarknessFork.help.darkEndFog": "Amount of fog in The End"
+}
