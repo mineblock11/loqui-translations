@@ -1,0 +1,6 @@
+{
+    "effect.shield_overhaul.stun": "Stunned",
+    "effect.shield_overhaul.stun.description": "Das Ziel kann sich nicht bewegen, Gegenstände benutzen oder angreifen.",
+    "effect.shield_overhaul.immunity": "Immun gegen Betäubungen",
+    "effect.shield_overhaul.immunity.description": "Das Ziel ist immun gegen Betäubung."
+}
