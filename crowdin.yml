@@ -1410,6 +1410,13 @@ files:
       - ru
       - th
       - zh-CN
+  - source: /group_1bzdltk/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - ru
+      - zh-CN
+      - zh-TW
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
