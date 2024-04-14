@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.stitchedsnow.option.snowAccumulationLimit": "Wie viele Schichten Schnee sich ansammeln dürfen",
+  "text.autoconfig.stitchedsnow.option.chanceToAccumulateSnow": "Die Wahrscheinlichkeit von 1 zu x, dass sich Schnee ansammelt.",
+  "text.autoconfig.stitchedsnow.option.accumulationsPerChunkPerTick": "Skaliert die Menge an Schnee, die sich pro Chunk pro Tick ansammelt."
+}
