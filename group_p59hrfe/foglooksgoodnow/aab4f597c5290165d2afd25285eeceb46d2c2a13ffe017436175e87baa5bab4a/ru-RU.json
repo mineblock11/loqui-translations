@@ -15,7 +15,7 @@
   "flgn.config.caveFogColor.desc": "Цвет тумана в пещерах.",
   "flgn.config.caveFogDensity.name": "Видимость в пещерном тумане",
   "flgn.config.caveFogDensity.desc": "Плотность тумана в пещерах — насколько он непрозрачен.",
-  "flgn.config.global": "Глобальные параметры",
+  "flgn.config.global": "Глобальные настройки",
   "flgn.config.disableAll.name": "Отключить все функции",
   "flgn.config.disableAll.desc": "Отключает все модификации тумана, применяемые модом, полезно, если вы хотите временно отключить модификации тумана или провести сравнение до и после применения мода."
 }
