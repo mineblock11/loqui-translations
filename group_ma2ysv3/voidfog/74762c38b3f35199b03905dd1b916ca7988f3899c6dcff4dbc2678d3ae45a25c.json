@@ -1,0 +1,16 @@
+{
+	"menu.voidfog.title": "Void Fog Options",
+	"menu.voidfog.enabled": "Enable Fog",
+	"menu.voidfog.creative": "Disable in Creative",
+	"menu.voidfog.scale": "Scale With Difficulty",
+	"menu.voidfog.torches": "Hide in Lit Areas",
+	"menu.voidfog.particles.min": "No Particles",
+	"menu.voidfog.particles.max": "ALL The Particles",
+	"menu.voidfog.particles.default": "Particles: Default",
+	"menu.voidfog.particles": "Particles: %d",
+	"menu.voidfog.fogheight": "Fog Height: %d",
+	"menu.voidfog.bigboi": "Big Boy Mode",
+	"menu.voidfog.bigboi.tooltip": "Makes the game extra scary.\r\nAre you a big boi?",
+	"menu.voidfog.prettyFog": "Pretty Fog",
+	"menu.voidfog.prettyFog.tooltip": "Enables an alternate fog look"
+}
