@@ -1,0 +1,13 @@
+{
+  "config.jade.plugin_reputation.iron_golem": "Anger of Iron Golem",
+  "config.jade.plugin_reputation.villager_reputation": "Reputation from Villager",
+  "config.jade.plugin_reputation.villager_snitch": "Villager Name",
+  "entity.reputation.villager.snitch": "Snitch",
+  "entity.reputation.villager.reputation.friendly": "Friendly",
+  "entity.reputation.villager.reputation.trustworthy": "Trustworthy",
+  "entity.reputation.villager.reputation.neutral": "Neutral",
+  "entity.reputation.villager.reputation.suspicious": "Suspicious",
+  "entity.reputation.villager.reputation.hostile": "Hostile",
+  "entity.reputation.villager.reputation.unknown": "Unknown",
+  "entity.reputation.iron_golem.angry": "Angry"
+}
