@@ -1,0 +1,20 @@
+{
+  "text.autoconfig.timeless.title": "Timeless",
+
+  "text.autoconfig.timeless.option.useOldWorldMenu": "Use Old World Menu",
+  "text.autoconfig.timeless.option.disableHitDirection": "Disable Hit Direction",
+  "text.autoconfig.timeless.option.useOldWindowIcons": "Use Old Window Icons",
+  "text.autoconfig.timeless.option.doPistonClunk": "Do Piston Clunk",
+  "text.autoconfig.timeless.option.skeletonShootPurpleArrow": "Skeleton Shoot Purple Arrow",
+  "text.autoconfig.timeless.option.useOldInventoryLayout": "Use Old Inventory Layout",
+  "text.autoconfig.timeless.option.enablePotionGlint": "Enable Potion Glint",
+  "text.autoconfig.timeless.option.useOldPotionColors": "Use Old Potion Colors",
+  "text.autoconfig.timeless.option.useOldBatModel": "Use Old Bat Model",
+
+  "timeless.itemGroup.decorationBlocks": "Decoration Blocks",
+  "timeless.itemGroup.transportation": "Transportation",
+  "timeless.itemGroup.miscellaneous": "Miscellaneous",
+  "timeless.itemGroup.foodstuff": "Foodstuff",
+  "timeless.itemGroup.tools": "Tools",
+  "timeless.itemGroup.brewing": "Brewing"
+}
