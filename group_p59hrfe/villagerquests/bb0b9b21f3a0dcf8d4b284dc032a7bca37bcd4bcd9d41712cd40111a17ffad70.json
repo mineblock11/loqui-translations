@@ -1,0 +1,45 @@
+{
+    "ftbquests.task.ftbquests.kill.dim": "Dimension",
+    "ftbquests.task.ftbquests.kill.ignore_dim": "Ignore Dimension",
+    "ftbquests.task.ftbquests.kill.location": "Location",
+    "ftbquests.task.ftbquests.kill.location.tooltip.location": "Your Pos: %s / %s / %s",
+    "ftbquests.task.ftbquests.kill.x": "X Position",
+    "ftbquests.task.ftbquests.kill.y": "Y Position",
+    "ftbquests.task.ftbquests.kill.z": "Z Position",
+    "ftbquests.task.ftbquests.kill.radius": "Radius",
+
+    "ftbquests.task.ftbquests.villager_talk": "Villager Talk",
+    "ftbquests.task.ftbquests.villager_talk.title": "Talk with the Villager",
+    "ftbquests.task.ftbquests.villager_talk.villager_uuid": "Villager UUID",
+    "ftbquests.task.ftbquests.villager_talk.villager_uuid.tooltip.uuid": "UUID: %s",
+    "ftbquests.task.ftbquests.villager_talk.talk_text": "Talk Text",
+
+    "ftbquests.quest.villager_quest": "Villager Quest",
+    "ftbquests.quest.misc.villager_quest": "Villager Quest",
+    "ftbquests.quest.misc.villager_uuid": "Villager UUID",
+    "ftbquests.quest.misc.villager_uuid.tooltip.uuid": "UUID: %s",
+    "ftbquests.quest.misc.timer": "Timer",
+
+    "ftbquests.quest.failed": "Quest failed!",
+    "ftbquests.quest.timer": "Time: %s",
+
+    "screen.villagerquests": "Villager Quests",
+    "screen.villagerquests.acceptButton": "Accept",
+    "screen.villagerquests.declineButton": "Decline",
+    "screen.villagerquests.completeButton": "Complete",
+
+    "screen.villagerquests.nameWidget": "Name",
+    "screen.villagerquests.changeableNameWidget": "Changeable Name",
+    "screen.villagerquests.invincibilityWidget": "Invincibility",
+    "screen.villagerquests.hasAiWidget": "AI",
+    "screen.villagerquests.offersTradesWidget": "Trades",
+    "screen.villagerquests.questsWidget": "Quests",
+
+    "text.autoconfig.villagerquests.title": "Villager Quests Config",
+    "text.autoconfig.villagerquests.option.villagerQuestGlowTime": "Villager Quest Glow Time",
+    "text.autoconfig.villagerquests.option.villagerQuestBoxSize": "Villager Quest Box Size",
+    "text.autoconfig.villagerquests.option.showQuestIcon": "Show Quest Icon",
+    "text.autoconfig.villagerquests.option.flatQuestIcon": "Flat Quest Icon",
+    "text.autoconfig.villagerquests.option.iconDistance": "Quest Icon Distance",
+    "text.autoconfig.villagerquests.option.changeTeamGuiColor": "Change Team Gui Color"
+}
