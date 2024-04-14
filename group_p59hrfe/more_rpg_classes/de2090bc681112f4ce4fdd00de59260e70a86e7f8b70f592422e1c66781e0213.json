@@ -1,0 +1,27 @@
+{
+  "itemGroup.more_rpg_classes.general": "MRPGClasses",
+
+  "effect.more_rpg_classes.molten_armor": "Molten Armor",
+  "effect.more_rpg_classes.stun": "Stunned",
+  "effect.more_rpg_classes.frozen_solid": "Frozen Solid",
+  "effect.more_rpg_classes.fear": "Fear",
+  "effect.more_rpg_classes.collected_soul": "Collected Soul",
+  "effect.more_rpg_classes.grievous_wounds": "Grievous Wounds",
+  "effect.more_rpg_classes.frosted": "Frosted",
+
+  "item.more_rpg_classes.aqua_stone": "Water Rune",
+  "item.more_rpg_classes.terra_stone": "Earth Rune",
+  "item.more_rpg_classes.storm_stone": "Air Rune",
+  "item.more_rpg_classes.polar_bear_fur": "Bear Fur",
+  "item.more_rpg_classes.wolf_fur": "Wolf Fur",
+  "item.more_rpg_classes.hardened_leather": "Hardened Leather",
+
+  "attribute.name.generic.more_rpg_classes.incoming_damage_modifier": "Damage Vulnerability",
+  "attribute.name.generic.more_rpg_classes.incoming_damage_reduction": "Damage Resistance",
+  "attribute.name.generic.more_rpg_classes.rage_modifier": "Rage Power",
+  "attribute.name.generic.more_rpg_classes.arcane_fuse_modifier": "Arcane Fuse",
+  "attribute.name.generic.more_rpg_classes.adrenaline_modifier": "Adrenaline Gain",
+  "attribute.name.generic.more_rpg_classes.sign_intensity": "Sign Intensity",
+  "attribute.name.generic.more_rpg_classes.lifesteal_modifier": "Lifesteal",
+  "attribute.name.generic.more_rpg_classes.damage_reflect_modifier": "Damage Reflect"
+}

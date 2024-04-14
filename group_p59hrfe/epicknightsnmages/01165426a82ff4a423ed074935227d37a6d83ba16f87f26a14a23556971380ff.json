@@ -1,0 +1,40 @@
+{
+  "item.epicknightsnmages.scarlet_gem": "Scarlet Shard",
+  "item.epicknightsnmages.moonlight_gem": "Moonlight Shard",
+  "item.epicknightsnmages.citrin_gem": "Citrin",
+  "item.epicknightsnmages.magical_ingot": "Magical Ingot",
+
+  "item.epicknightsnmages.noble_sword": "Noble Sword",
+  "item.epicknightsnmages.elite_wand": "Elite Wizard Wand",
+  "item.epicknightsnmages.dark_sword": "Flambard",
+  "item.epicknightsnmages.elite_spell_book": "Spellcaster Book",
+
+  "item.epicknightsnmages.elite_mage_helmet": "Elite Wizard Hat",
+  "item.epicknightsnmages.elite_mage_chestplate": "Elite Wizard Robes",
+  "item.epicknightsnmages.elite_mage_leggings": "Elite Wizard Leggings",
+  "item.epicknightsnmages.elite_mage_boots": "Elite Wizard Boots",
+  "item.epicknightsnmages.armored_mage_helmet": "Elite Battlemage Hat",
+  "item.epicknightsnmages.armored_mage_chestplate": "Elite Battlemage Robes",
+  "item.epicknightsnmages.armored_mage_leggings": "Elite Battlemage Leggings",
+  "item.epicknightsnmages.armored_mage_boots": "Elite Battlemage Boots",
+  "item.epicknightsnmages.blue_knight_helmet": "Noble Knight Helmet",
+  "item.epicknightsnmages.blue_knight_chestplate": "Noble Knight Chestplate",
+  "item.epicknightsnmages.blue_knight_leggings": "Noble Knight Leggings",
+  "item.epicknightsnmages.blue_knight_boots": "Noble Knight Boots",
+  "item.epicknightsnmages.dark_knight_helmet": "Dark Knight Helmet",
+  "item.epicknightsnmages.dark_knight_chestplate": "Dark Knight Chestplate",
+  "item.epicknightsnmages.dark_knight_leggings": "Dark Knight Leggings",
+  "item.epicknightsnmages.dark_knight_boots": "Dark Knight Boots",
+
+  "block.epicknightsnmages.scarlet_ore": "Scarlet Ore",
+  "block.epicknightsnmages.deepslate_scarlet_ore": "Deepslate Scarlet Ore",
+  "block.epicknightsnmages.moonlight_ore": "Moonlight Ore",
+  "block.epicknightsnmages.deepslate_moonlight_ore": "Deepslate Moonlight Ore",
+  "block.epicknightsnmages.scarlet_block": "Scarlet Block",
+  "block.epicknightsnmages.citrin_ore": "Citrin Ore",
+  "block.epicknightsnmages.deepslate_citrin_ore": "Deepslate Citrin Ore",
+  "block.epicknightsnmages.citrin_block": "Citrin Block",
+  "block.epicknightsnmages.moonlight_block": "Moonlight Block",
+
+  "itemGroup.knm_group": "Epic Knights'n'Mages"
+}

@@ -1,0 +1,8 @@
+{
+	"enchantment.fzzy_core.none": "None",
+	"enchantment.amethyst_imbuement.none.desc": "No Description.",
+	"modifiers.base_text": "Modifiers: ",
+	"augment_damage.check_can_use": "Not enough durability to use augment!",
+	"augment_damage.damage": "Item low on mana!",
+	"augment_damage.burnout": "Augment burnt out!: "
+}

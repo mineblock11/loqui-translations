@@ -1,0 +1,128 @@
+{
+    "genshinstrument.keymaps": "Instruments GUI",
+    "genshinstrument.keymaps.transpose_up_modifier": "Transpose Instrument Up",
+    "genshinstrument.keymaps.transpose_down_modifier": "Transpose Instrument Down",
+
+
+    "genshinstrument.itemGroup.instruments": "Instruments",
+
+    "item.genshinstrument.windsong_lyre": "Windsong Lyre",
+    "item.genshinstrument.floral_zither": "Floral Zither",
+    "item.genshinstrument.vintage_lyre": "Vintage Lyre",
+    "item.genshinstrument.glorious_drum": "Arataki's Great And Glorious Drum",
+
+
+    "soundCategory.record": "Instruments",
+
+
+    "button.genshinstrument.instrumentOptions": "Instrument Options",
+    "label.genshinstrument.midiOptions": "MIDI Options",
+    "label.genshinstrument.zither_options": "Zither Options",
+    "label.genshinstrument.vintage_lyre_options": "Vintage Lyre Options",
+
+    "genshinstrument.genshin_disclaimer.title": "Disclaimer!",
+    "genshinstrument.genshin_disclaimer.content": "Genshin Instruments is an %s and %s Minecraft mod that is in no way affiliated with neither Genshin Impact nor HoYoverse.\n\nThus, all Genshin-related assets used in-game, such as sounds, images, instruments etc. are of complete ownership to HoYoverse.\n\nAs the user, you have the full responsibility over your actions within the game, including (but not limited to!) playing and sharing/publishing any songs that may be protected under copyright laws.",
+    "genshinstrument.genshin_disclaimer.bolden1": "unofficial",
+    "genshinstrument.genshin_disclaimer.bolden2": "fanmade",
+
+
+    "button.genshinstrument.audioChannels": "Instrument Audio Channel Type",
+    "button.genshinstrument.audioChannels.mono": "Mono",
+    "button.genshinstrument.audioChannels.stereo": "Stereo",
+    "button.genshinstrument.audioChannels.stereo.tooltip":
+        "NOTICE: Because of some annoying specification by OpenAL, all sounds produced on Stereo will be stuck on 100%.\nThis includes some instruments.",
+    "button.genshinstrument.audioChannels.mixed.tooltip":
+        "If the Instruments sound category is set to 100%, you will hear instruments on Stereo within %s blocks of range.\nOtherwise, you will hear Mono.",
+    "button.genshinstrument.audioChannels.mixed": "Mixed",
+    "button.genshinstrument.stop_music_on_play.tooltip": "When you or other players within %s blocks of range play an instrument, Minecraft's background music will stop.",
+    "button.genshinstrument.stop_music_on_play": "Stop Music On Play",
+    "button.genshinstrument.shared_instrument.tooltip": "See what other notes players nearby are playing in your instrument's screen",
+    "button.genshinstrument.shared_instrument": "Shared Instrument Screen",
+
+    "button.genshinstrument.render_background": "Show Background Visuals",
+    "button.genshinstrument.accurate_notes": "Accurate Notes",
+    "button.genshinstrument.accurate_notes.tooltip": "When on, provides a pitch-accurate representation of the note symbols and accidentals used by this instrument's layout",
+    
+    
+    "button.genshinstrument.midiEnabled": "MIDI Enabled",
+    "button.genshinstrument.midiDevice": "MIDI Device",
+    
+    "button.genshinstrument.fixedTouch": "Fixed Touch",
+    "button.genshinstrument.fixedTouch.tooltip": "Defines whether the velocity of a note press will not affect the instrument's volume",
+
+    "button.genshinstrument.extendOctaves": "Extend Octaves",
+    "button.genshinstrument.extendOctaves.tooltip": "When a note that is higher/lower than the usual octave range is played, will automatically adjust the pitch to match your playings. Can only extend up to 1 octave per side: high and low C.\nBlame Minecraft.",
+
+    "button.genshinstrument.midiOctaveShift": "Octave Shift",
+    "button.genshinstrument.midiChannel": "MIDI Channel",
+    "button.genshinstrument.acceptAllChannels": "Listen to All Channels",
+
+
+    "button.genshinstrument.dominantDrumType": "Dominant Drum Type",
+    "button.genshinstrument.dominantDrumType.both": "Both",
+
+    "button.genshinstrument.dominantDrumType.both.tooltip": "The MIDI keyboard will be split in middle C, such that low C plays Don and high plays Ka",
+    "button.genshinstrument.dominantDrumType.don.tooltip": "The whole keyboard plays Don",
+    "button.genshinstrument.dominantDrumType.ka.tooltip": "The whole keyboard plays Ka",
+
+
+    "button.genshinstrument.normalize_vintage_lyre": "Normalize Vintage Lyre",
+    "button.genshinstrument.normalize_vintage_lyre.tooltip": "Normalizes all flattened notes in the Vintage Lyre. Does not apply to the max pitch.",
+
+
+    "button.none": "None",
+
+
+
+    "button.genshinstrument.label": "Note Labels Type",
+    "button.genshinstrument.pitch": "Pitch",
+    "button.genshinstrument.volume": "Instrument Volume",
+
+    "button.genshinstrument.zither.soundType": "Sound Type",
+    "button.genshinstrument.zither.soundType.old": "Old",
+    "button.genshinstrument.zither.soundType.new": "New",
+
+
+    "button.genshinstrument.label.do_re_mi": "Do Re Mi",
+
+    "genshinstrument.label.do": "do",
+    "genshinstrument.label.re": "re",
+    "genshinstrument.label.mi": "mi",
+    "genshinstrument.label.fa": "fa",
+    "genshinstrument.label.so": "sol",
+    "genshinstrument.label.la": "la",
+    "genshinstrument.label.ti": "ti",
+
+    "genshinstrument.label.glorious_drum.ka": "Ka",
+    "genshinstrument.label.glorious_drum.don": "Don",
+
+
+    "button.genshinstrument.label.keyboard_layout": "Keyboard",
+    "button.genshinstrument.label.qwerty": "Keyboard (QWERTY)",
+    "button.genshinstrument.label.note_name": "Note Name",
+    "button.genshinstrument.label.abc": "ABC",
+    "button.genshinstrument.label.none": "No Label",
+
+    "button.genshinstrument.label.don_ka": "Don-Ka",
+
+
+
+    "genshinstrument.advancements.main.root.title": "A Bard's Journey",
+    "genshinstrument.advancements.main.root.description": "Though wine may not be by your side, the instruments will always walk you through the Game of Freedom.",
+
+    "genshinstrument.advancements.main.master.title": "A Band of One",
+    "genshinstrument.advancements.main.master.description": "Have all instruments in your inventory at once",
+    
+    "genshinstrument.advancements.main.windsong_lyre.title": "The Sound of Wind",
+    "genshinstrument.advancements.main.windsong_lyre.description": "Play the Windsong Lyre",
+    
+    "genshinstrument.advancements.main.vintage_lyre.title": "The Forest Will Remember",
+    "genshinstrument.advancements.main.vintage_lyre.description": "Play the Vintage Lyre",
+    
+    "genshinstrument.advancements.main.glorious_drum.title": "Totally Not a Scam",
+    "genshinstrument.advancements.main.glorious_drum.description": "Play Arataki's Glorious Drum",
+    
+    "genshinstrument.advancements.main.floral_zither.title": "Incognito Player",
+    "genshinstrument.advancements.main.floral_zither.description": "Play the Floral Zither"
+
+}

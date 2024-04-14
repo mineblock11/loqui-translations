@@ -1,0 +1,46 @@
+{
+  "itemGroup.berserker_rpg.general": "Berserker",
+
+  "item.berserker_rpg.berserker_spell_book": "Ancient Rune Tome",
+
+  "item.berserker_rpg.flint_berserker_axe": "Flint Raid Axe",
+  "item.berserker_rpg.stone_berserker_axe": "Stone Raid Axe",
+  "item.berserker_rpg.iron_berserker_axe": "Iron Raid Axe",
+  "item.berserker_rpg.golden_berserker_axe": "Gold Raid Axe",
+  "item.berserker_rpg.diamond_berserker_axe": "Diamond Raid Axe",
+  "item.berserker_rpg.netherite_berserker_axe": "Netherite Raid Axe",
+  "item.berserker_rpg.frozen_berserker_axe": "Norse Axe",
+  "item.berserker_rpg.thunder_berserker_axe": "Torann Axe",
+  "item.berserker_rpg.soul_berserker_axe": "Cursed Axe",
+
+  "item.berserker_rpg.wildling_head": "Wildling Head",
+  "item.berserker_rpg.wildling_chest": "Wildling Suit",
+  "item.berserker_rpg.wildling_legs": "Wildling Legs",
+  "item.berserker_rpg.wildling_feet": "Wildling Boots",
+  "item.berserker_rpg.northling_head": "Northling Head",
+  "item.berserker_rpg.northling_chest": "Northling Suit",
+  "item.berserker_rpg.northling_legs": "Northling Pants",
+  "item.berserker_rpg.northling_feet": "Northling Boots",
+
+  "effect.berserker_rpg.rage": "Rage",
+  "effect.berserker_rpg.soul_devourer": "Soul Devourer",
+
+  "spell.berserker_rpg.wild_rage.name": "Wild Rage",
+  "spell.berserker_rpg.wild_rage.description": "Fears targets for {effect_duration} seconds and gives the caster the Rage effect.",
+  "spell.berserker_rpg.bloody_strike.name": "Bloody Strike",
+  "spell.berserker_rpg.bloody_strike.description": "Deals {damage} physical-damage, heals the caster half of the dealt damage.",
+  "spell.berserker_rpg.nordic_storm.name": "Nordic Storm",
+  "spell.berserker_rpg.nordic_storm.description": "Spinning attack, that deals {damage}_0 physical- and {damage}_1 frost-damage on targets per second.",
+  "spell.berserker_rpg.undertow.name": "Undertow",
+  "spell.berserker_rpg.undertow.description": "Throws the axe dealing {damage} physical-damage, slows the target.",
+  "spell.berserker_rpg.rumbling_swing.name": "Rumbling Swing",
+  "spell.berserker_rpg.rumbling_swing.description": "Jumps lightning fast, dealing {damage}_0 physical- and {damage}_1 lightning-damage",
+  "spell.berserker_rpg.thunder_call.name": "Torann´s Call",
+  "spell.berserker_rpg.thunder_call.description": "Summons a thunderbolt from the sky that deals {damage} lightning-damage, sets targets on fire.",
+  "spell.berserker_rpg.soulaxe_drain.name": "Sacrifice Drain",
+  "spell.berserker_rpg.soulaxe_drain.description": "Damages yourself, drains the souls of targets dealing {damage} soul-damage per second.",
+  "spell.berserker_rpg.icicle_crash.name": "Icicle Crash",
+  "spell.berserker_rpg.icicle_crash.description": "Summons sharp icicles for {cloud_duration} seconds, dealing {damage} frost-damage per second.",
+  "spell.berserker_rpg.outrage.name": "Outrage",
+  "spell.berserker_rpg.outrage.description": "Slashes wildly, scales with rage effect, dealing {damage} physical-damage."
+}
