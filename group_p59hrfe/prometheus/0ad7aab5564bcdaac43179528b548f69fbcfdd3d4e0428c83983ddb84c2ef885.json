@@ -1,0 +1,158 @@
+{
+    "prometheus.error.logs": "Error occurred, check logs for more information.",
+
+    "prometheus.players.inventory": "%s's %s",
+    "prometheus.tpa.request.to": "[TPA] %s has requested to teleport to you: %s",
+    "prometheus.tpa.request.from": "[TPA] %s has requested you teleport to them: %s",
+    "prometheus.tpa.error.self_request": "[TPA] You cannot request to teleport to yourself.",
+    "prometheus.tpa.error.expired_request": "[TPA] Teleport request has expired.",
+    "prometheus.tpa.error.invalid_request": "[TPA] Invalid teleport request.",
+    "prometheus.tpa.error.request_denied": "[TPA] Teleport request denied.",
+    "prometheus.tpa.error.sender_offline": "[TPA] Teleport request sender is offline.",
+    "prometheus.tpa.teleporting": "Teleporting...",
+    "prometheus.tpa.request": "[TPA] Teleport request sent.",
+
+    "prometheus.rtp.failed_with_ceiling": "You can not rtp in a dimension with a ceiling.",
+    "prometheus.rtp.failed_cooldown": "You can not rtp for %s more seconds.",
+    "prometheus.rtp.success" : "Random teleport successful.",
+
+    "prometheus.invsee.enderchest": "Open Ender Chest",
+
+    "prometheus.invsee.inventory": "%s's Inventory",
+    "prometheus.invsee.your_inventory": "Your Inventory",
+
+    "prometheus.heading.broadcast": "%s is now %s",
+
+    "prometheus.heading.streaming": "§5● Streaming ●",
+    "prometheus.heading.recording": "§c● Recording ●",
+    "prometheus.heading.afk": "§e⌚ AFK ⌚",
+    "prometheus.heading.dnd": "§c✖ Do Not Disturb ✖",
+    "prometheus.heading.music": "§9♬ %s §9♬",
+
+    "prometheus.heading.name.streaming": "Streaming",
+    "prometheus.heading.name.recording": "Recording",
+    "prometheus.heading.name.afk": "AFK",
+    "prometheus.heading.name.dnd": "Do Not Disturb",
+    "prometheus.heading.name.music": "Music",
+    "prometheus.heading.name.none": "nothing.",
+
+    "prometheus.heading.join": "Heading is set to %s from last login.",
+    "prometheus.heading.set": "Heading is set to %s",
+    "prometheus.heading.invalid_permission": "You do not have permission to set your heading to %s",
+    "prometheus.heading.invalid": "Invalid heading %s",
+
+    "prometheus.locations.home": "Homes",
+    "prometheus.locations.home.command": "Homes:",
+    "prometheus.locations.home.add": "Add a Home",
+    "prometheus.locations.home.to": "Click to teleport to %s",
+    "prometheus.locations.warp": "Warps",
+    "prometheus.locations.warp.command": "Warps:",
+    "prometheus.warps.error.warp_already_exists": "Warp already exists.",
+    "prometheus.warps.error.warp_does_not_exist": "Warp does not exist.",
+    "prometheus.warps.error.no_warps": "There are no warps.",
+    "prometheus.locations.warp.add": "Add a Warp",
+    "prometheus.locations.warp.to": "Click to warp to %s",
+    "prometheus.locations.add": "Add New Location:",
+
+    "prometheus.chat.error.muted": "You can not send a message while muted.",
+
+    "prometheus.commands.edit": "Edit Command — %s",
+    "prometheus.commands.add": "Added command %s",
+    "prometheus.commands.remove": "Removed command %s",
+    "prometheus.commands.click_edit": "Click to edit.",
+
+    "prometheus.ui.unsaved_changes": "Unsaved Changes!",
+    "prometheus.ui.save": "Save",
+    "prometheus.ui.back": "Back",
+    "prometheus.ui.remove": "Remove",
+    "prometheus.ui.undo": "Undo",
+    "prometheus.ui.move_up": "Move Up",
+    "prometheus.ui.move_down": "Move Down",
+    "prometheus.ui.edit": "Edit",
+    "prometheus.ui.add": "Add",
+    "prometheus.ui.next": "Next",
+    "prometheus.ui.prev": "Previous",
+
+    "prometheus.roles.edit": "Edit Role — %s",
+    "prometheus.roles.title": "Prometheus Roles",
+
+    "option.prometheus.permissions": "Permissions",
+    "option.prometheus.homes/v1": "Homes",
+    "option.prometheus.cosmetics/v1": "Cosmetics",
+    "option.prometheus.teleport/v1": "Teleport",
+
+    "headings.streaming.permission": "Can set Streaming heading",
+    "headings.recording.permission": "Can set Recording heading",
+    "headings.afk.permission": "Can set AFK heading",
+    "headings.dnd.permission": "Can set DND heading",
+    "headings.music.permission": "Can set Music heading",
+
+    "prometheus.homes.error.max_homes": "You have reached the maximum number of homes.",
+    "prometheus.homes.error.home_does_not_exist": "Home does not exist.",
+    "prometheus.homes.error.home_already_exists": "Home already exists.",
+    "prometheus.homes.error.no_homes": "You do not have any homes.",
+    "prometheus.homes.error.multiple_homes": "You have multiple homes. Default home can only go to homes marked as 'home' or 'bed'",
+    "prometheus.location.error.cant_find_dimension": "Could not find dimension.",
+    "prometheus.roles.error.cant_edit_role": "You can't edit that role.",
+    "prometheus.roles.error.cant_edit_role_in_list": "You can't edit a role in this list.",
+    "prometheus.roles.error.not_allowed_to_edit_roles": "You do not have permission to modify roles.",
+
+    "prometheus.spawn.cant_find_location": "Can't find a safe location at spawn to teleport to.",
+
+    "prometheus.muted": "You cannot not message while muted.",
+
+    "dimension.minecraft.overworld": "Overworld",
+    "dimension.minecraft.the_nether": "The Nether",
+    "dimension.minecraft.the_end": "The End",
+
+    "prometheus.options.permissions.title": "Permissions",
+    "prometheus.options.permissions.add": "Add a permission",
+
+    "prometheus.options.homes.title": "Home Options",
+    "prometheus.options.homes.max": "Max Homes",
+
+    "prometheus.options.cosmetic.title": "Cosmetic Options",
+    "prometheus.options.cosmetic.role_name": "Role Name",
+    "prometheus.options.cosmetic.role_icon": "Role Icon",
+
+    "prometheus.options.teleport.title": "Teleport Options",
+    "prometheus.options.teleport.request_timeout": "Request Timeout",
+    "prometheus.options.teleport.request_timeout.tooltip": "Request timeout in milliseconds.",
+    "prometheus.options.teleport.rtp_cooldown": "RTP Cooldown",
+    "prometheus.options.teleport.rtp_cooldown.tooltip": "RTP cooldown in milliseconds.",
+    "prometheus.options.teleport.rtp_distance": "RTP Distance",
+    "prometheus.options.teleport.rtp_distance.tooltip": "RTP distance in blocks.",
+
+    "options.prometheusNotificationSound": "Ping Sound",
+    "options.prometheus.sound.tooltip": "Play a sound when you receive a message or are mentioned in chat.",
+    "options.prometheusShowNotifications": "Show Desktop Notifications",
+    "options.prometheus.notifications.tooltip": "Get desktop notifications when you receive a message or are mentioned in chat.",
+    "options.prometheusShowStuckButton": "Show Stuck Button",
+    "options.prometheus.stuck.tooltip": "Show a button on the join screen to teleport you to spawn.",
+
+    "prometheus.roles.error.cant_give_role": "You do not have permission",
+    "prometheus.run.no_permission": "You do not have permission to run this command.",
+    "prometheus.rtp.failed_max_tries": "Failed after max tries.",
+    "prometheus.roles.member.error": "Only 1 player is allowed",
+
+    "rei.sections.odyssey": "Project Odyssey",
+    "rei.prometheus.prometheus.tooltip": "Teleport Home",
+
+    "key.categories.odyssey": "Project Odyssey",
+    "key.prometheus.open_homes": "Open Homes",
+
+    "prometheus.offline.multiple_players": "You can't use for multiple players.",
+    "prometheus.offline.unknown_player": "Unknown player.",
+    "prometheus.offline.player_online": "Player is online, use /tp.",
+
+    "prometheus.stuck.panic": "If you're stuck crashing, click to be TP'd to spawn on join!",
+
+    "prometheus.promotions.promoted": "You have been promoted to %s",
+    "prometheus.promotions.created": "Created promotion %s",
+    "prometheus.promotions.removed": "Removed promotion %s",
+    "prometheus.promotions.edited": "Edited promotion %s",
+    "prometheus.promotions.does_not_exist": "Promotion with id %s does not exist.",
+
+    "prometheus.roles.member.removed": "Removed member %s from role %s",
+    "prometheus.roles.member.added": "Added member %s to role %s"
+}

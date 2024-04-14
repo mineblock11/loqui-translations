@@ -1,0 +1,23 @@
+{
+  "item.spectrumjetpacks.gemstone_jetpack": "Gemstone Jetpack",
+  "item.spectrumjetpacks.bedrock_jetpack": "Bedrock Jetpack",
+
+  "item.spectrumjetpacks.jetpack.desc.toggle": "Toggle: [%s]",
+    "item.spectrumjetpacks.jetpack.desc.hover": "Hover: [%s]",
+
+  "category.spectrumjetpacks": "Spectrum Jetpacks",
+  "key.spectrumjetpacks.toggle": "Toggle Jetpack Propel",
+  "key.spectrumjetpacks.hover": "Toggle Jetpack Hover",
+  "key.spectrumjetpacks.boost": "Jetpack Boost",
+
+
+  "text.autoconfig.spectrumjetpacks.title": "Spectrum Jetpacks",
+  "text.autoconfig.spectrumjetpacks.option.soundsEnabled": "Enable Jetpack Sounds",
+  "text.autoconfig.spectrumjetpacks.option.inkUsagePerTick": "Ink Usage Per Tick",
+  "text.autoconfig.spectrumjetpacks.option.inkUsagePerTickHovering": "Ink Usage Per Tick Hovering",
+
+  "advancements.spectrumjetpacks.craft_gemstone_jetpack.title": "To the sky!",
+    "advancements.spectrumjetpacks.craft_gemstone_jetpack.description": "Craft the first jetpack!",
+  "advancements.spectrumjetpacks.craft_bedrock_jetpack.title": "The sky is not the limit!",
+    "advancements.spectrumjetpacks.craft_bedrock_jetpack.description": "Craft the second jetpack!"
+}

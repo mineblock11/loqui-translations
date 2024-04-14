@@ -1,0 +1,14 @@
+{
+  "item.onlyhammers.wooden_hammer": "Wooden Hammer",
+  "item.onlyhammers.stone_hammer": "Stone Hammer",
+  "item.onlyhammers.iron_hammer": "Iron Hammer",
+  "item.onlyhammers.gold_hammer": "Gold Hammer",
+  "item.onlyhammers.lapis_hammer": "Lapis Hammer",
+  "item.onlyhammers.redstone_hammer": "Redstone Hammer",
+  "item.onlyhammers.diamond_hammer": "Diamond Hammer",
+  "item.onlyhammers.emerald_hammer": "Emerald Hammer",
+  "item.onlyhammers.obsidian_hammer": "Obsidian Hammer",
+  "item.onlyhammers.netherite_hammer": "Netherite Hammer",
+
+  "itemGroup.onlyhammers": "Only Hammers"
+}

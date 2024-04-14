@@ -1,0 +1,153 @@
+{
+  "item.coxinhautilities.coxinha": "Coxinha",
+  "tooltip.coxinhautilities.coxinha": "A tasteful Franco-Brazilian dish (pronounced kow-sheen-yuh)",
+
+  "item.coxinhautilities.cursed_coxinha": "Cursed Coxinha",
+  "tooltip.kibe.lore.cursed_kibe": "§5§oHas a 1/64 chance to kill you",
+
+  "item.coxinhautilities.golden_coxinha": "Golden Coxinha",
+  "tooltip.kibe.lore.golden_kibe": "§5§oVIP only",
+
+  "item.coxinhautilities.diamond_coxinha": "Diamond Coxinha",
+  "tooltip.kibe.lore.diamond_kibe": "§5§oVIP+ only",
+
+
+  "item.coxinhautilities.potato_battery": "Potato Battery",
+  "item.coxinhautilities.baked_potato_battery": "Baked Potato Battery",
+  "item.coxinhautilities.poisonous_potato_battery": "Poisonous Potato Battery",
+
+  "tooltip.coxinhautilities.potato_battery.1": "Energy: ",
+  "tooltip.coxinhautilities.potato_battery.2": "%d/%d",
+  "tooltip.coxinhautilities.potato_battery.3": "Distribute Energy: ",
+
+  "tooltip.coxinhautilities.potato_battery.witty": "Absolutely NOT endorsed by Aperture Science.",
+
+  "tooltip.coxinhautilities.baked_potato_battery.witty.1": "Delicious!",
+  "tooltip.coxinhautilities.baked_potato_battery.witty.2": "But still not endorsed by Aperture Science.",
+
+  "tooltip.coxinhautilities.poisonous_potato_battery.witty.1": "There's poison inside it...",
+  "tooltip.coxinhautilities.poisonous_potato_battery.witty.2": "so maybe there's a slim chance?",
+
+
+  "item.coxinhautilities.ender_orchid_seeds": "Ender Orchid Seeds",
+
+  "block.coxinhautilities.ender_orchid": "Ender Orchid",
+  "block.coxinhautilities.potted_ender_orchid": "Potted Ender Orchid",
+  "tooltip.coxinhautilities.ender_orchid.1": "An otherwordly plant that grows",
+  "tooltip.coxinhautilities.ender_orchid.2": "Ender Pearls as its flowers.",
+  "tooltip.coxinhautilities.ender_orchid.witty.1": "Don't bone meal it! Nature",
+  "tooltip.coxinhautilities.ender_orchid.witty.2": "doesn't like to be rushed.",
+
+
+  "block.coxinhautilities.wooden_hopper": "Wooden Hopper",
+  "tooltip.coxinhautilities.wooden_hopper.1": "A cheaper, single slot hopper alternative.",
+  "tooltip.coxinhautilities.wooden_hopper.2": "Cannot be blocked with a redstone signal.",
+  "tooltip.coxinhautilities.wooden_hopper.witty": "Screams 'penny-pincher' but you do you, I guess.",
+
+
+  "block.coxinhautilities.portable_tank_mk1": "Portable Tank MK1",
+  "block.coxinhautilities.portable_tank_mk2": "Portable Tank MK2",
+  "block.coxinhautilities.portable_tank_mk3": "Portable Tank MK3",
+  "block.coxinhautilities.portable_tank_mk4": "Portable Tank MK4",
+  "block.coxinhautilities.portable_tank_mk5": "Portable Tank MK5",
+
+  "tooltip.coxinhautilities.tank.fluidVariant.1": "Liquid: ",
+  "tooltip.coxinhautilities.tank.fluidVariant.2": "%d",
+
+  "tooltip.coxinhautilities.tank.none": "None",
+
+  "tooltip.coxinhautilities.tank.capacity.1": "Capacity: ",
+  "tooltip.coxinhautilities.tank.capacity.2": "%d/%d%d",
+
+  "tooltip.coxinhautilities.tank.holdShift": "Hold Shift to see unit as droplets.",
+  "tooltip.coxinhautilities.tank.releaseShift": "Release Shift to see unit as MilliBuckets (mB).",
+  "tooltip.coxinhautilities.tank.witty.1": "Kinda odd they're considered 'portable' when",
+  "tooltip.coxinhautilities.tank.witty.2": "they can hold fluids amounts from 16 up to 256 buckets.",
+
+  "unit.coxinhautilities.droplet": " droplets",
+  "unit.coxinhautilities.milliBuckets": "mB",
+
+
+  "block.coxinhautilities.grannys_sink": "Granny's Sink",
+  "tooltip.coxinhautilities.grannys_sink.1": "Scientists estimate that all of Earth's oceans",
+  "tooltip.coxinhautilities.grannys_sink.2": "combined have a total water volume of ~1,332,000,000",
+  "tooltip.coxinhautilities.grannys_sink.3": "cubic kilometers. That might seem like a",
+  "tooltip.coxinhautilities.grannys_sink.4": "lot of water, but it's only a mere fraction",
+  "tooltip.coxinhautilities.grannys_sink.5": "of the water contained in Granny's Sink.",
+  "tooltip.coxinhautilities.grannys_sink.witty": "Cabinets for decorative purposes only.",
+
+
+  "block.coxinhautilities.fluid_trash_can": "Fluid Trash Can",
+  "tooltip.coxinhautilities.fluid_trash_can.1": "Voids any fluids inserted into it.",
+  "tooltip.coxinhautilities.fluid_trash_can.2": "Can interact with surrounding pipes.",
+  "tooltip.coxinhautilities.fluid_trash_can.witty": "Granny's Sink's greatest enemy.",
+
+
+  "block.coxinhautilities.energy_trash_can": "Energy Trash Can",
+  "tooltip.coxinhautilities.energy_trash_can.1": "Voids energy inserted into it.",
+  "tooltip.coxinhautilities.energy_trash_can.2": "Can interact with surrounding cables.",
+  "tooltip.coxinhautilities.energy_trash_can.witty": "Sustainability's greatest enemy.",
+
+  "block.coxinhautilities.drying_rack": "Drying Rack",
+  "tooltip.coxinhautilities.drying_rack": "A rack able to dry items. That's it.",
+  "tooltip.coxinhautilities.drying_rack.witty": "Oh the things we do for... easy leather?",
+
+  "block.coxinhautilities.cardboard_box": "Cardboard Box",
+  "tooltip.coxinhautilities.cardboard_box.1": "A special box able to store and",
+  "tooltip.coxinhautilities.cardboard_box.2": "move content-holding blocks.",
+  "tooltip.coxinhautilities.cardboard_box.3": "Shift-Click to (un)pack a block.",
+  "tooltip.coxinhautilities.cardboard_box.witty": "\"Special box\"? It's literally cardboard...",
+
+  "tooltip.coxinhautilities.empty": "Empty",
+
+  "block.coxinhautilities.aquatic_torch": "Aquatic Torch",
+  "tooltip.coxinhautilities.aquatic_torch": "A special torch to illuminate your watery places.",
+  "tooltip.coxinhautilities.aquatic_torch.witty": "...and give Glow Squids one more use.",
+
+  "block.coxinhautilities.copper_ladder": "Copper Ladder",
+  "block.coxinhautilities.exposed_copper_ladder": "Exposed Copper Ladder",
+  "block.coxinhautilities.weathered_copper_ladder": "Weathered Copper Ladder",
+  "block.coxinhautilities.oxidized_copper_ladder": "Oxidized Copper Ladder",
+
+  "block.coxinhautilities.waxed_copper_ladder": "Waxed Copper Ladder",
+  "block.coxinhautilities.waxed_exposed_copper_ladder": "Waxed Exposed Copper Ladder",
+  "block.coxinhautilities.waxed_weathered_copper_ladder": "Waxed Weathered Copper Ladder",
+  "block.coxinhautilities.waxed_oxidized_copper_ladder": "Waxed Oxidized Copper Ladder",
+
+  "tooltip.coxinhautilities.copper_ladder.1": "A ladder alternative that is faster to climb.",
+  "tooltip.coxinhautilities.copper_ladder.2": "Becomes slower to climb as it oxidizes.",
+
+  "tooltip.coxinhautilities.copper_ladder.witty.1": "Psst... did you know these work like pre-Beta",
+  "tooltip.coxinhautilities.copper_ladder.witty.2": "1.5 ladders with no oxidation? Try it!",
+
+
+  "block.coxinhautilities.lava_sponge": "Lava Sponge",
+  "tooltip.coxinhautilities.lava_sponge.witty": "You don't need an explanation for this one, right?",
+
+  "block.coxinhautilities.wet_lava_sponge": "Wet Lava Sponge",
+
+  "itemGroup.coxinhautilities.item_group": "Coxinha Utilities",
+
+
+  "yacl3.config.coxinhautilities:common.category.ender_orchid": "Ender Orchid",
+
+
+  "yacl3.config.coxinhautilities:common.canGenerateEnderOrchids": "Generate Ender Orchids?",
+  "yacl3.config.coxinhautilities:common.canGenerateEnderOrchids.desc": "Whether Ender Orchids can be generated naturally on The End",
+
+  "yacl3.config.coxinhautilities:common.hasEnderOrchidStrictPlacement": "Enable Ender Orchid's Strict Placement?",
+  "yacl3.config.coxinhautilities:common.hasEnderOrchidStrictPlacement.desc": "Whether Ender Orchids can be placed on non-End Stone blocks",
+
+  "yacl3.config.coxinhautilities:common.enderOrchidRegularGrowthRate": "Ender Orchid's Regular Growth Rate",
+  "yacl3.config.coxinhautilities:common.enderOrchidRegularGrowthRate.desc": "How fast Ender Orchids grow on End Stone blocks",
+
+  "yacl3.config.coxinhautilities:common.enderOrchidSpecialGrowthRate": "Ender Orchid's Special Growth Rate",
+  "yacl3.config.coxinhautilities:common.enderOrchidSpecialGrowthRate.desc": "How fast Ender Orchids grow on non-End Stone blocks",
+
+
+  "yacl3.config.coxinhautilities:common.category.cardboard_box": "Cardboard Box",
+
+
+  "yacl3.config.coxinhautilities:common.useCarrierBlacklist": "Use Carrier's Blacklist?",
+  "yacl3.config.coxinhautilities:common.useCarrierBlacklist.desc": "Don't allow blocks on Carrier's blacklist to be packed"
+}

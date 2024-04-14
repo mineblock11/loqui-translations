@@ -1,0 +1,24 @@
+{
+  "itemGroup.industrialreborn.item_group": "Industrial Reborn",
+
+  "block.industrialreborn.broken_spawner": "Broken Spawner",
+
+  "block.industrialreborn.powered_spawner": "Powered Spawner",
+  "block.industrialreborn.mob_slaughter": "Mob Slaughter",
+  "block.industrialreborn.soul_extractor": "Soul Extractor",
+  "block.industrialreborn.fluid_transposer": "Fluid Transposer",
+  "block.industrialreborn.animal_feeder": "Animal Feeder",
+  "block.industrialreborn.animal_baby_separator": "Animal Baby Separator",
+
+  "item.industrialreborn.empty_soul_vial": "Soul Vial",
+  "item.industrialreborn.filled_soul_vial": "Soul Vial",
+  "item.industrialreborn.filled_soul_vial.tooltip": "Contains the soul of %s",
+
+  "item.industrialreborn.range_upgrade": "Range Upgrade",
+  "item.industrialreborn.adult_filter_upgrade": "Adult Filter Upgrade",
+
+  "block.industrialreborn.liquid_experience": "Liquid Experience",
+  "item.industrialreborn.liquid_experience_bucket": "Liquid Experience Bucket",
+  "block.industrialreborn.soul_essence": "Soul Essence",
+  "item.industrialreborn.soul_essence_bucket": "Soul Essence Bucket"
+}

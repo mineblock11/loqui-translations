@@ -1,0 +1,68 @@
+{
+  "item.bankstorage.bank_1": "Bank 1",
+  "item.bankstorage.bank_2": "Bank 2",
+  "item.bankstorage.bank_3": "Bank 3",
+  "item.bankstorage.bank_4": "Bank 4",
+  "item.bankstorage.bank_5": "Bank 5",
+  "item.bankstorage.bank_6": "Bank 6",
+  "item.bankstorage.bank_7": "Bank 7",
+
+  "item.bankstorage.bank_link": "Bank Link",
+
+  "block.bankstorage.bank_dock": "Bank Dock",
+
+  "popup.bankstorage.buildmode.none": "Bag mode",
+  "popup.bankstorage.buildmode.normal": "Build mode",
+  "popup.bankstorage.buildmode.random": "Randomized build mode",
+
+  "popup.bankstorage.unlinked": "This Bank Link not linked to a Bank. Craft one to link it instead.",
+
+  "popup.bankstorage.pickupmode.none": "No item pickup",
+  "popup.bankstorage.pickupmode.all": "Pickup all",
+  "popup.bankstorage.pickupmode.filtered": "Filtered pickup",
+  "popup.bankstorage.pickupmode.void": "Void excess",
+
+  "category.bankstorage": "Bank Storage",
+  "key.bankstorage.togglebuildmode": "Toggle build mode",
+  "key.bankstorage.togglepickupmode": "Toggle pickup mode",
+  "key.bankstorage.lockslot": "Filter Slot",
+
+  "title.bankstorage.pickupmode.no_pickup": "No Pickup",
+  "tooltip.bankstorage.pickupmode.no_pickup": "Items will not get picked or inserted",
+  "title.bankstorage.pickupmode.pickup_all": "Pickup All",
+  "tooltip.bankstorage.pickupmode.pickup_all": "All Items will get picked or inserted",
+  "title.bankstorage.pickupmode.filtered": "Filtered",
+  "tooltip.bankstorage.pickupmode.filtered": "Only items already contained will get picked or inserted",
+  "title.bankstorage.pickupmode.void_overflow": "Void Overflow",
+  "tooltip.bankstorage.pickupmode.void_overflow": "Overflowing items will get voided",
+
+  "title.bankstorage.sortmode.count": "Sort",
+  "tooltip.bankstorage.sortmode.count": "Sort by item count",
+  "title.bankstorage.sortmode.name": "Sort",
+  "tooltip.bankstorage.sortmode.name": "Sort by item name",
+  "title.bankstorage.sortmode.mod": "Sort",
+  "tooltip.bankstorage.sortmode.mod": "Sort by mod",
+
+  "tooptip.bankstorage.stacklimit": "§7Stack limit: %s",
+  "tooptip.bankstorage.numslots": "§7Number of slots: %s",
+
+  "command.bankstorage.hoverinfo": "Click for give command",
+  "command.bankstorage.bankinfo": "%s %d items %s\n",
+  "command.bankstorage.unknownid": "No bank with that id",
+
+  "github_url.bankstorage": "https://github.com/Natanaelel/BankStorage/issues",
+  "open_github_url.bankstorage": "Open github URL",
+  "invalid.bankstorage": "§c§lTHIS WAS NOT SUPPOSED TO HAPPEN!\n§rPlease make a bug report\n§rdescribing what caused this message to appear.",
+  "error.bankstorage.random_is_null": "Math.Random PlayerEntity.bankstorage$getSyncedRandom() returned null\nIf this error persists, try rejoining the server/world.",
+
+  "admin_restore_bank.bankstorage.cleared_all_filters": "Cleared all filters.",
+  "admin_restore_bank.bankstorage.cleared_type_filters": "Cleared type filters.",
+  "admin_restore_bank.bankstorage.cleared_player_filters": "Cleared player filters.",
+  "admin_restore_bank.bankstorage.cleared_item_filters": "Cleared item filters.",
+
+  "admin_restore_bank.bankstorage.added_type_filter": "Added type filter.",
+  "admin_restore_bank.bankstorage.added_player_filter": "Added player filter.",
+  "admin_restore_bank.bankstorage.added_item_filter": "Added item filter.",
+
+  "admin_restore_bank.bankstorage.listed_banks_num": "(listed %d banks)"
+}

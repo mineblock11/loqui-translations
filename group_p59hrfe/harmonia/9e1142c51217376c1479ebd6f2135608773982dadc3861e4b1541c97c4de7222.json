@@ -1,0 +1,7 @@
+{
+  "gui.harmonia.chunkloaded": "Chunkloaded",
+  "gui.harmonia.claim_chunks": "Claim Selection",
+  "gui.harmonia.unclaim_chunks": "Unclaim Selection",
+  "gui.harmonia.chunkload_chunks": "Chunkload Selection",
+  "gui.harmonia.unchunkload_chunks": "Unchunkload Selection"
+}

@@ -1,0 +1,48 @@
+{
+  "itemGroup.piercingPaxels" : "Piercing Paxels",
+  "piercingpaxels.container.paxel" : "Paxel",
+
+  "item.piercingpaxels.wooden_paxel" : "Wooden Paxel",
+  "item.piercingpaxels.stone_paxel" : "Stone Paxel",
+  "item.piercingpaxels.iron_paxel" : "Iron Paxel",
+  "item.piercingpaxels.golden_paxel" : "Golden Paxel",
+  "item.piercingpaxels.diamond_paxel" : "Diamond Paxel",
+  "item.piercingpaxels.netherite_paxel" : "Netherite Paxel",
+  "item.piercingpaxels.netherite_paxel_upgrade_kit" : "Netherite Paxel Upgrade Kit",
+  "item.piercingpaxels.active_wall" : "3x3 Ability",
+  "item.piercingpaxels.active_tunnel" : "Tunnel Ability",
+  "item.piercingpaxels.active_hole" : "Hole Ability",
+  "item.piercingpaxels.passive_smelt" : "Auto-Smelt Upgrade",
+  "item.piercingpaxels.passive_silence" : "Silence Upgrade",
+  "item.piercingpaxels.passive_vacuum" : "Vacuum Upgrade",
+  "item.piercingpaxels.usage_axe" : "Stripping Upgrade",
+  "item.piercingpaxels.usage_shovel" : "Paving Upgrade",
+  "item.piercingpaxels.usage_hoe" : "Tilling Upgrade",
+  "item.piercingpaxels.upgrade_restoration" : "Restoration Upgrade",
+  "item.piercingpaxels.upgrade_unbreakable" : "Unbreakability Upgrade",
+
+  "item.piercingpaxels.tr_bronze_paxel" : "Bronze Paxel",
+  "item.piercingpaxels.tr_ruby_paxel" : "Ruby Paxel",
+  "item.piercingpaxels.tr_sapphire_paxel" : "Sapphire Paxel",
+  "item.piercingpaxels.tr_peridot_paxel" : "Peridot Paxel",
+  "item.piercingpaxels.tr_basic_drack" : "Basic Drack",
+  "item.piercingpaxels.tr_advanced_drack" : "Advanced Drack",
+  "item.piercingpaxels.tr_industrial_drack" : "Industrial Drack",
+  "item.piercingpaxels.tr_basic_upgrade_kit" : "Basic Upgrade Kit",
+  "item.piercingpaxels.tr_advanced_upgrade_kit" : "Advanced Upgrade Kit",
+  "item.piercingpaxels.tr_industrial_upgrade_kit" : "Industrial Upgrade Kit",
+  "item.piercingpaxels.tr_basic_drack_upgrade_kit" : "Basic Drack Upgrade Kit",
+  "item.piercingpaxels.tr_advanced_drack_upgrade_kit" : "Advanced Drack Upgrade Kit",
+  "item.piercingpaxels.tr_industrial_drack_upgrade_kit" : "Industrial Drack Upgrade Kit",
+  "item.piercingpaxels.tr_usage_treetap" : "Treetap Upgrade",
+
+  "item.piercingpaxels.soul_steel_paxel" : "Soul Steel Paxel",
+
+  "item.piercingpaxels.paxel.empty_tooltip" : "Use while sneaking to access Upgrades",
+  "tag.piercingpaxels.mineable/paxel" : "Paxel Mineable",
+  "tag.piercingpaxels.actives" : "Active Paxel Upgrades",
+  "tag.piercingpaxels.passives" : "Passive Paxel Upgrades",
+  "tag.piercingpaxels.usages" : "Usage Paxel Upgrades",
+
+  "piercingpaxels.forge" : "Not available on Forge"
+}

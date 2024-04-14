@@ -1,0 +1,11 @@
+{
+  "tooltip.colytra.broken": "Unusable",
+  "gui.colytra.config.itemListType.name": "Chestplate items list type",
+  "gui.colytra.config.itemListType.tooltip": "Determines if itemsList contains allowed items or denied items.",
+  "gui.colytra.config.itemsList.name": "Chestplate items",
+  "gui.colytra.config.itemsList.description": "The items for crafting with elytras.",
+  "gui.colytra.config.fusionType.name": "Crafting fusion type",
+  "gui.colytra.config.fusionType.description": "Determines how the combined elytra chestplates will behave.\nNORMAL: Elytras will exist separately from the chestplate, able to be separated later.\nUNISON: Elytras will fuse completely with the chestplate, unable to be separated.\nPERFECT: Elytras will fuse completely with the chestplate and flying will not use durability.",
+  "gui.colytra.config.energyCost.name": "Fall flying energy cost",
+  "gui.colytra.config.energyCost.description": "The energy cost per second of fall flying if fusionType is UNISON and the chestplate uses energy."
+}
