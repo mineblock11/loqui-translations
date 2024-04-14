@@ -4139,6 +4139,18 @@ files:
       - zh-CN
       - zh-HK
       - zh-TW
+  - source: /group_485f6ax/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - pl
   - source: /group_2qmktrs/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
