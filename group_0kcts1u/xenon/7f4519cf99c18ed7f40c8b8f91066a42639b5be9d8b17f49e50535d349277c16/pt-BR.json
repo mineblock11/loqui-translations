@@ -1,0 +1,4 @@
+{
+  "xenon.conflicting_mod": "Xenon detectou a presença de mods que são conhecidos por causar problemas de renderização/travamentos. É recomendado desinstalá-los. Veja a lista abaixo.",
+  "xenon.conflicting_mod_list": "[{2}]"
+}
