@@ -3520,6 +3520,17 @@ files:
       - sl
       - zh-CN
       - zh-TW
+  - source: /group_mszkq4u/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-PT
+      - es-ES
+      - es-MX
+      - fr
+      - ko
+      - nl
+      - ru
+      - uk
   - source: /group_3127oq7/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
