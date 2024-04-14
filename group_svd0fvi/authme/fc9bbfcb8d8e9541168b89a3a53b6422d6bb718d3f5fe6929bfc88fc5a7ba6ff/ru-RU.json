@@ -32,7 +32,7 @@
   "gui.authme.offline.title": "Вход в автономном режиме",
   "gui.authme.offline.field.username": "Выберите имя пользователя",
   "gui.authme.offline.button.login": "Играть в автономном режиме",
-  "text.autoconfig.authme.title": "Конфиг Auth Me",
+  "text.autoconfig.authme.title": "Настройки Auth Me",
   "text.autoconfig.authme.option.authButton": "Кнопка авторизации",
   "text.autoconfig.authme.option.authButton.x": "X Coordinate",
   "text.autoconfig.authme.option.authButton.y": "Y Coordinate",
