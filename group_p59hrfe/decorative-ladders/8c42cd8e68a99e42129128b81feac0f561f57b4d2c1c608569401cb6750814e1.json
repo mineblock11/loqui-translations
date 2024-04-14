@@ -1,0 +1,48 @@
+{
+
+  "block.decorative-ladders.oak_plank_ladder": "Oak Planks Ladder",
+  "block.decorative-ladders.oak_log_ladder": "Oak Log Ladder",
+  "block.decorative-ladders.stripped_oak_log_ladder": "Stripped Oak Log Ladder",
+
+  "block.decorative-ladders.spruce_plank_ladder": "Spruce Planks Ladder",
+  "block.decorative-ladders.spruce_log_ladder": "Spruce Log Ladder",
+  "block.decorative-ladders.stripped_spruce_log_ladder": "Stripped Spruce Log Ladder",
+
+  "block.decorative-ladders.birch_plank_ladder": "Birch Planks Ladder",
+  "block.decorative-ladders.birch_log_ladder": "Birch Log Ladder",
+  "block.decorative-ladders.stripped_birch_log_ladder": "Stripped Birch Log Ladder",
+
+  "block.decorative-ladders.dark_oak_plank_ladder": "Dark Oak Planks Ladder",
+  "block.decorative-ladders.dark_oak_log_ladder": "Dark Oak Log Ladder",
+  "block.decorative-ladders.stripped_dark_oak_log_ladder": "Stripped Dark Oak Log Ladder",
+
+  "block.decorative-ladders.acacia_plank_ladder": "Acacia Planks Ladder",
+  "block.decorative-ladders.acacia_log_ladder": "Acacia Log Ladder",
+  "block.decorative-ladders.stripped_acacia_log_ladder": "Stripped Acacia Log Ladder",
+
+  "block.decorative-ladders.jungle_plank_ladder": "Jungle Planks Ladder",
+  "block.decorative-ladders.jungle_log_ladder": "Jungle Log Ladder",
+  "block.decorative-ladders.stripped_jungle_log_ladder": "Stripped Jungle Log Ladder",
+
+  "block.decorative-ladders.mangrove_plank_ladder": "Mangrove Planks Ladder",
+  "block.decorative-ladders.mangrove_log_ladder": "Mangrove Log Ladder",
+  "block.decorative-ladders.stripped_mangrove_log_ladder": "Stripped Mangrove Log Ladder",
+
+  "block.decorative-ladders.cherry_plank_ladder": "Cherry Planks Ladder",
+  "block.decorative-ladders.cherry_log_ladder": "Cherry Log Ladder",
+  "block.decorative-ladders.stripped_cherry_log_ladder": "Stripped Cherry Log Ladder",
+
+  "block.decorative-ladders.bamboo_plank_ladder": "Bamboo Planks Ladder",
+  "block.decorative-ladders.bamboo_log_ladder": "Bamboo Ladder",
+  "block.decorative-ladders.stripped_bamboo_log_ladder": "Stripped Bamboo Ladder",
+
+  "block.decorative-ladders.crimson_plank_ladder": "Crimson Planks Ladder",
+  "block.decorative-ladders.crimson_log_ladder": "Crimson Stem Ladder",
+  "block.decorative-ladders.stripped_crimson_log_ladder": "Stripped Crimson Stem Ladder",
+
+  "block.decorative-ladders.warped_plank_ladder": "Warped Planks Ladder",
+  "block.decorative-ladders.warped_log_ladder": "Warped Stem Ladder",
+  "block.decorative-ladders.stripped_warped_log_ladder": "Stripped Warped Stem Ladder",
+
+  "itemgroup.decorative-ladders.ladders": "Decorative Ladders"
+}
