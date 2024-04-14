@@ -1,0 +1,133 @@
+{
+  "entity.frycmobvariants.armored_spider": "Armored Spider",
+  "entity.frycmobvariants.undead_warrior": "Undead Warrior",
+  "entity.frycmobvariants.forgotten": "Forgotten",
+  "entity.frycmobvariants.cave_creeper": "Cave Creeper",
+  "entity.frycmobvariants.executioner": "Executioner",
+  "entity.frycmobvariants.explorer": "Explorer",
+  "entity.frycmobvariants.frozen_zombie": "Frozen Zombie",
+  "entity.frycmobvariants.nightmare": "Nightmare",
+  "entity.frycmobvariants.tropical_spider": "Tropical Spider",
+  "entity.frycmobvariants.infected_piglin": "Infected Piglin",
+  "entity.frycmobvariants.infected_piglin_brute": "Infected Piglin Brute",
+  "entity.frycmobvariants.soul_stealer": "Soul Stealer",
+  "entity.frycmobvariants.corsair": "Corsair",
+  "entity.frycmobvariants.lava_slime": "Lava Slime",
+  "entity.frycmobvariants.toxic_slime": "Toxic Slime",
+  "entity.frycmobvariants.bloated_corpse": "Bloated Corpse",
+  "entity.frycmobvariants.zombified_piglin_brute": "Zombified Piglin Brute",
+
+  "item.frycmobvariants.forgotten_spawn_egg": "Forgotten Spawn Egg",
+  "item.frycmobvariants.undead_warrior_spawn_egg": "Undead Warrior Spawn Egg",
+  "item.frycmobvariants.armored_spider_spawn_egg": "Armored Spider Spawn Egg",
+  "item.frycmobvariants.cave_creeper_spawn_egg": "Cave Creeper Spawn Egg",
+  "item.frycmobvariants.executioner_spawn_egg": "Executioner Spawn Egg",
+  "item.frycmobvariants.explorer_spawn_egg": "Explorer Spawn Egg",
+  "item.frycmobvariants.frozen_zombie_spawn_egg": "Frozen Zombie Spawn Egg",
+  "item.frycmobvariants.nightmare_spawn_egg": "Nightmare Spawn Egg",
+  "item.frycmobvariants.tropical_spider_spawn_egg": "Tropical Spider Spawn Egg",
+  "item.frycmobvariants.infected_piglin_spawn_egg": "Infected Piglin Spawn Egg",
+  "item.frycmobvariants.infected_piglin_brute_spawn_egg": "Infected Piglin Brute Spawn Egg",
+  "item.frycmobvariants.corsair_spawn_egg": "Corsair Spawn Egg",
+  "item.frycmobvariants.soul_stealer_spawn_egg": "Soul Stealer Spawn Egg",
+  "item.frycmobvariants.lava_slime_spawn_egg": "Lava Slime Spawn Egg",
+  "item.frycmobvariants.toxic_slime_spawn_egg": "Toxic Slime Spawn Egg",
+  "item.frycmobvariants.bloated_corpse_spawn_egg": "Bloated Corpse Spawn Egg",
+  "item.frycmobvariants.zombified_piglin_brute_spawn_egg": "Zombified Piglin Brute Spawn Egg",
+
+  "text.autoconfig.frycmobvariants.title": "Mob Variants Config",
+  "text.autoconfig.frycmobvariants.category.cave": "Underground",
+  "text.autoconfig.frycmobvariants.category.biome": "Biomes",
+  "text.autoconfig.frycmobvariants.category.nether": "Nether",
+  "text.autoconfig.frycmobvariants.category.mobattributes": "Mob attributes",
+
+  "text.autoconfig.frycmobvariants.option.zombieToForgottenConvertLevelY": "Convert Zombies to Forgottens under selected Y level:",
+  "text.autoconfig.frycmobvariants.option.zombieToForgottenConvertLevelY.@Tooltip": "Zombies have a chance to convert into stronger variant when they spawn below this Y level",
+
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertZombieUnderSelectedYLevel": "Fixed chance to convert Zombies to Forgottens under Y level selected in previous option:",
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertZombieUnderSelectedYLevel.@Tooltip": "When this value is below 0, chance of converting increases by 1% with every Y level below value specified in previous option",
+
+  "text.autoconfig.frycmobvariants.option.spiderToArmoredSpiderConvertLevelY": "Convert Spiders to Armored Spiders under selected Y level:",
+  "text.autoconfig.frycmobvariants.option.spiderToArmoredSpiderConvertLevelY.@Tooltip": "Spiders have a chance to convert into stronger variant when they spawn below this Y level",
+
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertSpiderUnderSelectedYLevel": "Fixed chance to convert Spiders to Armored Spiders under Y level selected in previous option:",
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertSpiderUnderSelectedYLevel.@Tooltip": "When this value is below 0, chance of converting increases by 1% with every Y level below value specified in previous option",
+
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertSkeletonUnderSelectedYLevel": "Fixed chance to convert Skeletons to Undead Warriors under Y level selected in previous option:",
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertSkeletonUnderSelectedYLevel.@Tooltip": "When this value is below 0, chance of converting increases by 1% with every Y level below value specified in previous option",
+
+  "text.autoconfig.frycmobvariants.option.skeletonToUndeadWarriorConvertLevelY": "Convert Skeletons to Undead Warriors under selected Y level:",
+  "text.autoconfig.frycmobvariants.option.skeletonToUndeadWarriorConvertLevelY.@Tooltip": "Skeletons have a chance to convert into stronger variant when they spawn below this Y level",
+
+  "text.autoconfig.frycmobvariants.option.creeperToCaveCreeperConvertLevelY": "Convert creepers to cave creepers under selected Y level:",
+  "text.autoconfig.frycmobvariants.option.creeperToCaveCreeperConvertLevelY.@Tooltip": "Creepers have a chance to convert into stronger variant when they spawn below this Y level",
+
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertCreeperUnderSelectedYLevel": "Fixed chance to convert Creepers to Cave Creepers under Y level selected in previous option:",
+  "text.autoconfig.frycmobvariants.option.fixedChanceToConvertCreeperUnderSelectedYLevel.@Tooltip": "When this value is below 0, chance of converting increases by 1% with every Y level below value specified in previous option",
+
+  "text.autoconfig.frycmobvariants.option.witherSkeletonConvertChance": "Chance to convert Wither Skeleton to Executioner",
+  "text.autoconfig.frycmobvariants.option.witherSkeletonConvertChance.@Tooltip": "For example, when set to 10, Wither Skeleton will have 10% chance to convert to Executioner after spawning",
+
+  "text.autoconfig.frycmobvariants.option.ghastConvertChance": "Chance to convert Ghast to Nightmare",
+  "text.autoconfig.frycmobvariants.option.ghastConvertChance.@Tooltip": "For example, when set to 10, Ghast will have 10% chance to convert to Nightmare after spawning",
+
+  "text.autoconfig.frycmobvariants.option.piglinConvertChance": "Chance to convert Piglin to Infected Piglin",
+  "text.autoconfig.frycmobvariants.option.piglinConvertChance.@Tooltip": "For example, when set to 10, Piglin will have 10% chance to convert to Infected Piglin after spawning",
+
+  "text.autoconfig.frycmobvariants.option.piglinBruteConvertChance": "Chance to convert Piglin Brute to Infected Piglin Brute",
+  "text.autoconfig.frycmobvariants.option.piglinBruteConvertChance.@Tooltip": "For example, when set to 10, Piglin Brute will have 10% chance to convert to Infected Piglin Brute after spawning",
+
+  "text.autoconfig.frycmobvariants.option.skeletonToSoulStealerConvertChance": "Chance to convert Skeleton to Soul Stealer",
+  "text.autoconfig.frycmobvariants.option.skeletonToSoulStealerConvertChance.@Tooltip": "For example, when set to 30, Skeleton will have 30% chance to convert to Soul Stealer after spawning",
+
+  "text.autoconfig.frycmobvariants.option.magmaCubeToLavaSlimeConvertChance": "Chance to convert Magma Cube to Lava Slime",
+  "text.autoconfig.frycmobvariants.option.magmaCubeToLavaSlimeConvertChance.@Tooltip": "For example, when set to 50, Magma Cube will have 50% chance to convert to Lava Slime after spawning",
+
+  "text.autoconfig.frycmobvariants.option.zombieToExplorerConvertChance": "Chance to convert Zombie to Explorer in jungle, or lush cave:",
+  "text.autoconfig.frycmobvariants.option.zombieToExplorerConvertChance.@Tooltip": "For example, when set to 90, Zombie will have 90% chance to convert to Explorer after spawning on one of mentioned biomes",
+
+  "text.autoconfig.frycmobvariants.option.zombieToFrozenZombieConvertChance": "Chance to convert Zombie to Frozen Zombie on snowy biomes:",
+  "text.autoconfig.frycmobvariants.option.zombieToFrozenZombieConvertChance.@Tooltip": "For example, when set to 90, Zombie will have 90% chance to convert to Frozen Zombie after spawning on one of mentioned biomes",
+
+  "text.autoconfig.frycmobvariants.option.spiderToTropicalSpiderConvertChance": "Chance to convert Spider to Tropical Spider in jungle:",
+  "text.autoconfig.frycmobvariants.option.spiderToTropicalSpiderConvertChance.@Tooltip": "For example, when set to 70, Spider will have 70% chance to convert to Tropical Spider after spawning on one of mentioned biomes",
+
+  "text.autoconfig.frycmobvariants.option.slimeToToxicSlimeConvertChance": "Chance to convert Slime to Toxic Slime in mangrove swamp:",
+  "text.autoconfig.frycmobvariants.option.slimeToToxicSlimeConvertChance.@Tooltip": "For example, when set to 10, Slime will have 10% chance to convert to Toxic Slime after spawning on one of mentioned biomes",
+
+  "text.autoconfig.frycmobvariants.option.skeletonToCorsairConvertChance": "Chance to convert Skeleton to Corsair in ocean or beach:",
+  "text.autoconfig.frycmobvariants.option.skeletonToCorsairConvertChance.@Tooltip": "For skeletons spawned in ocean or beach. Doesn't affect Corsairs spawning on Shipwrecks",
+
+  "text.autoconfig.frycmobvariants.option.zombifiedPiglinConvertChance": "Chance to convert Zombified Piglin to Zombified Piglin Brute:",
+  "text.autoconfig.frycmobvariants.option.zombifiedPiglinConvertChance.@Tooltip": "For example, when set to 12, Piglin Brute will have 12% chance to convert to Zombified Piglin Brute after spawning",
+
+  "text.autoconfig.frycmobvariants.option.zombieToBloatedCorpseConvertChance": "Chance to convert Zombie to Bloated Corpse in swamps:",
+  "text.autoconfig.frycmobvariants.option.zombieToBloatedCorpseConvertChance.@Tooltip": "For example, when set to 90, Zombie will have 90% chance to convert to Bloated Corpse after spawning on one of mentioned biomes",
+
+  "text.autoconfig.frycmobvariants.option.undeadWarriorAttributes": "Undead warrior's attributes",
+
+  "text.autoconfig.frycmobvariants.option.undeadWarriorAttributes.undeadWarriorSpawnWithBowChance": "Undead warrior's chance to spawn with bow",
+  "text.autoconfig.frycmobvariants.option.undeadWarriorAttributes.undeadWarriorSpawnWithBowChance.@Tooltip": "Skeletons with enchanted bow always convert to undead warrior with bow",
+
+  "text.autoconfig.frycmobvariants.option.undeadWarriorAttributes.undeadWarriorsArrowEffect": "Status effect applied by Undead Warrior's arrows",
+
+  "text.autoconfig.frycmobvariants.option.undeadWarriorAttributes.undeadWarriorsEffectDuration": "Undead warrior's effect duration",
+  "text.autoconfig.frycmobvariants.option.undeadWarriorAttributes.undeadWarriorsEffectDuration.@Tooltip": "20 = 1 second",
+
+  "text.autoconfig.frycmobvariants.option.undeadWarriorAttributes.undeadWarriorsEffectAmplifier": "Undead warrior's effect amplifier",
+
+  "text.autoconfig.frycmobvariants.option.nightmareShootSingleFireballChance": "Nightmare's chance to shoot single fireball",
+  "text.autoconfig.frycmobvariants.option.nightmareShootSingleFireballChance.@Tooltip": "Chance to shoot single fireball (like normal ghast)",
+
+  "text.autoconfig.frycmobvariants.option.corsairSpawnWithSwordChance": "Corsair's chance to spawn with sword",
+  "text.autoconfig.frycmobvariants.option.corsairSpawnWithSwordChance.@Tooltip": "This options affects only Corsairs that spawned on shipwrecks",
+
+  "text.autoconfig.frycmobvariants.option.soulStealersBaseMagicDamage": "Additional magic damage dealt by soul stealer",
+  "text.autoconfig.frycmobvariants.option.soulStealersBaseMagicDamage.@Tooltip": "On normal difficulty this value is increased by 1. On hard, by 3",
+
+  "text.autoconfig.frycmobvariants.option.timeToRemoveLavaLeftByLavaSlime": "Time to remove lava left by Lava Slime",
+  "text.autoconfig.frycmobvariants.option.timeToRemoveLavaLeftByLavaSlime.@Tooltip": "20 = 1s. Set it to 10 (or lower) to prevent lava from disappearing",
+
+  "text.autoconfig.frycmobvariants.option.bloatedCorpsesCloudPoisonDamageDifficulty": "Minimal difficulty at which Bloated Corpse's cloud deals poison damage",
+  "text.autoconfig.frycmobvariants.option.bloatedCorpsesCloudPoisonDamageDifficulty.@Tooltip": "Set to NONE to remove poison damage from the cloud"
+}
