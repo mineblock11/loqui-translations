@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.arrow_entity_loot_drop.title": "Arrow Entity Loot Drop Settings",
+  "text.autoconfig.arrow_entity_loot_drop.option.arrowBreakingChance": "Arrow Breaking Chance",
+  "text.autoconfig.arrow_entity_loot_drop.option.arrowBreakingChance.@Tooltip": "The chance an Arrow stored in an Entity will NOT drop. Range: 0-1 (0%-100%)",
+  "text.autoconfig.arrow_entity_loot_drop.option.preserveNonDefaultChance": "Preserve Non-Default Arrow Chance",
+  "text.autoconfig.arrow_entity_loot_drop.option.preserveNonDefaultChance.@Tooltip": "The chance of the non-default arrow persisting when dropped after entity kill. Range: 0-1 (0%-100%)"
+}

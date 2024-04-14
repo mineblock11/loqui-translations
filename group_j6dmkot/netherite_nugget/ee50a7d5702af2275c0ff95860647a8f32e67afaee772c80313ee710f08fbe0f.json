@@ -1,0 +1,5 @@
+{
+   "item.netherite_nugget.netherite_nugget": "Netherite Nugget",
+   "text.autoconfig.netherite_nugget.title": "Netherite Nugget Config",
+   "text.autoconfig.netherite_nugget.option.piglinBruteNetheriteNuggetDropChance": "Piglin Brute Nugget Drop Chance"
+}

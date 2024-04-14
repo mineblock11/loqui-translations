@@ -2699,6 +2699,24 @@ files:
       - ru
       - uk
       - vi
+  - source: /group_oa57x7r/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - pt-BR
+      - pt-PT
+      - ru
+      - uk
+  - source: /group_j6dmkot/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - es-MX
+      - fr
+      - fr-CA
+      - lol
+      - pl
   - source: /group_z6um4qb/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -5601,6 +5619,22 @@ files:
       - tr
       - zh-CN
       - zh-TW
+  - source: /group_00ghb2v/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - af
+      - ar
+      - az
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - it
+      - ru
+      - zh-CN
   - source: /group_2ftyfjj/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

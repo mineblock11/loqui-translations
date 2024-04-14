@@ -1,0 +1,16 @@
+{
+  "item.warhammersmod.hammer_wood": "Wooden War-hammer",
+  "item.warhammersmod.hammer_stone": "Stone War-hammer",
+  "item.warhammersmod.hammer_iron": "Iron War-hammer",
+  "item.warhammersmod.hammer_gold": "Golden War-hammer",
+  "item.warhammersmod.hammer_diamond": "Diamond War-hammer",
+  "item.warhammersmod.hammer_netherite": "Netherite War-hammer",
+
+  "item.warhammersmod.hammer_bone": "Bone War-hammer",
+  "item.warhammersmod.hammer_amethyst": "Amethyst War-hammer",
+  "item.warhammersmod.hammer_copper": "Copper War-hammer",
+  "item.warhammersmod.hammer_emerald": "Emerald War-hammer",
+  "item.warhammersmod.hammer_obsidian": "Obsidian War-hammer",
+
+  "itemGroup.warhammersmod.tab": "War-hammers"
+}
