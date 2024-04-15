@@ -4738,6 +4738,19 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /group_mufdjzb/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - en-PT
+      - en-UD
+      - es-ES
+      - pl
+      - ru
+      - zh-CN
   - source: /group_j3ls858/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
