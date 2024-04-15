@@ -1,0 +1,17 @@
+{
+  "item.spearsmod.netherite_spear": "Netherite Spear",
+  "entity.spearsmod.netherite_spear": "Netherite Spear",
+  "item.spearsmod.diamond_spear": "Diamond Spear",
+  "entity.spearsmod.diamond_spear": "Diamond Spear",
+  "item.spearsmod.golden_spear": "Golden Spear",
+  "entity.spearsmod.golden_spear": "Golden Spear",
+  "item.spearsmod.iron_spear": "Iron Spear",
+  "entity.spearsmod.iron_spear": "Iron Spear",
+  "item.spearsmod.stone_spear": "Stone Spear",
+  "entity.spearsmod.stone_spear": "Stone Spear",
+  "item.spearsmod.wooden_spear": "Wooden Spear",
+  "entity.spearsmod.wooden_spear": "Wooden Spear",
+  "itemgroup.spear": "Spears",
+  "enchantment.spearsmod.spiraling": "Spiraling",
+  "spearsmod.midnightconfig.isModelCross": "Enable Cross Model"
+}

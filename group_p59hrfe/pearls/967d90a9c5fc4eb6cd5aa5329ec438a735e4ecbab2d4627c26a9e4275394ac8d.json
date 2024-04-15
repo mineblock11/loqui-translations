@@ -1,0 +1,23 @@
+{
+  "item.pearls.fast_pearl": "Fast Pearl",
+  "item.pearls.rideable_pearl": "Rideable Pearl",
+  "item.pearls.swap_pearl": "Swap Pearl",
+  "item.pearls.pull_pearl": "Pull Pearl",
+  "item.pearls.no_cooldown_pearl": "No Cooldown Pearl",
+
+  "item.pearls.ender_dust": "Ender Dust",
+  "item.pearls.ender_container_s": "Small Ender Container",
+  "block.pearls.ender_pearl_lab": "Ender Pearl Lab",
+
+  "item.pearls.speed_pearl": "Speed Pearl",
+  "item.pearls.regen_pearl": "Regeneration Pearl",
+  "item.pearls.resistance_pearl": "Resistance Pearl",
+  "item.pearls.fire_resistance_pearl": "Fire Resistance Pearl",
+  "item.pearls.absorption_pearl": "Absorption Pearl",
+  "item.pearls.strength_pearl": "Strength Pearl",
+  "item.pearls.jump_boost_pearl": "Jump Boost Pearl",
+  "item.pearls.slow_falling_pearl": "Slow Falling Pearl",
+
+  "itemgroup.pearls.pearls": "Pearls++",
+  "itemgroup.pearls.effect_pearls": "Effect Pearls"
+}
