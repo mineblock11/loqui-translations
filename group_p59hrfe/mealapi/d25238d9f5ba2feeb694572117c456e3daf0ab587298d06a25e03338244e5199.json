@@ -1,0 +1,7 @@
+{
+  "text.config.mealapi.title": "Meal API Config",
+  "text.config.mealapi.option.fullnessBarOpacityPct": "Fullness Bar Opacity",
+  "text.config.mealapi.option.showFlashingFullnessPreview": "Meal Item Fullness Preview",
+  "text.config.mealapi.option.showFullnessTooltip": "Fullness Tooltip",
+  "text.config.mealapi.option.fullnessIconBorders": "Fullness Bar Icon Borders"
+}

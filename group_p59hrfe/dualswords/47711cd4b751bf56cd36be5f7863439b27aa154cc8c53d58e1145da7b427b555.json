@@ -1,0 +1,20 @@
+{
+  "death.attack.lunge": "%1$s couldn't outrun the blade of %2$s",
+  "death.attack.lunge.item": "%1$s couldn't outrun the blade of %2$s using %3$s",
+  "death.attack.riposte": "%1$s couldn't handle the swordplay of %2$s",
+  "death.attack.riposte.item": "%1$s couldn't handle the swordplay of %2$s using %3$s",
+  "enchantment.dualswords.daisho": "Daisho",
+  "enchantment.dualswords.daisho.desc": "Increases the damage bonus from dual wielding.",
+  "enchantment.dualswords.deflect": "Deflection",
+  "enchantment.dualswords.deflect.desc": "Increases return speed of parried projectiles.",
+  "enchantment.dualswords.forceful": "Forceful",
+  "enchantment.dualswords.forceful.desc": "Increases knockback dealt from a lunge.",
+  "enchantment.dualswords.lunge": "Lunge",
+  "enchantment.dualswords.lunge.desc": "Enables the ability to thrust forwards with a weapon.",
+  "enchantment.dualswords.parry": "Parry",
+  "enchantment.dualswords.parry.desc": "Enables the ability to parry and riposte attacks.",
+  "enchantment.dualswords.riposte": "Riposte",
+  "enchantment.dualswords.riposte.desc": "Increases the damage of ripostes.",
+  "enchantment.dualswords.thrusting": "Thrusting",
+  "enchantment.dualswords.thrusting.desc": "Increases damage dealt from a lunge."
+}

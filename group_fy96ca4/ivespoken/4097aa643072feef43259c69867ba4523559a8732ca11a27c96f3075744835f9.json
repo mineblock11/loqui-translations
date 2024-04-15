@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.ivespoken.title": "I've Spoken",
+
+  "text.autoconfig.ivespoken.option.enabled"    : "Show Dialogs",
+  "text.autoconfig.ivespoken.option.lastingTime": "Dialog Lasting Time (ms)",
+  "text.autoconfig.ivespoken.option.maxWidth"   : "Max Dialog Width (pixel)"
+}

@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.coalexplosion.title": "Coal Explosion",
+  "text.autoconfig.coalexplosion.option.general": "General",
+  "text.autoconfig.coalexplosion.option.general.explosionRange": "Explosion Range",
+  "text.autoconfig.coalexplosion.option.general.causeFire": "Cause Fire",
+  "text.autoconfig.coalexplosion.option.general.configuredIgniters": "Configured Igniters",
+  "text.autoconfig.coalexplosion.option.general.configuredBlocks": "Configured Blocks"
+}

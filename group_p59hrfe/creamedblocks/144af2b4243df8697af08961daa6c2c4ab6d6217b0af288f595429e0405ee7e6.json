@@ -1,0 +1,9 @@
+{
+  "commands.creamedblocks.is_creamed": "This block is creamed!",
+  "commands.creamedblocks.not_creamed": "This block is not creamed!",
+  "commands.creamedblocks.reloading": "Reloading creamed blocks...",
+  "commands.creamedblocks.reload_finished": "Reloaded creamed blocks!",
+  "commands.creamedblocks.set_creamed": "Creamed %s %s %s!",
+  "commands.creamedblocks.remove_creamed": "Removed cream from %s %s %s!",
+  "commands.creamedblocks.reset": "Reset creamed blocks!"
+}

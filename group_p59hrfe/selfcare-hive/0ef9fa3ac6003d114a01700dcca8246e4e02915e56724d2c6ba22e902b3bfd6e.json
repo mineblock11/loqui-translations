@@ -1,0 +1,17 @@
+{
+	"selfcarehive.gamerules": "Self-Care Hive",
+	
+	"gamerule.selfcarehive.healing": "Enable Self-healing",
+	"gamerule.selfcarehive.healing.description": "Bees can heal themselves by consuming honey from the hive.",
+	"gamerule.selfcarehive.healing.cost": "Self-healing cost",
+	"gamerule.selfcarehive.healing.cost.description": "How much honey is required per healing instance.",
+	"gamerule.selfcarehive.healing.potency": "Self-healing potency",
+	"gamerule.selfcarehive.healing.potency.description": "How many HP bees will replenish at a time.",
+
+	"gamerule.selfcarehive.breeding": "Enable auto-breeding",
+	"gamerule.selfcarehive.breeding.description": "Bees can repopulate their hive by consuming its honey.",
+	"gamerule.selfcarehive.breeding.cost": "Breeding cost",
+	"gamerule.selfcarehive.breeding.cost.description": "How much honey is required per offspring.",
+	"gamerule.selfcarehive.tracking.duration": "Bee tracking duration",
+	"gamerule.selfcarehive.tracking.duration.description": "A bee that has left the hive for this many ticks will be considered missing, and may be replaced."
+}
