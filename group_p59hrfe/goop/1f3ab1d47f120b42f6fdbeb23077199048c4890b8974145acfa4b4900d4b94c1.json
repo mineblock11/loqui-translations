@@ -1,0 +1,44 @@
+{
+  "modmenu.descriptionTranslation.goop": "Adds Splatter Particle Effects for Blood, Slime or other cool VFX",
+  "yaya.support.kofi": "Support yayas hijinx",
+
+  "category.goop": "Goop Technology",
+  "key.goop.clear": "Clear Goop",
+
+  "text.autoconfig.goop.title": "Goop Config",
+
+  "text.autoconfig.goop.category.default": "Goop",
+  "text.autoconfig.goop.category.debug": "Debug",
+
+  "text.autoconfig.goop.option.fancyGoop": "Fancy Goop",
+  "text.autoconfig.goop.option.fancyGoop.@Tooltip": "Disable for better performance, enable for better goop!",
+
+  "text.autoconfig.goop.option.wrapToEdges": "Wrap to Edges",
+  "text.autoconfig.goop.option.wrapToEdges.@Tooltip": "Whether Goop should wrap to block edges.",
+
+  "text.autoconfig.goop.option.randomRot": "Random Rotation",
+  "text.autoconfig.goop.option.randomRot.@Tooltip": "Whether Goop should be rotated randomly.",
+
+  "text.autoconfig.goop.option.censorMature": "Censor Mature Content",
+  "text.autoconfig.goop.option.censorMature.@Tooltip": "Replaces the colors of Goop VFX marked as mature with the censor Color.",
+
+  "text.autoconfig.goop.option.censorMode": "Censor Mode",
+  "text.autoconfig.goop.option.censorMode.@Tooltip": "How to censor Mature content, if it is enabled.",
+
+  "text.autoconfig.goop.option.censorColor": "Censor Color",
+
+  "text.autoconfig.goop.option.permanent": "Permanent",
+  "text.autoconfig.goop.option.permanent.@Tooltip": "Prevents goop from fading. If enabled, goop will only disappear by being unloaded or the Goop Cap being reached.",
+
+  "text.autoconfig.goop.option.goopCap": "Goop Cap",
+  "text.autoconfig.goop.option.goopCap.@Tooltip": "Limits the amount of Goop Puddles that can exist at a time.",
+
+  "text.autoconfig.goop.option.rainCleaning": "Rain Cleaning",
+  "text.autoconfig.goop.option.rainCleaning.@Tooltip": "Washes away Goop Puddles directly under the sky when it rains.",
+
+  "text.autoconfig.goop.option.goopDebug": "Goop Debug",
+  "text.autoconfig.goop.option.goopDebug.@Tooltip": "[WARNING] VERY LAGGY | Adds extra particles to show vertex info of goop puddles",
+
+  "text.autoconfig.goop.option.showDev": "Show Dev Particles",
+  "text.autoconfig.goop.option.showDev.@Tooltip": "Whether emitters marked as developer content should be visible. (All example emitters are marked as dev content for instance)"
+}

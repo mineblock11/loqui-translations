@@ -1,0 +1,9 @@
+{
+	"block.life_crystals.life_crystal_ore": "Life Crystal Ore",
+	"block.life_crystals.deepslate_life_crystal_ore": "Deepslate Life Crystal Ore",
+	"item.life_crystals.life_crystal": "Life Crystal",
+	"item.life_crystals.life_crystal_shard": "Life Crystal Shard",
+	"item_group.life_crystals.main_group": "Life Crystals",
+
+	"life_crystals.limit_reached": "You have reached your health limit"
+}

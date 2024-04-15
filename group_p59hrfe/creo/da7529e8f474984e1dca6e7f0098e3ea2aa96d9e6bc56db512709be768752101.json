@@ -1,0 +1,20 @@
+{
+  "attribute.name.generic.gravity": "Gravity",
+  "attribute.name.generic.swim_speed": "Swim Speed",
+  "attribute.name.generic.attack_range": "Attack Range",
+  "attribute.name.generic.scale": "Scale",
+  "attribute.name.generic.jump_strength": "Jump Strength",
+  "attribute.name.generic.max_air": "Max Air",
+  "attribute.name.player.reach_distance": "Reach Distance",
+  "attribute.name.player.block_place_speed": "Block Place Speed",
+  "attribute.name.player.block_break_speed": "Block Break Speed",
+  "attribute.name.player.flight_speed": "Flight Speed",
+  "attribute.name.player.mining_speed": "Mining Speed",
+  "attribute.name.player.max_hunger": "Max Hunger",
+
+  "commands.gameEvent.success": "Game event %s emitted at %s, %s, %s",
+  "commands.addShader.fail": "Failed to add shader pass %s",
+  "commands.addShader.success": "Added shader pass %s",
+  "commands.clearShader.success": "Successfully cleared shaders",
+  "commands.loadShader.success": "Successfully loaded shader %s"
+}

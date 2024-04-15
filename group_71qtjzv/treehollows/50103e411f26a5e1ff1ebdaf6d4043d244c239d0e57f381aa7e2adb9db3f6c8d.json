@@ -1,0 +1,14 @@
+{
+  "block.treehollows.oak_hollow": "Oak Hollow",
+  "block.treehollows.spruce_hollow": "Spruce Hollow",
+  "block.treehollows.birch_hollow": "Birch Hollow",
+  "block.treehollows.jungle_hollow": "Jungle Hollow",
+  "block.treehollows.acacia_hollow": "Acacia Hollow",
+  "block.treehollows.dark_oak_hollow": "Dark Oak Hollow",
+
+  "container.treehollows.tree_hollow": "Tree Hollow",
+
+  "options.treehollows": "Tree Hollows Options",
+  "options.treehollows.world_gen_chance": "World Generation Chance",
+  "options.treehollows.growth_chance": "Growing Chance"
+}
