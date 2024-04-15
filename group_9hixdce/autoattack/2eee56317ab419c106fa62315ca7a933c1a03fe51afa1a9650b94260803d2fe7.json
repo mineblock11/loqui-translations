@@ -1,0 +1,26 @@
+{
+  "autoattack.midnightconfig.title": "AutoAttack Config",
+  "autoattack.midnightconfig.text1": "Auto Attack makes it so that holding the attack button autoswings the sword",
+  "autoattack.midnightconfig.checkUpdate": "Check for a new mod update",
+  "autoattack.midnightconfig.preventsHittingBlocks": "Prevents you from hitting blocks in all tools",
+  "autoattack.midnightconfig.preventsHittingBlocksSwords": "Prevents you from hitting blocks only in swords",
+  "autoattack.midnightconfig.cleanCut": "Attack enemies through obstructions (similar to CleanCut Mod)",
+  "autoattack.midnightconfig.autoBow": "Enables automatic shots with the bow",
+  "autoattack.midnightconfig.autoCrossBow": "Enables automatic shots with the crossbow",
+  "autoattack.midnightconfig.autoTrident": "Enables automatic shots with the trident",
+  "autoattack.midnightconfig.afkAttack": "Automatically attacks while AFK",
+  "autoattack.midnightconfig.alwaysAttack": "Attacks even when there are no entities in range",
+
+
+  "category.autoattack.autoattack": "AutoAttack",
+  "key.autoattack.preventsHittingBlocks": "Toggle Prevents from hitting blocks",
+  "key.autoattack.afkAttack": "Toggle Attack in afk mode",
+  "key.autoattack.autoRanged": "Toggle automatic fire with ranged weapons",
+
+  "text.KeyBindingConfig.preventsHittingBlocks.OFF": "Prevents hitting blocks in all tools OFF!",
+  "text.KeyBindingConfig.preventsHittingBlocks.ON": "Prevents hitting blocks in all tools ON!",
+  "text.KeyBindingConfig.afkAttack.OFF": "Attack in afk mode OFF!",
+  "text.KeyBindingConfig.afkAttack.ON": "Attack in afk mode ON!",
+  "text.KeyBindingConfig.autoRanged.OFF": "Ranged attack OFF!",
+  "text.KeyBindingConfig.autoRanged.ON": "Ranged attack ON!"
+}
