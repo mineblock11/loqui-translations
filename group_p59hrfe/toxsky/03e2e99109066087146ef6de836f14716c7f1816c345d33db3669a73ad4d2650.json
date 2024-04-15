@@ -1,0 +1,16 @@
+{
+  "itemGroup.toxsky": "Toxic Sky & Plastic Seas",
+  "block.toxsky.floating_garbage": "Floating Plastic Garbage",
+  "block.toxsky.garbage_block": "Block of Plastic Garbage",
+  "block.toxsky.seaweed_garbage_block": "Seaweed Covered Block of Plastic Garbage",
+  "block.toxsky.recycled_plastic_block": "Block of Recycled Plastic",
+  "item.toxsky.plastic_garbage": "Plastic Garbage",
+  "item.toxsky.shredded_plastic": "Shredded Plastic",
+  "item.toxsky.recycled_plastic": "Recycled Plastic",
+  "item.toxsky.recycled_plastic_helmet": "Recycled Plastic Helmet",
+  "item.toxsky.recycled_plastic_chestplate": "Recycled Plastic Chestplate",
+  "item.toxsky.recycled_plastic_leggings": "Recycled Plastic Leggings",
+  "item.toxsky.recycled_plastic_boots": "Recycled Plastic Boots",
+  "enchantment.toxsky.acidproof": "Acidproof",
+  "gamerule.convertRainToAcidRain": "Convert Rain to Acid Rain"
+}
