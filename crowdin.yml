@@ -8211,6 +8211,38 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /group_qm5a76m/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - bg
+      - cs
+      - da
+      - de
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-NZ
+      - en-UD
+      - eo
+      - es-ES
+      - et
+      - fr
+      - he
+      - it
+      - ja
+      - ko
+      - lol
+      - nn-NO
+      - pl
+      - pt-BR
+      - pt-PT
+      - ru
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-HK
+      - zh-TW
   - source: /group_28oavxu/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
