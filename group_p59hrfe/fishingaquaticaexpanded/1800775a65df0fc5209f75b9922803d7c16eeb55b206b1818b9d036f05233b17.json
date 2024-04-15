@@ -1,0 +1,12 @@
+{
+  "block.fishingaquaticaexpanded.blazing_crate": "Blazing Crate",
+  "block.fishingaquaticaexpanded.miner_crate": "Miner's Haul Crate",
+  "block.fishingaquaticaexpanded.monster_crate": "Monster Hunter's Crate",
+  "block.fishingaquaticaexpanded.music_crate": "Vinyl Collector's Crate",
+  "item.fishingaquaticaexpanded.loot_crate_fishing_rod": "Loot Crate Fishing Rod",
+  "itemGroup.fishingaquaticaexpanded.item_group": "Fishing Aquatica Expanded",
+  "subtitles.fishingaquaticaexpanded.music_crate": "Music Crate Opened",
+  "text.config.fae-config.option.crateChance": "Crate Chance",
+  "text.config.fae-config.option.debugMode": "Debug Mode",
+  "text.config.fae-config.title": "Fishing Aquatica Expanded"
+}
