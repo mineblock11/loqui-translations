@@ -8232,6 +8232,39 @@ files:
       - vi
       - zh-CN
       - zh-TW
+  - source: /group_11ow2xw/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - af
+      - ar
+      - ca
+      - cs
+      - da
+      - de
+      - el
+      - es-ES
+      - fi
+      - fr
+      - he
+      - hu
+      - it
+      - ja
+      - ko
+      - nl
+      - nn-NO
+      - 'no'
+      - pl
+      - pt-BR
+      - pt-PT
+      - ro
+      - ru
+      - sr
+      - sv-SE
+      - tr
+      - uk
+      - vi
+      - zh-CN
+      - zh-TW
   - source: /group_re27ctc/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
