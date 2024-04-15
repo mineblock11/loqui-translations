@@ -1,0 +1,22 @@
+{
+  "hardcover.config.title": "Hardcover",
+  "hardcover.config.done": "Done",
+  "hardcover.config.alt-recipe-button": "Alt. Recipe Button",
+  "hardcover.config.tooltip.alt-recipe-button": "Alternative recipe button displays the resulting item instead of the recipe and a tooltip shows the material list.",
+  "hardcover.config.dark-mode": "Dark Mode",
+  "hardcover.config.tooltip.dark-mode": "VanillaTweaks-based dark mode for the tweaked texture of the alternative recipe button.",
+  "hardcover.config.ungroup-recipes": "Ungroup Recipes",
+  "hardcover.config.tooltip.ungroup-recipes": "Ungroup any grouped recipes into single recipes.",
+  "hardcover.config.recipe-book": "Recipe Book",
+  "hardcover.config.tooltip.recipe-book": "Toggles the recipe book button in supported screens.",
+  "hardcover.config.unlock-all-recipes": "Unlock All Recipes",
+  "hardcover.config.tooltip.unlock-all-recipes": "Unlock all recipes when a player enters a world.",
+  "hardcover.config.bounce": "Bounce Effect",
+  "hardcover.config.tooltip.bounce": "Toggles the subtle bounce effect seen when new recipes are added.",
+  "hardcover.config.circular-scrolling": "Circular Scrolling",
+  "hardcover.config.tooltip.circular-scrolling": "Enables circular scrolling when using the next and previous buttons.",
+  "hardcover.config.centered-inventory": "Centered Inventory",
+  "hardcover.config.tooltip.centered-inventory": "Centers the inventory and prevents it from moving when the recipe book is opened.",
+  "hardcover.config.mouse-wheel-scrolling": "Mouse Wheel Scrolling",
+  "hardcover.config.tooltip.mouse-wheel-scrolling": "Enables mouse wheel scrolling within the recipe book."
+}
