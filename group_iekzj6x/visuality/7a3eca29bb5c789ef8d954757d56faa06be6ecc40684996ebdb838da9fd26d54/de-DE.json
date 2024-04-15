@@ -11,9 +11,9 @@
   "config.visuality.option.waterCircle.density": "Wasserkreis-Dichte",
   "config.visuality.option.waterCircle.radius": "Wasserkreis-Radius",
   "config.visuality.option.hitParticles": "Trefferpartikel aktiviert",
-  "config.visuality.option.hitParticles.entries": "Hit Particles Entries",
+  "config.visuality.option.hitParticles.entries": "Trefferpartikel-Einträge",
   "config.visuality.option.shinyArmor": "Glänzende Rüstung aktiviert",
-  "config.visuality.option.shinyArmor.entries": "Shiny Armor Entries",
+  "config.visuality.option.shinyArmor.entries": "\"Glänzende Rüstung\"-Einträge",
   "config.visuality.option.shinyBlocks": "Glänzende Blöcke aktiviert",
-  "config.visuality.option.shinyBlocks.entries": "Shiny Blocks Entries"
+  "config.visuality.option.shinyBlocks.entries": "\"Glänzende Blöcke\"-Einträge"
 }
