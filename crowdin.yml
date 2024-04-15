@@ -1489,6 +1489,13 @@ files:
       - ru
       - sv-SE
       - zh-CN
+  - source: /group_4k01xkz/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - fr-CA
+      - ja
+      - zh-CN
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
