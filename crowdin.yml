@@ -952,6 +952,12 @@ files:
       - de
       - lol
       - ru
+  - source: /group_yojes16/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - ja
+      - pl
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

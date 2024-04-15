@@ -1,0 +1,14 @@
+{
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.title": "YUNG's Menu Tweaks",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableRightClickCycleButton": "Right Click Reverses Cycle Buttons",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableRightClickCycleButton.@Tooltip": "Allows right clicking to cycle backwards through some buttons.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableMouseScrollOnSliders": "Mouse Scroll Wheel Affects Sliders",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[0]": "Allows scrolling the mouse wheel to modify options using a slider",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableMouseScrollOnSliders.@Tooltip[1]": "when hovering over the slider.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableBackgroundTexture": "Enable Custom Background Texture",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[0]": "If enabled, a custom background texture will be used where possible.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.enableBackgroundTexture.@Tooltip[1]": "The texture used is specified by the Custom Background Texture option below.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.backgroundTexture": "Custom Background Texture",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.backgroundTexture.@Tooltip[0]": "A 16x16 texture to use as a custom background, instead of the typical dirt.",
+  "text.autoconfig.yungsmenutweaks-fabric-1_20_1.option.yungsMenuTweaks.backgroundTexture.@Tooltip[1]": "Only does anything if the Enable Custom Background Texture option is true."
+}
