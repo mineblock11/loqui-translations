@@ -1,0 +1,20 @@
+{
+  "block.snuffles.snuffle_fluff": "Schnuffelflausch",
+  "block.snuffles.frosty_fluff": "Frostiger Flausch",
+  "block.snuffles.snuffle_fluff_carpet": "Schnuffelflauschteppich",
+  "block.snuffles.frosty_fluff_carpet": "Frostiger Flauschteppich",
+  "item.snuffles.snuffle_spawn_egg": "Schnuffel-Spawn-Ei",
+  "entity.snuffles.snuffle": "Schnuffel",
+  "snuffles.subtitles.block.frosty_fluff.thaw": "Flausch taut",
+  "snuffles.subtitles.entity.snuffle.ambient": "Schnuffel schnuffelt",
+  "snuffles.subtitles.entity.snuffle.death": "Schnuffel stirbt",
+  "snuffles.subtitles.entity.snuffle.eat": "Schnuffel schlürft",
+  "snuffles.subtitles.entity.snuffle.hurt": "Schnuffel nimmt Schaden",
+  "snuffles.subtitles.entity.snuffle.shake": "Schnuffel schüttelt sich",
+  "snuffles.subtitles.entity.snuffle.step": "Schnuffel tritt",
+  "snuffles.subtitles.entity.snuffle.style": "Schleimball matscht",
+  "snuffles.subtitles.entity.snuffle.thaw": "Schnuffel taut",
+  "snuffles.title": "Schnuffel",
+  "snuffles.option.snuffles_weight.title": "Schnuffelgewicht",
+  "snuffles.option.snuffles_weight.desc": "Schnuffel-Spawngewicht"
+}
