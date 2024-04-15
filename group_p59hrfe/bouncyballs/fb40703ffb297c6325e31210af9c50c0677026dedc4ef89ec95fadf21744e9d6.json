@@ -1,0 +1,21 @@
+{
+  "itemGroup.bouncyballs": "Bouncy Balls",
+  "item.bouncyballs.red_bouncy_ball": "Red Bouncy Ball",
+  "item.bouncyballs.orange_bouncy_ball": "Orange Bouncy Ball",
+  "item.bouncyballs.yellow_bouncy_ball": "Yellow Bouncy Ball",
+  "item.bouncyballs.lime_bouncy_ball": "Lime Bouncy Ball",
+  "item.bouncyballs.green_bouncy_ball": "Green Bouncy Ball",
+  "item.bouncyballs.cyan_bouncy_ball": "Cyan Bouncy Ball",
+  "item.bouncyballs.light_blue_bouncy_ball": "Light Blue Bouncy Ball",
+  "item.bouncyballs.blue_bouncy_ball": "Blue Bouncy Ball",
+  "item.bouncyballs.purple_bouncy_ball": "Purple Bouncy Ball",
+  "item.bouncyballs.magenta_bouncy_ball": "Magenta Bouncy Ball",
+  "item.bouncyballs.pink_bouncy_ball": "Pink Bouncy Ball",
+  "item.bouncyballs.brown_bouncy_ball": "Brown Bouncy Ball",
+  "item.bouncyballs.black_bouncy_ball": "Black Bouncy Ball",
+  "item.bouncyballs.gray_bouncy_ball": "Gray Bouncy Ball",
+  "item.bouncyballs.light_gray_bouncy_ball": "Light Gray Bouncy Ball",
+  "item.bouncyballs.white_bouncy_ball": "White Bouncy Ball",
+  "item.bouncyballs.rainbow_bouncy_ball": "Rainbow Bouncy Ball",
+  "entity.bouncyballs.bouncy_ball": "Bouncy Ball"
+}
