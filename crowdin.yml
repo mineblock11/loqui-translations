@@ -2895,6 +2895,15 @@ files:
       - pt-BR
       - ru
       - zh-CN
+  - source: /group_x0md537/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - pt-BR
+      - sv-SE
+      - uk
+      - zh-CN
+      - zh-HK
+      - zh-TW
   - source: /group_z6um4qb/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
