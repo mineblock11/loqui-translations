@@ -1,0 +1,28 @@
+{
+  "category.ijmtweaks.bindings": "IJMTweaks",
+  "category.ijmtweaks.overlay": "Overlay",
+  "category.ijmtweaks.utility": "Utility",
+  "category.ijmtweaks.rendering": "Rendering",
+
+  "key.ijmtweaks.zoom": "Zoom",
+
+  "option.ijmtweaks.darkLoadingOverlay.name": "Dark Loading Overlay",
+  "option.ijmtweaks.darkLoadingOverlay.desc": "Set the background color of the loading overlay to black.",
+  "option.ijmtweaks.pumpkinOverlayOpacity.name": "Pumpkin Overlay Opacity",
+  "option.ijmtweaks.pumpkinOverlayOpacity.desc": "Raise or lower the opacity value of the pumpkin's overlay.",
+  "option.ijmtweaks.blockBreakParticle.name": "Block Break Particle Reduction",
+  "option.ijmtweaks.blockBreakParticle.desc": "Reduce the number of particles created when a block is broken. An higher number means fewer particles.",
+  "option.ijmtweaks.experienceBarInCreative.name": "Experience Bar in Creative",
+  "option.ijmtweaks.experienceBarInCreative.desc": "Show the experience bar in creative mode.",
+  "option.ijmtweaks.autoJumpOnStairs.name": "Auto-Jump on Stairs",
+  "option.ijmtweaks.autoJumpOnStairs.desc": "Automatically enable the auto-jump when climbing stairs.",
+  "option.ijmtweaks.zoomLevel.name": "Zoom Level",
+  "option.ijmtweaks.zoomLevel.desc": "Adjust the zoom level. Lower this value to increase the zoom level. The keybinding can be changed in the Minecraft options.",
+  "option.ijmtweaks.fireOverlay.name": "Fire Overlay",
+  "option.ijmtweaks.fireOverlay.desc": "Reduce the height or disable the visibility of the fire overlay.",
+
+  "enum.ijmtweaks.fireOverlayType.default": "Default",
+  "enum.ijmtweaks.fireOverlayType.reduce": "Reduce",
+  "enum.ijmtweaks.fireOverlayType.hide": "Hide"
+
+}
