@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.rpgz.title": "RpgZ Config",
+  "text.autoconfig.rpgz.option.drop_unlooted": "Drop loot after time",
+  "text.autoconfig.rpgz.option.drop_after_ticks.@PrefixText": "Duration in ticks (1s = 20ticks)",
+  "text.autoconfig.rpgz.option.drop_after_ticks": "Ticks before automatic loot drop",
+  "text.autoconfig.rpgz.option.despawn_corps_after_ticks": "Ticks before corps despawn",
+  "text.autoconfig.rpgz.option.despawn_immediately_when_empty": "Despawn corps immediately when empty",
+  "text.autoconfig.rpgz.option.hopper_extracting": "Allow hopper to extract items",
+  "text.autoconfig.rpgz.option.excluded_entities": "Exclude entities by name modid:mobname",
+  "text.autoconfig.rpgz.option.surfacing_in_water": "Surfacing in water"
+}
