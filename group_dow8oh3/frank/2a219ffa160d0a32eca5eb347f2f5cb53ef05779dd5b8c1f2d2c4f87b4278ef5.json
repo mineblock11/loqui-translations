@@ -1,0 +1,17 @@
+{
+  "ui.frank.time_left": "Time remaining: %sm %ss",
+  "ui.frank.smeltable": "Items smeltable: %s",
+
+  "ui.frank.config": "Configuration - Frank",
+  "ui.frank.config.preview": "Preview",
+  "ui.frank.config.time_left_first": "Time Left First",
+  "ui.frank.config.time_left_only": "Time Left Only",
+  "ui.frank.config.items_smeltable_first": "Items Smeltable First",
+  "ui.frank.config.items_smeltable_only": "Items Smeltable Only",
+  "ui.frank.config.disabled": "Disabled",
+  "ui.frank.config.display_mode": "Display Mode",
+  "ui.frank.config.text_colour": "Text Color",
+  "ui.frank.config.text_colour.tooltip": "Hexadecimal RGB value for the text color.",
+
+  "frank.matrix": "Matrix"
+}

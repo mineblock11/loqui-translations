@@ -1,0 +1,8 @@
+{
+  "oregrowth.block.ore_growth": "Ore Cluster",
+  "oregrowth.ore_growth_block.adjusted_name": "%s Crystal",
+  "oregrowth.ore_growth_block.growth_hint": "Growth: %s",
+  "oregrowth.jei_category.title": "Crystal Growth",
+  "config.jade.plugin_oregrowth.ore_growth_hint": "Show crystal growth progress",
+  "config.jade.plugin_oregrowth.ore_growth_icon": "Replace crystal icon"
+}
