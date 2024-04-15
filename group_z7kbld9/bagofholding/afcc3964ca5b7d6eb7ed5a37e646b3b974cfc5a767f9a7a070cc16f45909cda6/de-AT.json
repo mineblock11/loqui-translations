@@ -1,0 +1,8 @@
+{
+  "enchantment.bagofholding.preservation": "Erhaltung",
+  "enchantment.bagofholding.preservation.desc": "Verhindert, dass ein Nimmervoller Beutel beim Tod verloren geht. Die Verzauberungsstufe wird mit jedem Benutzen dieser Verzauberung um eins reduziert.",
+  "item.bagofholding.golden_bag_of_holding": "Goldener Nimmervoller Beutel",
+  "item.bagofholding.iron_bag_of_holding": "Eiserner Nimmervoller Beutel",
+  "item.bagofholding.leather_bag_of_holding": "Lederner Nimmervoller Beutel",
+  "itemGroup.bagofholding.main": "Nimmervoller Beutel"
+}
