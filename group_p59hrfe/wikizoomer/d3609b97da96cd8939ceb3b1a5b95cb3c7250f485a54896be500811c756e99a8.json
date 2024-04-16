@@ -1,0 +1,17 @@
+{
+  "item.wikizoomer.entity_binder": "Entity Info",
+  "item.wikizoomer.entity_binder.desc": "Right click on entity to bind",
+  "item.wikizoomer.data_copier": "Entity Tracker",
+  "item.wikizoomer.data_copier.desc": "Right click on entity to bind",
+  "item.wikizoomer.data_copier.desc2": "Entity Renders will use tracked entity properties",
+  "gui.wikizoomer.close": "Close",
+  "gui.wikizoomer.greenscreen": "Toggle Greenscreen",
+  "gui.wikizoomer.zoom": "Zoom",
+  "gui.wikizoomer.export_png": "Export as PNG",
+  "block.wikizoomer.item_zoomer": "Item Zoomer",
+  "block.wikizoomer.entity_zoomer": "Entity Zoomer",
+  "block.wikizoomer.item_zoomer.desc0": "Right click with Item/Block to set",
+  "block.wikizoomer.item_zoomer.desc1": "Shift right click to open render",
+  "block.wikizoomer.entity_zoomer.desc0": "Right click with Entity Info to set",
+  "block.wikizoomer.entity_zoomer.desc1": "Shift right click to open render"
+}
