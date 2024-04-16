@@ -1,0 +1,14 @@
+{
+    "carryon.category.settings": "Settings",
+    "carryon.category.blacklist": "Blacklist",
+    "carryon.category.modeloverrides": "Modellüberschreibungen (Erweitert)",
+    "carryon.category.custompickupconditions": "Benutzerdefinierte Bedingungen für das Aufheben (Erweitert)",
+    "carryon.category.whitelist": "Whitelist",
+    "carryon.general.modeloverrides.modeloverrides": "Modellüberschreibungen",
+    "carryon.general.blacklist.forbiddenentities": "Objekte, die der Spieler nicht aufheben kann",
+    "carryon.general.blacklist.forbiddentiles": "Blöcke, die der Spieler nicht aufheben kann",
+    "carryon.category.custompickupconditions.custompickupconditionsblocks": "Benutzerdefinierte Bedingungen für das Aufheben von Blöcken",
+    "carryon.category.custompickupconditions.custompickupconditionsentities": "Benutzerdefinierte Bedingungen für das Aufheben von Objekten",
+    "key.carry.desc": "Tragen",
+    "key.carry.category": "Mitnehmen"
+}
