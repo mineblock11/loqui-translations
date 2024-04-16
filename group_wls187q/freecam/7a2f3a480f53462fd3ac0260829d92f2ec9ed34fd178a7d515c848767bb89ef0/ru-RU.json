@@ -39,7 +39,7 @@
   "text.autoconfig.freecam.option.visual.perspective.firstPerson": "First Person",
   "text.autoconfig.freecam.option.visual.perspective.thirdPerson": "Third Person",
   "text.autoconfig.freecam.option.visual.perspective.thirdPersonMirror": "Mirror",
-  "text.autoconfig.freecam.option.visual.perspective.inside": "Inside",
+  "text.autoconfig.freecam.option.visual.perspective.inside": "Внутри",
   "text.autoconfig.freecam.option.visual.showPlayer": "Show Player",
   "text.autoconfig.freecam.option.visual.showPlayer.@Tooltip": "Shows your player in its original position.",
   "text.autoconfig.freecam.option.visual.showHand": "Show Hand",
