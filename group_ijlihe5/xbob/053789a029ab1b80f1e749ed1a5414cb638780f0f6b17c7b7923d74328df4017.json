@@ -1,0 +1,13 @@
+{
+    "xbob.config.title": "Corsshair Bobbing Configuration",
+    "xbob.config.bob": "Following View-bobbing",
+    "xbob.config.sneak": "Sneaking Animation",
+    "xbob.config.item": "Changing Item Animation",
+    "xbob.config.aim": "Aiming Animation",
+    "xbob.config.spear": "Trident Animation",
+    "xbob.config.xbow": "Crossbow Animation",
+    "xbob.config.eat": "Eating Animation",
+    "xbob.config.atk": "Attacking Animation",
+    "xbob.config.value.enable": "Enabled",
+    "xbob.config.value.disable": "Disabled"
+}
