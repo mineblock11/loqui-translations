@@ -1,0 +1,516 @@
+{
+  "item.thelongstory.bone_fragments" : "Bone Fragments",
+  "item.thelongstory.crushed_bones" : "Crushed Bones",
+  "item.thelongstory.infested_flesh" : "Infested Flesh",
+  "item.thelongstory.blood_bottle" : "Blood Bottle",
+  "item.thelongstory.spider_silk" : "Spider Silk",
+
+
+
+  "item.thelongstory.vitaly_seeds" : "Vitaly Seeds",
+  "item.thelongstory.vitaly_fruit" : "Vitaly Fruit",
+
+  "item.thelongstory.torn_carrot" : "Torn Carrot",
+  "item.thelongstory.sweet_pear_seeds" : "Sweat Pear Seeds",
+  "item.thelongstory.sweet_pear" : "Sweat Pear",
+
+
+
+
+  "item.thelongstory.thestone_dust" : "Thestone Dust",
+  "item.thelongstory.thestone_ingot" : "Thestone Ingot",
+  "item.thelongstory.thestone_nugget" : "Thestone Nugget",
+
+  "item.thelongstory.raw_pandazite" : "Raw Pandazite",
+  "item.thelongstory.pandazite_ingot" : "Pandazite Ingot",
+  "item.thelongstory.pandazite_nugget" : "Pandazite Nugget",
+
+  "item.thelongstory.raw_odmentium" : "Raw Odmentium",
+  "item.thelongstory.odmentium_ingot" : "Odmentium Ingot",
+
+  "item.thelongstory.raw_impure_zarosite" : "Raw Impure Zarosite",
+  "item.thelongstory.impure_zarosite_ingot" : "Impure Zarosite Ingot",
+
+  "item.thelongstory.zarosite_gemstone" : "Zarosite Gemstone",
+  "item.thelongstory.zarosite_shard" : "Zarosite Shard",
+
+  "item.thelongstory.green_shard" : "Green Shard",
+  "item.thelongstory.pure_amethyst_shard" : "Pure Amethyst Shard",
+  "item.thelongstory.flaming_shard" : "Flaming Shard",
+
+  "item.thelongstory.dronium_ingot" : "Dronium Ingot",
+  "item.thelongstory.dronium_powder" : "Dronium Powder",
+
+  "item.thelongstory.carbon_ingot" : "Carbon Ingot",
+  "item.thelongstory.fluorite" : "Fluorite",
+
+
+
+  "item.thelongstory.teleportation_remote" : "Teleportation Remote",
+  "item.thelongstory.broken_teleportation_remote" : "Broken Teleportation Remote",
+  "item.thelongstory.power_star" : "Power Star",
+  "item.thelongstory.red_coal" : "Red Coal",
+
+
+  "item.thelongstory.dimension_pattern" : "Dimension Pattern",
+  "item.thelongstory.command_system" : "Command System",
+  "item.thelongstory.power_module" : "Power Module",
+  "item.thelongstory.teleportation_module" : "Teleportation Module",
+  "item.thelongstory.mob_capsule" : "Mob Capsule",
+
+  "item.thelongstory.potion_receptacle" : "Potion Receptacle",
+  "item.thelongstory.potion_core" : "Potion Core",
+  "item.thelongstory.soul_container" : "Soul Container",
+  "item.thelongstory.soul_container_regeneration" : "Regeneration Essence Container",
+  "item.thelongstory.soul_container_fire_resistance" : "Fire Essence Container",
+  "item.thelongstory.soul_container_jump_boost" : "Leaping Essence Container",
+  "item.thelongstory.soul_container_dolphin_grace" : "Swimming Essence Container",
+  "item.thelongstory.soul_container_night_vision" : "Vision Essence Container",
+  "item.thelongstory.soul_container_resistance" : "Resistance Essence Container",
+  "item.thelongstory.soul_container_haste" : "Mining Essence Container",
+  "item.thelongstory.soul_container_slow_falling" : "Lightweight Essence Container",
+  "item.thelongstory.soul_container_saturation" : "Saturation Essence Container",
+
+
+  "item.thelongstory.wooden_plate" : "Wooden Plate",
+  "item.thelongstory.iron_plate" : "Iron Plate",
+  "item.thelongstory.diamond_plate" : "Diamond Plate",
+  "item.thelongstory.emerald_plate" : "Emerald Plate",
+  "item.thelongstory.carbon_plate" : "Carbon Plate",
+  "item.thelongstory.netherite_plate" : "Netherite Plate",
+
+  "item.thelongstory.faded_cactus_stick" : "Faded Cactus Stick",
+  "item.thelongstory.carbon_stick" : "Carbon Stick",
+  "item.thelongstory.pure_amethyst_stick" : "Pure Amethyst Stick",
+  "item.thelongstory.flaming_stick" : "Flaming Stick",
+  "item.thelongstory.amethyst_core" : "Amethyst Core",
+  "item.thelongstory.flaming_core" : "Flaming Core",
+  "item.thelongstory.empty_core" : "Empty Core",
+
+
+  "item.thelongstory.amethyst_key" : "Amethyst Key",
+
+
+  "item.thelongstory.thestone_helmet" : "Thestone Helmet",
+  "item.thelongstory.thestone_chestplate" : "Thestone Chestplate",
+  "item.thelongstory.thestone_leggings" : "Thestone Leggings",
+  "item.thelongstory.thestone_boots" : "Thestone Boots",
+
+  "item.thelongstory.green_shard_helmet" : "Green Shard Helmet",
+  "item.thelongstory.green_shard_chestplate" : "Green Shard Chestplate",
+  "item.thelongstory.green_shard_leggings" : "Green Shard Leggings",
+  "item.thelongstory.green_shard_boots" : "Green Shard Boots",
+
+  "item.thelongstory.impure_zarosite_helmet" : "Impure Zarosite Helmet",
+  "item.thelongstory.impure_zarosite_chestplate" : "Impure Zarosite Chestplate",
+  "item.thelongstory.impure_zarosite_leggings" : "Impure Zarosite Leggings",
+  "item.thelongstory.impure_zarosite_boots" : "Impure Zarosite Boots",
+
+  "item.thelongstory.zarosite_helmet" : "Zarosite Helmet",
+  "item.thelongstory.zarosite_chestplate" : "Zarosite Chestplate",
+  "item.thelongstory.zarosite_leggings" : "Zarosite Leggings",
+  "item.thelongstory.zarosite_boots" : "Zarosite Boots",
+
+  "item.thelongstory.dronium_helmet" : "Dronium Helmet",
+  "item.thelongstory.dronium_chestplate" : "Dronium Chestplate",
+  "item.thelongstory.dronium_leggings" : "Dronium Leggings",
+  "item.thelongstory.dronium_boots" : "Dronium Boots",
+
+
+
+  "item.thelongstory.thestone_sword" : "Thestone Sword",
+  "item.thelongstory.thestone_pickaxe" : "Thestone Pickaxe",
+  "item.thelongstory.thestone_axe" : "Thestone Axe",
+  "item.thelongstory.thestone_shovel" : "Thestone Shovel",
+  "item.thelongstory.thestone_hoe" : "Thestone Hoe",
+
+  "item.thelongstory.green_shard_sword" : "Green Shard Sword",
+  "item.thelongstory.green_shard_pickaxe" : "Green Shard Pickaxe",
+  "item.thelongstory.green_shard_axe" : "Green Shard Axe",
+  "item.thelongstory.green_shard_shovel" : "Green Shard Shovel",
+  "item.thelongstory.green_shard_hoe" : "Green Shard Hoe",
+
+  "item.thelongstory.impure_zarosite_sword" : "Impure Zarosite Sword",
+  "item.thelongstory.impure_zarosite_pickaxe" : "Impure Zarosite Pickaxe",
+  "item.thelongstory.impure_zarosite_axe" : "Impure Zarosite Axe",
+  "item.thelongstory.impure_zarosite_shovel" : "Impure Zarosite Shovel",
+  "item.thelongstory.impure_zarosite_hoe" : "Impure Zarosite Hoe",
+  "item.thelongstory.impure_zarosite_bow" : "Impure Zarosite Bow",
+
+  "item.thelongstory.pandazite_sword" : "Pandazite Sword",
+  "item.thelongstory.pandazite_pickaxe" : "Pandazite Pickaxe",
+  "item.thelongstory.pandazite_axe" : "Pandazite Axe",
+  "item.thelongstory.pandazite_shovel" : "Pandazite Shovel",
+  "item.thelongstory.pandazite_hoe" : "Pandazite Hoe",
+
+  "item.thelongstory.odmentium_sword" : "Odmentium Sword",
+  "item.thelongstory.odmentium_pickaxe" : "Odmentium Pickaxe",
+  "item.thelongstory.odmentium_axe" : "Odmentium Axe",
+  "item.thelongstory.odmentium_shovel" : "Odmentium Shovel",
+  "item.thelongstory.odmentium_hoe" : "Odmentium Hoe",
+
+  "item.thelongstory.faded_cactus_sword" : "Faded Cactus Sword",
+  "item.thelongstory.faded_cactus_pickaxe" : "Faded Cactus Pickaxe",
+  "item.thelongstory.faded_cactus_axe" : "Faded Cactus Axe",
+  "item.thelongstory.faded_cactus_shovel" : "Faded Cactus Shovel",
+  "item.thelongstory.faded_cactus_hoe" : "Faded Cactus Hoe",
+
+
+  "item.thelongstory.zarosite_sword" : "Zarosite Sword",
+  "item.thelongstory.zarosite_pickaxe" : "Zarosite Pickaxe",
+  "item.thelongstory.zarosite_axe" : "Zarosite Axe",
+  "item.thelongstory.zarosite_shovel" : "Zarosite Shovel",
+  "item.thelongstory.zarosite_hoe" : "Zarosite Hoe",
+
+  "item.thelongstory.dronium_sword" : "Dronium Sword",
+  "item.thelongstory.dronium_pickaxe" : "Dronium Pickaxe",
+  "item.thelongstory.dronium_axe" : "Dronium Axe",
+  "item.thelongstory.dronium_shovel" : "Dronium Shovel",
+  "item.thelongstory.dronium_hoe" : "Dronium Hoe",
+
+  "item.thelongstory.pure_amethyst_pickaxe" : "Pure Amethyst Pickaxe",
+  "item.thelongstory.pure_amethyst_sword" : "Pure Amethyst Sword",
+
+
+
+
+  "item.thelongstory.emerald_apple" : "Emerald Apple",
+  "item.thelongstory.iron_apple" : "Iron Apple",
+  "item.thelongstory.diamond_apple" : "Diamond Apple",
+  "item.thelongstory.lapis_apple" : "Lapis Lazuli Apple",
+  "item.thelongstory.redstone_apple" : "Redstone Apple",
+  "item.thelongstory.amethyst_apple" : "Amethyst Apple",
+  "item.thelongstory.breedy_flesh" : "Breedy Flesh",
+  "item.thelongstory.tooki_meat" : "Tooki Meat",
+  "item.thelongstory.cooked_tooki_meat" : "Cooked Tooki Meat",
+
+
+  "item.thelongstory.trepasseur_spawn_egg" : "Trepasseur Spawn Egg",
+  "item.thelongstory.tickeler_spawn_egg" : "Tickeler Spawn Egg",
+  "item.thelongstory.crawler_spawn_egg" : "Crawler Spawn Egg",
+  "item.thelongstory.tooki_spawn_egg" : "Tooki Spawn Egg",
+  "item.thelongstory.cowsmic_spawn_egg" : "Cowsmic Spawn Egg",
+  "item.thelongstory.breedy_spawn_egg" : "Breedy Spawn Egg",
+  "item.thelongstory.amethyst_minion_spawn_egg" : "Amethyst Minion Spawn Egg",
+
+
+  "block.thelongstory.torch_sand" : "Torch Sand",
+  "block.thelongstory.torch_pink_sand" : "Torch Pink Sand",
+  "block.thelongstory.crushed_bones_block" : "Crushed Bones Block",
+  "block.thelongstory.mold_block" : "Mold Block",
+  "block.thelongstory.spider_silk_block" : "Spider Silk Block",
+  "block.thelongstory.deepslate_pillar" : "Deepslate Pillar",
+
+
+
+  "block.thelongstory.locked_amethyst_core" : "Locked Amethyst Core",
+
+
+
+
+  "block.thelongstory.deep_ice" : "Deep Ice",
+  "block.thelongstory.deep_ice_zarosite_ore" : "Deep Ice Zarosite Ore",
+  "block.thelongstory.frosted_ice" : "Frosted Ice",
+
+
+
+  "block.thelongstory.carbon_block" : "Carbon Block",
+  "block.thelongstory.chiseled_carbon_block" : "Chiseled Carbon Block",
+  "block.thelongstory.carbon_bricks" : "Carbon Bricks",
+  "block.thelongstory.carbon_tiles" : "Carbon Tiles",
+
+  "block.thelongstory.deep_ice_fluorite_ore" : "Fluorite Ore",
+  "block.thelongstory.fluorite_pillar" : "Fluorite Pillar",
+  "block.thelongstory.fluorite_block" : "Fluorite Block",
+  "block.thelongstory.fluorite_block_slab" : "Fluorite Block Slab",
+  "block.thelongstory.fluorite_block_stairs" : "Fluorite Block Stairs",
+  "block.thelongstory.fluorite_block_wall" : "Fluorite Block Wall",
+
+  "block.thelongstory.fluorite_bricks" : "Fluorite Bricks",
+  "block.thelongstory.fluorite_bricks_slab" : "Fluorite Bricks Slab",
+  "block.thelongstory.fluorite_bricks_stairs" : "Fluorite Bricks Stairs",
+  "block.thelongstory.fluorite_bricks_wall" : "Fluorite Bricks Wall",
+
+  "block.thelongstory.chiseled_fluorite_block" : "Chiseled Fluorite Block",
+  "block.thelongstory.chiseled_fluorite_block_slab" : "Chiseled Fluorite Block Slab",
+  "block.thelongstory.chiseled_fluorite_block_stairs" : "Chiseled Fluorite Block Stairs",
+  "block.thelongstory.chiseled_fluorite_block_wall" : "Chiseled Fluorite Block Wall",
+
+
+
+
+
+  "block.thelongstory.torch_stone_pillar" : "Torch Stone Pillar",
+  "block.thelongstory.torch_stone" : "Torch Stone",
+  "block.thelongstory.torch_stone_slab" : "Torch Stone Slab",
+  "block.thelongstory.torch_stone_stairs" : "Torch Stone Stairs",
+  "block.thelongstory.torch_stone_wall" : "Torch Stone Wall",
+
+  "block.thelongstory.torch_stone_bricks" : "Torch Stone Bricks",
+  "block.thelongstory.torch_stone_bricks_slab" : "Torch Stone Bricks Slab",
+  "block.thelongstory.torch_stone_bricks_stairs" : "Torch Stone Bricks Stairs",
+  "block.thelongstory.torch_stone_bricks_wall" : "Torch Stone Bricks Wall",
+
+  "block.thelongstory.torch_bricks" : "Torch Bricks",
+  "block.thelongstory.torch_bricks_slab" : "Torch Bricks Slab",
+  "block.thelongstory.torch_bricks_stairs" : "Torch Bricks Stairs",
+  "block.thelongstory.torch_bricks_wall" : "Torch Bricks Wall",
+
+
+  "block.thelongstory.iced_stone" : "Iced Stone",
+  "block.thelongstory.iced_stone_slab" : "Iced Stone Slab",
+  "block.thelongstory.iced_stone_stairs" : "Iced Stone Stairs",
+  "block.thelongstory.iced_stone_wall" : "Iced Stone Wall",
+
+  "block.thelongstory.iced_cobblestone" : "Iced Cobblestone",
+  "block.thelongstory.iced_cobblestone_slab" : "Iced Cobblestone Slab",
+  "block.thelongstory.iced_cobblestone_stairs" : "Iced Cobblestone Stairs",
+  "block.thelongstory.iced_cobblestone_wall" : "Iced Cobblestone Wall",
+
+  "block.thelongstory.iced_stone_bricks" : "Iced Stone Bricks",
+  "block.thelongstory.iced_stone_bricks_slab" : "Iced Stone Bricks Slab",
+  "block.thelongstory.iced_stone_bricks_stairs" : "Iced Stone Bricks Stairs",
+  "block.thelongstory.iced_stone_bricks_wall" : "Iced Stone Bricks Wall",
+
+  "block.thelongstory.iced_cracked_stone_bricks" : "Iced Cracked Stone Bricks",
+  "block.thelongstory.iced_cracked_stone_bricks_slab" : "Iced Cracked Stone Bricks Slab",
+  "block.thelongstory.iced_cracked_stone_bricks_stairs" : "Iced Cracked Stone Bricks Stairs",
+  "block.thelongstory.iced_cracked_stone_bricks_wall" : "Iced Cracked Stone Wall",
+
+  "block.thelongstory.iced_chiseled_stone_bricks" : "Iced Chiseled Stone Bricks",
+  "block.thelongstory.iced_chiseled_stone_bricks_slab" : "Iced Chiseled Stone Bricks Slab",
+  "block.thelongstory.iced_chiseled_stone_bricks_stairs" : "Iced Chiseled Stone Bricks Stairs",
+  "block.thelongstory.iced_chiseled_stone_bricks_wall" : "Iced Chiseled Stone Bricks Wall",
+
+  "block.thelongstory.corrupted_lab_tiles" : "Corrupted Lab Tiles",
+  "block.thelongstory.corrupted_lab_tiles_slab" : "Corrupted Lab Tiles Slab",
+  "block.thelongstory.corrupted_lab_tiles_stairs" : "Corrupted Lab Tiles Stairs",
+  "block.thelongstory.corrupted_lab_tiles_wall" : "Corrupted Lab Tiles Wall",
+
+  "block.thelongstory.lab_tiles" : "Lab Tiles",
+  "block.thelongstory.lab_tiles_slab" : "Lab Tiles Slab",
+  "block.thelongstory.lab_tiles_stairs" : "Lab Tiles Stairs",
+  "block.thelongstory.lab_tiles_wall" : "Lab Tiles Wall",
+
+
+  "block.thelongstory.broken_greffed_command_system" : "Broken Greffed Command System",
+  "block.thelongstory.broken_simulation_teleporter" : "Broken Simulation Teleporter",
+  "block.thelongstory.greffed_command_system" : "Greffed Command System",
+  "block.thelongstory.simulation_teleporter" : "Simulation Teleporter",
+  "block.thelongstory.material_processor" : "Material Processor",
+  "block.thelongstory.amethyst_processor" : "Amethyst Processor",
+  "block.thelongstory.red_coal_generator" : "Red Coal Generator [WIP]",
+
+
+  "block.thelongstory.red_coal_block" : "Block of Red Coal",
+  "block.thelongstory.impure_zarosite_block" : "Block of Impure Zarosite",
+  "block.thelongstory.pandazite_block" : "Block of Pandazite",
+  "block.thelongstory.zarosite_block" : "Block of Zarosite",
+  "block.thelongstory.dronium_block" : "Block of Dronium",
+
+  "block.thelongstory.torch_stone_thestone_ore" : "Torch Stone Thestone Ore",
+  "block.thelongstory.red_sandstone_thestone_ore" : "Red Sandstone Thestone Ore",
+  "block.thelongstory.thestone_ore" : "Thestone Ore",
+  "block.thelongstory.deepslate_thestone_ore" : "Deepslate Thestone Ore",
+
+  "block.thelongstory.impure_zarosite_ore" : "Impure Zarosite Ore",
+  "block.thelongstory.deepslate_impure_zarosite_ore" : "Deepslate Impure Zarosite Ore",
+
+  "block.thelongstory.torch_stone_pandazite_ore" : "Torch Stone Pandazite Ore",
+  "block.thelongstory.red_sandstone_pandazite_ore" : "Red Sandstone Pandazite Ore",
+  "block.thelongstory.pandazite_ore" : "Pandazite Ore",
+  "block.thelongstory.deepslate_pandazite_ore" : "Deepslate Pandazite Ore",
+
+  "block.thelongstory.odmentium_ore" : "Odmentium Ore",
+  "block.thelongstory.red_sandstone_odmentium_ore" : "Red Sandstone Odmentium Ore",
+
+  "block.thelongstory.deep Ice_zarosite_ore" : "Deep Ice Zarosite Ore",
+
+
+  "block.thelongstory.faded_cactus_planks" : "Faded Cactus Planks",
+  "block.thelongstory.faded_cactus_stairs" : "Faded Cactus Stairs",
+  "block.thelongstory.faded_cactus_slab" : "Faded Cactus Slab",
+  "block.thelongstory.faded_cactus_door" : "Faded Cactus Door",
+  "block.thelongstory.faded_cactus_trapdoor" : "Faded Cactus Trapdoor",
+
+  "block.thelongstory.egroric_sapling" : "Egroric Sapling",
+  "block.thelongstory.egroric_log" : "Egroric Log",
+  "block.thelongstory.egroric_wood" : "Egroric Wood",
+  "block.thelongstory.stripped_egroric_log" : "Stripped Egroric Log",
+  "block.thelongstory.stripped_egroric_wood" : "Stripped Egroric Wood",
+  "block.thelongstory.egroric_leaves" : "Egroric Leaves",
+  "block.thelongstory.egroric_planks" : "Egroric Planks",
+  "block.thelongstory.egroric_stairs" : "Egroric Stairs",
+  "block.thelongstory.egroric_slab" : "Egroric Slab",
+  "block.thelongstory.egroric_fence" : "Egroric Fence",
+  "block.thelongstory.egroric_fence_gate" : "Egroric Fence Gate",
+  "block.thelongstory.egroric_door" : "Egroric Door",
+  "block.thelongstory.egroric_trapdoor" : "Egroric Trapdoor",
+  "block.thelongstory.egroric_button" : "Egroric Button",
+  "block.thelongstory.egroric_pressure_plate" : "Egroric Pressure Plate",
+
+
+
+  "block.thelongstory.oast_sapling" : "Oast Sapling",
+  "block.thelongstory.oast_log" : "Oast Log",
+  "block.thelongstory.oast_wood" : "Oast Wood",
+  "block.thelongstory.stripped_oast_log" : "Stripped Oast Log",
+  "block.thelongstory.stripped_oast_wood" : "Stripped Oast Wood",
+  "block.thelongstory.oast_leaves" : "Oast Leaves",
+  "block.thelongstory.oast_planks" : "Oast Planks",
+  "block.thelongstory.oast_stairs" : "Oast Stairs",
+  "block.thelongstory.oast_slab" : "Oast Slab",
+  "block.thelongstory.oast_fence" : "Oast Fence",
+  "block.thelongstory.oast_door" : "Oast Door",
+  "block.thelongstory.oast_trapdoor" : "Oast Trapdoor",
+  "block.thelongstory.oast_fence_gate" : "Oast Fence Gate",
+  "block.thelongstory.oast_button" : "Oast Button",
+  "block.thelongstory.oast_pressure_plate" : "Oast Pressure Plate",
+
+  "block.thelongstory.sephin_sapling" : "Sephin Sapling",
+  "block.thelongstory.sephin_log" : "Sephin Log",
+  "block.thelongstory.sephin_wood" : "Sephin Wood",
+  "block.thelongstory.stripped_sephin_log" : "Stripped Sephin Log",
+  "block.thelongstory.stripped_sephin_wood" : "Stripped Sephin Wood",
+  "block.thelongstory.sephin_leaves" : "Sephin Leaves",
+  "block.thelongstory.sephin_planks" : "Sephin Planks",
+  "block.thelongstory.sephin_stairs" : "Sephin Stairs",
+  "block.thelongstory.sephin_slab" : "Sephin Slab",
+  "block.thelongstory.sephin_fence" : "Sephin Fence",
+  "block.thelongstory.sephin_door" : "Sephin Door",
+  "block.thelongstory.sephin_trapdoor" : "Sephin Trapdoor",
+  "block.thelongstory.sephin_fence_gate" : "Sephin Fence Gate",
+  "block.thelongstory.sephin_button" : "Sephin Button",
+  "block.thelongstory.sephin_pressure_plate" : "Sephin Pressure Plate",
+
+  "block.thelongstory.kiwi_sapling" : "Kiwi Sapling",
+  "block.thelongstory.kiwi_log" : "Kiwi Log",
+  "block.thelongstory.kiwi_wood" : "Kiwi Wood",
+  "block.thelongstory.stripped_kiwi_log" : "Stripped Kiwi Log",
+  "block.thelongstory.stripped_kiwi_wood" : "Stripped Kiwi Wood",
+  "block.thelongstory.kiwi_leaves" : "Kiwi Leaves",
+  "block.thelongstory.kiwi_planks" : "Kiwi Planks",
+  "block.thelongstory.kiwi_stairs" : "Kiwi Stairs",
+  "block.thelongstory.kiwi_slab" : "Kiwi Slab",
+  "block.thelongstory.kiwi_fence" : "Kiwi Fence",
+  "block.thelongstory.kiwi_door" : "Kiwi Door",
+  "block.thelongstory.kiwi_trapdoor" : "Kiwi Trapdoor",
+  "block.thelongstory.kiwi_fence_gate" : "Kiwi Fence Gate",
+  "block.thelongstory.kiwi_button" : "Kiwi Button",
+  "block.thelongstory.kiwi_pressure_plate" : "Kiwi Pressure Plate",
+
+  "block.thelongstory.impure_glitched_block" : "Impure Glitched Block",
+  "block.thelongstory.pure_glitched_block" : "Pure Glitched Block",
+
+
+
+  "block.thelongstory.faded_cactus" : "Faded Cactus",
+
+  "block.thelongstory.torn_bush" : "Torn Bush",
+  "block.thelongstory.torn_flower" : "Torn Flower",
+
+  "block.thelongstory.pink_phygelus" : "Pink Phygelus",
+  "block.thelongstory.yellow_phygelus" : "Yellow Phygelus",
+
+  "block.thelongstory.red_ospet" : "Red Ospet",
+  "block.thelongstory.blue_ospet" : "Blue Ospet",
+  "block.thelongstory.green_ospet" : "Green Ospet",
+  "block.thelongstory.yellow_ospet" : "Yellow Ospet",
+
+
+
+  "itemgroup.modgroup" : "TLS Main",
+  "itemgroup.foodgroup" : "TLS Food",
+  "itemgroup.toolsgroup" : "TLS Tools & Combat",
+  "itemgroup.miscgroup" : "TLS Misc",
+
+
+
+  "tooltip.thelongstory.radar" : "§7A radar for searching ores underground! (Just a test item)",
+  "tooltip.thelongstory.effect_armor" : "§7Have a special effect when you equip the full armor.",
+
+
+  "tooltip.thelongstory.pink_greffed_command_system" : "§7A homemade command block which is used to heal yourself.",
+  "tooltip.thelongstory.lime_greffed_command_system" : "§7A homemade command block which is used to jump higher.",
+  "tooltip.thelongstory.orange_greffed_command_system" : "§7A homemade command block which is used to resist fire.",
+  "tooltip.thelongstory.cyan_greffed_command_system" : "§7A homemade command block which is used to swim faster.",
+  "tooltip.thelongstory.blue_greffed_command_system" : "§7A homemade command block which is used to see in the dark.",
+  "tooltip.thelongstory.gray_greffed_command_system" : "§7A homemade command block which is used to increase resistance.",
+
+  "tooltip.thelongstory.locked_amethyst_core" : "§e> Unbreakable\n\n§7This block is used to summon the Amethyst Golem boss with an Amethyst Key.",
+  "tooltip.thelongstory.amethyst_key" : "§7Can be used on a Locked Amethyst Core block to summon the Amethyst Golem boss.",
+
+
+
+  "tooltip.thelongstory.zarosite_sword" : "§7This sword has been created from toxic crystals. When you attack a mob, it will have the crystallized effect and take damages.",
+  "tooltip.thelongstory.power_star" : "§7This is the star of Power, needed to go deeper in the science of life.",
+  "tooltip.thelongstory.soul_container" : "§7This container can capture a soul and use it's essence. \nRight click on a mob who's §n§l§cunder 15HP §r§7to capture it.",
+  "tooltip.thelongstory.soul_container_full" : "§o§7Is obtained by using the Soul container.",
+  "tooltip.thelongstory.teleportation_remote" : "§7Right click to teleport yourself to your respawn point. You'll need to sleep in a bed in the overworld. Won't work with the respawn anchor\n\n§e> 1min cooldown",
+  "tooltip.thelongstory.greffed_command_system" : "§7Used to stock essences containers and to apply the linked effect to the player.\n Right click on the block with an essence container to activate it, then right click again to use it.\n\n§e> 3min cooldown",
+  "tooltip.thelongstory.simulation_teleporter": "§7Right click on the teleporter to go in the Simulation dimension. You'll need a Teleportation remote to teleport back to the overworld.",
+
+
+  "tooltip.thelongstory.broken" : "§7It's broken! You'll need to fix it if you want to use it.",
+
+  "tooltip.thelongstory.mob_capsule" : "§7Right Click on a mob to capture it. Right click on a block to release it.",
+
+
+
+
+  "tooltip.thelongstory.press_shift_info" : "§7Press §n§l§c[SHIFT]§r§7 to see more informations.",
+
+  "display.thelongstory.greffed_command_system" : "",
+
+
+  "message.thelongstory.simulationteleporter.success" : "§6Teleporting to The Simulation...",
+  "message.thelongstory.simulationteleporter.fail" : "§cTeleportation Failed.",
+
+  "message.thelongstory.overworldteleporter.success" : "§6Teleporting to The Overworld...",
+  "message.thelongstory.overworldteleporter.fail" : "§cTeleportation Failed.",
+
+
+
+  "death.attack.infected": "%1$s died from the infection",
+  "death.attack.infected.player": "%1$s has been deadly infected by %2$s",
+
+  "death.attack.crystalized": "%1$s has been crystallized",
+  "death.attack.crystalized.player": "%1$s has been crystallized by %2$s",
+
+  "effect.thelongstory.infected": "Infected",
+  "effect.thelongstory.crystallized": "Crystallized",
+  "effect.thelongstory.sea_charm": "Ocean Agility",
+
+  "entity.thelongstory.trepasseur": "a Trepasseur",
+  "entity.thelongstory.tickeler": "a Tickeler",
+  "entity.thelongstory.crawler": "a Crawler",
+  "entity.thelongstory.tooki": "a Tooki",
+  "entity.thelongstory.cowsmic": "a Cowsmic",
+  "entity.thelongstory.amethyst_golem": "the Amethyst Golem.",
+  "entity.thelongstory.amethyst_minion": "an Amethyst Minion.",
+
+
+
+
+  "sounds.thelongstory.greffed_command_system_activate": "Greffed Command System Activation",
+  "sounds.thelongstory.greffed_command_system_fail": "Greffed Command System Waiting",
+  "sounds.thelongstory.greffed_command_system_give_effect": "Greffed Command System Gives Effect",
+  "sounds.thelongstory.teleportation": "Player Teleportation",
+  "sounds.thelongstory.tooki_idle": "Tooki Ambient",
+  "sounds.thelongstory.tooki_hurt": "Tooki Hurt",
+  "sounds.thelongstory.tooki_death": "Tooki Death",
+
+  "sounds.thelongstory.breedy_ambient": "Breedy Singing",
+  "sounds.thelongstory.breedy_hurt": "Breedy Hurt",
+  "sounds.thelongstory.breedy_death": "Breedy Death",
+
+  "sounds.thelongstory.amethyst_golem_ambient": "Amethyst Golem Singing",
+  "sounds.thelongstory.amethyst_golem_hurt": "Amethyst Golem Hurt",
+  "sounds.thelongstory.amethyst_golem_death": "Amethyst Golem Death",
+
+
+
+
+  "bossbar.thelongstory.amethyst_golem" : "The Amethyst Golem"
+
+}

@@ -1,0 +1,52 @@
+{
+  "crystallized.itemtab": "Create: Crystallized",
+
+
+  "item.crystallized.liquid_crystal_bucket": "Bucket of Liquid Crystal",
+  "block.crystallized.liquid_crystal" : "Liquid Crystal",
+  "fluid.crystallized.crystal" : "Liquid Crystal",
+
+  "item.crystallized.nether_crystal": "Nether Crystal",
+  "item.crystallized.conductive_compound": "Conductive Compound",
+
+  "item.crystallized.glass_slide": "Glass Slide",
+  "item.crystallized.strong_slide": "Reinforced Slide",
+
+
+
+
+  "item.crystallized.nether_slide": "Glass Slide",
+  "item.crystallized.chipped_nether_slide": "Chipped Glass Slide",
+  "item.crystallized.damaged_nether_slide": "Damaged Glass Slide",
+  "item.crystallized.strong_nether_slide": "Reinforced Slide",
+
+  "item.crystallized.nether_filled": "Filled Glass Slide",
+  "item.crystallized.chipped_nether_filled": "Filled Chipped Glass Slide",
+  "item.crystallized.damaged_nether_filled": "Filled Damaged Glass Slide",
+  "item.crystallized.strong_nether_filled": "Filled Reinforced Slide",
+
+
+
+
+  "item.crystallized.conductive_slide": "Glass Slide",
+  "item.crystallized.chipped_conductive_slide": "Chipped Glass Slide",
+  "item.crystallized.damaged_conductive_slide": "Damaged Glass Slide",
+  "item.crystallized.strong_conductive_slide": "Reinforced Slide",
+
+  "item.crystallized.conductive_filled": "Filled Glass Slide",
+  "item.crystallized.chipped_conductive_filled": "Filled Chipped Glass Slide",
+  "item.crystallized.damaged_conductive_filled": "Filled Damaged Glass Slide",
+  "item.crystallized.strong_conductive_filled": "Filled Reinforced Slide",
+
+
+
+
+  "item.crystallized.infinite.tooltip": "Nether Crystal Base",
+  "item.crystallized.nether.tooltip": "Nether Crystal Base",
+
+  "item.crystallized.conductive.tooltip": "Conductive Crystal Base",
+
+  "item.crystallized.perfect.tooltip2": "3 uses remaining",
+  "item.crystallized.chipped.tooltip2": "2 uses remaining",
+  "item.crystallized.damaged.tooltip2": "1 uses remaining"
+}

@@ -1,0 +1,14 @@
+{
+  "item.wherearemytms.blank_hm": "Blank TR",
+  "item.wherearemytms.blank_tm": "Blank TM",
+  "block.wherearemytms.move_machine": "TM Machine",
+  "description.wherearemytms.requires_printing": "Use a TM Machine to write a move",
+  "description.wherearemytms.breaks_after_use": "Breaks after use! Use with caution",
+  "title.wherearemytms.hm": "TR: ",
+  "title.wherearemytms.tm": "TM: ",
+  "response.wherearemytms.cannot_learn": "%1$s cannot learn %2$s from a TM!",
+  "response.wherearemytms.already_learned": "%1$s already knows %2$s.",
+  "response.wherearemytms.success": "%1$s learned how to use %2$s!",
+  "response.wherearemytms.bad_move_caution": "NOTE: Not all official TM/egg/tutor moves are implemented for all pokemon yet!",
+  "response.wherearemytms.get_a_bloody_tm_first": "You need to hold a Blank TM/TR to upload a move from your pokemon!"
+}

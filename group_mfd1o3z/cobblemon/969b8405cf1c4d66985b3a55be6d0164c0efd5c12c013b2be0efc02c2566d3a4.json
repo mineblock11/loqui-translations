@@ -1,0 +1,205 @@
+{
+  "cobblemon.species.pumett.name": "Pumett",
+  "cobblemon.species.pumett.desc1": "It sleeps on the branches of dying trees, revitalizing them.",
+
+  "cobblemon.species.volparin.name": "Volparin",
+  "cobblemon.species.volparin.desc1": "Its elegant movements can release healing waves around it.",
+
+  "cobblemon.species.jourenard.name": "Jourenard",
+  "cobblemon.species.jourenard.desc1": "Its foolish demeanor transmits healing waves, the berries it uses are charged with damaging waves.",
+
+  "cobblemon.species.flamble.name": "Flamble",
+  "cobblemon.species.flamble.desc1": "It observes anyone with its penetrating eyes, no one has ever seen it close its eyes.",
+
+  "cobblemon.species.sleeblaze.name": "Sleeblaze",
+  "cobblemon.species.sleeblaze.desc1": "It has a very sad demeanor, the flames of its body aren't dangerous but cause sleep and hallucinations.",
+
+  "cobblemon.species.ferndred.name": "Ferndred",
+  "cobblemon.species.ferndred.desc1": "It can make people sleep and manipulate their dreams, it has an unusual fear for musharna.",
+
+  "cobblemon.species.dolwashi.name": "Dolwashi",
+  "cobblemon.species.dolwashi.desc1": "It has a tail that it can rotate which allows it to swim at high speed.",
+
+  "cobblemon.species.walphin.name": "Walphin",
+  "cobblemon.species.walphin.desc1": "It's very lively and loves to steal small objects from bathers.",
+
+  "cobblemon.species.zorocean.name": "Zorocean",
+  "cobblemon.species.zorocean.desc1": "It has fins that are so sharp that it can cut a boulder in half.",
+
+  "cobblemon.species.sounoir.name": "Sounoir",
+  "cobblemon.species.sounoir.desc1": "It can be found in flocks with a ballearia. It never stops chirp.",
+
+  "cobblemon.species.sonayre.name": "Sonayre",
+  "cobblemon.species.sonayre.desc1": "It's part of a group of sounoirs as contralto or as mezzo-soprano.",
+
+  "cobblemon.species.ballearia.name": "Ballearia",
+  "cobblemon.species.ballearia.desc1": "Males teach to sounoirs how to sing, females are excellent singers. Rumors say that they can learn some human language.",
+
+  "cobblemon.species.hissilly.name": "Hissilly",
+  "cobblemon.species.hissilly.desc1": "Its poison is toxic to everyone except corals and corsola.",
+
+  "cobblemon.species.hissicobra.name": "Hissicobra",
+  "cobblemon.species.hissicobra.desc1": "They love to care of a corsola, they can heal their injuries with their healing poison.",
+
+  "cobblemon.species.coracondra.name": "Coracondra",
+  "cobblemon.species.coracondra.desc1": "The coral on its body is a perfect home for tiny pokemon such corsola and hissilly. The poison produced can revive dead corsola.",
+
+  "cobblemon.species.silwaddle.name": "Silwaddle",
+  "cobblemon.species.silwaddle.desc1": "Despite it resembles Sewaddle, it was recently discovered that it is actually not a caterpillar but a spider.",
+
+  "cobblemon.species.silkloon.name": "Silkloon",
+  "cobblemon.species.dilkloon.desc1": "It hides its body under a silk cloak while is sewing its new dress.",
+  
+  "cobblemon.species.weavanny.name": "Weavanny",
+  "cobblemon.species.weavanny.desc1": "It loves to weave, the cobweb produced has unique properties, delicate as silk but strong as iron.",
+
+  "cobblemon.species.katmir.name": "Katmir",
+  "cobblemon.species.katmir.desc1": "It walks for miles in hostile zone without suffer from hungry or thirst.",
+
+  "cobblemon.species.meerogue.name": "Meerogue",
+  "cobblemon.species.meerogue.desc1": "It has found a divining rod but it prefers to use it as a club. It will evolve when it learns how to use it.",
+
+  "cobblemon.species.surisham.name": "Surisham",
+  "cobblemon.species.surisham.desc1": "Thanks to its magic stick it can control water under the desert zones, creating oasis to live with its cubs.",
+
+  "cobblemon.species.shinx_alatian.name": "Shinx",
+  "cobblemon.species.shinx_alatian.desc1": "It can manipulate light rays with the lens on its tail, creating mirages.",
+
+  "cobblemon.species.luxio_alatian.name": "Luxio",
+  "cobblemon.species.luxio_alatian.desc1": "The blue bands can absorb sunrays, transform it into vital energy.",
+
+  "cobblemon.species.luxray_alatian.name": "Luxray",
+  "cobblemon.species.luxray_alatian.desc1": "Rumors say that a single luxray, once it has found a perfect place, can create a sand castle as its home.",
+
+  "cobblemon.species.yamask_alatian.name": "Yamask",
+  "cobblemon.species.yamask_alatian.desc1": "Rumors say that it's the soul of a child torn from its body and imprisoned in a bottle. When it's afraid it pretends to be a bottle filled with a black liquid.",
+
+  "cobblemon.species.ampularigus.name": "Ampularigus",
+  "cobblemon.species.ampularigus.desc1": "It pretends to be a vase. The body is made of sand which acts like a liquid.",
+
+  "cobblemon.species.drillorm.name": "Drillorm",
+  "cobblemon.species.drillorm.desc1": "It lives in groups of hundreds of drillorm following a worvator for food.",
+
+  "cobblemon.species.worvator.name": "Worvator",
+  "cobblemon.species.worvator.desc1": "When it moves underground, it generates tremors that can move sand dunes.",
+
+  "cobblemon.species.glameow_alatian.name": "Glameow",
+  "cobblemon.species.glameow_alatian.desc1": "She continuously cleans her white fur, if anyone dares to touch it it will pay the consequences.",
+
+  "cobblemon.species.purlady.name": "Purlady",
+  "cobblemon.species.purlady.desc1": "She loves compliments, when she gets angry her fur gets very hot. She hates the rude behavior of purugly.",
+
+  "cobblemon.species.sableye_alatian.name": "Sableye",
+  "cobblemon.species.sableye_alatian.desc1": "Due to low mineral presence in Alatia's caves, it's adapted to eat metal ores and such, that's why it causes continuous issues in the underground Alatia's railway system.",
+
+  "cobblemon.species.ferrosleyer.name": "Ferrosleyer",
+  "cobblemon.species.ferrosleyer.desc1": "The great amount of metals eaten has made it monstrous, developing only the upper part of the body and a tail that can cut a 10cm thick steel bar.",
+
+  "cobblemon.species.sympheon.name": "Sympheon",
+  "cobblemon.species.sympheon.desc1": "The lines in its ears, which resemble strings, change shape according to the melody it hears. If the melody is horrible the lines will take a very confusing shape, if it's good they cange into sine waves.",
+
+  "cobblemon.species.prismeon.name": "Prismeon",
+  "cobblemon.species.prismeon.desc1": "The eyes reflects a part of the universe never observed before, the color of the fur can make visible the cosmic microwave background.",
+
+  "cobblemon.species.glideon.name": "Glideon",
+  "cobblemon.species.glideon.desc1": "It cannot fly without being carried by an air current, it can go into the clouds and change the weather conditions thanks to its breath.",
+
+  "cobblemon.species.blitzumi.name": "Blitzumi",
+  "cobblemon.species.blitzumi.desc1": "It suffers from headaches, when it calm down it passes into a tranquility state, using all of its psychic powers.",
+
+  "cobblemon.species.rockarin.name": "Rockarin",
+  "cobblemon.species.rockarin.desc1": "Despite being made of rock, it's so light that it can float on air currents, producing a sinister sound.",
+
+  "cobblemon.species.berrock.name": "Berrock",
+  "cobblemon.species.berrock.desc1": "The pieces of rock that compose it are not fixed to each other, if it takes a supereffective hit it collapses and then recompose itself.",
+
+  "cobblemon.species.bibishock.name": "Bibishock",
+  "cobblemon.species.bibishock.desc1": "Its body works like a capacitor, when someone rubs it, it can acquire a huge amount of electric charges.",
+
+  "cobblemon.species.tikishock.name": "Tikishock",
+  "cobblemon.species.tikishock.desc1": "When its body is charged of electricity, it releases it in an instant by sprinting at high speed or throwing a powerful punch.",
+
+  "cobblemon.species.ursashock.name": "Ursashock",
+  "cobblemon.species.ursashock.desc1": "Its body can contain the same amount of charges as a lightning bolt. They are also used as emergency power supply.",
+
+  "cobblemon.species.boomka.name": "Boomka",
+  "cobblemon.species.boomka.desc1": "It has a grumpy behavior, when it gets angry it starts to make explosions without taking damage.",
+
+  "cobblemon.species.burstile.name": "Burstile",
+  "cobblemon.species.burstile.desc1": "Its mane of sparks can generate explosive charges that can be thrown.",
+
+  "cobblemon.species.nitragon.name": "Nitragon",
+  "cobblemon.species.nitragon.desc1": "It's commonly used to demolish large buildings, although it doesn't have wings, it can use its blasts for propulsion.",
+
+  "cobblemon.species.tinchoir.name": "Tinchoir",
+  "cobblemon.species.tinchoir.desc1": "Despite its size, it's very heavy. It loves to swing by tying itself to a rope.",
+
+  "cobblemon.species.chortoise.name": "Choirtoise",
+  "cobblemon.species.chortoise.desc1": "It's very slow at walking but in the water it can swim at a speed of 100km/h.",
+
+  "cobblemon.species.turalyzer.name": "Turalyzer",
+  "cobblemon.species.turalyzer.desc1": "It's an excellet rescuer and it can tow a ship at the speed of 120km/h.",
+
+  "cobblemon.species.ebery.name": "Ebery",
+  "cobblemon.species.ebery.desc1": "On its body they grow purple flowers to camouflage in the bushes, they can also shoot an hallucinogenic liquid.",
+
+  "cobblemon.species.nagarel.name": "Nagarel",
+  "cobblemon.species.nagarel.desc1": "It has a flower on its tail which it uses to attract prey and spray it with its hallucinogenic venom.",
+
+  "cobblemon.species.spinaga.name": "Spinaga",
+  "cobblemon.species.spinaga.desc1": "Instead of hiding in bushes like its previous stages, it hides in thorn bushes which it uses as a home.",
+
+  "cobblemon.species.boxrin.name": "Boxrin",
+  "cobblemon.species.boxrin.desc1": "It’s constantly searching for the perfect fighting style. Because of its short arms, it wears mushrooms like boxing gloves to punch.",
+
+  "cobblemon.species.rinstomp.name": "Rinstomp",
+  "cobblemon.species.rinstomp.desc1": "It’s constantly searching for the perfect fighting style. Through evolution, it develops strong limbs that enable it to specialize in close combat. Its stomps can shake the earth.",
+
+  "cobblemon.species.gladiathorn.name": "Gladiathorn",
+  "cobblemon.species.gladiathorn.desc1": "Combining the martial arts learned at previous stages, it has finally found the perfect fighting style for it. It grows barbed vines from the head, which uses to create sturdy weapons.",
+
+  "cobblemon.species.frinx.name": "Frinx",
+  "cobblemon.species.frinx.desc1": "Most of them are very skittish in the presence of humans, prefering to spend their time alone or with others of the same species. Their eyesight is one of the best in the world, managing to spot danger from miles away, often looking from treetops.",
+
+  "cobblemon.species.avalinx.name": "Avalinx",
+  "cobblemon.species.avalinx.desc1": "Their paws are covered by hardened ice, this allows them to skate on most surfaces. They prefer to rest in treetops while survivailing the sorrounding area, making them a very rare species to spost in the wild.",
+
+  "cobblemon.species.ironstalker.name": "Iron Stalker",
+  "cobblemon.species.ironstalker.desc1": "Description not found.",
+
+  "cobblemon.species.froxic.name": "Froxic",
+  "cobblemon.species.froxic.desc1": "It continously produces a nitrogen-based liquid that freeze anything.",
+
+  "cobblemon.species.permafrox.name": "Permafrox",
+  "cobblemon.species.permafrox.desc1": "Its body secretes a nitrogen-based toxin that is dangerous more for its ability to freeze anything than for poisonousness.",
+
+  "cobblemon.species.snoddle.name": "Snoddle",
+  "cobblemon.species.snoddle.desc1": "Despite the similarities with dwebble, it's a different species and it's very aggressive due to the hostile habitat in which it lives.",
+
+  "cobblemon.species.icicranid.name": "Icicranid",
+  "cobblemon.species.icicranid.desc1": "The weight of its snowball allows it to generate avalanche at will.",
+
+  "cobblemon.species.bulbee.name": "Bulbee",
+  "cobblemon.species.bulbee.desc1": "It's part of a swarm that collaborates to manage the hive, uses its bioluminescence to communicate with others with specific signals.",
+
+  "cobblemon.species.glownet.name": "Glownet",
+  "cobblemon.species.glownet_yellow.desc1": "It has the task of transport food in the hive. Thanks to its glowing back it can communicate with others members with specific light signals.",
+  "cobblemon.species.glownet_red.desc1": "It has the task of attack the intruders in the hive. Thanks to its glowing back it can communicate with others members with specific light signals.",
+  "cobblemon.species.glownet_green.desc1": "It has the task of protect the hive from dangers. Thanks to its glowing back it can communicate with others members with specific light signals.",
+
+  "cobblemon.species.beaquin.name": "Beaquin",
+  "cobblemon.species.beaquin.desc1": "She rules all the hive. Thanks to her glowing back she can communicate with others members with specific light signals.",
+
+  "cobblemon.species.tequibat.name": "Tequibat",
+  "cobblemon.species.tequibat.desc1": "Its metabolism is unusual, it consumes the pigment contained in fruits and vegetables but not the food itself. When it's hungry it turn pale.",
+
+  "cobblemon.species.chiroquila.name": "Chiroquila",
+  "cobblemon.species.chiroquila.desc1": "The wings color changes in base of the last food it ate.",
+
+  "cobblemon.species..name": "",
+  "cobblemon.species..desc1": ""
+
+
+
+
+}

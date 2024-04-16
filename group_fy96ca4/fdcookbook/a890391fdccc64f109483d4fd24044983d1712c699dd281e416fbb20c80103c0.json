@@ -1,0 +1,88 @@
+{
+  "item.fdcookbook.fd_cookbook": "FD Cookbook",
+  "text.fdcookbook.fd_cookbook.landing_text": "$(l)$(playername)!$() Welcome to use this book. $(br)Farmer's Delight Cookbook Reforged by Hotakus. $(br) This book may help you learn many knowledge about Farmer's Delight. $(br)If you find any errors, please report them to $(l)$(l:https://www.curseforge.com/minecraft/mc-mods/farmers-delight-cookbook-reforged/comments)CurseForge$(/l)$() or $(l)$(l:https://github.com/Hotakus/fd-cookbook-reforged/issues)Github$(/l)$(). $(br)If it is an old version of the cookbook, please remake it to obtain a new version.",
+  "tooltip.fdcookbook.fd_cookbook": "Book x1, Wheat seeds x1, Bowl x1",
+
+  "block.fdcookbook.fdcookbook": "§dFarmer's Delight Cookbook",
+
+  "tooltip.fdcookbook.shift": "§7Hold §b§nSHIFT§r §7for more",
+  "tooltip.fdcookbook.fd_cookbook.tooltip.normal": "§7Hold down the sneak key and aim at the block to open the corresponding entry in the book.",
+  "tooltip.fdcookbook.fd_cookbook.tooltip.normal2": "§7Hold down the §b§nALT§r §7key to place book on any block. And you can right click it to open book.",
+  "tooltip.fdcookbook.fd_cookbook.tooltip.normal3": "§7Left click the book placed on block to pick it up.",
+  "tooltip.fdcookbook.fd_cookbook.tooltip.normal4": "§7Maybe you can place book on stove?",
+
+  "item.fdcookbook.fdcookbook_baked": "Burnt Books",
+  "block.fdcookbook.fdcookbook_baked": "Burnt Books",
+  "tooltip.fdcookbook.fdcookbook_baked.tooltip.normal": "§7The burnt book is unrecognizable.",
+
+  "advancements.fdcookbook.fdcookbook.title": "Getting a Cookbook",
+  "advancements.fdcookbook.fdcookbook.description": "Books are the ladder of human progress.",
+  "advancements.fdcookbook.burnt_books.title": "Burnt Books",
+  "advancements.fdcookbook.burnt_books.description": "hunger breeds discontentment.",
+
+  "patchouli.fdcookbook.advancements.bonfile_lit_title": "Bonfire Lit",
+  "patchouli.fdcookbook.advancements.bonfile_lit_text": "... I patted my head and woke up, and I was a little stunned in the face of this strange environment.I'm $(playername) a well-known wilderness survival expert! Can't be bothered!$(br)After cheering myself up, I stood up and said, \"It's not too early, the night is dangerous, so let's light a bonfire!\"",
+  "patchouli.fdcookbook.advancements.bonfile_lit_text2": "Maybe I can craft a $(l:tools/cookingpot_stove#stove)Stove$()?",
+
+  "patchouli.fdcookbook.advancements.crops_of_the_wild_title": "Crops of the Wild",
+  "patchouli.fdcookbook.advancements.crops_of_the_wild_text": "Survival in the wild, food is very important, even if I am deep in the wilderness, I still have to eat good things, this is my last stubbornness and me. $(br) I'm holding a knife and looking around... Wild vegetables! Should they be harvested by hand or with a knife?",
+  "patchouli.fdcookbook.advancements.crops_of_the_wild_text2": "I need to understand what $(l:basics/wild_crops) wild crops $() are available in the wild.",
+
+  "patchouli.fdcookbook.advancements.craft_knife_title": "Craft Knife",
+  "patchouli.fdcookbook.advancements.craft_knife_text": "To survive in the wilderness, a tool at hand is essential, and I look around... With the sand at the water's edge to find flint, maybe I could make a knife out of flint!What about the wilderness!$(br) Delighted, I rushed to the water's edge and rummaged through the flint.",
+  "patchouli.fdcookbook.advancements.craft_knife_text2": "Maybe I can make $(l:tools/knife) knives $() of different materials?",
+
+  "patchouli.fdcookbook.advancements.dinners_served_title": "Maybe I should eat something good",
+  "patchouli.fdcookbook.advancements.dinners_served_text": "At night, I began to think about life. How did I come to this world? Why am I called $(playername)? Why don't I have some good food tonight. Wait, why did I think about food? But it's time to think about how to make some good dishes. Maybe I should make a $(l:tools/cookingpot_stove#cookingpot) cooking pot $() and make some dishes on the $(l:tools/cookingpot_stove#stove) stove $()?",
+
+  "patchouli.fdcookbook.advancements.portable_cooking_title": "Portable Cooking",
+  "patchouli.fdcookbook.advancements.portable_cooking_text": "I've been in this world for a long time, and I realized that this world is a fantasy world, with zombies, whites, slender man... It's a scary world. $(br) Treat myself to a frying pan tonight, in this dangerous world, every day should be enjoyed!",
+
+  "patchouli.fdcookbook.advancements.sizzling_hot_title": "Sizzling Hot",
+  "patchouli.fdcookbook.advancements.sizzling_hot_text": "What I didn't expect was that there is a strange power in this world, which can make the frying pan stir-fry automatically, just place $(l:tools/cookingpot_stove#skillet) skillet $() on $(l:tools/cookingpot_stove#stove) stove $() and put the food in it.",
+
+  "patchouli.fdcookbook.advancements.watch_your_fingers_title": "Watch Your Fingers",
+  "patchouli.fdcookbook.advancements.watch_your_fingers_text": "I'm ashamed to say that although I am an expert in survival in the wilderness, my cooking skills are average, so I decided to work hard in this world. I'll start by making a $(l:tools/cutting_board) cutting board $(). Oh... I accidentally cut my finger with a $(l:tools/knife) knife$(), and the $(l:tools/cutting_board) cutting board $() was full of blood, why did I use so much force?",
+
+  "patchouli.fdcookbook.advancements.if_you_title": "Regular equipment upgrades",
+  "patchouli.fdcookbook.advancements.if_you_text": "I've discovered a big secret, shh! The secret is that there is $(l)hell$() in this world! By chance, I discovered a type of ore called $(#57291a) Ancient Debris $() in hell, and its lower realm alloy is the strongest thing in the world! Perhaps I can make it into a $(l:tools/knife)knife$()? Interesting!",
+
+  "patchouli.fdcookbook.advancements.wild_butcher_title": "Wild Butcher",
+  "patchouli.fdcookbook.advancements.wild_butcher_text": "It's strange, I found that this world is affecting my mind, and I'm becoming addicted to killing I can't stand it anymore! My $(l:tools/knife) knife $() is already starving and thirsty! Blood splattered out and I killed it with a squelch。$(br)Great! It's pork ham! Dinner is ready!",
+
+  "patchouli.fdcookbook.advancements.grasping_at_straws_title": "Grasping at Straws",
+  "patchouli.fdcookbook.advancements.grasping_at_straws_text": "This is a beautiful world, and in the end, I have decided to survive in this world for a long time. But now, I urgently need a $(basics/straw#lead) lead $(), but making a plug requires straw. I tried using a $(tools/knife) knife $() to harvest rice, and sure enough! I have obtained straw so that I can control the animals.",
+
+  "patchouli.fdcookbook.advancements.advanced_composting_title": "Advanced Composting",
+  "patchouli.fdcookbook.advancements.advanced_composting_text": "Now I am very happy in the daily farming life, but there are so many monsters in this world, and they actually trample on my crops! I can't stand this, so I decided to develop a new type of soil... I can make $(l:basics/rich_soil#oc) organic compost $()!become $(l:basics/rich_soil#grs) rich soil$() and don't have to worry about crops being trampled!",
+
+  "patchouli.fdcookbook.advancements.plant_food_title": "Plant Food",
+  "patchouli.fdcookbook.advancements.plant_food_text": "After unremitting efforts, I finally made $(l:basics/rich_soil#oc) organic compost $(), but crops cannot be directly grown on organic compost. Perhaps I should place it on the ground and wait for it to naturally transform into $(l:basics/rich_soil#grs) rich soil $().",
+
+  "patchouli.fdcookbook.advancements.comforting_title": "Comfort",
+  "patchouli.fdcookbook.advancements.comforting_text": "Ah! Hot and steaming white rice! Since I came to this world, I haven't tried any hometown cuisine, but the $(l:recipes/noodles) rice $() here has a special effect. After eating the rice here, I gained the $(l:basics/effects) comfort $() effect, and now I am full of power!",
+
+  "patchouli.fdcookbook.advancements.nourishing_title": "Nourishment",
+  "patchouli.fdcookbook.advancements.nourishing_text": "These days, I have been exposed to more and more delicacies such as bacon eggs, meatball pasta, lamb chop pasta, mushroom rice, grilled lamb chops, etc. There are many more delicacies waiting for me, I can't slack off, hurry up!",
+
+  "patchouli.fdcookbook.advancements.glorious_feast_title": "Glorious Feast",
+  "patchouli.fdcookbook.advancements.glorious_feast_text": "A year has passed, I have been in this world for a long time, but I have not had a single holiday, and I am exhausted from surviving in this world, or I should relax tonight? I will make a $(l:recipes/feasts) feast $() tonight!",
+
+  "patchouli.fdcookbook.advancements.fungus_among_us_title": "Fungus Among Us",
+  "patchouli.fdcookbook.advancements.fungus_among_us_text": "Wow, what I didn't expect was that red mushrooms and brown mushrooms could be planted on fertile soil, and their colonies were easier to survive than ordinary mushrooms, maybe the mushroom era came, I couldn't stand it, hurry up and get a bowl of mushroom rice. $(br)Maybe I should get more $(l:basics/rich_soil#grs)rich soil$()?",
+
+  "patchouli.fdcookbook.advancements.tall_mato_title": "Tall Mato",
+  "patchouli.fdcookbook.advancements.tall_mato_text": "By chance, I accidentally dropped the rope on the tomato crop, and when I tried to remove the $(l:basics/rope) rope $() from , something magical happened! Tomato vines actually climbed up to the rope and they would grow on it! $(br)If you think about it, this planting method may be able to increase the yield per acre of tomatoes! Looks like my warehouse is going to blow up!",
+
+  "patchouli.fdcookbook.advancements.dipping_your_roots_title": "Dipping Your Roots",
+  "patchouli.fdcookbook.advancements.dipping_your_roots_text": "For so many days, I've wondered if there is a crop in the world that can grow in water, and by the way, this crop is called rice! I set off and finally found rice at the water's edge. Maybe you can harvest with $(l:tools/knife) knife $()?",
+
+  "patchouli.fdcookbook.advancements.boo_hiss_title": "Boo Hiss",
+  "patchouli.fdcookbook.advancements.boo_hiss_text": "Hey, it's disgusting! As I was harvesting delicious tomatoes in the beautiful farmland as usual, I suddenly smelled a foul smell! I searched for the smell...$(br) I saw a black potato crawling with maggots and rotten flesh all over my body. It was disgusting, but I took it off anyway and was going to dispose of it. $(br) Wait, maybe I can throw it at the marauders as a throw? Disgusting bunches, I'm not going to like it for a long time.",
+
+  "patchouli.fdcookbook.advancements.crop_rotation_title": "Crop Rotation",
+  "patchouli.fdcookbook.advancements.crop_rotation_text": "Try planting every crop once",
+
+  "patchouli.fdcookbook.advancements.master_chef_title": "Master Chef",
+  "patchouli.fdcookbook.advancements.master_chef_text": "Try eating all the dishes once."
+}

@@ -1,0 +1,8 @@
+{
+    "itemGroup.better_batpack.all": "Better Batpack",
+
+    "item.better_batpack.batpack4": "4x Batpack",
+    "item.better_batpack.batpack16": "16x Batpack",
+    "item.better_batpack.batpack64": "64x Batpack",
+    "item.better_batpack.batpack128": "128x Batpack"
+}

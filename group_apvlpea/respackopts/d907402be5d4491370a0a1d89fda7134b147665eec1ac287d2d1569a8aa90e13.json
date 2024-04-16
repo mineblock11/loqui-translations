@@ -1,0 +1,20 @@
+{
+  "respackopts.loadFailed": "Failed to load resource packs",
+  "respackopts.loadError": "There is an issue with the resource pack configs. Please take a look at the game log",
+  "respackopts.configure": "Configure",
+  "respackopts.jfconfig.title": "ResPackOpts",
+  "respackopts.jfconfig.debugCommands": "Debug Commands",
+  "respackopts.jfconfig.debugLogs": "Debug Logs",
+  "respackopts.jfconfig.ioLogs": "IO Logs",
+  "respackopts.jfconfig.ioLogs.tooltip": "Log every resource access. WARNING: This WILL result in giant log files! (requires restart)",
+  "respackopts.jfconfig.dashloaderCompat": "Dashloader compatibility",
+  "respackopts.invalid": "Invalid value",
+  "respackopts.dumpSucceeded": "Successfully dumped the resource to %s",
+  "respackopts.dumpFailed": "Could not dump the requested resource, look at your log for details",
+  "respackopts.reloadSucceeded": "Successfully reloaded resources and data",
+  "respackopts.reloadFailed": "Could not reload all resources, look at your log for details",
+  "respackopts.versionText": "Version %s using the respackotps meta version %s",
+  "respackopts.invalidId": "Invalid Identifier",
+  "respackopts.snippet.success": "Executed snippet and got: %s",
+  "respackopts.snippet.failed": "Snippet could not be executed: %s"
+}
