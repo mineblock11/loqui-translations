@@ -1,0 +1,10 @@
+{
+  "tooltip.harvest_level": "Harvest Level: %s",
+  "tooltip.harvest_speed": "Harvest Speed: %s",
+  "tooltip.efficiency_modifier": "(+%s)",
+  "tooltip.enchantability": "Enchantability: %s",
+  "tooltip.durability": "Durability: %s/%s",
+  "tooltip.hunger": "Hunger: %s",
+  "tooltip.saturation": "Saturation: %s",
+  "tooltip.press_shift": "Press SHIFT for stats"
+}
