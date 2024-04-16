@@ -1,0 +1,20 @@
+{
+  "key.lightoverlay.category": "Light Overlay",
+  "key.lightoverlay.enable_overlay": "Toggle Light Overlay",
+  "description.lightoverlay.caching": "Cachespeichern wird empfohlen, wenn die Reichweite über 16 eingestellt ist oder wenn es sich um einen etwas gemütlicheren Rechner handelt.",
+  "config.lightoverlay.general": "Allgemein",
+  "config.lightoverlay.reach": "Reichweite:",
+  "config.lightoverlay.caching": "Cachespeichern:",
+  "config.lightoverlay.crossLevel": "Lichtlevel:",
+  "config.lightoverlay.secondaryLevel": "Sekundäres Lichtlevel:",
+  "config.lightoverlay.showNumber": "Stattdessen den Zahlenwert anzeigen:",
+  "config.lightoverlay.smoothLines": "Geglättete Linien:",
+  "config.lightoverlay.underwater": "Unterwasser anzeigen:",
+  "config.lightoverlay.lineWidth": "Linienstärke:",
+  "config.lightoverlay.yellowColor": "Gelbe Farbe:",
+  "config.lightoverlay.secondaryColor": "Sekundärfarbe:",
+  "config.lightoverlay.redColor": "Rote Farbe:",
+  "config.lightoverlay.invalidColor": "Ungültige Farbe",
+  "config.lightoverlay.mushroom": "In Pilzlandbiomen anzeigen:",
+  "config.lightoverlay.useListWhileCaching": "Beim Cachespeichern glList verwenden:"
+}
