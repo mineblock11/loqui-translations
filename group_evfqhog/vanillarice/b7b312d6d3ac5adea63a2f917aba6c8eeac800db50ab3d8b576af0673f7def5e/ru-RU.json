@@ -1,12 +1,12 @@
 {
 	"item.vanillarice.rice_seeds": "Семена риса",
-	"item.vanillarice.rice_grain": "Rice",
+	"item.vanillarice.rice_grain": "Рис",
 	"item.vanillarice.rice_bowl": "Миска риса",
 	"item.vanillarice.maki_sushi": "Маки-суши",
-	"item.vanillarice.fried_rice": "Fried Rice",
+	"item.vanillarice.fried_rice": "Жареный рис",
 	"item.vanillarice.mochi": "Моти",
 	"item.vanillarice.rice_bag": "Мешок риса",
-	"item.vanillarice.rice_crop": "Растение риса",
-	"itemGroup.vanillarice": "Rice",
+	"item.vanillarice.rice_crop": "Рисовое растение",
+	"itemGroup.vanillarice": "Рис",
 	"langfile_author": "RomanPro100"
 }
