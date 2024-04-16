@@ -1,0 +1,12 @@
+{
+  "attribute.name.generic.additionalentityattributes.water_speed": "Скорость плавания в воде",
+  "attribute.name.generic.additionalentityattributes.lava_speed": "Скорость плавания в лаве",
+  "attribute.name.generic.additionalentityattributes.critical_bonus_damage": "Бонусный урон к критическим попаданиям",
+  "attribute.name.generic.additionalentityattributes.water_visibility": "Видимость под водой",
+  "attribute.name.generic.additionalentityattributes.lava_visibility": "Видимость под лавой",
+  "attribute.name.generic.additionalentityattributes.generic.dig_speed": "Скорость копания",
+  "attribute.name.generic.additionalentityattributes.generic.bonus_rare_loot_rolls": "Дополнительные редкие крутки",
+  "attribute.name.generic.additionalentityattributes.generic.bonus_loot_count_rolls": "Дополнительные зачарованные крутки",
+  "attribute.name.generic.additionalentityattributes.player.dropped_experience": "Сброшенный опыт",
+  "attribute.name.generic.additionalentityattributes.player.magic_protection": "Защита от магии"
+}
