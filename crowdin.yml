@@ -2215,6 +2215,14 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_199e4qa/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ar
+      - es-ES
+      - ja
+      - ru
+      - tt-RU
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

@@ -1,0 +1,11 @@
+{
+  "category.minimalcoordshud.main": "Minimal Coords Hud",
+  "key.minimalcoordshud.copycoords": "Copy Current Coordinates",
+  "key.minimalcoordshud.copycoords.interdimensional": "Copy Interdimensional Coords",
+  "key.minimalcoordshud.togglehud": "Toggle Coordinates HUD",
+
+  "chat.minimalcoordshud.copied": "◆ Copied the coordinates (%d) to the clipboard!",
+  "chat.minimalcoordshud.copied.overworld": "◆ Copied the Overworld coordinates (%d) to the clipboard!",
+  "chat.minimalcoordshud.copied.nether": "◆ Copied the Nether coordinates (%d) to the clipboard!",
+  "chat.minimalcoordshud.failed": "◆ Could not copy! Are you in a modded dimension?"
+}

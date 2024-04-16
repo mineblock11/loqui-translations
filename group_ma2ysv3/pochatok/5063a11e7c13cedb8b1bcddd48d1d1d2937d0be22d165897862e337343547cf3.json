@@ -1,0 +1,35 @@
+{
+  "text.autoconfig.pochatok.title": "Pochatok",
+
+  "text.autoconfig.pochatok.option.toggledFlySpeed" : "Creative Fly Speed",
+  "text.autoconfig.pochatok.option.creativeFlyToggled" : "Creative Fly",
+
+  "text.autoconfig.pochatok.option.nameTagForceRenderDistance" : "Name tags render distance",
+  "text.autoconfig.pochatok.option.forceShowNameTags" : "Name tags force render",
+  "text.autoconfig.pochatok.option.hidePlayersNameTags" : "Hide players name tags",
+
+  "text.autoconfig.pochatok.option.isLightVisible" : "Show Light Blocks",
+  "text.autoconfig.pochatok.option.signClick" : "Click through highlighted signs",
+
+
+  "text.pochatok.message.sign.text": "Sign search: ",
+  "text.pochatok.message.sign.disabled": " Off",
+  "text.pochatok.message.creativefly.text": "Creative Fly",
+  "text.pochatok.message.creativefly.enabled": " On",
+  "text.pochatok.message.creativefly.disabled": " Off",
+  "text.pochatok.message.creativefly.speed": " Speed: ",
+  "text.pochatok.message.nametagrender.text": "Name tags force render",
+  "text.pochatok.message.nametagrender.enabled": " On",
+  "text.pochatok.message.nametagrender.disabled": " Off",
+  "text.pochatok.message.player_nametagrender.text": "Hide players name tags",
+  "text.pochatok.message.visible_light.text": "Light blocks force render",
+  "text.pochatok.message.visible_light.enabled": " On",
+  "text.pochatok.message.visible_light.disabled": " Off",
+
+
+  "key.category.pochatok.pochatok": "Pochatok",
+  "key.pochatok.toggle_creative_fly": "Toggle Fast Fly",
+  "key.pochatok.toggle_visible_light": "Toggle Light Block Render",
+  "key.pochatok.toggle_force_name_tag_render": "Toggle Name Tag Render",
+  "key.nametagrender.toggle_player_name_tag_render": "Toggle Players Name Tags"
+}
