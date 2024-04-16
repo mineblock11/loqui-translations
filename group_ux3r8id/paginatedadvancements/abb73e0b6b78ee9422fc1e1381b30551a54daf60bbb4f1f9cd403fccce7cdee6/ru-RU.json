@@ -1,7 +1,7 @@
 {
-  "text.autoconfig.PaginatedAdvancements.title": "Настройки страничных достижений ",
-  "text.autoconfig.PaginatedAdvancements.option.FadeOutBackgroundOnAdvancementHover": "Слегка затемнять серым фон при наведении курсора мыши на достижение",
-  "text.autoconfig.PaginatedAdvancements.option.PinnedTabs": "Список закрепленных вкладок (идентификатор корневого достижения)",
+  "text.autoconfig.PaginatedAdvancements.title": "Настройки Paginated Advancements",
+  "text.autoconfig.PaginatedAdvancements.option.FadeOutBackgroundOnAdvancementHover": "Слегка затемнять фон серым цветом при наведении на достижение",
+  "text.autoconfig.PaginatedAdvancements.option.PinnedTabs": "Список закреплённых вкладок (идентификатор корневого достижения)",
   "text.autoconfig.PaginatedAdvancements.option.SaveLastSelectedTab": "Сохранить и восстановить последнюю выбранную вкладку",
   "text.autoconfig.PaginatedAdvancements.option.LastSelectedTab": "Идентификатор последней выбранной вкладки",
   "text.autoconfig.PaginatedAdvancements.option.SpacingBetweenHorizontalTabs": "Расстояние между горизонтальными вкладками",
@@ -10,9 +10,9 @@
   "text.autoconfig.PaginatedAdvancements.option.MaxCriterionEntries": "Максимальное количество отображаемых записей критериев достижений",
   "text.autoconfig.PaginatedAdvancements.option.PinningEnabled": "Включить закрепление вкладок достижений",
   "text.autoconfig.PaginatedAdvancements.option.ShowAdvancementIDInDebugTooltip": "Показывать идентификатора достижения в отладочной подсказке",
-  "text.paginated_advancements.copied_to_clipboard": "Скопирован идентификатор достижения в буфер обмена",
+  "text.paginated_advancements.copied_to_clipboard": "Идентификатор достижения скопирован в буфер обмена",
   "text.paginated_advancements.group": "Группа: ",
-  "text.paginated_advancements.copy_to_clipboard": "(Ctrl+C для копирования)",
-  "text.paginated_advancements.expand_debug": "[Shift] больше...",
-  "text.paginated_advancements.scroll_debug": "[Прокрутка] еще..."
+  "text.paginated_advancements.copy_to_clipboard": "(Копировать — Ctrl + C)",
+  "text.paginated_advancements.expand_debug": "[Shift] Ещё",
+  "text.paginated_advancements.scroll_debug": "[Прокрутка] Ещё"
 }
