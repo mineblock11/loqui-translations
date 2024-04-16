@@ -2313,6 +2313,14 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_w0j75mp/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - ja
+      - pl
+      - uk
+      - zh-CN
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
