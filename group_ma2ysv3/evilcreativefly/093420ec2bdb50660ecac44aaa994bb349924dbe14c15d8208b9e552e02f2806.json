@@ -1,0 +1,10 @@
+{
+  "key.category.evilcreativefly.creativefly": "Creative Fly Keys",
+  "key.evilcreativefly.toggle_fly": "Toggle Fast Fly",
+  "text.creative_fly.message.creativefly.text": "Creative Fly",
+  "text.creative_fly.message.creativefly.enabled": " On",
+  "text.creative_fly.message.creativefly.disabled": " Off",
+  "text.creative_fly.message.creativefly.speed": " Speed: ",
+  "text.autoconfig.creative_fly.option.toggledFlySpeed" : "Speed",
+  "text.autoconfig.creative_fly.title": "Creative Fly"
+}
