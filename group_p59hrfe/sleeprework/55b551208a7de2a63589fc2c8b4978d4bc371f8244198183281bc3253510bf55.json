@@ -1,0 +1,40 @@
+{
+  "sleeprework.sleep.not_tired": "You may not rest now; You are not tired enough",
+  "sleeprework.commands.tired.set.success": "Set tiredness for %s players",
+  "sleeprework.commands.tired.add.success": "Added tiredness for %s players",
+  "sleeprework.commands.tired.get": "%s : %s - %s",
+  "sleeprework.tutorial": "\n\nThis is your tiredness level. Once it reaches %1$s%%, you will be able to sleep.\nWhen it reaches %2$s%%, Phantoms will spawn",
+  "sleeprework.tutorial.hide": "\nPress [%s] to close this message",
+  "sleeprework.display.tiredness": "Tiredness: %s%%",
+  "sleeprework.sleep.timeout": "You have slept long enough to feel rested",
+
+  "effect.sleeprework.liveliness": "Liveliness",
+  "item.minecraft.tipped_arrow.effect.liveliness": "Arrow of Liveliness",
+  "item.minecraft.tipped_arrow.effect.long_liveliness": "Arrow of Liveliness",
+  "item.minecraft.tipped_arrow.effect.strong_liveliness": "Arrow of Liveliness",
+  "item.minecraft.potion.effect.liveliness": "Potion of Liveliness",
+  "item.minecraft.potion.effect.long_liveliness": "Potion of Liveliness",
+  "item.minecraft.potion.effect.strong_liveliness": "Potion of Liveliness",
+  "item.minecraft.splash_potion.effect.liveliness": "Splash Potion of Liveliness",
+  "item.minecraft.splash_potion.effect.long_liveliness": "Splash Potion of Liveliness",
+  "item.minecraft.splash_potion.effect.strong_liveliness": "Splash Potion of Liveliness",
+  "item.minecraft.lingering_potion.effect.liveliness": "Lingering Potion of Liveliness",
+  "item.minecraft.lingering_potion.effect.long_liveliness": "Lingering Potion of Liveliness",
+  "item.minecraft.lingering_potion.effect.strong_liveliness": "Lingering Potion of Liveliness",
+
+
+  "effect.sleeprework.drowsiness": "Drowsiness",
+  "item.minecraft.tipped_arrow.effect.drowsiness": "Arrow of Drowsiness",
+  "item.minecraft.tipped_arrow.effect.long_drowsiness": "Arrow of Drowsiness",
+  "item.minecraft.tipped_arrow.effect.strong_drowsiness": "Arrow of Drowsiness",
+  "item.minecraft.potion.effect.drowsiness": "Potion of Drowsiness",
+  "item.minecraft.potion.effect.long_drowsiness": "Potion of Drowsiness",
+  "item.minecraft.potion.effect.strong_drowsiness": "Potion of Drowsiness",
+  "item.minecraft.splash_potion.effect.drowsiness": "Splash Potion of Drowsiness",
+  "item.minecraft.splash_potion.effect.long_drowsiness": "Splash Potion of Drowsiness",
+  "item.minecraft.splash_potion.effect.strong_drowsiness": "Splash Potion of Drowsiness",
+  "item.minecraft.lingering_potion.effect.drowsiness": "Lingering Potion of Drowsiness",
+  "item.minecraft.lingering_potion.effect.long_drowsiness": "Lingering Potion of Drowsiness",
+  "item.minecraft.lingering_potion.effect.strong_drowsiness": "Lingering Potion of Drowsiness"
+}
+

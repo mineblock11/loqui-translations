@@ -1649,6 +1649,13 @@ files:
       - ru
       - tr
       - zh-CN
+  - source: /group_bom54sv/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - pl
+      - ru
+      - zh-CN
   - source: /group_1due3a5/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
