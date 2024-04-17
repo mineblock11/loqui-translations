@@ -461,6 +461,11 @@ files:
     excluded_target_languages:
       - es-ES
       - zh-CN
+  - source: /group_3fs166u/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - tr
+      - uk
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -1031,6 +1036,12 @@ files:
       - ja
       - ru
       - uk
+  - source: /group_ns3jpbq/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - it
+      - pt-BR
+      - ru
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
