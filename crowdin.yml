@@ -6321,6 +6321,22 @@ files:
       - it
       - ru
       - zh-CN
+  - source: /group_3jvc4tm/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-AR
+      - es-CL
+      - es-EC
+      - es-ES
+      - es-MX
+      - es-UY
+      - es-VE
+      - fr
+      - fr-CA
+      - ru
+      - tt-RU
+      - zh-CN
   - source: /group_2ftyfjj/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
