@@ -1,0 +1,5 @@
+{
+  "fabwork.error.client_missing_mods": "Client is missing required mod(s). Add these to your client to join this server. [%s]",
+  "fabwork.error.server_missing_mods": "Server is missing required mod(s). Remove these from your client to join this server. [%s]",
+  "fabwork.error.both_missing_mods": "Client and Server are missing required mod(s). Client needs to install [%s] and remove [%s] in order to join this server."
+}

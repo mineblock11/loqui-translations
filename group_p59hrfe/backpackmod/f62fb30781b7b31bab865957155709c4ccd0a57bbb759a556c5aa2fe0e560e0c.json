@@ -1,0 +1,20 @@
+{
+  "itemGroup.backpackmod.main_item_group": "Backpack Mod",
+  "item.backpackmod.leather_backpack": "Leather Backpack",
+  "item.backpackmod.copper_backpack": "Copper Backpack",
+  "item.backpackmod.iron_backpack": "Iron Backpack",
+  "item.backpackmod.golden_backpack": "Golden Backpack",
+  "item.backpackmod.amethyst_backpack": "Amethyst Backpack",
+  "item.backpackmod.diamond_backpack": "Diamond Backpack",
+  "item.backpackmod.netherite_backpack": "Netherite Backpack",
+
+  "tooltip.backpackmod.size": "§7Size : §f%d Slot(s)",
+  "tooltip.backpackmod.size.width": "§7Width : §f%d",
+  "tooltip.backpackmod.size.height": "§7Height : §f%d",
+  "tooltip.backpackmod.features": "§7Features :",
+  "tooltip.backpackmod.rename": "§7Press §6§n§oShift + Right click §7to rename",
+
+  "feature.backpackmod.fireproof": "Fire proof",
+  "feature.backpackmod.wearable": "Wearable",
+  "feature.backpackmod.renamable": "Can be renamed"
+}

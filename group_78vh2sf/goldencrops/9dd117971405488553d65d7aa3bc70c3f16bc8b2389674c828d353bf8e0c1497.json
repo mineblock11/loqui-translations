@@ -1,0 +1,15 @@
+{
+  "block.goldencrops.crop_golden_carrot": "Golden Carrots",
+  "block.goldencrops.crop_baked_potato": "Baked Potatoes",
+  "block.goldencrops.crop_golden_melon": "Glistering Melon",
+  "block.goldencrops.crop_golden_melon_stem": "Glistering Melon Stem",
+  "block.goldencrops.crop_golden_melon_stem_attached": "Glistering Melon Stem",
+
+  "config.goldencrops.title": "Golden Crops",
+  "config.goldencrops.allowcarrot": "Allow planting Golden Carrots",
+  "config.goldencrops.allowpotato": "Allow planting Baked Potatoes",
+  "config.goldencrops.allowgoldenmelon": "Allow planting Glistering Melons",
+
+  "config.goldencrops.allowbeet": "Allow planting Beetroot from not seeds",
+  "config.goldencrops.allowmelon": "Allow planting Melons from Melon Slices"
+}

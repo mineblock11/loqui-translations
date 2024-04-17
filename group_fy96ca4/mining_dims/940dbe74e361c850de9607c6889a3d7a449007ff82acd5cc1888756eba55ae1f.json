@@ -1,0 +1,40 @@
+{
+	"itemGroup.mining_dims.mining_dims_group": "Mining Dimensions",
+
+	"item.mining_dims.mining_teleporter": "Mining Teleporter",
+	"item.mining_dims.hunting_teleporter": "Hunting Teleporter",
+	"item.mining_dims.caving_teleporter": "Caving Teleporter",
+	"item.mining_dims.nethering_teleporter": "Nethering Teleporter",
+	"item.mining_dims.climbing_teleporter": "Climbing Teleporter",
+
+	"item.mining_dims.teleporter1": "Please stand still, checking for a safe spot",
+	"item.mining_dims.teleporter2": "Still checking...",
+	"item.mining_dims.teleporter3": "Unable to find a safe spot, please try again in another spot",
+	"item.mining_dims.teleporter4": "Welcome Home!",
+	"item.mining_dims.teleporter5": "Set a bed spawn first",
+	"item.mining_dims.teleporter.desc": "A portable teleport device",
+	"item.mining_dims.teleporter.desc2": "Sneak + right-click returns to bed",
+
+	"item.mining_dims.diamond_nugget": "Diamond Nugget",
+	"item.mining_dims.netherite_fragment": "Netherite Fragment",
+
+	"item.mining_dims.flint_and_diamond": "Portal Lighter",
+
+	"item.mining_dims.mining_portal_block": "Mining Portal Block",
+	"block.mining_dims.mining_portal_block": "Mining Portal Block",
+
+	"item.mining_dims.hunting_portal_block": "Hunting Portal Block",
+	"block.mining_dims.hunting_portal_block": "Hunting Portal Block",
+
+	"item.mining_dims.caving_portal_block": "Caving Portal Block",
+	"block.mining_dims.caving_portal_block": "Caving Portal Block",
+
+	"item.mining_dims.nethering_portal_block": "Nethering Portal Block",
+	"block.mining_dims.nethering_portal_block": "Nethering Portal Block",
+
+	"item.mining_dims.climbing_portal_block": "Climbing Portal Block",
+	"block.mining_dims.climbing_portal_block": "Climbing Portal Block",
+
+	"enchantment.mining_dims.returning": "Returning (to bed)",
+	"enchantment.mining_dims.returning.desc": "Mining Dimensions: (Teleporter) Sneak + right-click to return to bed"
+}

@@ -1,0 +1,46 @@
+{
+  "chestedcompanions.config.header": "Chested Companions Config",
+  "chestedcompanions.config.category.general": "General",
+
+  "chestedcompanions.config.allowChestOnCats.name": "Allow Chests On Cats",
+  "chestedcompanions.config.allowChestOnCats.description": "If enabled, chests can be put on cats",
+
+  "chestedcompanions.config.allowChestOnWolves.name": "Allow Chests On Wolves",
+  "chestedcompanions.config.allowChestOnWolves.description": "If enabled, chests can be put on wolves",
+
+  "chestedcompanions.config.invertShiftToOpen.name": "Invert Shift To Open",
+  "chestedcompanions.config.invertShiftToOpen.description": "If enabled, normal click will tell the pet to sit, and shift click will open the chest",
+
+  "chestedcompanions.config.publicChest.name": "Public Chest",
+  "chestedcompanions.config.publicChest.description": "Everyone will be able to access and equip/remove the pet's chest, not just its owner",
+
+  "chestedcompanions.config.catInventoryCapacity.name": "Cat Inventory Capacity",
+  "chestedcompanions.config.catInventoryCapacity.description": "Sets the amount of inventory slots for the cat's chest",
+  "chestedcompanions.config.catInventoryCapacity.value.one_row": "One Row (9)",
+  "chestedcompanions.config.catInventoryCapacity.value.two_rows": "Two Rows (18)",
+  "chestedcompanions.config.catInventoryCapacity.value.three_rows": "Three Rows (27)",
+
+  "chestedcompanions.config.wolfInventoryCapacity.name": "Wolf Inventory Capacity",
+  "chestedcompanions.config.wolfInventoryCapacity.description": "Sets the amount of inventory slots for the wolf's chest",
+  "chestedcompanions.config.wolfInventoryCapacity.value.one_row": "One Row (9)",
+  "chestedcompanions.config.wolfInventoryCapacity.value.two_rows": "Two Rows (18)",
+  "chestedcompanions.config.wolfInventoryCapacity.value.three_rows": "Three Rows (27)",
+
+  "chestedcompanions.config.hideCatChest.name": "Hide Cat Chest",
+  "chestedcompanions.config.hideCatChest.description": "Hides the chest for cats in case of incompatibilities",
+
+  "chestedcompanions.config.hideWolfChest.name": "Hide Wolf Chest",
+  "chestedcompanions.config.hideWolfChest.description": "Hides the chest for wolves in case of incompatibilities",
+
+  "chestedcompanions.config.allowChestOnBabyCat.name": "Allow Chest On Baby Cats",
+  "chestedcompanions.config.allowChestOnBabyCat.description": "Chests can be put on baby cats",
+
+  "chestedcompanions.config.allowChestOnBabyWolf.name": "Allow Chest On Baby Wolves",
+  "chestedcompanions.config.allowChestOnBabyWolf.description": "Chests can be put on baby wolves",
+
+  "chestedcompanions.config.showChestIconOnCats.name": "Show Chest Icon On Cats",
+  "chestedcompanions.config.showChestIconOnCats.description": "Renders a chest icon above the cat, can be used if the chest model can't be displayed",
+
+  "chestedcompanions.config.showChestIconOnWolves.name": "Show Chest Icon On Wolves",
+  "chestedcompanions.config.showChestIconOnWolves.description": "Renders a chest icon above the wolf, can be used if the chest model can't be displayed"
+}

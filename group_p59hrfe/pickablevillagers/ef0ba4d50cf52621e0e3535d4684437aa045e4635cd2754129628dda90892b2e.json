@@ -1,0 +1,30 @@
+{
+  "item.pickablevillagers.villager": "Villager",
+
+  "tooltip.pickablevillagers.empty": "Invalid item! Use spawn egg instead.",
+  "tooltip.pickablevillagers.profession": "§6Profession: §r%s",
+  "tooltip.pickablevillagers.offers": "§9§nOffers",
+
+  "key.pickablevillagers.pickup": "Pickup",
+  "category.pickablevillagers.mod": "Pickable Villagers",
+
+  "message.pickablevillagers.info": "Picking Villager",
+  "message.pickablevillagers.dead": "Villager is dead.",
+  "message.pickablevillagers.baby": "Can only pick adult Villagers.",
+  "message.pickablevillagers.sleep": "Villager is sleeping.",
+  "message.pickablevillagers.far": "Villager is too far.",
+  "message.pickablevillagers.noxp": "Not enough levels to pickup Villager.",
+  "message.pickablevillagers.full_inventory": "Inventory is full.",
+
+  "text.autoconfig.pickablevillagers.option.SneakRightClick": "Sneak Right-Click",
+  "text.autoconfig.pickablevillagers.option.KeyShortcut": "Key Shortcut",
+  "text.autoconfig.pickablevillagers.option.InventoryTrade": "Inventory Trade",
+  "text.autoconfig.pickablevillagers.option.OnlyAdults": "Only Adults",
+  "text.autoconfig.pickablevillagers.option.PickupCostMultiplier": "Pickup Cost Multiplier",
+
+  "text.autoconfig.pickablevillagers.option.SneakRightClick.@Tooltip": "Enable / Disable sneak + right-Click pickup ability.",
+  "text.autoconfig.pickablevillagers.option.KeyShortcut.@Tooltip": "Enable / Disable key shortcut pickup ability.",
+  "text.autoconfig.pickablevillagers.option.InventoryTrade.@Tooltip": "Enable / Disable inventory trade option.",
+  "text.autoconfig.pickablevillagers.option.OnlyAdults.@Tooltip": "Enable / Disable picking up baby Villagers.",
+  "text.autoconfig.pickablevillagers.option.PickupCostMultiplier.@Tooltip": "Controls the pickup cost multiplier. 0 = disabled"
+}
