@@ -1,0 +1,16 @@
+{
+  "entity.strawstatues.straw_statue": "Straw Statue",
+  "item.strawstatues.straw_statue": "Straw Statue",
+  "puzzlesapi.screen.rotations.pose.cape": "Cape",
+  "puzzlesapi.screen.style.crouching": "Crouching",
+  "puzzlesapi.screen.style.crouching.description": "Makes the statue show as if it were crouching.",
+  "puzzlesapi.screen.style.slimArms": "Slim Arms",
+  "puzzlesapi.screen.style.slimArms.description": "Makes the statue's arms a few pixels less wide, like Minecraft's Alex skin.",
+  "puzzlesapi.screen.type.modelParts": "Model Parts",
+  "puzzlesapi.screen.type.scale": "Scale & Rotations",
+  "strawstatues.screen.modelParts.name": "Set a player name to take the statue skin from.",
+  "strawstatues.screen.position.rotationX": "X-Rotation:",
+  "strawstatues.screen.position.rotationY": "Y-Rotation:",
+  "strawstatues.screen.position.rotationZ": "Z-Rotation:",
+  "strawstatues.screen.position.scale": "Scale:"
+}

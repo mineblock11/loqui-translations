@@ -1,0 +1,28 @@
+{
+  "text.config.fastmove.title" : "FastMove Config",
+  "text.config.fastmove.option.enableFastMove" : "Enable Mod",
+
+  "text.config.fastmove.category.diveRoll" : "Dive-Roll Options",
+  "text.config.fastmove.option.diveRoll.enabled" : "Enabled",
+  "text.config.fastmove.option.diveRoll.staminaCost" : "Stamina Cost",
+  "text.config.fastmove.option.diveRoll.speedBoostMult" : "Speed Boost",
+  "text.config.fastmove.option.diveRoll.cooldown" : "Cooldown (Ticks)",
+  "text.config.fastmove.option.diveRoll.whenSwimming" : "Enabled While Underwater",
+  "text.config.fastmove.option.diveRoll.whenFlying" : "Enabled While Using Elytra",
+
+  "text.config.fastmove.category.slide" : "Slide Options",
+  "text.config.fastmove.option.slide.enabled" : "Enabled",
+  "text.config.fastmove.option.slide.staminaCost" : "Stamina Cost",
+  "text.config.fastmove.option.slide.speedBoostMult" : "Speed Boost",
+  "text.config.fastmove.option.slide.cooldown" : "Cooldown (Ticks)",
+
+  "text.config.fastmove.category.wallRun" : "Wall-Run Options",
+  "text.config.fastmove.option.wallRun.enabled" : "Enabled",
+  "text.config.fastmove.option.wallRun.staminaCost" : "Stamina Cost",
+  "text.config.fastmove.option.wallRun.speedBoostMult" : "Speed Boost",
+  "text.config.fastmove.option.wallRun.cooldown" : "Cooldown (Ticks)",
+  "text.config.fastmove.option.wallRun.durationTicks" : "Duration (Ticks)",
+
+  "key.fastmove.up" : "FastMove Up",
+  "key.fastmove.down" : "FastMove Down"
+}
