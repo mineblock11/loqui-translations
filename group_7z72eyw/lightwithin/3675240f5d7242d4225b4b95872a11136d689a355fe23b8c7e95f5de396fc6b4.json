@@ -1,0 +1,85 @@
+{
+  "key.lightwithin.activate_light": "Activate InnerLight Power",
+  "effect.lightwithin.light_fatigue": "Light Fatigue",
+  "effect.lightwithin.light_active": "Light Active",
+  "effect.lightwithin.frost": "Frost",
+  "effect.lightwithin.freeze_resistance": "Freeze Resistance",
+  "effect.lightwithin.sturdy_rock": "Sturdy Rock",
+  "effect.lightwithin.water_slide": "Water Slide",
+  "effect.lightwithin.water_cascade": "Water Cascade",
+  "item.lightwithin.luxintus_berry": "Luxintus Berry",
+  "item.lightwithin.luxmutua_berry": "Luxmutua Berry",
+  "item.lightwithin.luxcognita_berry": "Luxcognita Berry",
+
+  "item.lightwithin.berry.tooltip": "Press §dSHIFT§r to know what this berry does!",
+  "item.lightwithin.luxintus_berry.tooltip": "§eThis light-dense berry will §aunleash§e your",
+  "item.lightwithin.luxintus_berry.tooltip1": "§binner light§e!",
+  "item.lightwithin.luxmutua_berry.tooltip": "§eThe ever-twisting light of this berry will",
+  "item.lightwithin.luxmutua_berry.tooltip1": "§achange§e your §binner light§e!",
+  "item.lightwithin.luxcognita_berry.tooltip": "§eThe all-knowing light of this berry will",
+  "item.lightwithin.luxcognita_berry.tooltip1": "§atell you the secrets§e of your §binner light§e!",
+
+  "item.lightwithin.luxmutua_berry.lightchange": "Your light resonated with you again and decided it was time to change",
+
+  "entity.lightwithin.earth_golem": "Earth Golem",
+
+  "block.lightwithin.frozen_player_top": "Frozen Player Torso",
+  "block.lightwithin.frozen_player_bottom": "Frozen Player Legs",
+  "block.lightwithin.frozen_mob_top": "Frozen Mob Torso",
+  "block.lightwithin.frozen_mob_bottom": "Frozen Mob Legs",
+  "block.lightwithin.ice_wall": "Ice Wall",
+  "block.lightwithin.clear_ice": "Clear Ice",
+
+  "light.unknown": "No light named: ",
+  "lighttype.unknown": "No light type named: ",
+
+  "light.activated": "Your light has awakened!",
+
+  "light.description.error": "Uhm... your light is... an error? Light not found, report please! ",
+  "light.description.heal": "Your light, yes, is a gentle and caring one indeed",
+  "light.description.defense": "Resilience, that's what your light is made of",
+  "light.description.strength": "You have a strong light, ready to land its strength to you",
+  "light.description.blazing": "It is already firing up within you, ready to burst every moment",
+  "light.description.frost": "Glimmering snows are home to your light",
+  "light.description.earthen": "Your light draws its power from the earth around you",
+  "light.description.wind": "Your light shines in the wind",
+  "light.description.aqua": "Your light best reflects upon watery surfaces",
+  "light.description.frog": "*croak* Wait what?!",
+
+  "light.description.activation.heal.self": "Your light flows trough you, sewing your wounds!",
+  "light.description.activation.heal.allies": "Your light flows trough you and your allies, sewing your wounds!",
+  "light.description.activation.heal.variant": "Your light flows trough all friendly creatures, healing their sickness!",
+
+  "light.description.activation.defense.self": "Your light tensed up, shielding you from an hurtful future!",
+  "light.description.activation.defense.allies": "Your light tensed up, shielding your allies from an hurtful future!",
+  "light.description.activation.defense.variant": "Your light tensed up, shielding peaceful creatures from an hurtful future!",
+
+  "light.description.activation.strength.self": "Your light shone bright, strengthening your attacks!",
+  "light.description.activation.strength.allies": "Your light shone bright, strengthening your allies!",
+  "light.description.activation.strength.variant": "Your light shone bright, speeding up your attacks!",
+
+  "light.description.activation.blazing.enemies": "Your light wants to incinerate the enemies that stand before you!",
+  "light.description.activation.blazing.all": "Your light will incinerate everything that stands in your way!",
+
+  "light.description.activation.frost.enemies": "All your enemies will be made into a statue of ice!",
+  "light.description.activation.frost.all": "Everything will be frozen in ice!",
+  "light.description.activation.frost.self": "A wall of ice shall protect you!",
+  "light.description.activation.frost.allies": "A wall of ice shall protect you!",
+
+  "light.description.activation.earthen.enemies": "The earth shall split under the soles of the enemy!",
+  "light.description.activation.earthen.variant": "The light crystallized into an Earthen Golem!",
+  "light.description.activation.earthen.self": "Earth shall split and grow around you!",
+  "light.description.activation.earthen.allies": "The Rock shall protect us!",
+
+  "light.description.activation.frog": "Croak!",
+  "light.description.activation.frog.damage": "You are confused, so confused that you hit yourself.",
+
+  "light.description.activation.wind.self": "The wind shall carry you onwards!",
+  "light.description.activation.wind.allies": "Oh winds, aid our movements!",
+  "light.description.activation.wind.all": "Blow them away!",
+
+  "light.description.activation.aqua.enemies": "Your enemy shall be launched away by the waters!",
+  "light.description.activation.aqua.all": "Inhabitants of the depths, hear my call and aid me!",
+  "light.description.activation.aqua.self": "Let me swiftly move on a watery carpet!",
+  "light.description.activation.aqua.allies": "Let us swiftly move on a watery carpet!"
+}
