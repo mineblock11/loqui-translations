@@ -6662,6 +6662,23 @@ files:
       - zh-CN
       - zh-HK
       - zh-TW
+  - source: /group_wzj4k1l/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ar
+      - de
+      - en-PT
+      - eo
+      - es-MX
+      - fr
+      - id
+      - ja
+      - ko
+      - pt-BR
+      - ru
+      - uk
+      - zh-CN
+      - zh-TW
   - source: /group_cvu68n4/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
