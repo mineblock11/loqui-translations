@@ -1,0 +1,8 @@
+{
+  "enchantment.bagofholding.preservation": "Preservation",
+  "enchantment.bagofholding.preservation.desc": "Prevents a bag of holding from being lost on death. The enchantment level is reduced by one each time.",
+  "item.bagofholding.golden_bag_of_holding": "Golden Bag of Holding",
+  "item.bagofholding.iron_bag_of_holding": "Iron Bag of Holding",
+  "item.bagofholding.leather_bag_of_holding": "Leather Bag of Holding",
+  "itemGroup.bagofholding.main": "Bag Of Holding"
+}
