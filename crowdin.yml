@@ -471,6 +471,11 @@ files:
     excluded_target_languages:
       - en-CA
       - uk
+  - source: /group_e3ft4de/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - pt-PT
+      - zh-CN
   - source: /group_5jnfeau/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
