@@ -1,0 +1,15 @@
+{
+  "text.bundle_jumble.bundle.out_of_item": "You ran out of %s",
+  "text.bundle_jumble.config.title": "Bundle Jumble Config",
+  "text.bundle_jumble.config.general_category": "General",
+  "text.bundle_jumble.config.shift_drops_items": "Shift Drops Items",
+  "text.bundle_jumble.config.shift_drops_items_description": "Shift right clicking with a filled bundle in your hand will drop all of its content",
+  "text.bundle_jumble.config.more_bunnies": "More Bunnies",
+  "text.bundle_jumble.config.more_bunnies_description": "When two rabbits breed, there is a chance up to 3 more bunnies will spawn",
+  "text.bundle_jumble.config.automatic_refill": "Automatic Refill",
+  "text.bundle_jumble.config.automatic_refill_description": "When your bundle runs out of a specific block, it'll search your inventory for more blocks of the same kind and transfer them to your bundle",
+  "text.bundle_jumble.config.refill_searches_hotbar": "Refill Searches Hotbar",
+  "text.bundle_jumble.config.refill_searches_description": "When trying to refill bundle, it'll also search in your hotbar",
+  "text.bundle_jumble.config.enable_leather_recipe": "Enable Leather Recipe",
+  "text.bundle_jumble.config.enable_leather_recipe_description": "Allows you to craft the bundle using regular leather in addition to rabbit hide.\n\nRequires world reload!"
+}
