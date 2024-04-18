@@ -4763,6 +4763,18 @@ files:
       - ru
       - zh-CN
       - zh-TW
+  - source: /group_9w2ky0c/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - en-UD
+      - es-ES
+      - es-MX
+      - ja
+      - ko
+      - ru
+      - zh-CN
+      - zh-TW
   - source: /group_2qmktrs/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
