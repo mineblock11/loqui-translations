@@ -1,0 +1,20 @@
+{
+  "item.culturalcreators.creamed_corn_bucket": "Creamed Corn Bucket",
+  "block.culturalcreators.creamed_corn_block": "Creamed Corn",
+
+  "fluid.culturalcreators.creamed_corn": "Creamed Corn",
+
+  "item.culturalcreators.incomplete_elote": "Incomplete Elote",
+  "item.culturalcreators.incomplete_beef_burrito": "Incomplete Beef Burrito",
+  "item.culturalcreators.incomplete_mutton_sandwich": "Incomplete Mutton Sandwich",
+  "item.culturalcreators.incomplete_fried_eggplant_pasta": "Incomplete Fried Eggplant Pasta",
+  "item.culturalcreators.incomplete_eggplant_burger": "Incomplete Eggplant Burger",
+  "item.culturalcreators.incomplete_hearty_salad": "Incomplete Hearty Salad",
+  "item.culturalcreators.incomplete_chicken_taco": "Incomplete Chicken Taco",
+  "item.culturalcreators.incomplete_fish_taco": "Incomplete Fish Taco",
+  "item.culturalcreators.incomplete_pork_wrap": "Incomplete Pork Wrap",
+  "item.culturalcreators.incomplete_spicy_curry": "Incomplete Spicy Curry",
+  "item.culturalcreators.incomplete_exotic_roll_medley": "Incomplete Exotic Roll Medley",
+
+  "itemgroup.culturd": "Cultural Creators"
+}
