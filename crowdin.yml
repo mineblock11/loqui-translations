@@ -7650,6 +7650,28 @@ files:
       - zh-CN
       - zh-HK
       - zh-TW
+  - source: /group_va1kvw7/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ca
+      - cs
+      - de
+      - es-AR
+      - es-ES
+      - es-MX
+      - fr
+      - fr-CA
+      - it
+      - ja
+      - ko
+      - nl
+      - pl
+      - pt-BR
+      - ru
+      - sv-SE
+      - uk
+      - zh-CN
+      - zh-TW
   - source: /group_du63grv/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
