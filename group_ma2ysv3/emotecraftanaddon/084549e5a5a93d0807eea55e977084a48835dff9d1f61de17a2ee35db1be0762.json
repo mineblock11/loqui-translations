@@ -1,0 +1,17 @@
+{
+  "text.autoconfig.emotecraftanaddon.title": "EmotecraftToggleAddon",
+
+  "text.autoconfig.emotecraftanaddon.option.sound" : "Sound",
+  "text.autoconfig.emotecraftanaddon.option.emotes" : "Emotes",
+
+
+  "text.emotecraftanaddon.message.togglesound.text": "Sound:",
+  "text.emotecraftanaddon.message.toggleemote.text": "Emotes:",
+  "text.emotecraftanaddon.message.toggle.enabled": " On",
+  "text.emotecraftanaddon.message.toggle.disabled": " Off",
+
+  "key.category.emotecraftanaddon.category": "EmotecraftToggleAddon",
+
+  "key.emotecraftanaddon.key_sound_toggle": "Sound toggle",
+  "key.emotecraftanaddon.key_all_toggle": "Emotes toggle"
+}
