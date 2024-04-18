@@ -1,0 +1,7 @@
+{
+  "tpcrosshair.options.title": "Third Person Crosshair",
+  "tpcrosshair.options.enable_in_3rd_person": "Enable crosshair in 3rd person view",
+  "tpcrosshair.options.enable_in_3rd_person_front": "Enable crosshair in 3rd person front view",
+  "tpcrosshair.options.enable_bow_draw_indicator": "Enable bow full draw indicator (under crosshair)",
+  "tpcrosshair.options.enable_bow_draw_indicator": "Enable trident full charge indicator (under crosshair)"
+}
