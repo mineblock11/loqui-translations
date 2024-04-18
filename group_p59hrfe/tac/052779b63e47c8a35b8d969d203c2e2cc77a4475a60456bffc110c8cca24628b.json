@@ -1,0 +1,248 @@
+{   
+    "item.tac.sawmill": "Sawmill",
+    "item.tac.hammer": "Furniture Hammer",
+
+    "item.tac.chair.oak.basic": "Oak Chair",
+    "item.tac.chair.oak.simple": "Simple Oak Chair",
+    "item.tac.chair.oak.carved": "Carved Oak Chair",
+    "item.tac.chair.oak.fancy.1": "Oak Armchair",
+    "item.tac.chair.oak.fancy.2": "Intricate Oak Armchair",
+    "item.tac.chair.oak.throne": "Oak Throne",
+    
+    "item.tac.chair.spruce.basic": "Spruce Chair",
+    "item.tac.chair.spruce.simple": "Simple Spruce Chair",
+    "item.tac.chair.spruce.carved": "Carved Spruce Chair",
+    "item.tac.chair.spruce.fancy.1": "Spruce Armchair",
+    "item.tac.chair.spruce.fancy.2": "Intricate Spruce Armchair",
+    "item.tac.chair.spruce.throne": "Spruce Throne",
+
+    "item.tac.chair.birch.basic": "Birch Chair",
+    "item.tac.chair.birch.simple": "Simple Birch Chair",
+    "item.tac.chair.birch.carved": "Carved Birch Chair",
+    "item.tac.chair.birch.fancy.1": "Birch Armchair",
+    "item.tac.chair.birch.fancy.2": "Intricate Birch Armchair",
+    "item.tac.chair.birch.throne": "Birch Throne",
+    
+    "item.tac.chair.jungle.basic": "Jungle Chair",
+    "item.tac.chair.jungle.simple": "Simple Jungle Chair",
+    "item.tac.chair.jungle.carved": "Carved Jungle Chair",
+    "item.tac.chair.jungle.fancy.1": "Jungle Armchair",
+    "item.tac.chair.jungle.fancy.2": "Intricate Jungle Armchair",
+    "item.tac.chair.jungle.throne": "Jungle Throne",
+    
+    "item.tac.chair.acacia.basic": "Acacia Chair",
+    "item.tac.chair.acacia.simple": "Simple Acacia Chair",
+    "item.tac.chair.acacia.carved": "Carved Acacia Chair",
+    "item.tac.chair.acacia.fancy.1": "Acacia Armchair",
+    "item.tac.chair.acacia.fancy.2": "Intricate Acacia Armchair",
+    "item.tac.chair.acacia.throne": "Acacia Throne",
+
+    "item.tac.chair.dark_oak.basic": "Dark Oak Chair",
+    "item.tac.chair.dark_oak.simple": "Simple Dark Oak Chair",
+    "item.tac.chair.dark_oak.carved": "Carved Dark Oak Chair",
+    "item.tac.chair.dark_oak.fancy.1": "Dark Oak Armchair",
+    "item.tac.chair.dark_oak.fancy.2": "Intricate Dark Oak Armchair",
+    "item.tac.chair.dark_oak.throne": "Dark Oak Throne",
+    
+    "item.tac.chair.crimson.basic": "Crimson Chair",
+    "item.tac.chair.crimson.simple": "Simple Crimson Chair",
+    "item.tac.chair.crimson.carved": "Carved Crimson Chair",
+    "item.tac.chair.crimson.fancy.1": "Crimson Armchair",
+    "item.tac.chair.crimson.fancy.2": "Intricate Crimson Armchair",
+    "item.tac.chair.crimson.throne": "Crimson Throne",
+
+    "item.tac.chair.warped.basic": "Warped Chair",
+    "item.tac.chair.warped.simple": "Simple Warped Chair",
+    "item.tac.chair.warped.carved": "Carved Warped Chair",
+    "item.tac.chair.warped.fancy.1": "Warped Armchair",
+    "item.tac.chair.warped.fancy.2": "Intricate Warped Armchair",
+    "item.tac.chair.warped.throne": "Warped Throne",
+
+    "item.tac.chair.mangrove.basic": "Mangrove Chair",
+    "item.tac.chair.mangrove.simple": "Simple Mangrove Chair",
+    "item.tac.chair.mangrove.carved": "Carved Mangrove Chair",
+    "item.tac.chair.mangrove.fancy.1": "Mangrove Armchair",
+    "item.tac.chair.mangrove.fancy.2": "Intricate Mangrove Armchair",
+    "item.tac.chair.mangrove.throne": "Mangrove Throne",
+
+    "item.tac.chair.cherry.basic": "Cherry Chair",
+    "item.tac.chair.cherry.simple": "Simple Cherry Chair",
+    "item.tac.chair.cherry.carved": "Carved Cherry Chair",
+    "item.tac.chair.cherry.fancy.1": "Cherry Armchair",
+    "item.tac.chair.cherry.fancy.2": "Intricate Cherry Armchair",
+    "item.tac.chair.cherry.throne": "Cherry Throne",
+
+    "item.tac.chair.bamboo.basic": "Bamboo Chair",
+    "item.tac.chair.bamboo.simple": "Simple Bamboo Chair",
+    "item.tac.chair.bamboo.carved": "Carved Bamboo Chair",
+    "item.tac.chair.bamboo.fancy.1": "Bamboo Armchair",
+    "item.tac.chair.bamboo.fancy.2": "Intricate Bamboo Armchair",
+    "item.tac.chair.bamboo.throne": "Bamboo Throne",
+
+    "item.tac.chair.obsidian.basic": "Obsidian Chair",
+    "item.tac.chair.obsidian.simple": "Simple Obsidian Chair",
+    "item.tac.chair.obsidian.carved": "Carved Obsidian Chair",
+    "item.tac.chair.obsidian.fancy.1": "Obsidian Armchair",
+    "item.tac.chair.obsidian.fancy.2": "Intricate Obsidian Armchair",
+    "item.tac.chair.obsidian.throne": "Obsidian Throne",
+
+    "item.tac.chair.quartz.basic": "Quartz Chair",
+    "item.tac.chair.quartz.simple": "Simple Quartz Chair",
+    "item.tac.chair.quartz.carved": "Carved Quartz Chair",
+    "item.tac.chair.quartz.fancy.1": "Quartz Armchair",
+    "item.tac.chair.quartz.fancy.2": "Intricate Quartz Armchair",
+    "item.tac.chair.quartz.throne": "Quartz Throne",
+
+    "item.tac.chair.blackstone.basic": "Blackstone Chair",
+    "item.tac.chair.blackstone.simple": "Simple Blackstone Chair",
+    "item.tac.chair.blackstone.carved": "Carved Blackstone Chair",
+    "item.tac.chair.blackstone.fancy.1": "Blackstone Armchair",
+    "item.tac.chair.blackstone.fancy.2": "Intricate Blackstone Armchair",
+    "item.tac.chair.blackstone.throne": "Blackstone Throne",
+
+    "item.tac.chair.stone_brick.basic": "Stone Brick Chair",
+    "item.tac.chair.stone_brick.simple": "Simple Stone Brick Chair",
+    "item.tac.chair.stone_brick.carved": "Carved Stone Brick Chair",
+    "item.tac.chair.stone_brick.fancy.1": "Stone Brick Armchair",
+    "item.tac.chair.stone_brick.fancy.2": "Intricate Stone Brick Armchair",
+    "item.tac.chair.stone_brick.throne": "Stone Brick Throne",
+
+    "item.tac.chair.deepslate_brick.basic": "Deepslate Brick Chair",
+    "item.tac.chair.deepslate_brick.simple": "Simple Deepslate Brick Chair",
+    "item.tac.chair.deepslate_brick.carved": "Carved Deepslate Brick Chair",
+    "item.tac.chair.deepslate_brick.fancy.1": "Deepslate Brick Armchair",
+    "item.tac.chair.deepslate_brick.fancy.2": "Intricate Deepslate Brick Armchair",
+    "item.tac.chair.deepslate_brick.throne": "Deepslate Brick Throne",
+
+    "item.tac.chair.blackstone_brick.basic": "Blackstone Brick Chair",
+    "item.tac.chair.blackstone_brick.simple": "Simple Blackstone Brick Chair",
+    "item.tac.chair.blackstone_brick.carved": "Carved Blackstone Brick Chair",
+    "item.tac.chair.blackstone_brick.fancy.1": "Blackstone Brick Armchair",
+    "item.tac.chair.blackstone_brick.fancy.2": "Intricate Blackstone Brick Armchair",
+    "item.tac.chair.blackstone_brick.throne": "Blackstone Brick Throne",
+    
+    "item.tac.chair.endstone_brick.basic": "End Stone Brick Chair",
+    "item.tac.chair.endstone_brick.simple": "Simple End Stone Brick Chair",
+    "item.tac.chair.endstone_brick.carved": "Carved End Stone Brick Chair",
+    "item.tac.chair.endstone_brick.fancy.1": "End Stone Brick Armchair",
+    "item.tac.chair.endstone_brick.fancy.2": "Intricate End Stone Brick Armchair",
+    "item.tac.chair.endstone_brick.throne": "End Stone Brick Throne",
+
+    "item.tac.chair.iron.throne": "Iron Throne",
+    "item.tac.chair.gold.throne": "Golden Throne",
+    "item.tac.chair.diamond.throne": "Diamond Throne",
+    "item.tac.chair.netherite.throne": "Netherite Throne",
+
+    "item.tac.chair.carved_description.1": "Carved Variants are ",
+    "item.tac.chair.carved_description.2": "Unique to Each Material",
+
+
+
+    "item.tac.table.oak.basic": "Basic Oak Table",
+    "item.tac.table.oak.carved": "Carved Oak Table",
+
+    "item.tac.table.spruce.basic": "Basic Spruce Table",
+    "item.tac.table.spruce.carved": "Carved Spruce Table",
+
+    "item.tac.table.birch.basic": "Basic Birch Table",
+    "item.tac.table.birch.carved": "Carved Birch Table",
+
+    "item.tac.table.jungle.basic": "Basic Jungle Table",
+    "item.tac.table.jungle.carved": "Carved Jungle Table",
+
+    "item.tac.table.acacia.basic": "Basic Acacia Table",
+    "item.tac.table.acacia.carved": "Carved Acacia Table",
+    
+    "item.tac.table.dark_oak.basic": "Basic Dark Oak Table",
+    "item.tac.table.dark_oak.carved": "Carved Dark Oak Table",
+
+    "item.tac.table.crimson.basic": "Basic Crimson Table",
+    "item.tac.table.crimson.carved": "Carved Crimson Table",
+
+    "item.tac.table.warped.basic": "Basic Warped Table",
+    "item.tac.table.warped.carved": "Carved Warped Table",
+
+    "item.tac.table.mangrove.basic": "Basic Mangrove Table",
+    "item.tac.table.mangrove.carved": "Carved Mangrove Table",
+
+    "item.tac.table.cherry.basic": "Basic Cherry Table",
+    "item.tac.table.cherry.carved": "Carved Cherry Table",
+
+    "item.tac.table.bamboo.basic": "Basic Bamboo Table",
+    "item.tac.table.bamboo.carved": "Carved Bamboo Table",
+
+    "item.tac.table.obsidian.basic": "Basic Obsidian Table",
+    "item.tac.table.obsidian.carved": "Carved Obsidian Table",
+    
+    "item.tac.table.quartz.basic": "Basic Quartz Table",
+    "item.tac.table.quartz.carved": "Carved Quartz Table",
+
+    "item.tac.table.blackstone.basic": "Basic Blackstone Table",
+    "item.tac.table.blackstone.carved": "Carved Blackstone Table",
+
+    "item.tac.table.stone_brick.basic": "Basic Stone Brick Table",
+    "item.tac.table.stone_brick.carved": "Carved Stone Brick Table",
+
+    "item.tac.table.deepslate_brick.basic": "Basic Deepslate Brick Table",
+    "item.tac.table.deepslate_brick.carved": "Carved Deepslate Brick Table",
+    
+    "item.tac.table.blackstone_brick.basic": "Basic Blackstone Brick Table",
+    "item.tac.table.blackstone_brick.carved": "Carved Blackstone Brick Table",
+
+    "item.tac.table.endstone_brick.basic": "Basic End Stone Brick Table",
+    "item.tac.table.endstone_brick.carved": "Carved End Stone Brick Table",
+
+
+
+    "item.tac.bench.oak.basic": "Oak Bench",
+
+    "item.tac.bench.spruce.basic": "Spruce Bench",
+
+    "item.tac.bench.birch.basic": "Birch Bench",
+
+    "item.tac.bench.jungle.basic": "Jungle Bench",
+
+    "item.tac.bench.acacia.basic": "Acacia Bench",
+    
+    "item.tac.bench.dark_oak.basic": "Dark Oak Bench",
+
+    "item.tac.bench.crimson.basic": "Crimson Bench",
+
+    "item.tac.bench.warped.basic": "Warped Bench",
+
+    "item.tac.bench.mangrove.basic": "Mangrove Bench",
+
+    "item.tac.bench.cherry.basic": "Cherry Bench",
+
+    "item.tac.bench.bamboo.basic": "Bamboo Bench",
+
+    "item.tac.bench.obsidian.basic": "Obsidian Bench",
+    
+    "item.tac.bench.quartz.basic": "Quartz Bench",
+
+    "item.tac.bench.blackstone.basic": "Blackstone Bench",
+
+    "item.tac.bench.stone_brick.basic": "Stone Brick Bench",
+
+    "item.tac.bench.deepslate_brick.basic": "Deepslate Brick Bench",
+    
+    "item.tac.bench.blackstone_brick.basic": "Blackstone Brick Bench",
+
+    "item.tac.bench.endstone_brick.basic": "End Stone Brick Bench",
+
+
+
+    "item.tac.table.carved_description.1": "Carved Variants are ",
+    "item.tac.table.carved_description.2": "Unique to Each Material",
+    
+
+    "item.trophy.silverfish": "Silverfish Trophy",
+    "item.trophy.creeper": "Creeper Trophy",
+    "item.trophy.enderman": "Enderman Trophy",
+
+    "pack.mob_trophy": "Mob Trophy",
+    "pack.tac_chk": "Tables and Chairs"
+}
+
+
+

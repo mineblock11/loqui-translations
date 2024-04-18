@@ -1,0 +1,22 @@
+{   
+    "item.tac.sawmill": "Sawmill",
+    "item.tac.hammer": "Furniture Hammer",
+
+    "item.clk.clock.oak.grand": "Oak Grandfather Clock",
+    "item.clk.clock.spruce.grand": "Spruce Grandfather Clock",
+    "item.clk.clock.birch.grand": "Birch Grandfather Clock",
+    "item.clk.clock.jungle.grand": "Jungle Grandfather Clock",
+    "item.clk.clock.acacia.grand": "Acacia Grandfather Clock",
+    "item.clk.clock.dark_oak.grand": "Dark Oak Grandfather Clock",
+    "item.clk.clock.mangrove.grand": "Mangrove Grandfather Clock",
+    "item.clk.clock.cherry.grand": "Cherry Grandfather Clock",
+    "item.clk.clock.bamboo.grand": "Bamboo Grandfather Clock",
+    "item.clk.clock.crimson.grand": "Crimson Grandfather Clock",
+    "item.clk.clock.warped.grand": "Warped Grandfather Clock",
+
+    "pack.clocks": "Clocks",
+    "pack.tac_chk": "Tables and Chairs"
+}
+
+
+
