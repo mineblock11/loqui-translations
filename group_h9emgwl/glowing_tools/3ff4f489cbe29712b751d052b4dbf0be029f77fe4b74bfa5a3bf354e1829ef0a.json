@@ -1,0 +1,41 @@
+{
+    "item.glowing_tools.glowing_netherite_pickaxe": "Glowing Netherite Pickaxe",
+    "item.glowing_tools.glowing_diamond_pickaxe": "Glowing Diamond Pickaxe",
+    "item.glowing_tools.glowing_golden_pickaxe": "Glowing Golden Pickaxe",
+    "item.glowing_tools.glowing_iron_pickaxe": "Glowing Iron Pickaxe",
+    "item.glowing_tools.glowing_stone_pickaxe": "Glowing Stone Pickaxe",
+    "item.glowing_tools.glowing_wooden_pickaxe": "Glowing Wooden Pickaxe",
+
+    "item.glowing_tools.glowing_netherite_axe": "Glowing Netherite Axe",
+    "item.glowing_tools.glowing_diamond_axe": "Glowing Diamond Axe",
+    "item.glowing_tools.glowing_golden_axe": "Glowing Golden Axe",
+    "item.glowing_tools.glowing_iron_axe": "Glowing Iron Axe",
+    "item.glowing_tools.glowing_stone_axe": "Glowing Stone Axe",
+    "item.glowing_tools.glowing_wooden_axe": "Glowing Wooden Axe",
+
+    "item.glowing_tools.glowing_netherite_shovel": "Glowing Netherite Shovel",
+    "item.glowing_tools.glowing_diamond_shovel": "Glowing Diamond Shovel",
+    "item.glowing_tools.glowing_golden_shovel": "Glowing Golden Shovel",
+    "item.glowing_tools.glowing_iron_shovel": "Glowing Iron Shovel",
+    "item.glowing_tools.glowing_stone_shovel": "Glowing Stone Shovel",
+    "item.glowing_tools.glowing_wooden_shovel": "Glowing Wooden Shovel",
+
+    "item.glowing_tools.glowing_netherite_sword": "Glowing Netherite Sword",
+    "item.glowing_tools.glowing_diamond_sword": "Glowing Diamond Sword",
+    "item.glowing_tools.glowing_golden_sword": "Glowing Golden Sword",
+    "item.glowing_tools.glowing_iron_sword": "Glowing Iron Sword",
+    "item.glowing_tools.glowing_stone_sword": "Glowing Stone Sword",
+    "item.glowing_tools.glowing_wooden_sword": "Glowing Wooden Sword",
+
+    "item.glowing_tools.glowing_netherite_hoe": "Glowing Netherite Hoe",
+    "item.glowing_tools.glowing_diamond_hoe": "Glowing Diamond Hoe",
+    "item.glowing_tools.glowing_golden_hoe": "Glowing Golden Hoe",
+    "item.glowing_tools.glowing_iron_hoe": "Glowing Iron Hoe",
+    "item.glowing_tools.glowing_stone_hoe": "Glowing Stone Hoe",
+    "item.glowing_tools.glowing_wooden_hoe": "Glowing Wooden Hoe",
+
+    "item.glowing_tools.default.tooltip.description": "Glows in the dark!",
+    "item.glowing_tools.default.tooltip.instruction1": "Sneak + Right Click to",
+    "item.glowing_tools.default.tooltip.instruction2": "place or pick up torches.",
+    "itemGroup.glowing_tools.tools": "Glowing Tools"
+}
