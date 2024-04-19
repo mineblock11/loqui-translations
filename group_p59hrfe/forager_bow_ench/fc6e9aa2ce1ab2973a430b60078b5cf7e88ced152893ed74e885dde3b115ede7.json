@@ -1,0 +1,14 @@
+{
+  "enchantment.forager_bow_ench.forager": "Forager",
+  "text.autoconfig.forager_bow_ench.title": "Forager Bow Enchantment Settings",
+  "text.autoconfig.forager_bow_ench.option.doExperienceAsLevelOne": "Do Experience As Level One",
+  "text.autoconfig.forager_bow_ench.option.doExperienceAsLevelOne.@Tooltip": "If true, Forager I will teleport XP. If false, teleport Items instead.",
+  "text.autoconfig.forager_bow_ench.option.isForagerAvailableForRandomSelection": "Forager Available For Random Selection",
+  "text.autoconfig.forager_bow_ench.option.isForagerAvailableForRandomSelection.@Tooltip": "If true, Forager will be possible to get from Enchanting Tables. If false, it will not.",
+  "text.autoconfig.forager_bow_ench.option.isForagerAvailableForEnchantedBookOffer": "Forager Available For Enchanted Book Offer",
+  "text.autoconfig.forager_bow_ench.option.isForagerAvailableForEnchantedBookOffer.@Tooltip": "If true, Forager will be possible to get from Enchanted Book Offers. If false, it will not.",
+  "text.autoconfig.forager_bow_ench.option.isForagerAvailableInEndCities": "Forager Available In End Cities",
+  "text.autoconfig.forager_bow_ench.option.isForagerAvailableInEndCities.@Tooltip": "If true, Forager will be possible to get from End City Chests. If false, it will not.",
+  "text.autoconfig.forager_bow_ench.option.enableLifecycleDebugLogging": "Enable Lifecycle Debug Logging",
+  "text.autoconfig.forager_bow_ench.option.enableLifecycleDebugLogging.@Tooltip": "If true, the mod will print important debug events to the MC Log."
+}

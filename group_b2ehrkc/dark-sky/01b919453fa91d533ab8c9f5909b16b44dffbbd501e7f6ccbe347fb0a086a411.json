@@ -1,0 +1,9 @@
+{
+  "darkSky.config.title": "Dark Sky Config",
+
+  "darkSky.config.entry.enabled": "Enabled",
+  "darkSky.config.entry.skySatFactor": "Sky Saturation",
+  "darkSky.config.entry.fogSatFactor": "Fog Saturation",
+  "darkSky.config.entry.skyBriFactor": "Sky Brightness",
+  "darkSky.config.entry.fogBriFactor": "Fog Brightness"
+}
