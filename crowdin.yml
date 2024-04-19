@@ -7134,6 +7134,25 @@ files:
       - ru
       - uk
       - zh-CN
+  - source: /group_26l86xf/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - de
+      - es-ES
+      - et
+      - fr
+      - hi
+      - it
+      - ja
+      - nl
+      - pl
+      - pt-BR
+      - ru
+      - tr
+      - tt-RU
+      - zh-CN
+      - zh-HK
+      - zh-TW
   - source: /group_jz71tw8/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
