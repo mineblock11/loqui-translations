@@ -1064,6 +1064,12 @@ files:
       - fr
       - ja
       - ko
+  - source: /group_7n8gv3e/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - en-GB
+      - en-UD
+      - zh-CN
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
