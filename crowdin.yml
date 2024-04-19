@@ -2389,6 +2389,14 @@ files:
       - ru
       - tr
       - zh-CN
+  - source: /group_t0hzn0j/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - fr
+      - ru
+      - uk
+      - zh-CN
+      - zh-TW
   - source: /group_nzs7a7t/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

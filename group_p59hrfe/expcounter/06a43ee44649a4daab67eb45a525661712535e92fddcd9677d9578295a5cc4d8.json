@@ -1,0 +1,14 @@
+{
+  "text.config.expcounter-config.title": "EXP Counter Config",
+  "text.config.expcounter-config.option.showNextLevel": "Show how much more exp until next level",
+  "text.config.expcounter-config.option.showTotal": "Show total amount of exp",
+
+  "text.config.expcounter-config.option.colNextLevel": "Color of the counter of exp until next level in decimal",
+  "text.config.expcounter-config.option.colTotal": "Color of total exp counter in decimal",
+
+  "text.config.expcounter-config.option.posOffCentreNextLevel": "X axis position off centre of the counter of exp until next level",
+  "text.config.expcounter-config.option.posYNextLevel": "Y axis position of the counter of exp until next level",
+
+  "text.config.expcounter-config.option.posOffCentreTotal": "X axis position off centre of total exp counter",
+  "text.config.expcounter-config.option.posYTotal": "Y axis position of total exp counter"
+}
