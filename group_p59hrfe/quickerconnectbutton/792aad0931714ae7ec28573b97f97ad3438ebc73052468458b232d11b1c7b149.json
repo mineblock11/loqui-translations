@@ -1,0 +1,17 @@
+{
+  "menu.quickerconnectbutton.connect": "Connect",
+  "config.quickerconnectbutton.empty_text_error": "Text cannot be empty if replacing multiplayer button",
+  "config.quickerconnectbutton.ip": "IP Address",
+  "config.quickerconnectbutton.ip.tooltip": "IP Address to connect to",
+  "config.quickerconnectbutton.port": "Port",
+  "config.quickerconnectbutton.port.tooltip": "Port to connect to",
+  "config.quickerconnectbutton.replaceMultiplayerButton": "Replace Multiplayer Button",
+  "config.quickerconnectbutton.replaceMultiplayerButton.tooltip": "Replace the normal multiplayer button with the quicker connect button",
+  "config.quickerconnectbutton.text": "Button Text",
+  "config.quickerconnectbutton.text.tooltip": "Text to display on the button",
+  "config.quickerconnectbutton.resourcePackBehaviour": "Resource Pack Behavior",
+  "config.quickerconnectbutton.resourcePackBehaviour.tooltip": "What to do if the server has a resource pack",
+  "config.quickerconnectbutton.discord": "Chat on Discord",
+  "config.quickerconnectbutton.github": "Report bugs and request new features on GitHub",
+  "config.quickerconnectbutton.modrinth": "Check for updates on Modrinth"
+}

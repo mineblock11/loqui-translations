@@ -1,0 +1,21 @@
+{
+    "text.mainmenuchanger.modcount": "%d (%d mods)",
+
+    "mainmenuchanger.midnightconfig.title": "Main Menu Changer config",
+    "mainmenuchanger.midnightconfig.smallerSplash": "Smaller splash",
+    "mainmenuchanger.midnightconfig.changeCopyrightToC": "Change copyright to ©",
+    "mainmenuchanger.midnightconfig.shorterVersionText": "Shorter version text",
+    "mainmenuchanger.midnightconfig.modCount": "Mod count",
+    "mainmenuchanger.midnightconfig.disableRealmsButtonAndNotifs": "Disable Realms button and notifications",
+    "mainmenuchanger.midnightconfig.disableSideButtons": "Disable side buttons",
+    "mainmenuchanger.midnightconfig.mergeMultiAndSingle": "Merge Multiplayer & Singleplayer Buttons",
+    "mainmenuchanger.midnightconfig.includeYearInCopyright": "Include Year of Copyright",
+    "mainmenuchanger.midnightconfig.customVersionString": "Custom Version String",
+    "mainmenuchanger.midnightconfig.versionTextEnum": "Version Text Style",
+    "mainmenuchanger.midnightconfig.enum.TextTypeEnum.VANILLA": "Vanilla",
+    "mainmenuchanger.midnightconfig.enum.TextTypeEnum.SHORT": "Short",
+    "mainmenuchanger.midnightconfig.enum.TextTypeEnum.CUSTOM": "Custom",
+
+    "modmenu.summaryTranslation.mainmenuchanger": "Configurable mod that lets you change how the Main Menu is laid out.",
+    "modmenu.descriptionTranslation.mainmenuchanger": "Configurable mod that lets you change how the Main Menu is laid out."
+}
