@@ -1,0 +1,9 @@
+{
+    "item.wardenhorn.warden_horn": "\u00A7dWarden Horn",
+    "death.attack.horned_shriek.player": "%1$s was obliterated by a sonically-charged shriek shouted by %2$s",
+    "wardenhorn.text.whatitdo": "\u00A79Used to shout The Warden's Sonically-Charged Shrieks",
+    "wardenhorn.text.range": " %1$s Block Range",
+    "wardenhorn.text.damage": " %1$s Attack Damage",
+    "wardenhorn.text.knockback": " %1$s Knockback Force",
+    "wardenhorn.text.recharge_time": " %1$s Second Recharge Time"
+}

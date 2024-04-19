@@ -1,0 +1,22 @@
+{
+  "block.fish_tank.fish_tank": "Fish Tank",
+  "block.fish_tank.white_fish_tank": "White Fish Tank",
+  "block.fish_tank.orange_fish_tank": "Orange Fish Tank",
+  "block.fish_tank.magenta_fish_tank": "Magenta Fish Tank",
+  "block.fish_tank.light_blue_fish_tank": "Light Blue Fish Tank",
+  "block.fish_tank.yellow_fish_tank": "Yellow Fish Tank",
+  "block.fish_tank.lime_fish_tank": "Lime Fish Tank",
+  "block.fish_tank.pink_fish_tank": "Pink Fish Tank",
+  "block.fish_tank.gray_fish_tank": "Gray Fish Tank",
+  "block.fish_tank.light_gray_fish_tank": "Light Gray Fish Tank",
+  "block.fish_tank.cyan_fish_tank": "Cyan Fish Tank",
+  "block.fish_tank.purple_fish_tank": "Purple Fish Tank",
+  "block.fish_tank.blue_fish_tank": "Blue Fish Tank",
+  "block.fish_tank.brown_fish_tank": "Brown Fish Tank",
+  "block.fish_tank.green_fish_tank": "Green Fish Tank",
+  "block.fish_tank.red_fish_tank": "Red Fish Tank",
+  "block.fish_tank.black_fish_tank": "Black Fish Tank",
+  "block.fish_tank.tinted_fish_tank": "Tinted Fish Tank",
+
+  "item.fish_tank.fish_tank_lid": "Fish Tank Lid"
+}

@@ -1,0 +1,18 @@
+{
+  "item.portalgun.portal_gun": "Portal Gun",
+  "item.portalgun.portal_gun_desc": "Aperture Science Handheld Dual-Portal Device",
+  "item.portalgun.portalgun_body": "Portal Device Body",
+  "item.portalgun.portalgun_claw": "Portal Device Claw",
+  "subtitles.portalgun.portal1_shoot": "Shot primary Portal",
+  "subtitles.portalgun.portal2_shoot": "Shot secondary Portal",
+  "subtitles.portalgun.portal_open": "Portal opened",
+  "subtitles.portalgun.portal_close": "Portal closed",
+  "key.portalgun.clearportals": "Clear Portals",
+  "category.portalgun": "Portal Gun",
+  "text.autoconfig.portalgun.title": "Portal Gun Options",
+  "portal_gun.limit_allowed_blocks": "Only works on these blocks:",
+  "portal_gun.out_of_energy": "Out of energy. Recharge it using nether star by crafting.",
+  "portal_gun.remaining_energy": "Energy: %s / %s",
+  "portalgun.item_group": "Portal Gun",
+  "portal_gun.transform_gravity": "Gravity Transform Enabled"
+}

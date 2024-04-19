@@ -1,0 +1,19 @@
+{
+  "item.guineapigs.guinea_pig_spawn_egg": "Guinea Pig Spawn Egg",
+  "item.guineapigs.guinea_pig_pouch_brown_guinea_pig": "Guinea Pig Pouch With Brown Guinea Pig",
+  "item.guineapigs.guinea_pig_pouch_calico_guinea_pig": "Guinea Pig Pouch With Calico Guinea Pig",
+  "item.guineapigs.guinea_pig_pouch_grey_guinea_pig": "Guinea Pig Pouch With Grey Guinea Pig",
+  "item.guineapigs.guinea_pig_pouch_tan_guinea_pig": "Guinea Pig Pouch With Tan Guinea Pig",
+  "item.guineapigs.guinea_pig_pouch_orange_brown_guinea_pig": "Guinea Pig Pouch With Orange/Brown Guinea Pig",
+  "item.guineapigs.guinea_pig_pouch_white_black_guinea_pig": "Guinea Pig Pouch With White/Black Guinea Pig",
+  "item.guineapigs.guinea_pig_pouch_white_guinea_pig": "Guinea Pig Pouch With White Guinea Pig",
+  "item.guineapigs.guinea_pig_pouch": "Guinea Pig Pouch",
+
+  "item.guineapigs.alfalfa": "Alfalfa",
+  "item.guineapigs.alfalfa_seeds": "Alfalfa Seeds",
+  "guineapigs.entity.guinea_pig.wheek": "Guinea Pig Wheeks",
+  "guineapigs.entity.guinea_pig.call": "Guinea Pig Calls",
+  "guineapigs.entity.guinea_pig.squeak": "Guinea Pig Squeaks",
+  "guineapigs.entity.guinea_pig.death": "Guinea Pig Dies",
+  "entity.guineapigs.guinea_pig": "Guinea Pig"
+}
