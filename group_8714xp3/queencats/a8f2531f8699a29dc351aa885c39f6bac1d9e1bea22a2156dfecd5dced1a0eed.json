@@ -1,0 +1,57 @@
+{
+    "itemGroup.queencats.queencats": "Queen Cats",
+
+    "queencats.midnightconfig.title":"Queen Cats & Dogs Configuration",
+    "queencats.midnightconfig.enable_humanoid_cat_sounds":"Enable Humanoid Cat Sounds",
+    "queencats.midnightconfig.enable_humanoid_dog_sounds":"Enable Humanoid Dog Sounds",
+    "queencats.midnightconfig.enable_humanoid_bunny_sounds":"Enable Humanoid Bunny Sounds",
+    "queencats.midnightconfig.enable_humanoid_cow_sounds":"Enable Humanoid Cow Sounds",
+
+    "item.queencats.golden_fish": "Golden Fish",
+    "item.queencats.golden_bone": "Golden Bone",
+    "item.queencats.golden_wheat": "Golden Wheat",
+    "item.queencats.kemomimi_potion": "Kemomimi Potion",
+    "item.queencats.glinted_item_tooltip": "Overflows with §l§bKemomimi§r energy",
+
+    "item.queencats.queen_cat_spawn_egg": "Queen Cat Spawn Egg",
+    "item.queencats.princess_cat_spawn_egg": "Princess Cat Spawn Egg",
+    "item.queencats.queen_dog_spawn_egg": "Queen Dog Spawn Egg",
+    "item.queencats.princess_dog_spawn_egg": "Princess Dog Spawn Egg",
+    "item.queencats.queen_bunny_spawn_egg": "Queen Bunny Spawn Egg",
+    "item.queencats.princess_bunny_spawn_egg": "Princess Bunny Spawn Egg",
+    "item.queencats.queen_cow_spawn_egg": "Queen Cow Spawn Egg",
+    "item.queencats.princess_cow_spawn_egg": "Princess Cow Spawn Egg",
+
+    "entity.queencats.queen_cat": "Queen Cat",
+    "entity.queencats.princess_cat": "Princess Cat",
+
+    "entity.queencats.queen_dog": "Queen Dog",
+    "entity.queencats.princess_dog": "Princess Dog",
+
+    "entity.queencats.queen_bunny": "Queen Bunny",
+    "entity.queencats.princess_bunny": "Princess Bunny",
+
+    "entity.queencats.queen_cow": "Queen Cow",
+    "entity.queencats.princess_cow": "Princess Cow",
+
+    "queencats.humanoid_cat_ambient": "Humanoid Cat Meows",
+    "queencats.humanoid_cat_eat": "Humanoid Cat Eats",
+    "queencats.humanoid_cat_hurt": "Humanoid Cat Hurts",
+    "queencats.humanoid_cat_death": "Humanoid Cat Dies",
+
+    "queencats.humanoid_dog_ambient": "Humanoid Dog Barks",
+    "queencats.humanoid_dog_eat": "Humanoid Dog Eats",
+    "queencats.humanoid_dog_hurt": "Humanoid Dog Hurts",
+    "queencats.humanoid_dog_death": "Humanoid Dog Dies",
+
+    "queencats.humanoid_bunny_ambient": "Humanoid Bunny Honks",
+    "queencats.humanoid_bunny_eat": "Humanoid Bunny Eats",
+    "queencats.humanoid_bunny_hurt": "Humanoid Bunny Hurts",
+    "queencats.humanoid_bunny_death": "Humanoid Bunny Dies",
+
+    "queencats.humanoid_cow_ambient": "Humanoid Cow Moos",
+    "queencats.humanoid_cow_eat": "Humanoid Cow Eats",
+    "queencats.humanoid_cow_hurt": "Humanoid Cow Hurts",
+    "queencats.humanoid_cow_death": "Humanoid Cow Dies",
+    "queencats.humanoid_cow_milk": "Humanoid Cow Milked"
+}
