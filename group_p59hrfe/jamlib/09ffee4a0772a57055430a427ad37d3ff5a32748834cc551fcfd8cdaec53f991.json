@@ -1,0 +1,13 @@
+{
+  "config.jamlib.selection_screen_title": "Select Config for %s",
+  "config.jamlib.open": "Open",
+  "config.jamlib.edit_manually": "Edit Manually",
+  "config.jamlib.reset": "Reset",
+  "config.jamlib.matches_regex_tooltip": "Value should match the following regular expression: %s",
+  "config.jamlib.requires_restart_tooltip": "A restart is required for this change to take effect",
+  "config.jamlib.within_range_tooltip": "Value should be between %d and %d",
+  "text.jamlib.renamed_1": "The following files seem to have been renamed  - this is often a sign of a mod being redistributed without permission.",
+  "text.jamlib.renamed_2": "Sites such as minecraft harm modders and can be used to distribute malware. Please use official sources such as Curseforge or Modrinth!",
+    "text.jamlib.renamed_3": "This message will only appear once. If you believe this is a false positive, please contact the mod author."
+
+}

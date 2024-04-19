@@ -1,0 +1,29 @@
+{
+  "itemGroup.lootbagmod.lootbagmod": "Loot Bag",
+  "item.lootbagmod.lootbag": "Loot Bag",
+
+  "text.config.lootbagmod.title": "Loot Bag Mod",
+
+  "text.config.lootbagmod.section.misc": "Misc",
+  "text.config.lootbagmod.option.StackSize": "Maximum possible stack size for dropped items",
+  "text.config.lootbagmod.option.Drops": "How many items drop when a loot bag is used",
+
+  "text.config.lootbagmod.section.black-and-white": "Black And White Lists",
+  "text.config.lootbagmod.option.EnableWhitelist": "Use Whitelist (if enabled only items from lists below are dropped; otherwise all items except them)",
+  "text.config.lootbagmod.option.BlackList": "BlackList (Syntax \"minecraft or modid : item or block name\"; example \"minecraft:air\" or \"lootbagmod:lootbag\")",
+  "text.config.lootbagmod.option.WhiteList": "WhiteList Syntax \"minecraft or modid : item or block name\"; example minecraft:air or lootbagmod:lootbag)",
+  "text.config.lootbagmod.option.Namespaces": "Mod black/whitelist (Syntax \"modid\")",
+  "text.config.lootbagmod.option.EnableContainsList": "Enable Contains List",
+  "text.config.lootbagmod.option.ContainsList": "Contains List (Syntax \"word\")",
+
+  "text.config.lootbagmod.section.chest-drops": "Chests Drops",
+  "text.config.lootbagmod.option.ChestDrops": "Loot Bags spawns in treasure chests",
+  "text.config.lootbagmod.option.ChestsLists": "List of chests in which Loot Bag can spawn (Syntax \"minecraft or modid : chests / chest id; example \"minecraft:chests/jungle_temple\"",
+
+  "text.config.lootbagmod.section.mob-drops": "Mob Drops",
+  "text.config.lootbagmod.option.MobDrops": "Loot Bags drops from killed mobs",
+  "text.config.lootbagmod.option.DropChance": "Loot Bag drop chance from mobs (the higher the number the more common they are)",
+  "text.config.lootbagmod.option.AllHostileMobs": "Make Loot Bags droppable from all hostile Mobs",
+  "text.config.lootbagmod.option.AllNonHostileMobs": "Make Loot Bags droppable from all passive and neutral mobs",
+  "text.config.lootbagmod.option.MobList": "Mob drops list (Syntax \" minecraft or modname : mobregistryname \")"
+}

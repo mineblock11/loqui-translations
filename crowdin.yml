@@ -3213,6 +3213,15 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_2qw4uro/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - da
+      - de
+      - es-ES
+      - pl
+      - ru
+      - uk
   - source: /group_z6um4qb/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
@@ -3763,6 +3772,16 @@ files:
       - ko
       - pt-BR
       - th
+  - source: /group_ss0xqam/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - es-ES
+      - fr
+      - ko
+      - pt-BR
+      - ru
+      - sk
+      - zh-CN
   - source: /group_lb9ucjl/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:

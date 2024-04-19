@@ -1,0 +1,5 @@
+{
+  "globalization.jfconfig.title": "LibJF Translate v1",
+  "globalization.jfconfig.targetCode": "Target Code",
+  "globalization.jfconfig.targetCode.tooltip": "The language code to translate missing translations to.\nShould be the same as your Minecraft language. Source language is detected automatically."
+}
