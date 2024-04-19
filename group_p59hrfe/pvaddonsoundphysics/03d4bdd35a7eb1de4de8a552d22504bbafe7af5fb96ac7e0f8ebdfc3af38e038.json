@@ -1,0 +1,9 @@
+{
+   "gui.plasmovoice.soundphysics": "Sound Physics",
+
+   "gui.plasmovoice.soundphysics.enabled": "Enabled",
+
+   "gui.plasmovoice.soundphysics.mic_reverb": "Microphone Reverb",
+   "gui.plasmovoice.soundphysics.mic_reverb.tooltip": "You will hear the reverb of your microphone when talking",
+   "gui.plasmovoice.soundphysics.mic_reverb_volume": "Mic Reverb Volume"
+}
