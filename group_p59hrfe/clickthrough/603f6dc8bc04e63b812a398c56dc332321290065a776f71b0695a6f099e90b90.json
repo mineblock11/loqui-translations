@@ -1,0 +1,11 @@
+{
+  "text.autoconfig.clickthrough.title": "Clickthrough Control",
+  "text.autoconfig.clickthrough.category.clickthrough": "Clickthrough",
+  "text.autoconfig.clickthrough.option.clickthroughToggleOn": "Toggle if clickthrough is enabled",
+  "text.autoconfig.clickthrough.option.clickthroughWallSigns": "Toggle if clickthrough Wall Signs",
+  "text.autoconfig.clickthrough.option.clickthroughItemFrames": "Toggle if clickthrough Item Frames",
+  "text.autoconfig.clickthrough.option.clickthroughGlowItemFrames": "Toggle if clickthrough Glow Item Frames",
+  "text.autoconfig.clickthrough.option.clickthroughWallBanners": "Toggle if clickthrough Wall Banners",
+  "text.autoconfig.clickthrough.keybind.toggleclickthrough": "Toggle Clickthrough",
+  "text.autoconfig.clickthrough.keybind.category": "Clickthrough"
+}
