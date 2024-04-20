@@ -8801,6 +8801,37 @@ files:
       - uk
       - zh-CN
       - zh-TW
+  - source: /group_46xvep2/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - ar
+      - be
+      - bg
+      - cs
+      - da
+      - de
+      - el
+      - en-UD
+      - es-ES
+      - fr
+      - he
+      - hi
+      - hr
+      - hu
+      - id
+      - it
+      - ja
+      - ko
+      - lv
+      - nl
+      - pl
+      - pt-PT
+      - ru
+      - sv-SE
+      - tr
+      - uk
+      - vi
+      - zh-CN
   - source: /group_ba9hpk1/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
