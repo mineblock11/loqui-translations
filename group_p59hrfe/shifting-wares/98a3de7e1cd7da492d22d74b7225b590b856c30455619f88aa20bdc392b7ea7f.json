@@ -1,0 +1,8 @@
+{
+	"gamerule.shiftingWares.allowMapReroll": "Cartographers map reroll",
+	"gamerule.shiftingWares.allowMapReroll.description": "Buying a map enables the cartographer to generate a new one.",
+	"gamerule.shiftingWares.dailyReroll": "Villagers daily reroll",
+	"gamerule.shiftingWares.dailyReroll.description": "Villagers will reroll all their offers once per day.",
+	"gamerule.shiftingWares.depleteReroll": "Villagers depleted reroll",
+	"gamerule.shiftingWares.depleteReroll.description": "Villagers will reroll depleted trade offers instead of refilling them."
+}
