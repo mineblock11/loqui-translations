@@ -1,0 +1,19 @@
+{
+	"text.autoconfig.textutilities.title": "Text Utilities",
+	"text.autoconfig.textutilities.option.formattingCodePrefix": "Formatting code prefix",
+	"text.autoconfig.textutilities.option.formattingCodePrefix.@Tooltip": "The formatting code type to use. Vanilla = §, Ampersand = &",
+	"text.autoconfig.textutilities.option.signFormattingEnabled": "Sign formatting enabled",
+	"text.autoconfig.textutilities.option.signFormattingEnabled.@Tooltip": "Show or hide the formatting buttons in the sign edit screen",
+	"text.autoconfig.textutilities.option.bookFormattingEnabled": "Book formatting enabled",
+	"text.autoconfig.textutilities.option.bookFormattingEnabled.@Tooltip": "Show or hide the formatting buttons in the book edit screen",
+	"text.autoconfig.textutilities.option.anvilFormattingEnabled": "Anvil formatting enabled",
+	"text.autoconfig.textutilities.option.anvilFormattingEnabled.@Tooltip": "Show or hide the formatting buttons in the anvil screen",
+	"text.autoconfig.textutilities.option.signEditingEnabled": "Sign editing enabled",
+	"text.autoconfig.textutilities.option.signEditingEnabled.@Tooltip": "When enabled, clicking a sign with another sign will open the edit window",
+	"text.autoconfig.textutilities.option.signClickThroughEnabled": "Sign click-through enabled",
+	"text.autoconfig.textutilities.option.signClickThroughEnabled.@Tooltip": "When enabled, clicking on a sign will open the container it is attached to",
+	"text.autoconfig.textutilities.option.itemFrameClickThroughEnabled": "Item Frame click-through enabled",
+	"text.autoconfig.textutilities.option.itemFrameClickThroughEnabled.@Tooltip": "When enabled, clicking on an item frame will open the container it is attached to",
+	"text.autoconfig.textutilities.option.additionalClickThroughIdentifiers": "Additional click-through blocks/entities",
+	"text.autoconfig.textutilities.option.additionalClickThroughIdentifiers.@Tooltip": "Additional item identifiers of blocks or entities to allow clicking through."
+}
