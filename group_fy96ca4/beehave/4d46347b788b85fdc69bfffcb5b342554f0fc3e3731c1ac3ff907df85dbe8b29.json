@@ -1,0 +1,19 @@
+{
+    "message.chat.beehive.empty": "No bee in [x=%d, y=%d, z=%d]",
+    "message.chat.beehive.title": "%d bee(s) in [x=%d, y=%d, z=%d]",
+    "message.chat.beehive.row": "is %s, hived %d tick(s), occupation %d tick(s)",
+    "message.chat.bee.info": "Hive at [x=%d, y=%d, z=%d]",
+    "message.chat.bee.homeless": "Homeless",
+    "message.command.beehave.title": "Beehave settings overview",
+    "message.command.beehave.info.lang": "Feedback language",
+    "message.command.beehave.info.bee": "Enable information display when right-click on bees",
+    "message.command.beehave.info.beehive": "Enable information display when right-click on beehives",
+    "message.command.beehave.property.set.success": "Successfully set %s to %s",
+    "message.command.beehave.property.set.failure": "Failed to set %s to %s",
+    "message.command.beehave.property.get.success": "Value of %s is %s",
+    "message.command.beehave.property.get.failure": "Failed to query property %s",
+    "message.command.beehave.load.success": "Successfully loaded config",
+    "message.command.beehave.load.fail": "Failed to load config",
+    "message.command.beehave.save.success": "Successfully saved config",
+    "message.command.beehave.save.fail": "Failed to save config"
+}
