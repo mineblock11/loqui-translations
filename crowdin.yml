@@ -1075,6 +1075,12 @@ files:
       - en-GB
       - en-UD
       - zh-CN
+  - source: /group_19chwh9/*/*.json
+    translation: /%original_path%/%file_name%/%locale%.json
+    excluded_target_languages:
+      - nl
+      - ta
+      - zh-CN
   - source: /group_oki2n7x/*/*.json
     translation: /%original_path%/%file_name%/%locale%.json
     excluded_target_languages:
