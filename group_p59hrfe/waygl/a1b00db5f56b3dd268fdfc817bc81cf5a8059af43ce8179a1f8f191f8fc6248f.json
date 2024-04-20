@@ -1,0 +1,15 @@
+{
+  "waygl.midnightconfig.title": "WayGL Config",
+
+  "waygl.midnightconfig.category.natives": "Natives",
+  "waygl.midnightconfig.category.cursor": "Cursor",
+
+  "waygl.midnightconfig.nativesHint": "All Native GLFW settings require a restart to take effect!",
+  "waygl.midnightconfig.nativesSpacer": "",
+  "waygl.midnightconfig.useNativeGlfw": "Use Native GLFW",
+  "waygl.midnightconfig.nativeGlfwPathHint": "Path to GLFW library (Default: \"/usr/lib/libglfw.so\")",
+  "waygl.midnightconfig.nativeGlfwPath": "Native GLFW Path",
+  "waygl.midnightconfig.cursorHintL1": "Currently, (un-patched) GLFW Wayland does not support setting the cursor position,",
+  "waygl.midnightconfig.cursorHintL2": "the Virtual Cursor is a work around to this problem.",
+  "waygl.midnightconfig.useVirtualCursor": "Use Virtual Cursor"
+}
