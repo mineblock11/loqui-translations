@@ -1,0 +1,4 @@
+{
+  "embeddium.conflicting_mod": "Embeddium 偵測到您安裝了已知會造成繪製問題或崩潰的模組。建議您將它們移除。詳情請見下方清單。",
+  "embeddium.conflicting_mod_list": "[{2}]"
+}

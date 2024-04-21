@@ -1,0 +1,10 @@
+{
+  "key.waterdripsound.category": "General",
+  "config.waterdripsound.general": "Drip Sounds Config",
+  "config.waterdripsound.enable": "Go-Ahead?",
+  "config.waterdripsound.volume": "Squawkness",
+  "config.waterdripsound.dripChance": "Luck O' The Drip",
+  "config.waterdripsound.useDripstoneSounds": "Shiver Me Timbers with Eerie Drips",
+  "tooltip.config.waterdripsound.useDripstoneSounds": "If enabled, be usin' the Dripstone water/lava drip sounds added be in 1.17. \nIf not, be usin' sounds from older versions o' the mod.",
+  "config.waterdripsound.soundCategory": "Booty o' Sounds"
+}

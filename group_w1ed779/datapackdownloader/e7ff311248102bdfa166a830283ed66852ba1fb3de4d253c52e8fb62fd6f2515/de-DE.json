@@ -1,0 +1,20 @@
+{
+  "datapackdownloader.title": "Datenpakete installieren",
+  "datapackdownloader.download": "Datenpakete herunterladen",
+  "datapackdownloader.download.warning": "Es fügt Datenpakete nur dem Ordner hinzu, sie müssen im \"Datenpakete\"-Menü installiert werden.",
+  "datapackdownloader.field.search.datapack": "Datenpakete suchen",
+  "datapackdownloader.field.search.world": "Welten suchen",
+  "datapackdownloader.button.search": "Suchen",
+  "datapackdownloader.button.results": "Mehr anzeigen",
+  "datapackdownloader.button.back": "Zurück",
+  "datapackdownloader.label.search.worlds": "Nach Welten suchen",
+  "datapackdownloader.label.search.datapacks": "Nach Datenpaketen suchen",
+  "datapackdownloader.label.results": "Ergebnisse: %d",
+  "datapackdownloader.narration.world": "Datenpaket-Weltliste",
+  "datapackdownloader.narration.datapack": "Datenpaket-Liste",
+  "datapackdownloader.button.datapack.uninstall": "Deinstallieren",
+  "datapackdownloader.button.datapack.install": "Installieren",
+  "datapackdownloader.error.datapack.world": "Keine Welt ausgewählt!",
+  "datapackdownloader.error.datapack.result": "Keine Ergebnisse gefunden!",
+  "datapackdownloader.error.datapackinfo.datapack": "Kein Datenpaket ausgewählt!"
+}

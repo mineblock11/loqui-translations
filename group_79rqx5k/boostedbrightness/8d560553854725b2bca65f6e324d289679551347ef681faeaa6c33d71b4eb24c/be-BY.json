@@ -1,0 +1,13 @@
+{
+    "key.boosted-brightness.next": "Выбраць наступную яркасць",
+    "key.boosted-brightness.raise": "Павялічыць яркасць",
+    "key.boosted-brightness.lower": "Панізіць яркасць",
+    "key.boosted-brightness.select1": "Выбраць яркасць 1",
+    "key.boosted-brightness.select2": "Выбраць яркасць 2",
+    "key.boosted-brightness.select3": "Выбраць яркасць 3",
+    "key.boosted-brightness.select4": "Выбраць яркасць 4",
+    "key.boosted-brightness.select5": "Выбраць яркасць 5",
+    "category.boosted-brightness.title": "Boosted Brightness",
+    "overlay.boosted-brightness.change": "Яркасць %s: %s%%",
+    "options.boosted-brightness.title": "Налады Boosted Brightness"
+}

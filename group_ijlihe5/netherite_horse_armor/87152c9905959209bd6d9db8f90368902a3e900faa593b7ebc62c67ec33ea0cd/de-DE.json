@@ -1,0 +1,8 @@
+{
+  "item.netherite_horse_armor.netherite_horse_armor": "Netheritener Rossharnisch",
+  "netherite_horse_armor.advancements.obtain.title": "Sagenumwobener dunkler Ritter",
+  "netherite_horse_armor.advancements.obtain.description": "Beschaffe dir einen Rossharnisch aus Netherit",
+  "text.autoconfig.netherite_horse_armor.option.title": "\"Netheritener Rossharnisch\"-Konfiguration",
+  "text.autoconfig.netherite_horse_armor.option.weight": "Gewicht in Beutetabelle",
+  "text.autoconfig.netherite_horse_armor.option.protectionValue": "Rüstungspunkte"
+}

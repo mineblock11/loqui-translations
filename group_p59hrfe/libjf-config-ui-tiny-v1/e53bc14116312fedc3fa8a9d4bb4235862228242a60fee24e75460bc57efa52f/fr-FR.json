@@ -1,0 +1,9 @@
+{
+  "libjf-config-v1.presets": "Pré-réglages",
+  "libjf-config-v1.default": "Par défaut",
+  "libjf-config-v1.see-also": "Voir également: %s",
+  "libjf-config-v1.reset": "Réinitialiser",
+  "libjf-config-core-v1.no-screen": "Aucun écran",
+  "libjf-config-core-v1.no-screen.description": "Aucun mod pour le rendu des interfaces de configuration n'a été découvert. Installez LibJF pour en ajouter une.",
+  "libjf-config-core-v1.edit": "Modifier"
+}

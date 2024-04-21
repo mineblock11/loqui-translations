@@ -1,0 +1,22 @@
+{
+  "advancements.pet_cemetery.nether.cured_zombie_pet.description": "Ослабьте и исцелите питомца-зомби",
+  "advancements.pet_cemetery.nether.cured_zombie_pet.title": "Ветеринар для зомби",
+  "advancements.pet_cemetery.nether.respawn_pet.description": "Возродите питомца, используя ошейник на якоре возрождения",
+  "advancements.pet_cemetery.nether.respawn_pet.title": "Франкенвини",
+  "advancements.pet_cemetery.nether.respawn_zombie_pet.description": "Возродите питомца-зомби в виде скелета",
+  "advancements.pet_cemetery.nether.respawn_zombie_pet.title": "Мрачный жнец",
+  "entity.pet_cemetery.skeleton_cat": "Кошка-скелет",
+  "entity.pet_cemetery.skeleton_parrot": "Попугай-скелет",
+  "entity.pet_cemetery.skeleton_wolf": "Волк-скелет",
+  "entity.pet_cemetery.zombie_cat": "Кошка-зомби",
+  "entity.pet_cemetery.zombie_parrot": "Попугай-зомби",
+  "entity.pet_cemetery.zombie_wolf": "Волк-зомби",
+  "item.pet_cemetery.pet_collar": "Ошейник",
+  "item.pet_cemetery.skeleton_cat_spawn_egg": "Яйцо призыва кошки-скелета",
+  "item.pet_cemetery.skeleton_parrot_spawn_egg": "Яйцо призыва попугая-скелета",
+  "item.pet_cemetery.skeleton_wolf_spawn_egg": "Яйцо призыва волка-скелета",
+  "item.pet_cemetery.zombie_cat_spawn_egg": "Яйцо призыва кошки-зомби",
+  "item.pet_cemetery.zombie_parrot_spawn_egg": "Яйцо призыва попугая-зомби",
+  "item.pet_cemetery.zombie_wolf_spawn_egg": "Яйцо призыва волка-зомби",
+  "tooltip.pet_cemetery.baby": "Ребёнок"
+}

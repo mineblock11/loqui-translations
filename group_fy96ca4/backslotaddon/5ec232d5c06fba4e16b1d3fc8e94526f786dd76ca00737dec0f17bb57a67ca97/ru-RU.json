@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.backslotaddon.title": "Настройки BackSlotAddon",
+  "text.autoconfig.backslotaddon.option.double_back_sword": "Двойной меч на спине",
+  "text.autoconfig.backslotaddon.option.allow_shield_on_back": "Разрешить носить щит",
+  "text.autoconfig.backslotaddon.option.allow_lantern_on_belt": "Разрешить носить фонарь",
+  "text.autoconfig.backslotaddon.option.lantern_on_back": "Фонарь на спине",
+  "text.autoconfig.backslotaddon.option.shield_clipping": "Зажим для щита"
+}

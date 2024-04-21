@@ -1,0 +1,9 @@
+{
+  "libjf-config-v1.presets": "Предустановки",
+  "libjf-config-v1.default": "По умолчанию",
+  "libjf-config-v1.see-also": "Посмотрите также: %s",
+  "libjf-config-v1.reset": "Сбросить",
+  "libjf-config-core-v1.no-screen": "Нет экрана",
+  "libjf-config-core-v1.no-screen.description": "У вас не установлено никаких модификаций для отрисовки интерфейса настроек. Установите LibJF для этого.",
+  "libjf-config-core-v1.edit": "Редактировать"
+}

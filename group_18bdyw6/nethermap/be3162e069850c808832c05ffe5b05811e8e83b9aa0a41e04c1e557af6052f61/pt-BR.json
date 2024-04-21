@@ -1,0 +1,10 @@
+{
+    "text.autoconfig.nethermap.title": "Configuração do Mapa do Nether Melhorado",
+    "text.autoconfig.nethermap.option.useMapCreationHeight": "Usar Altura de Criação do Mapa",
+    "text.autoconfig.nethermap.option.dimensions": "Dimensões",
+    "text.autoconfig.nethermap.option.DimensionEntry": "Entrada de Dimensão",
+    "text.autoconfig.nethermap.option.DimensionEntry.dimension": "ID da Dimensão",
+    "text.autoconfig.nethermap.option.DimensionEntry.scanHeight": "Altura de Escaneamento",
+    "modmenu.descriptionTranslation.nethermap": "Faz com que os mapas funcionem melhor no Nether e em todas as outras dimensões de caverna.",
+    "modmenu.summaryTranslation.nethermap": "Melhora mapas de dimensão da caverna"
+}

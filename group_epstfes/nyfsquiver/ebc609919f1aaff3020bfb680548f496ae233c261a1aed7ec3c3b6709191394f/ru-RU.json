@@ -1,0 +1,16 @@
+{
+  "itemGroup.nyfsquiver.quiver": "Nyf's Quivers",
+  "ui.nyfsquiver.quiver": "Колчан",
+  "item.nyfsquiver.basic_quiver": "Колчан",
+  "item.nyfsquiver.iron_quiver": "Железный колчан",
+  "item.nyfsquiver.copper_quiver": "Медный колчан",
+  "item.nyfsquiver.silver_quiver": "Серебряный колчан",
+  "item.nyfsquiver.gold_quiver": "Золотой колчан",
+  "item.nyfsquiver.diamond_quiver": "Алмазный колчан",
+  "item.nyfsquiver.netherite_quiver": "Незеритовый колчан",
+  "category.nyfsquiver.keybindings": "Nyf's Quivers",
+  "key.nyfsquiver.open_quiver": "Открыть колчан",
+  "key.nyfsquiver.increase_slot": "Следующий слот",
+  "key.nyfsquiver.decrease_slot": "Предыдущий слот",
+  "trinkets.slot.chest.quiver": "Колчан"
+}

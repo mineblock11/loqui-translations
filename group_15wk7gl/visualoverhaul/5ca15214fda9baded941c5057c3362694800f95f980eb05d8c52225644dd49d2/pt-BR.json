@@ -1,0 +1,23 @@
+{
+	"visualoverhaul.midnightconfig.title": "Configuração da Renovação Visual",
+	"visualoverhaul.midnightconfig.brewingstand": "Melhorias no Suporte de Poções",
+	"visualoverhaul.midnightconfig.jukebox": "Melhorias no Toca-discos",
+	"visualoverhaul.midnightconfig.jukebox_fake_block": "Bloco falso no topo do toca-discos",
+	"visualoverhaul.midnightconfig.furnace": "Melhorias na Fornalha",
+	"visualoverhaul.midnightconfig.smoker_particles": "Partículas de Fumaça",
+	"visualoverhaul.midnightconfig.blast_furnace_particles": "Partículas de Alto-forno",
+	"visualoverhaul.midnightconfig.coloredItems": "Cores de itens baseadas em biomas",
+	"visualoverhaul.midnightconfig.coloredItems.tooltip": "§cPrecisa reiniciar!",
+	"visualoverhaul.midnightconfig.coloredLilypad": "Cor da Vitória-régia baseada no Bioma",
+	"visualoverhaul.midnightconfig.coloredLilypad.tooltip": "§cPrecisa reiniciar!",
+	"visualoverhaul.midnightconfig.buttonIcons": "Button Icons",
+	"visualoverhaul.midnightconfig.buttonIconPosition": "Posição do Ícone do Botão",
+	"visualoverhaul.midnightconfig.enum.IconPosition.LOCATION": "Dependente de localização",
+	"visualoverhaul.midnightconfig.enum.IconPosition.LEFT": "Left",
+	"visualoverhaul.midnightconfig.enum.IconPosition.RIGHT": "Right",
+	"visualoverhaul.midnightconfig.enum.IconPosition.BOTH": "Esquerda & Direita:",
+	"visualoverhaul.midnightconfig.zoomIconOnHover": "Ícone de zoom ao passar o mouse",
+	"visualoverhaul.midnightconfig.category.gui": "GUI",
+	"visualoverhaul.midnightconfig.category.blocks": "Blocks",
+	"visualoverhaul.midnightconfig.category.colors": "Colors"
+}

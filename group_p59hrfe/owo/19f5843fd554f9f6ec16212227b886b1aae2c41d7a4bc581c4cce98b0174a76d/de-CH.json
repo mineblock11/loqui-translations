@@ -1,0 +1,107 @@
+{
+  "text.owo.itemGroup.tab_template": [
+    {
+      "index": 0
+    },
+    {
+      "text": " > ",
+      "color": "gray"
+    },
+    {
+      "index": 1,
+      "color": "dark_gray"
+    }
+  ],
+  "text.owo.configure_hot_reload.title": "Neuladen (im laufenden Spiel) konfigurieren",
+  "text.owo.configure_hot_reload.choose_file": "Datei auswählen",
+  "text.owo.configure_hot_reload.choose_ui_model_source": "UI-Modellquelle wählen",
+  "text.owo.configure_hot_reload.save": "Save",
+  "text.owo.configure_hot_reload.model": [
+    {
+      "text": "Modell: ",
+      "color": "yellow"
+    },
+    {
+      "index": 0,
+      "color": "gray"
+    }
+  ],
+  "text.owo.configure_hot_reload.reload_from.unset": "Zurücksetzen",
+  "text.owo.configure_hot_reload.reload_from": [
+    {
+      "text": "Neuladen von: ",
+      "color": "yellow"
+    },
+    {
+      "index": 0,
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.search": "Search...",
+  "text.owo.config.search.matches": "%d von %d",
+  "text.owo.config.search.no_matches": "Keine Treffer",
+  "text.owo.config.must_restart": "Einige vorgenommenen Änderungen erfordern einen Neustart, um übernommen zu werden",
+  "text.owo.config.button.exit_minecraft": "Minecraft schließen",
+  "text.owo.config.button.ignore_restart": "Später neustarten",
+  "text.owo.config.button.range.edit_as_text": "Als Text bearbeiten",
+  "text.owo.config.button.range.edit_with_slider": "Mit dem Schieberegler ändern",
+  "text.owo.config.applies_after_restart": [
+    {
+      "text": "⏻ ",
+      "color": "#FAEA48"
+    },
+    {
+      "text": "Diese Einstellung wird nach einem Neustart übernommen",
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.managed_by_server": [
+    {
+      "text": "⚑ ",
+      "color": "#EB1D36"
+    },
+    {
+      "text": "Diese Einstellung wird vom Server verwaltet\n   Um sie zu bearbeiten, muss zuerst die Verbindung getrennt werden",
+      "color": "gray"
+    }
+  ],
+  "text.owo.config.button.reload": "Reload",
+  "text.owo.config.button.done": "Fertig",
+  "text.owo.config.sections": {
+    "text": "Sections",
+    "underlined": true
+  },
+  "text.owo.config.list.add_entry": "Eintrag hinzufügen",
+  "text.owo.config.boolean_toggle.enabled": [
+    "",
+    {
+      "text": "[",
+      "color": "gray"
+    },
+    {
+      "text": "✔",
+      "color": "#28FFBF"
+    },
+    {
+      "text": "]",
+      "color": "gray"
+    },
+    " Aktiviert"
+  ],
+  "text.owo.config.boolean_toggle.disabled": [
+    "",
+    {
+      "text": "[",
+      "color": "gray"
+    },
+    {
+      "text": "❌",
+      "color": "#EB1D36"
+    },
+    {
+      "text": "]",
+      "color": "gray"
+    },
+    " Deaktiviert"
+  ]
+}

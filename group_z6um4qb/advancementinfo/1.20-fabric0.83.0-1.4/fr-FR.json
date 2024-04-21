@@ -1,0 +1,15 @@
+{
+    "advancementinfo.infopane": "Info",
+    "text.autoconfig.advancementinfo.title": "Paramètres d'AdvancementInfo",
+    "text.autoconfig.advancementinfo.option.colorHave": "Exigence de couleur terminée",
+    "text.autoconfig.advancementinfo.option.colorHaveNot": "Couleur de l'exigence inachevée",
+    "text.autoconfig.advancementinfo.option.marginX": "Marge X",
+    "text.autoconfig.advancementinfo.option.marginY": "Marge Y",
+    "text.autoconfig.advancementinfo.option.infoWidth": "Largeur de l'information",
+    "text.autoconfig.advancementinfo.option.infoWidth.min": "Min",
+    "text.autoconfig.advancementinfo.option.infoWidth.max": "Max",
+    "text.autoconfig.advancementinfo.option.infoWidth.percent": "Pourcent",
+    "text.autoconfig.advancementinfo.option.infoWidth.enabled": "Activé",
+    "modmenu.summaryTranslation.advancementinfo": "Rend plus facile de voir quels progrès vous avez réalisés et ce qui vous manque.",
+    "modmenu.descriptionTranslation.advancementinfo": "Rend plus facile de voir quels progrès vous avez réalisés et ce qui vous manque."
+}

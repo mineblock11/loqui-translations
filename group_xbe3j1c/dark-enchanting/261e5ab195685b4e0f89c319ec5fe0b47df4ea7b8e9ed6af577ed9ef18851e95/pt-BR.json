@@ -1,0 +1,8 @@
+{
+    "itemGroup.dark-enchanting.dark_enchanting_group": "Encantamento Sombrio",
+    "block.dark-enchanting.dark_enchanter": "Encantador Sombrio",
+    "block.dark-enchanting.dark_conduit": "Condutor Sombrio",
+    "block.dark-enchanting.wall_dark_conduit": "Condutor Sombrio",
+    "item.dark-enchanting.table_upgrade": "Melhoria da Mesa",
+    "message.dark-enchanting.table_upgrade": "Você precisa segurar shift e clicar com o botão direito do mouse em uma Mesa de Encantamentos comum para isso funcionar!"
+}

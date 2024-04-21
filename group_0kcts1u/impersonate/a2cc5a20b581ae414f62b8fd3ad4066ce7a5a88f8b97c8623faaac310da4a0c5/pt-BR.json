@@ -1,0 +1,13 @@
+{
+  "impersonate:commands.disguise.clear.success.other": "%s parou de se passar por %s",
+  "impersonate:commands.disguise.clear.success.self": "Parou de se passar por %s",
+  "impersonate:commands.disguise.query.no_one.success.other": "%s não está se passando por ninguém",
+  "impersonate:commands.disguise.query.no_one.success.self": "Não se passando por ninguém",
+  "impersonate:commands.disguise.query.success.other": "%s está se passando por %s",
+  "impersonate:commands.disguise.query.success.self": "Se passando por %s",
+  "impersonate:commands.disguise.start.success.other": "%s começou a se passar por %s",
+  "impersonate:commands.disguise.start.success.self": "Começou a se passar por %s",
+  "gamerule.impersonate:fakeCapes": "Copiar capas dos jogadores impostores",
+  "gamerule.impersonate:logRevealImpersonations": "Revelar as personificações em andamento nos registros do servidor",
+  "gamerule.impersonate:opRevealImpersonations": "Revelar as personificações em andamento para os operadores"
+}

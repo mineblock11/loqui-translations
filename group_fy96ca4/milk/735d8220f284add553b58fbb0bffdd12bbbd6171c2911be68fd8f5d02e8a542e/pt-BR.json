@@ -1,0 +1,9 @@
+{
+  "block.milk.milk_cauldron": "Caldeirão de Leite",
+  "item.milk.milk_bottle": "Poção de Leite",
+  "item.milk.splash_milk_bottle": "Poção Arremessável de Leite",
+  "item.milk.lingering_milk_bottle": "Poção Prolongada de Leite",
+  "block.milk.milk_fluid_block": "Milk",
+  "fluid.milk.still_milk": "Milk",
+  "fluid.milk.flowing_milk": "Milk"
+}

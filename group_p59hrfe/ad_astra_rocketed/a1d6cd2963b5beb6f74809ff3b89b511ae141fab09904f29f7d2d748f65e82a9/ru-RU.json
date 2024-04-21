@@ -1,0 +1,10 @@
+{
+  "item.ad_astra_rocketed.tier_5_rocket": "Ракета 5 уровня",
+  "item.ad_astra_rocketed.tier_6_rocket": "Ракета 6 уровня",
+  "item.ad_astra_rocketed.tier_7_rocket": "Ракета 7 уровня",
+  "creativetab.ad_astra_rocketed_tab": "Совместимость Create с Blue Skies",
+  "itemGroup.ad_astra_rocketed.main": "Ad Astra: Rocketed",
+  "entity.ad_astra.tier_5_rocket": "Ракета 5 уровня",
+  "entity.ad_astra.tier_6_rocket": "Ракета 6 уровня",
+  "entity.ad_astra.tier_7_rocket": "Ракета 7 уровня"
+}

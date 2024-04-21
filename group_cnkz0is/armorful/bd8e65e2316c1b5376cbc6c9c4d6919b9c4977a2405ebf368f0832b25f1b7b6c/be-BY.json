@@ -1,0 +1,11 @@
+{
+  "item.armorful.leather_wolf_armor": "Скураная воўчая браня",
+  "item.armorful.golden_wolf_armor": "Залатая воўчая браня",
+  "item.armorful.iron_wolf_armor": "Жалезная воўчая браня",
+  "item.armorful.diamond_wolf_armor": "Дыяментавая воўчая браня",
+  "item.armorful.netherite_wolf_armor": "Нэдарытавая воўчая браня",
+  "itemGroup.armorful.group": "Ваўкі з бранёй",
+  "armorful.tooltip.when_equipped": "Калі надзета на воўку:",
+  "armorful.tooltip.bonus": "+%s Брані",
+  "subtitles.armor.wolf": "Воўчая браня апранаецца"
+}

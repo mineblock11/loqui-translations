@@ -1,0 +1,4 @@
+{
+  "embeddium.conflicting_mod": "Embeddium upptäckte moddar som är kända för att orsaka renderingsproblem/krascher. Det rekommenderas att avinstallera dem. Se listan nedan.",
+  "embeddium.conflicting_mod_list": "[{2}]"
+}

@@ -1,0 +1,12 @@
+{
+  "soundCategory.extrasounds$master": "SonsExtras",
+  "soundCategory.extrasounds$inventory": "Inventory",
+  "soundCategory.extrasounds$action": "Actions",
+  "soundCategory.extrasounds$chat": "Chat Messages",
+  "soundCategory.extrasounds$chat_mention": "Menção no Chat",
+  "soundCategory.extrasounds$effects": "Efeitos/Poções",
+  "soundCategory.extrasounds$hotbar": "Barra de atalho",
+  "soundCategory.extrasounds$typing": "Digitação",
+  "soundCategory.extrasounds$item_drop": "Item Drop",
+  "tooltip.soundCategory.extrasounds_action": "Este volume é aplicado quando há interações de Item, interações de Bloco e eventos de Entidade."
+}

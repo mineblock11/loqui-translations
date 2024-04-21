@@ -1,0 +1,12 @@
+{
+  "attribute.name.generic.additionalentityattributes.water_speed": "Velocidad de movimiento en el agua",
+  "attribute.name.generic.additionalentityattributes.lava_speed": "Velocidad de movimiento en la lava",
+  "attribute.name.generic.additionalentityattributes.critical_bonus_damage": "Daño extra por golpe crítico",
+  "attribute.name.generic.additionalentityattributes.water_visibility": "Visión en agua",
+  "attribute.name.generic.additionalentityattributes.lava_visibility": "Visión en lava",
+  "attribute.name.generic.additionalentityattributes.generic.dig_speed": "Velocidad de excavado",
+  "attribute.name.generic.additionalentityattributes.generic.bonus_rare_loot_rolls": "Tiradas adicionales de botín raro",
+  "attribute.name.generic.additionalentityattributes.generic.bonus_loot_count_rolls": "Tiradas adicionales de botín de encantamientos",
+  "attribute.name.generic.additionalentityattributes.player.dropped_experience": "Experiencia soltada",
+  "attribute.name.generic.additionalentityattributes.player.magic_protection": "Protección Mágica"
+}

@@ -1,0 +1,9 @@
+{
+  "snowundertrees.config.title": "Configuração de Neve Sob Árvores",
+  "snowundertrees.config.enableBiomeFeature": "Habilitar Geração",
+  "snowundertrees.config.enableBiomeFeature.desc": "Se desativado, nenhuma neve será gerada sob as árvores.",
+  "snowundertrees.config.enableWhenSnowing": "Gerar Quando Estiver Nevando",
+  "snowundertrees.config.enableWhenSnowing.desc": "Se desativado, a neve não será gerada sob as árvores quando estiver nevando.",
+  "snowundertrees.config.supportedBiomes": "Biomas Suportados",
+  "snowundertrees.config.supportedBiomes.desc": "Uma lista de IDs de biomas que terão neve gerada sob árvores."
+}

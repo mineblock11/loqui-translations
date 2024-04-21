@@ -1,0 +1,13 @@
+{
+  "libjf-web-v0.jfconfig.title": "LibJF Web v0",
+  "libjf-web-v0.jfconfig.serverIp": "IP-адреса сервера",
+  "libjf-web-v0.jfconfig.serverIp.tooltip": "Загальнодоступна назва IP/хосту для надсилання клієнтам",
+  "libjf-web-v0.jfconfig.port": "Порт",
+  "libjf-web-v0.jfconfig.port.tooltip": "Порт для зберігання вмісту",
+  "libjf-web-v0.jfconfig.portOverride": "Перенаправлення порту",
+  "libjf-web-v0.jfconfig.portOverride.tooltip": "Порт для надсилання клієнтам (для зворотних проксі, -1 для вимкнення)",
+  "libjf-web-v0.jfconfig.maxConnections": "Максимальна кількість з’єднань",
+  "libjf-web-v0.jfconfig.maxConnections.tooltip": "Максимальна кількість одночасних з’єднань з цим сервером",
+  "libjf-web-v0.jfconfig.enableFileHost": "Увімкнути хост файлів",
+  "libjf-web-v0.jfconfig.enableFileHost.tooltip": "Чи повинні файли з config/wwwroot розміщуватися як статичні ресурси"
+}

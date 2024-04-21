@@ -1,0 +1,10 @@
+{
+  "item.ad_astra_rocketed.tier_5_rocket": "5级火箭",
+  "item.ad_astra_rocketed.tier_6_rocket": "6级火箭",
+  "item.ad_astra_rocketed.tier_7_rocket": "7级火箭",
+  "creativetab.ad_astra_rocketed_tab": "天空兼容",
+  "itemGroup.ad_astra_rocketed.main": "Ad Astra火箭",
+  "entity.ad_astra.tier_5_rocket": "5级火箭",
+  "entity.ad_astra.tier_6_rocket": "6级火箭",
+  "entity.ad_astra.tier_7_rocket": "7级火箭"
+}

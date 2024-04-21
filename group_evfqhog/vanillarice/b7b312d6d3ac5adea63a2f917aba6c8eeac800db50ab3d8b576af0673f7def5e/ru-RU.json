@@ -1,0 +1,12 @@
+{
+	"item.vanillarice.rice_seeds": "Семена риса",
+	"item.vanillarice.rice_grain": "Рис",
+	"item.vanillarice.rice_bowl": "Миска риса",
+	"item.vanillarice.maki_sushi": "Маки-суши",
+	"item.vanillarice.fried_rice": "Жареный рис",
+	"item.vanillarice.mochi": "Моти",
+	"item.vanillarice.rice_bag": "Мешок риса",
+	"item.vanillarice.rice_crop": "Рисовое растение",
+	"itemGroup.vanillarice": "Vanilla Rice",
+	"langfile_author": "Loqui"
+}

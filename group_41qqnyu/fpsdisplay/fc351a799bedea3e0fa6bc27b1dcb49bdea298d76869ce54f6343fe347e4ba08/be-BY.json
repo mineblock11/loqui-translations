@@ -1,0 +1,16 @@
+{
+    "text.fpsdisplay.options.fallback_title": "Абвяшчэнне наладаў выяўлення FPS",
+    "text.fpsdisplay.options.fallback_message": "Калі ласка, ўсталюйце 'Cloth Config API', каб атрымаць доступ да меню налад",
+    "text.fpsdisplay.options.title": "Налады паказніка FPS",
+    "text.fpsdisplay.options.enabled": "Enabled",
+    "text.fpsdisplay.options.advancedStats": "Паказаць мінімальны, сярэдні і максімальны FPS",
+    "text.fpsdisplay.options.textSize": "Памер тэксту",
+    "text.fpsdisplay.options.textColor": "Колер тэксту",
+    "text.fpsdisplay.options.textAlpha": "Бачнасць тэксту",
+    "text.fpsdisplay.options.textShadows": "Цень тэксту",
+    "text.fpsdisplay.options.offsetTop": "Верхні адступ",
+    "text.fpsdisplay.options.offsetLeft": "Левы адступ",
+    "text.fpsdisplay.options.keybindMode": "Рэжым  спалучэнняў клавіш",
+    "key.fpsdisplay.category": "Паказчык FPS",
+    "key.fpsdisplay.toggleOverlay": "Уключыць паказ FPS"
+}

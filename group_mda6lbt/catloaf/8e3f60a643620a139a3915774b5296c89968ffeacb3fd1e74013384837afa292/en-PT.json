@@ -1,0 +1,8 @@
+{
+  "catloaf.config.header": "Parrot Killer Loaf Config",
+  "catloaf.config.category.general": "General",
+  "catloaf.config.loafChance": "Loaf Chance (%)",
+  "catloaf.config.loafChance.description": "Says how oft'n parrot killer be made 'nto loaf 'stead o' sittin'.",
+  "catloaf.config.overrideChanceWithBread": "Make Changin' With Hard Tack",
+  "catloaf.config.overrideChanceWithBread.description": "If holdin' hard tack, parrot killer alway' be loaf."
+}

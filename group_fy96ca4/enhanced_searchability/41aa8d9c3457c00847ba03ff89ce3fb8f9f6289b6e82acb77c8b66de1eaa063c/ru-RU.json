@@ -1,0 +1,8 @@
+{
+  "enhanced_searchability.searchBox": "Искать...",
+  "enhanced_searchability.clearButton": "X",
+  "text.autoconfig.enhanced_searchability.title": "Enhanced Searchability",
+  "text.autoconfig.enhanced_searchability.option.resourcePacksEnabled": "Включить строку поиска в наборах ресурсов?",
+  "text.autoconfig.enhanced_searchability.option.serversEnabled": "Включить строку поиска в списке серверов?",
+  "text.autoconfig.enhanced_searchability.option.statsEnabled": "Включить строку поиска в статистике?"
+}

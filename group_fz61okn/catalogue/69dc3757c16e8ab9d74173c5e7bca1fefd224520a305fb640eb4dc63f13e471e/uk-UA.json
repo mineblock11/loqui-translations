@@ -1,0 +1,16 @@
+{
+    "fml.menu.mods.filter_updates": "Показати тільки моди з оновленнями",
+    "catalogue.gui.internal_libraries": "Показати внутрішні бібліотеки",
+    "catalogue.gui.no_selection": "Ні одного моду не обрано...",
+    "catalogue.gui.mod_list": "Моди",
+    "catalogue.gui.search": "Пошук",
+    "catalogue.gui.config": "Конфіг",
+    "catalogue.gui.open_mods_folder": "Відкрити теку модів",
+    "catalogue.gui.licenses": "Ліцензія(ї): %s",
+    "catalogue.gui.authors": "Автор(и): %s",
+    "catalogue.gui.contributors": "Співавтор(и): %s",
+    "catalogue.gui.credits": "Титри: %s",
+    "catalogue.gui.version": "Версія: %s",
+    "catalogue.gui.update_available": "Оновлення: %s",
+    "catalogue.gui.info": "Це меню надано Catalogue. Натисніть тут, щоб відкрити сторінку CurseForge для цього моду!"
+}

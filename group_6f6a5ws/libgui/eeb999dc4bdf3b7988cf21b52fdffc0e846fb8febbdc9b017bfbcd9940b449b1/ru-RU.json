@@ -1,0 +1,17 @@
+{
+  "options.libgui.libgui_settings": "Настройки LibGui",
+  "option.libgui.darkmode": "Dark Mode",
+  "widget.libgui.item_slot.narration.title": "Слот %s из %s",
+  "widget.libgui.labeled_slider.narration.title": "Ползунок %s: на %s между %s и %s",
+  "widget.libgui.scroll_bar.narration.title": "Полоса прокрутки",
+  "widget.libgui.slider.narration.title": "Ползунок: на %s между %s и %s",
+  "widget.libgui.slider.narration.usage": "Двигайте, перетаскивая курсором или с помощью стрелок",
+  "widget.libgui.tab.narration.title": "Вкладка %s",
+  "widget.libgui.tab.narration.position": "Вкладка %s из %s",
+  "widget.libgui.text_field.narration.title": "Текстовое поле: %s",
+  "widget.libgui.text_field.narration.suggestion": "Предложение: %s",
+  "widget.libgui.toggle_button.narration.unnamed": "Переключатель: %s",
+  "widget.libgui.toggle_button.narration.named": "Переключатель: %s (%s)",
+  "widget.libgui.toggle_button.narration.on": "On",
+  "widget.libgui.toggle_button.narration.off": "Off"
+}

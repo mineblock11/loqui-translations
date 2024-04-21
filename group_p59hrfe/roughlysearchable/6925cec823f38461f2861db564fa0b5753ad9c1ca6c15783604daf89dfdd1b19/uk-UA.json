@@ -1,0 +1,9 @@
+{
+  "config.roughlyenoughitems.roughlysearchable": "Roughly Searchable",
+  "config.roughlyenoughitems.config.RS_keybind": "Ввімкнути/Вимкнути Пошук",
+  "config.roughlyenoughitems.config.RS_search": "Шукати по",
+  "config.roughlyenoughitems.config.RS_indicator": "Показники",
+  "config.roughlyenoughitems.config.RS_indicator.RS_trueSize": "Відповідний розмір",
+  "config.roughlyenoughitems.config.RS_indicator.RS_falseSize": "Невідповідний розмір",
+  "config.roughlyenoughitems.config.RS_indicator.RS_background": "Затемнити фон"
+}

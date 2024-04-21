@@ -1,0 +1,20 @@
+{
+	"trinkets.tooltip.slots.any": "Kann in allen Trinket-Inventarplätzen ausgerüstet werden",
+	"trinkets.tooltip.slots.list": "Kann in diesen Trinket-Inventarplätzen ausgerüstet werden:",
+	"trinkets.tooltip.slots.single": "Kann im %d-Trinket-Inventarplatz ausgerüstet werden",
+	"trinkets.tooltip.attributes.all": "Wenn ausgerüstet:",
+	"trinkets.tooltip.attributes.single": "Wenn im %d-Trinket-Inventarplatz ausgerüstet:",
+	"trinkets.tooltip.attributes.slots": "%d-Trinket-Inventarplätze",
+	"trinkets.slot.head.face": "Gesicht",
+	"trinkets.slot.head.hat": "Kopfbedeckung",
+	"trinkets.slot.chest.necklace": "Halskette",
+	"trinkets.slot.chest.back": "Rücken",
+	"trinkets.slot.chest.cape": "Umhang",
+	"trinkets.slot.legs.belt": "Gürtel",
+	"trinkets.slot.feet.aglet": "Pinke",
+	"trinkets.slot.feet.shoes": "Schuhe",
+	"trinkets.slot.hand.glove": "Handschuh",
+	"trinkets.slot.offhand.glove": "Handschuh",
+	"trinkets.slot.hand.ring": "Ring",
+	"trinkets.slot.offhand.ring": "Ring"
+}

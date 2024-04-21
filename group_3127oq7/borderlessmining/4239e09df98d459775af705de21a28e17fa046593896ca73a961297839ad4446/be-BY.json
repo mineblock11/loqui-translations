@@ -1,0 +1,21 @@
+{
+  "text.borderlessmining.videomodename": "Borderless Windowed",
+  "config.borderlessmining.title": "Налады Borderless Mining",
+  "config.borderlessmining.general": "General",
+  "config.borderlessmining.general.enabled": "Бязрамачны Поўны Экран",
+  "config.borderlessmining.general.enabled.tooltip": "Пераключаецца на поўнаэкранны рэжым без меж, калі ўключаны поўнаэкранны рэжым",
+  "config.borderlessmining.general.videomodeoption": "Параметр поўнага экрану",
+  "config.borderlessmining.general.videomodeoption.tooltip": "Дадае опцыю на слайдер разрознасці поўнаэкраннага разрознасці, які ўключае мод",
+  "config.borderlessmining.general.forcemonitor": "Манітор",
+  "config.borderlessmining.general.forcemonitor.current": "Бягучы",
+  "config.borderlessmining.general.enabledmac": "Уключыць на macOS",
+  "config.borderlessmining.general.enabledmac.tooltip": "Адключана па змаўчанні на macOS, так як ёсць лепшая падтрымка натывнага поўнаэкраннага рэжыму; гэтая опцыя нічога не рабіць на іншых сістэмах",
+  "config.borderlessmining.dimensions": "Dimensions",
+  "config.borderlessmining.dimensions.enabled": "Выкарыстоўвайце карыстальніцкія памеры",
+  "config.borderlessmining.dimensions.monitorcoordinates": "Выкарыстоўвайце каардынаты, адносныя да манітора",
+  "config.borderlessmining.dimensions.monitorcoordinates.tooltip": "Выкарыстоўвайце каардынаты адносна манітора, замест абсалютных",
+  "config.borderlessmining.dimensions.x": "Каардыната X",
+  "config.borderlessmining.dimensions.y": "Каардыната Y",
+  "config.borderlessmining.dimensions.width": "Width",
+  "config.borderlessmining.dimensions.height": "Height"
+}

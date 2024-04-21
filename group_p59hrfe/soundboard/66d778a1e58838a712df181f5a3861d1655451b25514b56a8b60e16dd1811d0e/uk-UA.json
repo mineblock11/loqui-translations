@@ -1,0 +1,24 @@
+{
+  "soundboard.title": [
+    {
+      "text": "Soundboard",
+      "color": "aqua",
+      "bold": true
+    }
+  ],
+  "soundboard.keybinds.browser": "Відкрити переглядач звуків",
+  "soundboard.keybinds.cancel": "Скасувати відтворення звуку",
+  "soundboard.browser.directory_name": [
+    {
+      "index": 0,
+      "bold": true
+    }
+  ],
+  "soundboard.browser.directory_name.tooltip": "Утримуйте Shift і натисніть, щоб відкрити у менеджері файлів",
+  "soundboard.browser.file_name": [
+    {
+      "index": 0
+    }
+  ],
+  "soundboard.browser.file_name.tooltip": "Утримуйте Shift і натисніть, щоб відтворити локально"
+}

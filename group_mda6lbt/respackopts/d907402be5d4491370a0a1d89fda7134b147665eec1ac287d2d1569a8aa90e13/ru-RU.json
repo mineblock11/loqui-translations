@@ -1,0 +1,20 @@
+{
+  "respackopts.loadFailed": "Не удалось загрузить наборы ресурсов",
+  "respackopts.loadError": "Возникла проблема с настройками наборов ресурсов. Пожалуйста, просмотрите игровой лог.",
+  "respackopts.configure": "Настроить",
+  "respackopts.jfconfig.title": "Respackopts",
+  "respackopts.jfconfig.debugCommands": "Отладочные команды",
+  "respackopts.jfconfig.debugLogs": "Отладочные логи",
+  "respackopts.jfconfig.ioLogs": "Логи ввода-вывода",
+  "respackopts.jfconfig.ioLogs.tooltip": "Записывает каждую попытку доступа к ресурсам. ВНИМАНИЕ: с этим ваши логи будут гигантскими! (необходим перезапуск для применения).",
+  "respackopts.jfconfig.dashloaderCompat": "Совместимость с DashLoader",
+  "respackopts.invalid": "Недопустимое значение",
+  "respackopts.dumpSucceeded": "Ресурс успешно выгружен в %s",
+  "respackopts.dumpFailed": "Не удалось выгрузить запрашиваемый ресурс. Подробности есть в логе.",
+  "respackopts.reloadSucceeded": "Ресурсы и данные успешно перезагружены",
+  "respackopts.reloadFailed": "Не удалось перезагрузить все ресурсы. Подробности есть в логе.",
+  "respackopts.versionText": "Версия %s, использующая мета-версию %s Respackopts",
+  "respackopts.invalidId": "Недопустимый идентификатор",
+  "respackopts.snippet.success": "Фрагмент кода выполнен и получен результат: %s",
+  "respackopts.snippet.failed": "Фрагмент кода не был выполнен: %s"
+}

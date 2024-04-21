@@ -1,0 +1,5 @@
+{
+  "item.woodenbucket.wooden_bucket": "Деревянное ведро",
+  "item.woodenbucket.wooden_bucket.entity": "Деревянное ведро (%s)",
+  "item.woodenbucket.wooden_bucket.filled": "Деревянное ведро (%s)"
+}

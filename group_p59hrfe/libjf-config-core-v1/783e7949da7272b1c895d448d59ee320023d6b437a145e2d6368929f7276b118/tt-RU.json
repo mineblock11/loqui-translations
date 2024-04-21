@@ -1,0 +1,5 @@
+{
+    "libjf-config-core-v1.jfconfig.title": "LibJF көйләүләре",
+    "libjf-config-core-v1.jfconfig.watchForChanges": "Көйләүләрнен автомат куллануы",
+    "libjf-config-core-v1.jfconfig.watchForChanges.tooltip": "Үзгәртүләр булганда көйләүләрне автоматик рәвештә кабаттан йөкли"
+}

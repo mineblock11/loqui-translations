@@ -1,0 +1,11 @@
+{
+    "itemscroller.gui.button.config_gui.generic": "Generic",
+    "itemscroller.gui.button.config_gui.hotkeys": "Hotkeys",
+    "itemscroller.gui.button.config_gui.toggles": "Switches",
+    "itemscroller.gui.label.recipe_page": "Page %d / %d",
+    "itemscroller.gui.label.trades": "Deals",
+    "itemscroller.gui.label.trade_uses": "Deal uses: %d / %d",
+    "itemscroller.gui.title.configs": "Item Scroller (Andrew fork) Configs",
+    "itemscroller.message.toggled_mod_off": "Switched all Item Scroller magic §cOFF",
+    "itemscroller.message.toggled_mod_on": "Swtiched all Item Scroller magic §aON"
+}

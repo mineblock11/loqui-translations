@@ -1,0 +1,8 @@
+{
+    "bedrockwaters.carrotconfig.title": "Configuração do BedrockWaters!",
+    "bedrockwaters.carrotconfig.enableAlternateFog.name": "Ativar Névoa de Água Alternativa",
+    "bedrockwaters.carrotconfig.enableAlternateFog.tooltip": "Determina se a visibilidade subaquática deve seguir o comportamento presente na edição Bedrock.\n\n(§oIsso geralmente resulta numa visibilidade subaquática menor quando comparada à edição Java.§r§r)",
+    "bedrockwaters.carrotconfig.enableWaterOpacityBlend.name": "Ativar Opacidade da Água por Bioma",
+    "bedrockwaters.carrotconfig.enableWaterOpacityBlend.tooltip": "Determina se a opacidade da água entre os biomas pode diferir. Por exemplo, os biomas de Pântano terão uma opacidade maior, resultando em água mais turva.\n\n(§oEssa funcionalidade está §c§oativada §nsomente§r§c§o quando usando o pacote de recursos §r§c§oBedrockWaters§r§o!)\n\n(§oEssa funcionalidade está §c§odesativada quando usando o Sodium§r§o por motivos técnicos.§r§r)",
+    "bedrockwaters.carrotconfig.propertyOverrideNotice.text": "§7§oAs propriedades de bioma devem ser editadas §nmanualmente§r§7§o através do arquivo de configuração por enquanto--desculpe!§r§r"
+}
