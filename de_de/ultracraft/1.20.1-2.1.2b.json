@@ -1,0 +1,13 @@
+{
+    "block.ultracraft.mesh": "Rost",
+    "block.ultracraft.rusty_mesh": "Rostiger Rost",
+    "color.minecraft.rgb": "Benutzerdefiniert",
+    "pattern.ultracraft.none": "Standard",
+    "screen.ultracraft.travel.back": "Zurück",
+    "screen.ultracraft.wing-settings.back": "Zurück",
+    "screen.ultracraft.wing-settings.presets.title": "Voreinstellungen",
+    "screen.ultracraft.wing-settings.reset": "Standard",
+    "text.autoconfig.ultracraft.category.debug": "Debug (zur Fehlersuche)",
+    "title.tutorial.hivel.dash": "Zum Sprinten\/Vorwärtsspringen (dash) die [Linke Umschalttaste] drücken (verbraucht Ausdauer). Dies funktioniert auch in der Luft",
+    "wing-preset.ultracraft.amethyst": "Amethystfarbener Inselspringer"
+}

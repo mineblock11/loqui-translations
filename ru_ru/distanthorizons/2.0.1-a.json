@@ -1,0 +1,23 @@
+{
+    "distanthorizons.config.client.advanced.graphics.advancedGraphics.caveCullingHeight": "Высота отсечения пещер",
+    "distanthorizons.config.client.advanced.graphics.advancedGraphics.enableCaveCulling": "Отсечение пещер",
+    "distanthorizons.config.client.advanced.graphics.quality.lodBiomeBlending": "Смешивание биомов",
+    "distanthorizons.config.enum.EFogDrawMode.FOG_ENABLED": "Включена",
+    "distanthorizons.config.enum.EGenerationPriority.AUTO": "Авто",
+    "distanthorizons.config.enum.EGpuUploadMethod.AUTO": "Авто",
+    "distanthorizons.config.enum.EHorizontalQuality.EXTREME": "Максимальное",
+    "distanthorizons.config.enum.EHorizontalQuality.HIGH": "Высокое",
+    "distanthorizons.config.enum.EHorizontalQuality.LOW": "Низкое",
+    "distanthorizons.config.enum.EHorizontalQuality.MEDIUM": "Среднее",
+    "distanthorizons.config.enum.EOverdrawPrevention.MEDIUM": "Среднее",
+    "distanthorizons.config.enum.EQualityPreset.EXTREME": "Максимальное",
+    "distanthorizons.config.enum.EQualityPreset.HIGH": "Высокое",
+    "distanthorizons.config.enum.EQualityPreset.LOW": "Низкое",
+    "distanthorizons.config.enum.EQualityPreset.MEDIUM": "Среднее",
+    "distanthorizons.config.enum.ERendererMode.DEFAULT": "По умолчанию",
+    "distanthorizons.config.enum.EVerticalQuality.EXTREME": "Максимальное",
+    "distanthorizons.config.enum.EVerticalQuality.HIGH": "Высокое",
+    "distanthorizons.config.enum.EVerticalQuality.LOW": "Низкое",
+    "distanthorizons.config.enum.EVerticalQuality.MEDIUM": "Среднее",
+    "distanthorizons.general.back": "Назад"
+}

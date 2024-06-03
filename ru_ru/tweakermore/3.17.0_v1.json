@@ -1,0 +1,10 @@
+{
+    "tweakermore.gui.config_type.config": "Конфиг",
+    "tweakermore.gui.config_type.list": "Список",
+    "tweakermore.gui.element.config_button_boolean_switch.disabled": "Выключены",
+    "tweakermore.gui.element.config_button_boolean_switch.enabled": "Включены",
+    "tweakermore.list_entry.lmRemoveEntityCommandPolicy.auto": "Авто",
+    "tweakermore.list_entry.restriction_type.none": "Откл.",
+    "tweakermore.util.mod.minecraft": "Minecraft",
+    "tweakermore.util.mod.sodium": "Sodium"
+}

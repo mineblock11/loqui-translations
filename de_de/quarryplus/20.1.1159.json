@@ -1,0 +1,8 @@
+{
+    "gui.left": "Links",
+    "gui.reset": "Zurücksetzen",
+    "gui.right": "Rechts",
+    "quarryplus.client.tooltip": "Client",
+    "quarryplus.machines.tooltip": "Maschinen",
+    "text.autoconfig.quarryplus.option.common.debug": "Debug (zur Fehlersuche)"
+}

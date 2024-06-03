@@ -1,0 +1,17 @@
+{
+    "figura.config.button_location.4.tooltip": "Stellt den Figura-Button als Text dar, verankert in der unteren linken Ecke des Bildschirms",
+    "figura.config.button_location.5": "Unten rechts",
+    "figura.config.button_location.5.tooltip": "Stellt den Figura-Button als Text dar, verankert in der unteren rechten Ecke des Bildschirms",
+    "figura.config.figura_inventory.tooltip": "Schaltet zwischen Figuras Anziehpuppen-Darstellung und der Spielerdarstellung des unveränderten Spiels für den Inventarbildschirm um",
+    "figura.config.iris_compatibility_fix.1": "Kein",
+    "figura.config.log_location.1": "Chat",
+    "figura.config.nameplate_level.1": "Kein",
+    "figura.config.networking_logging.4": "Kein",
+    "figura.config.networking_restriction.3": "Kein",
+    "figura.config.update_channel.1": "Kein",
+    "figura.gui.cancel": "Abbrechen",
+    "figura.gui.done": "Fertig",
+    "figura.permissions.category.high": "Hoch",
+    "figura.permissions.category.low": "Gering",
+    "figura.popup_menu.cancel": "Abbrechen"
+}

@@ -1,0 +1,14 @@
+{
+    "text.autoconfig.smoke_suppression.option.always_suppress_smoke": "",
+    "text.autoconfig.smoke_suppression.option.always_suppress_smoke.@Tooltip": "",
+    "text.autoconfig.smoke_suppression.option.fetch_translation_updates": "",
+    "text.autoconfig.smoke_suppression.option.fetch_translation_updates.@Tooltip": "",
+    "text.autoconfig.smoke_suppression.option.invert_list_behavior": "",
+    "text.autoconfig.smoke_suppression.option.invert_list_behavior.@Tooltip": "",
+    "text.autoconfig.smoke_suppression.option.suppressing_blocks": "",
+    "text.autoconfig.smoke_suppression.option.suppressing_blocks.@Tooltip": "",
+    "text.autoconfig.smoke_suppression.title": "",
+    "text.smoke_suppression.name": "",
+    "text.smoke_suppression.no_config_screen.message": "",
+    "text.smoke_suppression.no_config_screen.title": ""
+}

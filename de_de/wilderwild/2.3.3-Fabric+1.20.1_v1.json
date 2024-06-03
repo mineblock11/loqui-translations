@@ -1,0 +1,11 @@
+{
+    "block.wilderwild.palm_slab": "Palmenholzstufe",
+    "block.wilderwild.palm_stairs": "Palmenholztreppe",
+    "block.wilderwild.stripped_palm_log": "Entrindeter Palmenbaumstamm",
+    "entity.wilderwild.palm_boat": "Palmenholzboot",
+    "entity.wilderwild.palm_chest_boat": "Palmenholztruhenboot",
+    "item.wilderwild.copper_horn": "Kupferhorn",
+    "item.wilderwild.palm_boat": "Palmenholzboot",
+    "item.wilderwild.palm_chest_boat": "Palmenholztruhenboot",
+    "option.wilderwild.block": "Block"
+}

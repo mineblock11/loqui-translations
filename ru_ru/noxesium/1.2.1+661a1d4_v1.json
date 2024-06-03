@@ -1,0 +1,10 @@
+{
+    "debug.fps_overlay": "%s кадр\/с",
+    "debug.fps_overlay.disabled": "Счетчик FPS теперь выключен",
+    "debug.fps_overlay.enabled": "Счетчик FPS теперь включён (F3 + Y что бы выключить)",
+    "debug.fps_overlay.help": "F3 + Y = Включить счётчик FPS",
+    "noxesium.options.experimental_patches.name": "Включить эксперементальную оптимизацию",
+    "noxesium.options.fps_overlay.name": "Оверлей FPS",
+    "noxesium.options.fps_overlay.tooltip": "Если эта опция включена, добавляется небольшой оверлей, который показывает текущую частоту кадров в секунду в левом верхнем углу экрана.",
+    "noxesium.options.pages.noxesium": "Noxesium"
+}

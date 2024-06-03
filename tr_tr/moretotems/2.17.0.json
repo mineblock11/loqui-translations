@@ -1,0 +1,15 @@
+{
+    "effect.moretotems.cephalopod": "",
+    "effect.moretotems.necrosis": "",
+    "effect.moretotems.sniper": "",
+    "entity.moretotems.summoned_bee": "",
+    "entity.moretotems.summoned_zombie": "",
+    "item.moretotems.explosive_totem_of_undying": "",
+    "item.moretotems.ghastly_totem_of_undying": "",
+    "item.moretotems.rotting_totem_of_undying": "",
+    "item.moretotems.skeletal_totem_of_undying": "",
+    "item.moretotems.stinging_totem_of_undying": "",
+    "item.moretotems.teleporting_totem_of_undying": "",
+    "item.moretotems.tentacled_totem_of_undying": "",
+    "itemGroup.moretotems.moretotems_items": ""
+}

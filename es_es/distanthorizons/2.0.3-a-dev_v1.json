@@ -1,0 +1,6 @@
+{
+    "distanthorizons.config.enum.EDhApiBlocksToAvoid.NONE": "Ninguno",
+    "distanthorizons.config.enum.EDhApiGLErrorHandlingMode.LOG": "Registro",
+    "distanthorizons.config.enum.EDhApiHeightFogMixMode.BASIC": "Básico",
+    "distanthorizons.config.enum.EDhApiOverdrawPrevention.NONE": "Ninguno"
+}

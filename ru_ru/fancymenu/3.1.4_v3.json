@@ -1,0 +1,18 @@
+{
+    "fancymenu.editor.anchor_overlay.visibility_mode.disabled": "Выключен",
+    "fancymenu.editor.edit.copy": "Скопировать",
+    "fancymenu.editor.edit.undo": "Отменить",
+    "fancymenu.editor.items.shape.color": "Цвет",
+    "fancymenu.editor.loading_requirement.category.gui": "Интерфейс",
+    "fancymenu.editor.loading_requirement.screens.requirement.info.mode.normal": "Обычно",
+    "fancymenu.elements.audio.play_mode.normal": "Обычно",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.advanced": "Для продвинутых",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.client": "Клиентская",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.gui": "Интерфейс",
+    "fancymenu.general.cycle.enabled_disabled.disabled": "Выключен",
+    "fancymenu.general.cycle.enabled_disabled.enabled": "Включено",
+    "fancymenu.layout.status.disabled": "Выключен",
+    "fancymenu.layout.status.enabled": "Включено",
+    "fancymenu.overlay.menu_bar.user_interface.ui_scale.auto": "Авто",
+    "fancymenu.ui.text_editor.copy": "Скопировать"
+}

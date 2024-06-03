@@ -1,0 +1,18 @@
+{
+    "block.blahaj.blahaj_backpack": "",
+    "gamerule.blahaj.contained.enable_use": "",
+    "gamerule.blahaj.contained.enable_use.description": "",
+    "item.blahaj.blue_shark": "",
+    "item.blahaj.blue_shark.tooltip": "",
+    "item.blahaj.blue_whale": "",
+    "item.blahaj.blue_whale.tooltip": "",
+    "item.blahaj.bread": "",
+    "item.blahaj.gray_shark": "",
+    "item.blahaj.gray_shark.tooltip": "",
+    "item.blahaj.killer_whale": "",
+    "item.blahaj.killer_whale.tooltip": "",
+    "item.blahaj.trans_shark": "",
+    "item.blahaj.trans_shark.tooltip": "",
+    "tooltip.blahaj.owner.craft": "",
+    "tooltip.blahaj.owner.rename": ""
+}

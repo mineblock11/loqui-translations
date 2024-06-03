@@ -1,0 +1,15 @@
+{
+    "text.autoconfig.biomeinfo.option.color": "",
+    "text.autoconfig.biomeinfo.option.displayTime": "",
+    "text.autoconfig.biomeinfo.option.enabled": "",
+    "text.autoconfig.biomeinfo.option.fadeIn": "",
+    "text.autoconfig.biomeinfo.option.fadeOut": "",
+    "text.autoconfig.biomeinfo.option.hideOnDebugScreen": "",
+    "text.autoconfig.biomeinfo.option.posX": "",
+    "text.autoconfig.biomeinfo.option.posY": "",
+    "text.autoconfig.biomeinfo.option.positionPreset": "",
+    "text.autoconfig.biomeinfo.option.scale": "",
+    "text.autoconfig.biomeinfo.option.textAlignment": "",
+    "text.autoconfig.biomeinfo.option.textShadow": "",
+    "text.autoconfig.biomeinfo.title": ""
+}

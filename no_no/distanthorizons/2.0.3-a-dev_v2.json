@@ -1,0 +1,11 @@
+{
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.EXTREME": "Ekstrem",
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.HIGH": "Høy",
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.LOW": "Lav",
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.MEDIUM": "Middels",
+    "distanthorizons.config.enum.EDhApiOverdrawPrevention.MEDIUM": "Middels",
+    "distanthorizons.config.enum.EDhApiQualityPreset.EXTREME": "Ekstrem",
+    "distanthorizons.config.enum.EDhApiQualityPreset.HIGH": "Høy",
+    "distanthorizons.config.enum.EDhApiQualityPreset.LOW": "Lav",
+    "distanthorizons.config.enum.EDhApiQualityPreset.MEDIUM": "Middels"
+}

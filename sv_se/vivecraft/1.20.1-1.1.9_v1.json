@@ -1,0 +1,7 @@
+{
+    "vivecraft.options.always": "Alltid",
+    "vivecraft.options.chatserverpluginmessage.always": "Alltid",
+    "vivecraft.options.chatserverpluginmessage.never": "Aldrig",
+    "vivecraft.options.renderpointerelement.always": "Alltid",
+    "vivecraft.options.renderpointerelement.never": "Aldrig"
+}

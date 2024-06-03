@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.modify-camera-collision.option.disableCollisionForAllBlocks": "",
+    "text.autoconfig.modify-camera-collision.option.disableCollisionForAllBlocks.@Tooltip": "",
+    "text.autoconfig.modify-camera-collision.option.forceDisableCollisionList": "",
+    "text.autoconfig.modify-camera-collision.option.forceDisableCollisionList.@Tooltip": "",
+    "text.autoconfig.modify-camera-collision.option.forceEnableCollisionList": "",
+    "text.autoconfig.modify-camera-collision.option.forceEnableCollisionList.@Tooltip": "",
+    "text.autoconfig.modify-camera-collision.title": ""
+}

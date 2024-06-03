@@ -1,0 +1,11 @@
+{
+    "malilib.gui.button.cancel": "Abbrechen",
+    "malilib.gui.label.block_snap.none": "Kein",
+    "malilib.gui.label.keybind_settings.cancel_further": "Weiteres Verarbeiten abbrechen",
+    "malilib.label.alignment.bottom_left": "Unten links",
+    "malilib.label.alignment.bottom_right": "Unten rechts",
+    "malilib.label.alignment.top_left": "Oben links",
+    "malilib.label.alignment.top_right": "Oben rechts",
+    "malilib.label.list_type.none": "Keine",
+    "malilib.label.message_output_type.none": "Kein"
+}

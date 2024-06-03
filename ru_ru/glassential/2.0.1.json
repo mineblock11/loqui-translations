@@ -1,0 +1,16 @@
+{
+    "block.glassential.ethereal_glass": "",
+    "block.glassential.ghostly_glass": "",
+    "block.glassential.light_glass": "",
+    "block.glassential.redstone_glass": "",
+    "block.glassential.reverse_ethereal_glass": "",
+    "block.glassential.tinted_ethereal_glass": "",
+    "block.glassential.tinted_reverse_ethereal_glass": "",
+    "itemGroup.glassential.items": "",
+    "tooltip.glassential.property_ethereal": "",
+    "tooltip.glassential.property_ghostly": "",
+    "tooltip.glassential.property_luminous": "",
+    "tooltip.glassential.property_redstone": "",
+    "tooltip.glassential.property_reverse_ethereal": "",
+    "tooltip.glassential.property_tinted": ""
+}

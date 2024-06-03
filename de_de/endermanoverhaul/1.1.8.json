@@ -1,0 +1,17 @@
+{
+    "config.endermanoverhaul.client.title": "Enderman-Überarbeitung",
+    "config.endermanoverhaul.description": "Enderman-Überarbeitung",
+    "config.endermanoverhaul.spawnCaveEnderman": "Höhlen-Enderman generieren",
+    "config.endermanoverhaul.spawnCrimsonForestEnderman": "Karmesinwald-Enderman generieren",
+    "config.endermanoverhaul.spawnWarpedForestEnderman": "Wirrwald-Enderman generieren",
+    "config.endermanoverhaul.title": "Enderman-Überarbeitung",
+    "entity.endermanoverhaul.cave_enderman": "Höhlen-Enderman",
+    "entity.endermanoverhaul.crimson_forest_enderman": "Karmesinwald-Enderman",
+    "entity.endermanoverhaul.warped_forest_enderman": "Wirrwald-Enderman",
+    "item.endermanoverhaul.cave_enderman_spawn_egg": "Höhlen-Enderman-Spawn-Ei",
+    "item.endermanoverhaul.crimson_forest_enderman_spawn_egg": "Karmesinwald-Enderman-Spawn-Ei",
+    "item.endermanoverhaul.warped_forest_enderman_spawn_egg": "Wirrwald-Enderman-Spawn-Ei",
+    "itemGroup.endermanoverhaul.main": "Enderman-Überarbeitung",
+    "subtitles.endermanoverhaul.entity.cave_enderman.ambient": "Höhlen-Enderman woopt",
+    "subtitles.endermanoverhaul.entity.cave_enderman.hurt": "Höhlen-Enderman nimmt Schaden"
+}

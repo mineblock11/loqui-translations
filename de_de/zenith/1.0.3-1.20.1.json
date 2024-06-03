@@ -1,0 +1,10 @@
+{
+    "gem_class.boots": "Stiefel",
+    "item.zenith.potion_charm.disabled": "Deaktiviert",
+    "item.zenith.potion_charm.enabled": "Aktiviert",
+    "rarity.enchantment.rare": "Selten",
+    "rarity.zenith:ancient": "Uralter Sturmfisch",
+    "rarity.zenith:rare": "Selten",
+    "text.zenith.category.boots": "Stiefel",
+    "text.zenith.category.boots.plural": "Stiefel"
+}

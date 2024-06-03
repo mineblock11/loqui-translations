@@ -1,0 +1,18 @@
+{
+    "block.createdeco.andesite_sheet_metal": "Andesitblech",
+    "block.createdeco.brass_sheet_metal": "Messingblech",
+    "block.createdeco.copper_bars": "Kupfergitter",
+    "block.createdeco.copper_door": "Kupfertür",
+    "block.createdeco.copper_sheet_metal": "Kupferblech",
+    "block.createdeco.copper_trapdoor": "Kupferfalltür",
+    "block.createdeco.copper_window": "Kupferfenster",
+    "block.createdeco.copper_window_pane": "Kupferfensterscheibe",
+    "block.createdeco.industrial_iron_sheet_metal": "Industrielles Eisenblech",
+    "block.createdeco.iron_sheet_metal": "Eisenblech",
+    "block.createdeco.zinc_sheet_metal": "Zinkblech",
+    "item.createdeco.copper_coin": "Kupfermünze",
+    "item.createdeco.copper_coinstack": "Kupfermünzenstapel",
+    "item.createdeco.industrial_iron_sheet": "Industrielles Eisenblech",
+    "item.createdeco.netherite_sheet": "Netheritblech",
+    "item.createdeco.zinc_sheet": "Zinkblech"
+}

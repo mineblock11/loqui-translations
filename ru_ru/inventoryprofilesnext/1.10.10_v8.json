@@ -1,0 +1,9 @@
+{
+    "inventoryprofiles.common.enum.context.gui": "Интерфейс",
+    "inventoryprofiles.common.enum.modifier_key.normal": "Обычно",
+    "inventoryprofiles.common.gui.config.reset": "Сбросить",
+    "inventoryprofiles.config.category.auto-refill.general": "Общие",
+    "inventoryprofiles.config.category.inventory": "Инвентарь",
+    "inventoryprofiles.config.category.misc": "Разное",
+    "inventoryprofiles.enum.post_action.none": "Нет"
+}

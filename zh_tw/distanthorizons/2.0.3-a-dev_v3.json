@@ -1,0 +1,17 @@
+{
+    "distanthorizons.config.enum.EDhApiDebugRendering.OFF": "關閉",
+    "distanthorizons.config.enum.EDhApiFogDrawMode.FOG_DISABLED": "已停用",
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.EXTREME": "極高",
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.HIGH": "高",
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.LOW": "低",
+    "distanthorizons.config.enum.EDhApiHorizontalQuality.MEDIUM": "中",
+    "distanthorizons.config.enum.EDhApiLodShading.DISABLED": "已停用",
+    "distanthorizons.config.enum.EDhApiLoggerMode.DISABLED": "已停用",
+    "distanthorizons.config.enum.EDhApiOverdrawPrevention.MEDIUM": "中",
+    "distanthorizons.config.enum.EDhApiQualityPreset.EXTREME": "極高",
+    "distanthorizons.config.enum.EDhApiQualityPreset.HIGH": "高",
+    "distanthorizons.config.enum.EDhApiQualityPreset.LOW": "低",
+    "distanthorizons.config.enum.EDhApiQualityPreset.MEDIUM": "中",
+    "distanthorizons.config.enum.EDhApiRendererMode.DISABLED": "已停用",
+    "distanthorizons.config.enum.EDhApiTransparency.DISABLED": "已停用"
+}

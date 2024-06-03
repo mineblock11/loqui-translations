@@ -1,0 +1,3 @@
+{
+    "modernfix.option.mixin.perf.compress_biome_container": "1.16 seulement. Optimisation mineure empruntée à Hydrogen, qui tente d'économiser de l'espace dans le conteneur de biome lorsque c'est possible. Cette optimisation est désactivée automatiquement si des mods conflictuels comme BetterEnd ou Chocolate sont installés."
+}

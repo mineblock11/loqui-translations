@@ -1,0 +1,5 @@
+{
+    "config.explayerenderer.general": "Allgemein",
+    "config_option.explayerenderer.pose_offset_method.auto": "Automatisch",
+    "config_option.explayerenderer.pose_offset_method.disabled": "Deaktiviert"
+}

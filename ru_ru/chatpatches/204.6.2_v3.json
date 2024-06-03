@@ -1,0 +1,12 @@
+{
+    "text.chatpatches.copy.copyString": "Скопировать строку >",
+    "text.chatpatches.copy.formattedString": "Форматированная",
+    "text.chatpatches.copy.jsonString": "JSON",
+    "text.chatpatches.copy.links": "Скопировать ссылку(-и) >",
+    "text.chatpatches.copy.name": "Имя пользователя",
+    "text.chatpatches.copy.sender": "Скопировать отправителя >",
+    "text.chatpatches.copy.timestamp": "Скопировать временную метку >",
+    "text.chatpatches.copy.unix": "Скопировать Unix-время",
+    "text.chatpatches.copy.uuid": "UUID",
+    "text.chatpatches.restored": "Восстановлено"
+}

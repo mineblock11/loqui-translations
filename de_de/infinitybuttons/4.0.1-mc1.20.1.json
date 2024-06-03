@@ -1,0 +1,18 @@
+{
+    "block.infinitybuttons.copper_button": "Kupferknopf",
+    "block.infinitybuttons.exposed_copper_button": "Angelaufener Kupferknopf",
+    "block.infinitybuttons.exposed_copper_large_button": "Angelaufener großer Kupferknopf",
+    "block.infinitybuttons.oxidized_copper_button": "Oxidierter Kupferknopf",
+    "block.infinitybuttons.sticky_exposed_copper_button": "Klebriger angelaufener Kupferknopf",
+    "block.infinitybuttons.sticky_exposed_copper_large_button": "Klebriger angelaufener großer Kupferknopf",
+    "block.infinitybuttons.sticky_weathered_copper_button": "Klebriger verwitterter Kupferknopf",
+    "block.infinitybuttons.waxed_copper_button": "Gewachster Kupferknopf",
+    "block.infinitybuttons.waxed_exposed_copper_button": "Gewachster angelaufener Kupferknopf",
+    "block.infinitybuttons.waxed_exposed_copper_large_button": "Gewachster angelaufener großer Kupferknopf",
+    "block.infinitybuttons.waxed_oxidized_copper_button": "Gewachster oxidierter Kupferknopf",
+    "block.infinitybuttons.waxed_weathered_copper_button": "Gewachster verwitterter Kupferknopf",
+    "block.infinitybuttons.waxed_weathered_copper_large_button": "Gewachster verwitterter großer Kupferknopf",
+    "block.infinitybuttons.weathered_copper_button": "Verwitterter Kupferknopf",
+    "block.infinitybuttons.weathered_copper_large_button": "Verwitterter großer Kupferknopf",
+    "text.config.infinity-buttons-config.option.tooltips": "Schnellinfos"
+}

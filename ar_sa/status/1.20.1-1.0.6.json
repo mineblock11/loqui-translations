@@ -1,0 +1,15 @@
+{
+    "gui.status.title": "",
+    "key.status_gui": "",
+    "message.status.change_status": "",
+    "message.status.do_not_disturb": "",
+    "message.status.incompatible_version": "",
+    "message.status.mod_name": "",
+    "message.status.neutral": "",
+    "message.status.no_availability": "",
+    "message.status.no_sleep": "",
+    "message.status.open": "",
+    "message.status.recording": "",
+    "message.status.set_status": "",
+    "message.status.streaming": ""
+}

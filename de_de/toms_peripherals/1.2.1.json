@@ -1,0 +1,5 @@
+{
+    "block.toms_peripherals.monitor": "Monitor",
+    "label.toms_peripherals.wdt.disabled": "Deaktiviert",
+    "label.toms_peripherals.wdt.enabled": "Aktiviert"
+}

@@ -1,0 +1,18 @@
+{
+    "block.create.chocolate": "Шоколад",
+    "create.bogey.style.standard": "Стандартный",
+    "create.contraption.door_control.none.short": "Нет",
+    "create.menu.configure": "Настроить",
+    "create.schematic.mirror.none": "Нет",
+    "create.schematic.rotation.none": "Нет",
+    "create.schematic.tool.rotate": "Поворот",
+    "create.tooltip.capacityProvided.medium": "Среднее",
+    "create.tooltip.speedRequirement.none": "Нет",
+    "create.tooltip.stressImpact.high": "Высокое",
+    "create.tooltip.stressImpact.low": "Низкое",
+    "fluid.create.chocolate": "Шоколад",
+    "fluid.create.potion": "Зелье",
+    "tag.c.chocolate": "Шоколад",
+    "tag.c.flour": "Мука",
+    "tag.c.raw_ores": "Рудные минералы"
+}

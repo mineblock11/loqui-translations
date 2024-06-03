@@ -1,0 +1,5 @@
+{
+    "config.entity_texture_features.Debug_log_mode.none": "Нет",
+    "config.entity_texture_features.emissive_mode.dull": "По умолчанию",
+    "config.entity_texture_features.player_skin_editor.cape.none": "Ваниль"
+}

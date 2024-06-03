@@ -1,0 +1,10 @@
+{
+    "tweakmyclient.gui.button.tab.color": "Цвет",
+    "tweakmyclient.gui.button.tab.list": "Список",
+    "tweakmyclient.label.breakAnimationMode.none": "Нет",
+    "tweakmyclient.label.enderPortalRenderMode.actual": "Действительный",
+    "tweakmyclient.label.enderPortalRenderMode.legacy": "Наследие",
+    "tweakmyclient.message.value.disabled": "Выключена",
+    "tweakmyclient.message.value.enabled": "Включена",
+    "tweakmyclient.misc.versionType.Unknown": "Неизвестная"
+}

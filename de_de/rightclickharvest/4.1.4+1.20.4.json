@@ -1,0 +1,5 @@
+{
+    "config.rightclickharvest.hungerLevel.high": "Hoch",
+    "config.rightclickharvest.hungerLevel.low": "Gering",
+    "config.rightclickharvest.hungerLevel.none": "Kein"
+}

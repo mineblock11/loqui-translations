@@ -1,0 +1,13 @@
+{
+    "smoothswapping.config.exit": "Sair",
+    "smoothswapping.config.menu": "Menu de Configuração Smooth Swapping",
+    "smoothswapping.config.option.animationspeed": "Velocidade da Animação",
+    "smoothswapping.config.option.animationspeed.reset": "Resetar",
+    "smoothswapping.config.option.animationspeed.speed": "Velocidade",
+    "smoothswapping.config.option.animationspeed.tooltip": "- Clique direito em um espaço vazio para criar um ponto de curva\\n-Clique esquerdo e arraste um ponto para movê-lo\\n-Clique direito uma vez para deletar",
+    "smoothswapping.config.save": "Salvar e Sair",
+    "smoothswapping.config.testinventory": "Inventário de Testes",
+    "smoothswapping.config.toggle": "Ativar Mod",
+    "smoothswapping.config.toggle.off": "Desabilitado",
+    "smoothswapping.config.toggle.on": "Habilitado"
+}

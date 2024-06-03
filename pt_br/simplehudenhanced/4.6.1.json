@@ -1,0 +1,17 @@
+{
+    "key.category.simplehudenhanced.hud": "Simple HUD Enhanced",
+    "key.simplehudenhanced.toggle_hud": "Alternar HUD",
+    "key.simplehudenhanced.toggle_hud.chat_message.off": "Simple HUD Enhanced Desativado",
+    "key.simplehudenhanced.toggle_hud.chat_message.on": "Simple HUD Enhanced Ativado",
+    "text.autoconfig.simplehudenhanced.category.Effects Status": "Status de efeitos",
+    "text.autoconfig.simplehudenhanced.category.Effects Status.@Tooltip": "Status de efeitos",
+    "text.autoconfig.simplehudenhanced.category.Equipment Status": "Status de equipamento",
+    "text.autoconfig.simplehudenhanced.category.Equipment Status.@Tooltip": "Status de equipamento",
+    "text.autoconfig.simplehudenhanced.category.Movement Status": "Status de movimento",
+    "text.autoconfig.simplehudenhanced.category.Movement Status.@Tooltip": "Status de movimento",
+    "text.autoconfig.simplehudenhanced.category.Status Elements": "Elementos de status",
+    "text.autoconfig.simplehudenhanced.category.Status Elements.@Tooltip": "Elementos de status",
+    "text.autoconfig.simplehudenhanced.option.colorMode": "Modo de cor",
+    "text.autoconfig.simplehudenhanced.option.colorMode.@Tooltip[0]": "Método de determinação de cores.",
+    "text.hud.simplehudenhanced.biome": "Bioma"
+}

@@ -1,0 +1,5 @@
+{
+    "tweakermore.list_entry.infoViewRenderStrategy.always": "Alltid",
+    "tweakermore.list_entry.lmRemoveEntityCommandPolicy.always": "Alltid",
+    "tweakermore.list_entry.schematicBlockPlacementRestrictionHintType.never": "Aldrig"
+}

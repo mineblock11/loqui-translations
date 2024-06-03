@@ -1,0 +1,17 @@
+{
+    "commands.whatisthisitem.no_item_held": "",
+    "heywiki.too_far": "",
+    "key.categories.heywiki": "",
+    "key.heywiki.open": "",
+    "options.heywiki.general": "",
+    "options.heywiki.language.auto": "",
+    "options.heywiki.language.description": "",
+    "options.heywiki.language.name": "",
+    "options.heywiki.raycast_allow_fluid.description": "",
+    "options.heywiki.raycast_allow_fluid.name": "",
+    "options.heywiki.raycast_max_reach.description": "",
+    "options.heywiki.raycast_max_reach.name": "",
+    "options.heywiki.requires_confirmation.description": "",
+    "options.heywiki.requires_confirmation.name": "",
+    "options.heywiki.title": ""
+}

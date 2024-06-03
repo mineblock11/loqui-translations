@@ -1,0 +1,8 @@
+{
+    "metabolism.midnightconfig.category.server": "Server",
+    "metabolism.midnightconfig.category.tooltip": "Schnellinfos",
+    "metabolism.midnightconfig.enum.Anchor.BOTTOM_LEFT": "Unten links",
+    "metabolism.midnightconfig.enum.Anchor.BOTTOM_RIGHT": "Unten rechts",
+    "metabolism.midnightconfig.enum.Anchor.TOP_LEFT": "Oben links",
+    "metabolism.midnightconfig.enum.Anchor.TOP_RIGHT": "Oben rechts"
+}

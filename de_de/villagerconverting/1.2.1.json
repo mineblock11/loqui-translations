@@ -1,0 +1,10 @@
+{
+    "villagerconverting.roundalib.gui_alignment.bottom_left": "Unten links",
+    "villagerconverting.roundalib.gui_alignment.bottom_right": "Unten rechts",
+    "villagerconverting.roundalib.gui_alignment.top_left": "Oben links",
+    "villagerconverting.roundalib.gui_alignment.top_right": "Oben rechts",
+    "villagerconverting.roundalib.gui_theme.auto": "Automatisch",
+    "villagerconverting.roundalib.gui_theme.light": "Leicht",
+    "villagerconverting.roundalib.toggle.disabled": "Deaktiviert",
+    "villagerconverting.roundalib.toggle.enabled": "Aktiviert"
+}

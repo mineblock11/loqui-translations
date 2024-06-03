@@ -1,0 +1,6 @@
+{
+    "options.villagertimetable.render_location.north_east": "Nordost",
+    "options.villagertimetable.render_location.north_west": "Nordwest",
+    "options.villagertimetable.render_location.south_east": "Südost",
+    "options.villagertimetable.render_location.south_west": "Südwest"
+}

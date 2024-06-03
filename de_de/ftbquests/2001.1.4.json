@@ -1,0 +1,19 @@
+{
+    "ftbquests.file.progression_mode.default": "Standard",
+    "ftbquests.file.progression_mode.linear": "Linear",
+    "ftbquests.gui.change_progress.complete": "Voll",
+    "ftbquests.gui.change_progress.reset": "Zurücksetzen",
+    "ftbquests.gui.undo": "Rückgängig",
+    "ftbquests.null": "Kein",
+    "ftbquests.quest.shape.default": "Standard",
+    "ftbquests.quest.visibility": "Sichtbarkeit",
+    "ftbquests.rarity.rare": "Selten",
+    "ftbquests.reward.autoclaim.default": "Standard",
+    "ftbquests.reward.autoclaim.disabled": "Deaktiviert",
+    "ftbquests.reward.autoclaim.enabled": "Aktiviert",
+    "ftbquests.reward.ftbquests.custom": "Benutzerdefiniert",
+    "ftbquests.reward.ftbquests.npc_mail.message": "Nachricht",
+    "ftbquests.reward_table.loot_crate.color": "Farbe",
+    "ftbquests.task.ftbquests.biome.biome": "Biom",
+    "ftbquests.task.ftbquests.custom": "Benutzerdefiniert"
+}

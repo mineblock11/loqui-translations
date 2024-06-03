@@ -1,0 +1,12 @@
+{
+    "axiom.buildertool.confirm": "Bestätigen",
+    "axiom.editorui.mainmenu.edit.undo": "Rückgängig",
+    "axiom.editorui.no_keybind": "Kein",
+    "axiom.editorui.warning_confirmation": "Ich verstehe. Diese Nachricht nicht mehr anzeigen.",
+    "axiom.editorui.window.create_shape.advanced": "Erweitert",
+    "axiom.editorui.window.world_properties.pause_weather": "Wetter pausieren",
+    "axiom.editorui.window.world_properties.rain_weather": "Regen",
+    "axiom.editorui.window.world_properties.thunder_weather": "Donner",
+    "axiom.tool.gradient_painter.gradient_interpolation_linear": "Linear",
+    "axiom.tool.selection.confirm_selection": "(%s) bestätigen"
+}

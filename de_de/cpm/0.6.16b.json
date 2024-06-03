@@ -1,0 +1,21 @@
+{
+    "button.cpm.cancel": "Abbrechen",
+    "button.cpm.edit.undo": "Rückgängig",
+    "button.cpm.keybindNone": "Kein",
+    "label.cpm.animSlot.boots": "Stiefel",
+    "label.cpm.arg_parts": "Teile",
+    "label.cpm.dir.east": "Ost",
+    "label.cpm.dir.west": "West",
+    "label.cpm.display.boots": "Stiefel",
+    "label.cpm.key.left.alt": "Linke Alt-Taste",
+    "label.cpm.key.left.shift": "Linke Umschalttaste",
+    "label.cpm.keybind.undo": "Rückgängig",
+    "label.cpm.layerNone": "Kein",
+    "label.cpm.safetyProfile.high": "Hoch",
+    "label.cpm.safetyProfile.low": "Gering",
+    "label.cpm.safetyProfile.medium": "Mittel",
+    "label.cpm.safetyProfile.none": "Kein",
+    "tab.cpm.settings.general": "Allgemein",
+    "tab.cpm.tags.blocks": "Blöcke",
+    "tab.cpm.tags.entities": "Entitäten"
+}

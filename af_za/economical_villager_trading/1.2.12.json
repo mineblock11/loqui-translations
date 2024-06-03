@@ -1,0 +1,16 @@
+{
+    "text.autoconfig.economical_villager_trading.option.enableReputationPriceAdjustments": "",
+    "text.autoconfig.economical_villager_trading.option.enableReputationPriceAdjustments.@Tooltip": "",
+    "text.autoconfig.economical_villager_trading.option.enableVillagerLevelupWhileTrading": "",
+    "text.autoconfig.economical_villager_trading.option.enableVillagerLevelupWhileTrading.@Tooltip": "",
+    "text.autoconfig.economical_villager_trading.option.fetchTranslationUpdates": "",
+    "text.autoconfig.economical_villager_trading.option.fetchTranslationUpdates.@Tooltip": "",
+    "text.autoconfig.economical_villager_trading.option.villagerTradeAdjustBalance": "",
+    "text.autoconfig.economical_villager_trading.option.villagerTradeAdjustBalance.@Tooltip": "",
+    "text.autoconfig.economical_villager_trading.option.villagerXpMultiplier": "",
+    "text.autoconfig.economical_villager_trading.option.villagerXpMultiplier.@Tooltip": "",
+    "text.autoconfig.economical_villager_trading.title": "",
+    "text.economical_villager_trading.name": "",
+    "text.economical_villager_trading.no_config_screen.message": "",
+    "text.economical_villager_trading.no_config_screen.title": ""
+}

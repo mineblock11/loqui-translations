@@ -1,0 +1,21 @@
+{
+    "key.imblocker.checkCommandChat": "",
+    "key.imblocker.checkIntervalMilli": "",
+    "key.imblocker.enableScreenRecovering": "",
+    "key.imblocker.inputBlacklist": "",
+    "key.imblocker.inputWhitelist": "",
+    "key.imblocker.recoveredScreens": "",
+    "key.imblocker.screenBlacklist": "",
+    "key.imblocker.screenWhitelist": "",
+    "key.imblocker.useExperimental": "",
+    "text.autoconfig.imblocker.option.checkCommandChat": "",
+    "text.autoconfig.imblocker.option.checkIntervalMilli": "",
+    "text.autoconfig.imblocker.option.enableScreenRecovering": "",
+    "text.autoconfig.imblocker.option.inputBlacklist": "",
+    "text.autoconfig.imblocker.option.inputWhitelist": "",
+    "text.autoconfig.imblocker.option.recoveredScreens": "",
+    "text.autoconfig.imblocker.option.screenBlacklist": "",
+    "text.autoconfig.imblocker.option.screenWhitelist": "",
+    "text.autoconfig.imblocker.option.useExperimental": "",
+    "text.autoconfig.imblocker.title": ""
+}

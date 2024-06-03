@@ -1,0 +1,16 @@
+{
+    "block.charm.acacia_chest": "Akazienholztruhe",
+    "block.charm.bamboo_chest": "Bambustruhe",
+    "block.charm.cherry_chest": "Kirschholztruhe",
+    "block.charm.dark_oak_chest": "Schwarzeichenholztruhe",
+    "block.charm.spruce_chest": "Fichtenholztruhe",
+    "block.charm.trapped_acacia_chest": "Redstone-Akazienholztruhe",
+    "block.charm.trapped_bamboo_chest": "Redstone-Bambustruhe",
+    "block.charm.trapped_cherry_chest": "Redstone-Kirschholztruhe",
+    "block.charm.trapped_dark_oak_chest": "Redstone-Schwarzeichenholztruhe",
+    "block.charm.trapped_spruce_chest": "Redstone-Fichtenholztruhe",
+    "gui.charm.east": "Ost",
+    "gui.charm.north": "Nord",
+    "gui.charm.south": "Süd",
+    "gui.charm.west": "West"
+}

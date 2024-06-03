@@ -1,0 +1,19 @@
+{
+    "menu.skylper.config.location_screen.category.title": "路标点",
+    "menu.skylper.config.location_screen.category.waypoint.delete.description": "单击此处删除该路标点。执行此操作后，gui 不会立即更新。要查看此处的更改，必须重新打开此界面。",
+    "menu.skylper.config.location_screen.category.waypoint.delete.title": "删除路标点",
+    "menu.skylper.config.location_screen.category.waypoint.share.description": "单击此处在聊天中分享此路标点。",
+    "menu.skylper.config.location_screen.category.waypoint.share.title": "在聊天中分享",
+    "menu.skylper.config.location_screen.title": "路标点页面",
+    "menu.skylper.config.misc.title": "杂项",
+    "menu.skylper.hollows.tabhud.crystals.found": "找到",
+    "menu.skylper.hollows.tabhud.crystals.not_found": "未找到",
+    "menu.skylper.hollows.tabhud.crystals.placed": "已放置",
+    "menu.skylper.hollows.tabhud.crystals.title": "水晶",
+    "menu.skylper.overlay.duration": "用时：",
+    "menu.skylper.overlay.hollows.powder_grinding.chest": "打开的箱子：",
+    "menu.skylper.overlay.hollows.powder_grinding.per_hour_stat": "每小时%d",
+    "menu.skylper.overlay.hollows.powder_grinding.per_minute_stat": "每分钟%d",
+    "menu.skylper.overlay.hollows.powder_grinding.total_stat": "共%d",
+    "menu.skylper.tabhud.modifier.title": "更改HUD"
+}

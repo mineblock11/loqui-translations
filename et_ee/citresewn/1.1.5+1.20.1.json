@@ -1,0 +1,17 @@
+{
+    "config.citresewn.broken_paths.title": "",
+    "config.citresewn.broken_paths.tooltip": "",
+    "config.citresewn.cache_ms.ticks.0": "",
+    "config.citresewn.cache_ms.ticks.1": "",
+    "config.citresewn.cache_ms.ticks.any": "",
+    "config.citresewn.cache_ms.title": "",
+    "config.citresewn.cache_ms.tooltip": "",
+    "config.citresewn.enabled.tooltip": "",
+    "config.citresewn.mute_errors.title": "",
+    "config.citresewn.mute_errors.tooltip": "",
+    "config.citresewn.mute_warns.title": "",
+    "config.citresewn.mute_warns.tooltip": "",
+    "config.citresewn.title": "",
+    "pack.incompatible.broken_paths": "",
+    "pack.incompatible.confirm.broken_paths": ""
+}

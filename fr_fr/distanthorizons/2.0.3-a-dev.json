@@ -1,0 +1,7 @@
+{
+    "distanthorizons.config.enum.EDhApiDebugRendering.OFF": "Arrêt",
+    "distanthorizons.config.enum.EDhApiQualityPreset.EXTREME": "Extrême",
+    "distanthorizons.config.enum.EDhApiQualityPreset.HIGH": "Élevé",
+    "distanthorizons.config.enum.EDhApiQualityPreset.LOW": "Faible",
+    "distanthorizons.config.enum.EDhApiQualityPreset.MEDIUM": "Moyen"
+}

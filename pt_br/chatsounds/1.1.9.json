@@ -1,0 +1,8 @@
+{
+    "text.autoconfig.chatsounds.option.advancement.enabled": "Habilitado",
+    "text.autoconfig.chatsounds.option.death.enabled": "Habilitado",
+    "text.autoconfig.chatsounds.option.join.enabled": "Habilitado",
+    "text.autoconfig.chatsounds.option.leave.enabled": "Habilitado",
+    "text.autoconfig.chatsounds.option.message.enabled": "Habilitado",
+    "text.autoconfig.chatsounds.option.pm.enabled": "Habilitado"
+}

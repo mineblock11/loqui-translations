@@ -1,0 +1,20 @@
+{
+    "lanserverproperties.button.lan_server_options": "",
+    "lanserverproperties.button.preference_load": "",
+    "lanserverproperties.button.preference_save": "",
+    "lanserverproperties.gui.always_offline": "",
+    "lanserverproperties.gui.always_offline.message": "",
+    "lanserverproperties.gui.max_player": "",
+    "lanserverproperties.gui.port": "",
+    "lanserverproperties.gui.port_listening": "",
+    "lanserverproperties.gui.pvp_allowed": "",
+    "lanserverproperties.options.online_mode": "",
+    "lanserverproperties.options.online_mode.off.fixed": "",
+    "lanserverproperties.options.online_mode.off.fixed.message": "",
+    "lanserverproperties.options.online_mode.off.vanilla": "",
+    "lanserverproperties.options.online_mode.off.vanilla.message": "",
+    "lanserverproperties.options.online_mode.on": "",
+    "lanserverproperties.options.online_mode.on.message": "",
+    "lanserverproperties.options.preference_enabled": "",
+    "lanserverproperties.options.preference_enabled.message": ""
+}

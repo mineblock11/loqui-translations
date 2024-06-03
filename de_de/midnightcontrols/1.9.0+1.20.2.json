@@ -1,0 +1,13 @@
+{
+    "midnightcontrols.action.back": "Zurück",
+    "midnightcontrols.action.left": "Links",
+    "midnightcontrols.action.right": "Rechts",
+    "midnightcontrols.button.back": "Zurück",
+    "midnightcontrols.controller_type.default": "Standard",
+    "midnightcontrols.hud_side.left": "Links",
+    "midnightcontrols.hud_side.right": "Rechts",
+    "midnightcontrols.menu.separator.general": "Allgemein",
+    "midnightcontrols.midnightconfig.enum.ControllerType.DEFAULT": "Standard",
+    "midnightcontrols.midnightconfig.enum.HudSide.LEFT": "Links",
+    "midnightcontrols.midnightconfig.enum.HudSide.RIGHT": "Rechts"
+}

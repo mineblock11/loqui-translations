@@ -1,0 +1,22 @@
+{
+    "button.coordinatesdisplay.startcorner.bottom_left": "Unten links",
+    "button.coordinatesdisplay.startcorner.bottom_right": "Unten rechts",
+    "button.coordinatesdisplay.startcorner.top_left": "Oben links",
+    "button.coordinatesdisplay.startcorner.top_right": "Oben rechts",
+    "hud.coordinatesdisplay.default": "Standard",
+    "hud.coordinatesdisplay.east": "Ost",
+    "hud.coordinatesdisplay.east.short": "E",
+    "hud.coordinatesdisplay.minimum": "Minimum",
+    "hud.coordinatesdisplay.north": "Nord",
+    "hud.coordinatesdisplay.northeast": "Nordost",
+    "hud.coordinatesdisplay.northeast.short": "NE",
+    "hud.coordinatesdisplay.northwest.short": "NW",
+    "hud.coordinatesdisplay.south": "Süd",
+    "hud.coordinatesdisplay.south.short": "S",
+    "hud.coordinatesdisplay.southeast": "Südost",
+    "hud.coordinatesdisplay.southeast.short": "SE",
+    "hud.coordinatesdisplay.southwest": "Südwest",
+    "hud.coordinatesdisplay.southwest.short": "SW",
+    "hud.coordinatesdisplay.west": "West",
+    "hud.coordinatesdisplay.west.short": "W"
+}

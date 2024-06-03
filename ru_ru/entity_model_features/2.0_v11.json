@@ -1,0 +1,10 @@
+{
+    "entity_model_features.config.animate_once": "Анимировать модели один раз для каждой сущности",
+    "entity_model_features.config.animate_once.tooltip": "По умолчанию включено.\\nЭта настройка делает так, что модели сущностей будут анимироваться только один раз на каждую отрисованную сущность.\\nЭто будет выглядеть совершенно нормально, однако мобы, видимые и при открытии инвентаря, могут странно мерцать, особенно если это реальный моб в мире, которого вы можете увидеть.",
+    "entity_model_features.config.debug": "Отладка",
+    "entity_model_features.config.debug.tooltip": "Опции отладки, которые могут помочь разобраться с некоторыми вопросами",
+    "entity_model_features.config.general": "Общие",
+    "entity_model_features.config.performance": "Настройки производительности",
+    "entity_model_features.config.render.none": "Выключена",
+    "entity_model_features.config.render.normal": "Обычная"
+}

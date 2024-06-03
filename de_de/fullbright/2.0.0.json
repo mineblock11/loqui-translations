@@ -1,0 +1,17 @@
+{
+    "category.fullbright.main": "",
+    "fullbright.config.categories.main.name": "",
+    "fullbright.config.categories.main.options.brightness.description": "",
+    "fullbright.config.categories.main.options.brightness.name": "",
+    "fullbright.config.categories.main.options.default-brightness.description": "",
+    "fullbright.config.categories.main.options.default-brightness.name": "",
+    "fullbright.config.categories.main.options.enabled.description": "",
+    "fullbright.config.categories.main.options.enabled.name": "",
+    "fullbright.config.categories.main.options.keybindings": "",
+    "fullbright.config.categories.main.options.keybindings.notice": "",
+    "fullbright.config.categories.main.options.open-controls.description": "",
+    "fullbright.config.categories.main.options.open-controls.name": "",
+    "fullbright.config.categories.main.tooltip": "",
+    "fullbright.config.title": "",
+    "key.fullbright.toggle": ""
+}

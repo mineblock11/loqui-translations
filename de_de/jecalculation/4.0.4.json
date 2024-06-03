@@ -1,0 +1,9 @@
+{
+    "jecalculation.gui.common.cancel": "Abbrechen",
+    "jecalculation.gui.common.confirm": "Bestätigen",
+    "jecalculation.gui.common.default": "Standard",
+    "jecalculation.gui.import.confirm.enabled": "Bestätigen",
+    "jecalculation.gui.item_stack.confirm.enabled": "Bestätigen",
+    "jecalculation.gui.recipe.confirm.enabled": "Bestätigen",
+    "jecalculation.gui.search.confirm.enabled": "Bestätigen"
+}

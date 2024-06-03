@@ -1,0 +1,14 @@
+{
+    "commands.uteamcore.dimteleport.success.multiple": "",
+    "commands.uteamcore.dimteleport.success.position.multiple": "",
+    "commands.uteamcore.dimteleport.success.position.single": "",
+    "commands.uteamcore.dimteleport.success.single": "",
+    "commands.uteamcore.ping.success.other": "",
+    "commands.uteamcore.ping.success.self": "",
+    "commands.uteamcore.stackinfo.success.block": "",
+    "commands.uteamcore.stackinfo.success.copy": "",
+    "commands.uteamcore.stackinfo.success.item": "",
+    "commands.uteamcore.stackinfo.success.nbt": "",
+    "gui.widget.uteamcore.energy.fe_tooltip": "",
+    "jei.uteamcore.dyeable.info": ""
+}

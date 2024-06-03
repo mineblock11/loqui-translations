@@ -1,0 +1,21 @@
+{
+    "gui.nostalgic_tweaks.button.reset": "Zurücksetzen",
+    "gui.nostalgic_tweaks.button.undo": "Rückgängig",
+    "gui.nostalgic_tweaks.config.candy.embed.light.shader": "Shader",
+    "gui.nostalgic_tweaks.config.candy.embed.tooltip.parts": "Teile",
+    "gui.nostalgic_tweaks.config.candy.embed.void.sky": "Himmelsblaue Schlachtkimme",
+    "gui.nostalgic_tweaks.config.candy.subcategory.tooltip": "Schnellinfos",
+    "gui.nostalgic_tweaks.config.corner.bottom_left": "Unten links",
+    "gui.nostalgic_tweaks.config.corner.bottom_right": "Unten rechts",
+    "gui.nostalgic_tweaks.config.corner.top_left": "Oben links",
+    "gui.nostalgic_tweaks.config.corner.top_right": "Oben rechts",
+    "gui.nostalgic_tweaks.config.custom": "Benutzerdefiniert",
+    "gui.nostalgic_tweaks.config.gameplay.subcategory.block": "Block",
+    "gui.nostalgic_tweaks.config.tag.client": "Client",
+    "gui.nostalgic_tweaks.config.tag.dynamic": "Dynamisch",
+    "gui.nostalgic_tweaks.config.tag.server": "Server",
+    "gui.nostalgic_tweaks.inventory.shield.bottom_left": "Unten links",
+    "gui.nostalgic_tweaks.overlay.filter.block": "Blöcke",
+    "gui.nostalgic_tweaks.recipe_book.disabled": "Deaktiviert",
+    "text.autoconfig.nostalgic_tweaks.option.eyeCandy.disableNetherParticles.@Related": "Biom"
+}

@@ -1,0 +1,5 @@
+{
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.HIGH": "Hoch",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.LOW": "Gering",
+    "rightclickharvest.jamlibconfig.enum.HungerLevel.NONE": "Kein"
+}

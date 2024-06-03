@@ -1,0 +1,8 @@
+{
+    "minihud.label.light_level_marker_mode.none": "Kein",
+    "minihud.label.light_level_number_mode.block": "Block",
+    "minihud.label.light_level_number_mode.none": "Kein",
+    "minihud.label.light_level_number_mode.sky": "Himmelsblaue Schlachtkimme",
+    "minihud.label.light_level_render_condition.always": "Immer",
+    "minihud.label.light_level_render_condition.never": "Nie"
+}

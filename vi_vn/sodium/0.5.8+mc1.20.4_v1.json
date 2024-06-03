@@ -1,0 +1,7 @@
+{
+    "sodium.console.config_file_was_reset": "Tệp cấu hình đã được đặt lại về những cấu hình mặc định tốt đã biết.",
+    "sodium.console.config_not_loaded": "Tệp cấu hình cho Sodium đã bị hỏng, hoặc hiện không thể đọc được. Một số tùy chọn đã tạm thời được đặt lại về tuỳ chọn mặc định của chúng. Vui lòng mở màn hình Cài đặt hình ảnh để giải quyết vấn đề này.",
+    "sodium.console.core_shaders_error": "Các gói tài nguyên sau đây không tương thích với Sodium:",
+    "sodium.console.core_shaders_info": "Kiểm tra nhật ký trò chơi để biết thông tin chi tiết.",
+    "sodium.console.core_shaders_warn": "Các gói tài nguyên sau có thể không tương thích với Sodium:"
+}

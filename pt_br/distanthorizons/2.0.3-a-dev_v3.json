@@ -1,0 +1,10 @@
+{
+    "distanthorizons.config.enum.EDhApiFogDrawMode.FOG_DISABLED": "Desabilitado",
+    "distanthorizons.config.enum.EDhApiFogDrawMode.FOG_ENABLED": "Habilitado",
+    "distanthorizons.config.enum.EDhApiLodShading.DISABLED": "Desabilitado",
+    "distanthorizons.config.enum.EDhApiLodShading.ENABLED": "Habilitado",
+    "distanthorizons.config.enum.EDhApiLoggerMode.DISABLED": "Desabilitado",
+    "distanthorizons.config.enum.EDhApiRendererMode.DISABLED": "Desabilitado",
+    "distanthorizons.config.enum.EDhApiTransparency.DISABLED": "Desabilitado",
+    "distanthorizons.general.reset": "Resetar"
+}

@@ -1,0 +1,12 @@
+{
+    "advancements.energizedpower.copper_plate.title": "Kupferplatte",
+    "advancements.energizedpower.copper_wire.title": "Kupferdraht",
+    "block.energizedpower.copper_cable": "Kupferkabel",
+    "book.energizedpower.page.chapter.energy_blocks.general.title": "Allgemein",
+    "item.energizedpower.copper_cable": "Kupferkabel",
+    "item.energizedpower.copper_wire": "Kupferdraht",
+    "tooltip.energizedpower.direction.east": "Ost",
+    "tooltip.energizedpower.direction.north": "Nord",
+    "tooltip.energizedpower.direction.south": "Süd",
+    "tooltip.energizedpower.direction.west": "West"
+}

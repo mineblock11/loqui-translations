@@ -1,0 +1,12 @@
+{
+    "pickupnotifications.icon_alignment.left": "Links",
+    "pickupnotifications.icon_alignment.right": "Rechts",
+    "pickupnotifications.roundalib.gui_alignment.bottom_left": "Unten links",
+    "pickupnotifications.roundalib.gui_alignment.bottom_right": "Unten rechts",
+    "pickupnotifications.roundalib.gui_alignment.top_left": "Oben links",
+    "pickupnotifications.roundalib.gui_alignment.top_right": "Oben rechts",
+    "pickupnotifications.roundalib.gui_theme.auto": "Automatisch",
+    "pickupnotifications.roundalib.gui_theme.light": "Leicht",
+    "pickupnotifications.roundalib.toggle.disabled": "Deaktiviert",
+    "pickupnotifications.roundalib.toggle.enabled": "Aktiviert"
+}

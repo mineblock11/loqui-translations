@@ -1,0 +1,16 @@
+{
+    "death.message.dimension": "",
+    "death.message.distance.blocks": "",
+    "death.message.distance.close": "",
+    "death.message.distance.dimension": "",
+    "death.message.position": "",
+    "death.message.teleport.already_used": "",
+    "death.message.teleport.missing_permissions": "",
+    "death.message.teleport.not_most_recent": "",
+    "death.message.teleport.not_yours": "",
+    "death.message.teleport.other_problem": "",
+    "death.message.teleport.too_long_ago": "",
+    "death.screen.position": "",
+    "item.minecraft.recovery_compass.dimension": "",
+    "item.minecraft.recovery_compass.position": ""
+}

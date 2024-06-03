@@ -1,0 +1,20 @@
+{
+    "block.chipped.ancient_waxed_weathered_copper": "Antikes gewachstes verwittertes Kupfer",
+    "block.chipped.chipped_waxed_weathered_copper": "Angeschlagenes gewachstes verwittertes Kupfer",
+    "block.chipped.copper_barrel": "Kupferfass",
+    "block.chipped.embossed_waxed_weathered_copper": "Geprägtes gewachstes verwittertes Kupfer",
+    "block.chipped.engraved_waxed_weathered_copper": "Graviertes gewachstes verwittertes Kupfer",
+    "block.chipped.layered_waxed_weathered_copper": "Geschichtetes gewachstes verwittertes Kupfer",
+    "block.chipped.plated_waxed_weathered_copper": "Plattiertes gewachstes verwittertes Kupfer",
+    "block.chipped.pressed_waxed_weathered_copper": "Gewachstes verwittertes Presskupfer",
+    "block.chipped.reinforced_waxed_weathered_copper": "Verstärktes gewachstes verwittertes Kupfer",
+    "block.chipped.sheet_waxed_weathered_copper": "Gewachstes verwittertes Kupferblech",
+    "block.chipped.shuttered_waxed_weathered_copper": "Lamellenförmiges gewachstes verwittertes Kupfer",
+    "block.chipped.stacked_waxed_weathered_copper": "Gestapeltes gewachstes verwittertes Kupfer",
+    "block.chipped.weathered_raw_copper_block": "Verwitterter Rohkupferblock",
+    "tag.item.chipped.raw_copper_block": "Rohkupferblöcke",
+    "tag.item.chipped.sand": "Sandweiße Schlachtkimme",
+    "tag.item.chipped.stone": "Felsengrauer Inselspringer",
+    "tag.item.chipped.waxed_exposed_copper_block": "Gewachster angelaufener Kupferblock",
+    "tag.item.chipped.waxed_weathered_copper": "Gewachstes verwittertes Kupfer"
+}

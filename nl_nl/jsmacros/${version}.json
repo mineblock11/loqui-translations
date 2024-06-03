@@ -1,0 +1,15 @@
+{
+    "jsmacros.addprofile": "Voeg Profiel Toe",
+    "jsmacros.confirm": "Bevestigen",
+    "jsmacros.default": "Standaard",
+    "jsmacros.deleteprofile": "Verwijder Profiel",
+    "jsmacros.enabled": "Ingeschakeld",
+    "jsmacros.enabledstatus": "Ingeschakeld",
+    "jsmacros.events": "Gebeurtenissen",
+    "jsmacros.keys": "Toetsen",
+    "jsmacros.profile": "Profiel",
+    "jsmacros.profilename": "Profielnaam.",
+    "jsmacros.rename": "Hernoemen",
+    "jsmacros.renameprofile": "Hernoem Profiel",
+    "jsmacros.select": "Selecteren"
+}

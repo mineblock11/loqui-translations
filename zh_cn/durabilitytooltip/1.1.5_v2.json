@@ -1,0 +1,14 @@
+{
+    "durabilitytooltip.info.bar.bar_line": "",
+    "durabilitytooltip.info.bar.durability_hint": "",
+    "durabilitytooltip.info.bar.empty_symbol": "",
+    "durabilitytooltip.info.bar.full_symbol": "",
+    "durabilitytooltip.info.numbers.damaged": "",
+    "durabilitytooltip.info.numbers.durability_hint": "",
+    "durabilitytooltip.info.numbers.full_durability": "",
+    "durabilitytooltip.info.text.damaged": "",
+    "durabilitytooltip.info.text.durability_hint": "",
+    "durabilitytooltip.info.text.full_durability": "",
+    "durabilitytooltip.info.text.nearly_broken": "",
+    "durabilitytooltip.info.text.severely_damaged": ""
+}

@@ -1,0 +1,8 @@
+{
+    "figura.config.debug_mode": "Режим отладки",
+    "figura.config.misc": "Разное",
+    "figura.permissions.category.default": "По умолчанию",
+    "figura.permissions.category.high": "Высокое",
+    "figura.permissions.category.low": "Низкое",
+    "figura.permissions.enabled": "Включена"
+}

@@ -1,0 +1,23 @@
+{
+    "clickthrough.config.ignore.1": "",
+    "clickthrough.config.ignore.2": "",
+    "clickthrough.config.ignore.3": "",
+    "clickthrough.config.ignore.4": "",
+    "clickthrough.config.onlycontainers": "",
+    "clickthrough.config.sneaktodye": "",
+    "clickthrough.config.switchonattack": "",
+    "clickthrough.config.switchonattack.always": "",
+    "clickthrough.config.switchonattack.first": "",
+    "clickthrough.config.switchonattack.never": "",
+    "clickthrough.config.tt.ignore.1": "",
+    "clickthrough.config.tt.ignore.2": "",
+    "clickthrough.config.tt.ignore.3": "",
+    "clickthrough.config.tt.ignore.4": "",
+    "clickthrough.config.tt.onlycontainers": "",
+    "clickthrough.config.tt.sneaktodye": "",
+    "clickthrough.config.tt.switchonattack": "",
+    "clickthrough.msg.active": "",
+    "clickthrough.msg.inactive": "",
+    "key.categories.clickthrough": "",
+    "key.clickthrough.toggle": ""
+}

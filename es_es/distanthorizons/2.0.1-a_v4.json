@@ -1,0 +1,7 @@
+{
+    "distanthorizons.config.enum.EBlocksToAvoid.NONE": "Ninguno",
+    "distanthorizons.config.enum.EGLErrorHandlingMode.LOG": "Registro",
+    "distanthorizons.config.enum.EHeightFogMixMode.BASIC": "Básico",
+    "distanthorizons.config.enum.ELodShading.NONE": "Ninguno",
+    "distanthorizons.config.enum.EOverdrawPrevention.NONE": "Ninguno"
+}

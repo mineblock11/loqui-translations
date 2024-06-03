@@ -1,0 +1,22 @@
+{
+    "hud.block.properties.bamboo_leaves.none": "Kein",
+    "hud.block.properties.ore.pickaxe_tier.stone": "Felsengrauer Inselspringer",
+    "hud.enabled.false": "Falsch",
+    "hud.enabled.true": "Wahr",
+    "hud.entity.properties.fox.variant.snow": "Schneeweißer Wrackschnapper",
+    "hud.entity.properties.villager.type.snow": "Schneeweißer Wrackschnapper",
+    "hud.facing.east": "Ost",
+    "hud.facing.north": "Nord",
+    "hud.facing.north-east": "Nordost",
+    "hud.facing.north-west": "Nordwest",
+    "hud.facing.south": "Süd",
+    "hud.facing.south-east": "Südost",
+    "hud.facing.south-west": "Südwest",
+    "hud.no": "Nein",
+    "hud.yes": "Ja",
+    "screen.done": "Fertig",
+    "screen.hud_item_durability.style.none": "Kein",
+    "screen.hud_prefix_style.none": "Kein",
+    "screen.hud_style.advanced": "Erweitert",
+    "screen.hud_texture_type.none": "Kein"
+}

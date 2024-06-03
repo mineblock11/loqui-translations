@@ -1,0 +1,7 @@
+{
+    "text.autoconfig.yigd.option.graveConfig.blockUnderGrave.enabled": "Aktiviert",
+    "text.autoconfig.yigd.option.graveConfig.enabled": "Aktiviert",
+    "text.autoconfig.yigd.option.graveConfig.graveRobbing.enabled": "Aktiviert",
+    "text.autoconfig.yigd.option.graveConfig.graveTimeout.enabled": "Aktiviert",
+    "text.autoconfig.yigd.option.inventoryConfig.itemLoss.enabled": "Aktiviert"
+}

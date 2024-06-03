@@ -1,0 +1,8 @@
+{
+    "config.waila.overlay_align_x_left": "Gauche",
+    "config.waila.overlay_align_x_right": "Droite",
+    "config.waila.overlay_anchor_x_left": "Gauche",
+    "config.waila.overlay_anchor_x_right": "Droite",
+    "tooltip.waila.horse.jump.value": "%s bloc(s)",
+    "tooltip.waila.state_off": "Arrêt"
+}

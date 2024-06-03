@@ -1,0 +1,7 @@
+{
+    "gui.config.message.button.back": "Назад",
+    "gui.config.message.button.copy": "Скопировать",
+    "gui.config.message.button.reset": "Сбросить",
+    "gui.config.message.button.wiki": "Вики",
+    "gui.config.name.advanced.debug_mode": "Режим отладки"
+}

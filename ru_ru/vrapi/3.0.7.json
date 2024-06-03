@@ -1,0 +1,11 @@
+{
+    "category.vrapi.dev_keys": "Клавиши разработчика mc-vr-api",
+    "key.vrapi.position_hmd": "Установить позицию HMD",
+    "key.vrapi.position_left": "Установить позицию контроллера 1",
+    "key.vrapi.position_right": "Установить позицию контроллера 0",
+    "key.vrapi.toggle_vr": "Переключить режим VR",
+    "message.vrapi.dev.in_vr": "Вы притворяетесь, что используете VR!",
+    "message.vrapi.dev.out_of_vr": "Вы больше не притворяетесь, что используете VR!",
+    "message.vrapi.no_api_server": "На сервере не установлена API-модификация. Модифицированные возможности VR могут не работать!",
+    "message.vrapi.version_mismatch": "Несовпадение версий! Сервер на версии %d, а вы на версии %d!"
+}

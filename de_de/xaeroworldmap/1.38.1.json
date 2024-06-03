@@ -1,0 +1,10 @@
+{
+    "gui.xaero_cancel": "Abbrechen",
+    "gui.xaero_confirm": "Bestätigen",
+    "gui.xaero_delete_map_msg3": "Bestätigung des Löschvorgangs durch erneutes Drücken auf „Ja“.",
+    "gui.xaero_export_confirm_1": "Soll die Karte als PNG-Datei exportiert werden?",
+    "gui.xaero_export_confirm_2": "Das Spiel wird, während es arbeitet, vorübergehend eingefroren wirken.",
+    "gui.xaero_map_unconfirmed": "Weltkarte muss bestätigt werden!",
+    "gui.xaero_quick_confirm": "Manuelle Schnellbestätigung",
+    "gui.xaero_right_click_waypoint_delete_confirm": "Löschen von В§2%sВ§r bestätigen"
+}

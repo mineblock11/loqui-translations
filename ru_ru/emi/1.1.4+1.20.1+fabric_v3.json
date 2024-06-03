@@ -1,0 +1,18 @@
+{
+    "config.emi.general.enabled": "Включена",
+    "emi.category.emi.info": "Информация",
+    "emi.recipe_book_action.default": "По умолчанию",
+    "key.emi.back": "Назад",
+    "screen.emi.config": "Настройки",
+    "tag.item.c.dusts": "Пыль",
+    "tag.item.c.gems": "Драгоценные камни",
+    "tag.item.c.ingots": "Слитки",
+    "tag.item.c.nuggets": "Кусочки",
+    "tag.item.c.ores": "Руды",
+    "tag.item.c.raw_ores": "Рудные минералы",
+    "tag.item.c.seeds": "Семена",
+    "tag.item.minecraft.creeper_drop_music_discs": "Пластинки, выпадающие с криперов",
+    "tag.item.minecraft.fishes": "Рыбы",
+    "tag.item.minecraft.leaves": "Листья",
+    "tag.item.minecraft.music_discs": "Пластинки"
+}

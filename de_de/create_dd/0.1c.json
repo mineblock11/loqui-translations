@@ -1,0 +1,11 @@
+{
+    "item.create_dd.blaze_gold_sheet": "Lohenmessingblech",
+    "item.create_dd.bronze_sheet": "Bronzeblech",
+    "item.create_dd.industrial_iron_sheet": "Industrielles Eisenblech",
+    "item.create_dd.shadow_steel_sheet": "Schattenstahlblech",
+    "item.create_dd.steel_ingot": "Stahlbarren",
+    "item.create_dd.steel_nugget": "Stahlklumpen",
+    "item.create_dd.steel_sheet": "Stahlblech",
+    "item.create_dd.tin_sheet": "Zinnblech",
+    "item.create_dd.zinc_sheet": "Zinkblech"
+}

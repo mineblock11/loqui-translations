@@ -1,0 +1,6 @@
+{
+    "text.config.VinURLConfig.option.AudioBitrate.value.high": "Hoch",
+    "text.config.VinURLConfig.option.AudioBitrate.value.low": "Gering",
+    "text.config.VinURLConfig.option.AudioBitrate.value.medium": "Mittel",
+    "text.config.VinURLConfig.section.General": "Allgemein"
+}

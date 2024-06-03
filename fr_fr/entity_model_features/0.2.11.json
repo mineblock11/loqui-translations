@@ -1,0 +1,21 @@
+{
+    "entity_model_features.config.debug": "",
+    "entity_model_features.config.debug.tooltip": "",
+    "entity_model_features.config.general": "",
+    "entity_model_features.config.general.tooltip": "",
+    "entity_model_features.config.green_render": "",
+    "entity_model_features.config.green_render.tooltip": "",
+    "entity_model_features.config.log_math": "",
+    "entity_model_features.config.log_math.tooltip": "",
+    "entity_model_features.config.log_models": "",
+    "entity_model_features.config.log_models.tooltip": "",
+    "entity_model_features.config.optimizations": "",
+    "entity_model_features.config.optimizations.tooltip": "",
+    "entity_model_features.config.substitute_vanilla": "",
+    "entity_model_features.config.substitute_vanilla.tooltip": "",
+    "entity_model_features.config.vanilla_render": "",
+    "entity_model_features.config.vanilla_render.normal": "",
+    "entity_model_features.config.vanilla_render.offset": "",
+    "entity_model_features.config.vanilla_render.tooltip": "",
+    "entity_model_features.title": ""
+}

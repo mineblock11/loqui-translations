@@ -1,0 +1,5 @@
+{
+    "zenith_attributes.value.boolean.disabled": "Deaktiviert",
+    "zenith_attributes.value.boolean.enabled": "Aktiviert",
+    "zenith_attributes.value.percent": "%s%%"
+}

@@ -1,0 +1,13 @@
+{
+    "block.reinfchest.copper_chest": "Kupfertruhe",
+    "block.reinfchest.diamond_chest": "Diamanttruhe",
+    "block.reinfchest.gold_chest": "Goldtruhe",
+    "block.reinfchest.iron_chest": "Eisentruhe",
+    "block.reinfchest.netherite_chest": "Netherittruhe",
+    "container.reinfchest.copperChest": "Kupfertruhe",
+    "container.reinfchest.diamondChest": "Diamanttruhe",
+    "container.reinfchest.goldChest": "Goldtruhe",
+    "container.reinfchest.ironChest": "Eisentruhe",
+    "container.reinfchest.ironChestDouble": "Große Eisentruhe",
+    "container.reinfchest.netheriteChest": "Netherittruhe"
+}

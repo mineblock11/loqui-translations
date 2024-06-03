@@ -1,0 +1,17 @@
+{
+    "bookconfig.dir": "",
+    "bookconfig.limit": "",
+    "bookconfig.startpage": "",
+    "bookconfig.warning": "",
+    "bookconfig.warning_reset": "",
+    "category.notebook.config": "",
+    "category.notebook.keys": "",
+    "category.notebook.presets": "",
+    "devwarning.info": "",
+    "key.notebook.open": "",
+    "tooltip.notebook.bookmark.create": "",
+    "tooltip.notebook.bookmark.goto": "",
+    "tooltip.notebook.delete": "",
+    "tooltip.notebook.export": "",
+    "tooltip.notebook.import": ""
+}

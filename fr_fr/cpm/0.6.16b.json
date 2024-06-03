@@ -1,0 +1,11 @@
+{
+    "button.cpm.config.scale.auto": "Auto",
+    "button.cpm.edit.undo": "Annuler",
+    "label.cpm.keybind.undo": "Annuler",
+    "label.cpm.paste.connecting.title": "Connexion...",
+    "label.cpm.safetyProfile.high": "Élevé",
+    "label.cpm.safetyProfile.low": "Faible",
+    "label.cpm.safetyProfile.medium": "Moyen",
+    "label.cpm.safetyProfile.off": "Arrêt",
+    "tab.cpm.settings.safety.friends": "Amis"
+}

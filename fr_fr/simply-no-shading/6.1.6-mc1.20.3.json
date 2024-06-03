@@ -1,0 +1,13 @@
+{
+    "simply-no-shading.config.option.blockShadingEnabled": "",
+    "simply-no-shading.config.option.blockShadingEnabled.tooltip": "",
+    "simply-no-shading.config.option.cloudShadingEnabled": "",
+    "simply-no-shading.config.option.cloudShadingEnabled.tooltip": "",
+    "simply-no-shading.config.option.experimentalEntityLikeShading": "",
+    "simply-no-shading.config.title": "",
+    "simply-no-shading.key.categories.simply-no-shading": "",
+    "simply-no-shading.key.openConfigScreen": "",
+    "simply-no-shading.key.reloadConfig": "",
+    "simply-no-shading.key.toggleBlockShading": "",
+    "simply-no-shading.key.toggleCloudShading": ""
+}

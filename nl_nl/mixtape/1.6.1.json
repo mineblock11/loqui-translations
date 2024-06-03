@@ -1,0 +1,18 @@
+{
+    "config.mixtape.creative.enabled": "Ingeschakeld",
+    "config.mixtape.creative.maxSongDelay": "Maximale Pauze Tussen Nummers",
+    "config.mixtape.creative.minSongDelay": "Minimale Pauze Tussen Nummers",
+    "config.mixtape.creative.volume": "Volume",
+    "config.mixtape.creative.volume.description": "Het volume van de muziek.",
+    "config.mixtape.end.enabled": "Ingeschakeld",
+    "config.mixtape.end.minSongDelay": "Minimale Pauze Tussen Nummers",
+    "config.mixtape.game.enabled": "Ingeschakeld",
+    "config.mixtape.game.maxSongDelay": "Maximale Pauze Tussen Nummers",
+    "config.mixtape.game.minSongDelay": "Minimale Pauze Tussen Nummers",
+    "config.mixtape.game.volume": "Volume",
+    "config.mixtape.underwater.enabled": "Ingeschakeld",
+    "config.mixtape.underwater.maxSongDelay": "Maximale Pauze Tussen Nummers",
+    "config.mixtape.underwater.minSongDelay": "Minimale Pauze Tussen Nummers",
+    "config.mixtape.underwater.volume": "Volume",
+    "config.mixtape.underwater.volume.description": "Het volume van de muziek."
+}

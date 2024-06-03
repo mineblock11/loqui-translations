@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.extra_details.option.blockSettings.chest.enabled": "Включено",
+    "text.autoconfig.extra_details.option.blockSettings.door.enabled": "Включено",
+    "text.autoconfig.extra_details.option.blockSettings.fenceGate.enabled": "Включено",
+    "text.autoconfig.extra_details.option.blockSettings.hangingSign.enabled": "Включено",
+    "text.autoconfig.extra_details.option.blockSettings.lever.enabled": "Включено",
+    "text.autoconfig.extra_details.option.blockSettings.sign.enabled": "Включено",
+    "text.autoconfig.extra_details.option.blockSettings.trapdoor.enabled": "Включено"
+}

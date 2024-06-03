@@ -1,0 +1,6 @@
+{
+    "yacl3.config.enum.ManaDirection.left": "Links",
+    "yacl3.config.enum.ManaDirection.right": "Rechts",
+    "zauber.mana_direction.left": "Links",
+    "zauber.mana_direction.right": "Rechts"
+}

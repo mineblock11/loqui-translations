@@ -1,0 +1,11 @@
+{
+    "options.continuity.connected_textures": "Texturas conectadas",
+    "options.continuity.connected_textures.tooltip": "Habilitar o deshabilitar texturas conectadas para bloques",
+    "options.continuity.custom_block_layers": "Capas personalizadas de bloque",
+    "options.continuity.custom_block_layers.tooltip": "Habilitar o deshabilitar capas personalizadas de bloque",
+    "options.continuity.emissive_textures": "Texturas emisivas",
+    "options.continuity.emissive_textures.tooltip": "Habilitar o deshabilitar texturas emisoras para modelos de bloques y objetos",
+    "options.continuity.title": "Configuración de Continuity",
+    "resourcePack.continuity.default.name": "Texturas conectadas por defecto",
+    "resourcePack.continuity.glass_pane_culling_fix.name": "Corrección de eliminación de caras en paneles de cristal"
+}

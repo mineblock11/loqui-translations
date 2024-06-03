@@ -1,0 +1,6 @@
+{
+    "__comment": "Только для тестирования:",
+    "config.jade.debug_mode": "Режим отладки",
+    "config.jade.plugin_minecraft.energy_storage": "Хранилище энергии",
+    "config.jade.plugin_minecraft.fluid_storage": "Хранилище жидкостей"
+}

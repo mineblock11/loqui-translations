@@ -1,0 +1,15 @@
+{
+    "armorstands.flagToggle.off": "Nein",
+    "armorstands.flagToggle.on": "Ja",
+    "armorstands.message.undo": "Rückgängig",
+    "armorstands.move.east": "Ost (+X)",
+    "armorstands.move.north": "Nord (-Z)",
+    "armorstands.move.south": "Süd (+Z)",
+    "armorstands.move.units.blocks": "Blöcke",
+    "armorstands.move.west": "West (-X)",
+    "armorstands.rotate.snap.east": "Ost (+X)",
+    "armorstands.rotate.snap.north": "Nord (-Z)",
+    "armorstands.rotate.snap.south": "Süd (+Z)",
+    "armorstands.rotate.snap.west": "West (-X)",
+    "armorstands.utility.undo": "Rückgängig"
+}

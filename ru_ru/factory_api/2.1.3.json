@@ -1,0 +1,6 @@
+{
+    "tier.factory_api.advanced": "Продвинутый",
+    "tier.factory_api.high": "Высокий",
+    "tooltip.factory_api.config.transport.none": "Нет",
+    "tooltip.factory_api.gui_back": "Назад"
+}

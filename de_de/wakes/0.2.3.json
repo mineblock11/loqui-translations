@@ -1,0 +1,6 @@
+{
+    "wakes.blending_function.custom": "Benutzerdefiniert",
+    "wakes.config.category.debug": "Debug (zur Fehlersuche)",
+    "wakes.config.option.effect_spawning_rules.effect.disabled": "Deaktiviert",
+    "wakes.config.option.interval.color": "Farbe"
+}

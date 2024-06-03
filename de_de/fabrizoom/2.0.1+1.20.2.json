@@ -1,0 +1,11 @@
+{
+    "category.fabrizoom.advanced": "Erweitert",
+    "config.fabrizoom.general": "Allgemein",
+    "config.fabrizoom.presets": "Voreinstellungen",
+    "overlay.fabrizoom.none": "Kein",
+    "overlay.fabrizoom.vignette": "Vignette",
+    "presets.fabrizoom.custom": "Benutzerdefiniert",
+    "presets.fabrizoom.default": "Standard",
+    "transition.fabrizoom.linear": "Linear",
+    "transition.fabrizoom.none": "Kein"
+}

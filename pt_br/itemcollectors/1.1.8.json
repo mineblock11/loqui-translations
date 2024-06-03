@@ -1,0 +1,17 @@
+{
+    "gui.itemcollectors.advanced_collector.durability.off": "",
+    "gui.itemcollectors.advanced_collector.durability.on": "",
+    "gui.itemcollectors.advanced_collector.filter": "",
+    "gui.itemcollectors.advanced_collector.show_area.off": "",
+    "gui.itemcollectors.advanced_collector.show_area.on": "",
+    "gui.itemcollectors.advanced_collector.whitelist.off": "",
+    "gui.itemcollectors.advanced_collector.whitelist.on": "",
+    "gui.itemcollectors.basic_collector.range": "",
+    "gui.itemcollectors.basic_collector.range.decrease": "",
+    "gui.itemcollectors.basic_collector.range.increase": "",
+    "itemcollectors.advanced_collector.info": "",
+    "itemcollectors.basic_collector.info": "",
+    "itemcollectors.basic_collector.info.range": "",
+    "itemcollectors.block.advanced_collector": "",
+    "itemcollectors.block.basic_collector": ""
+}

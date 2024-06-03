@@ -1,0 +1,21 @@
+{
+    "axiom.editorui.mainmenu.edit.undo": "Отменить",
+    "axiom.editorui.reference_image.borderless": "Без рамки",
+    "axiom.editorui.window.blueprint_browser.go_back": "Назад",
+    "axiom.editorui.window.clipboard.empty": "Пусто",
+    "axiom.editorui.window.create_shape.advanced": "Для продвинутых",
+    "axiom.editorui.window.palette.custom_empty": "Пусто (ПКМ, чтобы добавить)",
+    "axiom.editorui.window.style_editor.color": "Цвет",
+    "axiom.editorui.window.world_properties.blocks": "Блоки",
+    "axiom.keybinds.undo": "Отменить",
+    "axiom.preset.default": "По умолчанию",
+    "axiom.tool.clentaminator.grass": "Трава",
+    "axiom.tool.clentaminator.grass_block": "Трава",
+    "axiom.tool.generic.advanced_options": "Для продвинутых",
+    "axiom.tool.lasso_select.depth": "Глубина",
+    "axiom.tool.noise_painter.blocks": "Блоки",
+    "axiom.tool.path.depth": "Глубина",
+    "axiom.tool.shape.rotation.auto": "Автоматическое",
+    "axiom.tool.text.direction": "Направление",
+    "axiom.window.rotate_placement.do_rotate": "Поворот"
+}

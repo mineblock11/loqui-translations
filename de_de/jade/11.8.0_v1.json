@@ -1,0 +1,12 @@
+{
+    "__comment": "Nur zum Testen:",
+    "config.jade.display_fluids_none": "Kein",
+    "config.jade.general": "Allgemein",
+    "config.jade.plugin_jade.coordinates": "Koordinaten",
+    "gui.jade.configuration": "\"Jade\"-Konfiguration",
+    "jade.east": "Ost",
+    "jade.horseStat.speed": "Geschwindigkeit: %s",
+    "jade.north": "Nord",
+    "jade.west": "West",
+    "modmenu.nameTranslation.jade": "Jadegrüne Schlachtkimme"
+}

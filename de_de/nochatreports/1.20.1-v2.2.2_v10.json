@@ -1,0 +1,7 @@
+{
+    "configuration.NoChatReports.category.client": "Client",
+    "gui.nochatreports.encryption_warning.check": "Nicht erneut anzeigen",
+    "gui.nochatreports.realms_warning.check": "Nicht erneut anzeigen",
+    "gui.nochatreports.signing_mode.always": "Immer",
+    "gui.nochatreports.signing_mode.never": "Nie"
+}

@@ -1,0 +1,23 @@
+{
+    "block.amendments.double_cake": "Double gâteau",
+    "block.amendments.hanging_flower_pot": "Pot de fleurs suspendu",
+    "fluid.amendments.dye": "Colorant",
+    "gui.amendments.ink.black": "Noir",
+    "gui.amendments.ink.blue": "Bleu",
+    "gui.amendments.ink.dark_blue": "Bleu foncé",
+    "gui.amendments.ink.dark_green": "Vert foncé",
+    "gui.amendments.ink.dark_purple": "Violet foncé",
+    "gui.amendments.ink.dark_red": "Rouge foncé",
+    "gui.amendments.ink.gray": "Gris",
+    "gui.amendments.ink.green": "Vert",
+    "gui.amendments.ink.light_purple": "Violet clair",
+    "gui.amendments.ink.red": "Rouge",
+    "gui.amendments.ink.white": "Blanc",
+    "gui.amendments.ink.yellow": "Jaune",
+    "gui.amendments.quill.bold": "Gras",
+    "gui.amendments.quill.italic": "Italique",
+    "gui.amendments.quill.strikethrough": "Barré",
+    "gui.amendments.quill.underline": "Souligné",
+    "message.amendments.hanging_pot": "Peut être suspendu",
+    "message.amendments.wall_lantern": "Plaçable sur les murs"
+}

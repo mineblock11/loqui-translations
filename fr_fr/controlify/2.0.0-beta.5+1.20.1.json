@@ -1,0 +1,16 @@
+{
+    "controlify.battery_level.high": "Élevé",
+    "controlify.battery_level.low": "Faible",
+    "controlify.battery_level.medium": "Moyen",
+    "controlify.config.category.advanced": "Avancé",
+    "controlify.gui.group.advanced": "Avancé",
+    "controlify.hat_state.left": "Gauche",
+    "controlify.hat_state.right": "Droite",
+    "controlify.joystick_mapping.tm_t16000.hat": "Chapeau",
+    "controlify.joystick_mapping.tm_t16000.right_1": "Droite 1",
+    "controlify.joystick_mapping.tm_t16000.right_2": "Droite 2",
+    "controlify.joystick_mapping.tm_t16000.right_3": "Droite 3",
+    "controlify.joystick_mapping.tm_t16000.right_4": "Droite 4",
+    "controlify.joystick_mapping.tm_t16000.right_5": "Droite 5",
+    "controlify.joystick_mapping.tm_t16000.right_6": "Droite 6"
+}

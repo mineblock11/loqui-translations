@@ -1,0 +1,14 @@
+{
+    "ftblibrary.panel.position.bottom": "Unten",
+    "ftblibrary.panel.position.bottom_left": "Unten links",
+    "ftblibrary.panel.position.bottom_right": "Unten rechts",
+    "ftblibrary.panel.position.left": "Links",
+    "ftblibrary.panel.position.right": "Rechts",
+    "ftblibrary.panel.position.top": "Oben",
+    "ftblibrary.panel.position.top_left": "Oben links",
+    "ftblibrary.panel.position.top_right": "Oben rechts",
+    "ftblibrary.select_item.list_mode.rei": "REI",
+    "gui.color": "Farbe",
+    "gui.update": "Aktualisieren",
+    "sidebar_button.ftblibrary.toggle.gamemode.tooltip": "Wechselt zwischen Überlebens- und Kreativmodus"
+}

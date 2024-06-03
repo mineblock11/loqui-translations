@@ -1,0 +1,8 @@
+{
+    "inventoryprofiles.common.enum.modifier_key.normal": "Normal",
+    "inventoryprofiles.common.gui.config.reset": "Zurücksetzen",
+    "inventoryprofiles.config.category.auto-refill.general": "Allgemein",
+    "inventoryprofiles.config.category.gui.general": "Allgemeine Benutzeroberfläche-Einstellungen",
+    "inventoryprofiles.enum.post_action.none": "Kein",
+    "inventoryprofiles.gui.editor.name.screen.ignore": "Ignorieren"
+}

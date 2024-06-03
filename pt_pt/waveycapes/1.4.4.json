@@ -1,0 +1,21 @@
+{
+    "text.wc.setting.capemovement": "",
+    "text.wc.setting.capemovement.BASIC_SIMULATION": "",
+    "text.wc.setting.capemovement.BASIC_SIMULATION_3D": "",
+    "text.wc.setting.capemovement.DUNGEONS": "",
+    "text.wc.setting.capemovement.VANILLA": "",
+    "text.wc.setting.capemovement.tooltip": "",
+    "text.wc.setting.capestyle": "",
+    "text.wc.setting.capestyle.BLOCKY": "",
+    "text.wc.setting.capestyle.SMOOTH": "",
+    "text.wc.setting.capestyle.tooltip": "",
+    "text.wc.setting.gravity": "",
+    "text.wc.setting.gravity.tooltip": "",
+    "text.wc.setting.heightMultiplier": "",
+    "text.wc.setting.heightMultiplier.tooltip": "",
+    "text.wc.setting.windmode": "",
+    "text.wc.setting.windmode.NONE": "",
+    "text.wc.setting.windmode.WAVES": "",
+    "text.wc.setting.windmode.tooltip": "",
+    "text.wc.title": ""
+}

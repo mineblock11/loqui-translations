@@ -1,0 +1,18 @@
+{
+    "gui.xaero_accurate": "Точные",
+    "gui.xaero_back": "Назад",
+    "gui.xaero_block_colours": "Цвета блоков на карте",
+    "gui.xaero_box_open_waypoints": "Отметки",
+    "gui.xaero_default": "По умолчанию",
+    "gui.xaero_lighting": "Светотень на карте",
+    "gui.xaero_load_chunks": "Обработка новых чанков",
+    "gui.xaero_off": "ВЫКЛЮЧЕНО",
+    "gui.xaero_on": "ВКЛЮЧЕНО",
+    "gui.xaero_update_chunks": "Подхватывать изменения в чанках",
+    "gui.xaero_vanilla": "Ваниль",
+    "gui.xaero_wm_biome_blending": "Смешивание биомов",
+    "gui.xaero_wm_legacy_color": "Наследие",
+    "gui.xaero_wm_slopes_default_2d": "2D по умолчанию",
+    "gui.xaero_wm_slopes_default_3d": "3D по умолчанию",
+    "gui.xaero_wm_slopes_legacy": "Наследие"
+}

@@ -1,0 +1,8 @@
+{
+    "gui.xaero_auto_convert_wp_distance_km_never": "Aldrig",
+    "gui.xaero_icons_always": "Alltid",
+    "gui.xaero_multiple_waypoints_always": "Alltid",
+    "gui.xaero_names_always": "Alltid",
+    "gui.xaero_radar_over_map_always": "Alltid",
+    "gui.xaero_radar_over_map_never": "Aldrig"
+}

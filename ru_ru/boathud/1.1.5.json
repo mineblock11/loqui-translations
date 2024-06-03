@@ -1,0 +1,21 @@
+{
+    "boathud.config.title": "",
+    "boathud.option.bar_type": "",
+    "boathud.option.bar_type.BLUE": "",
+    "boathud.option.bar_type.MIXED": "",
+    "boathud.option.bar_type.PACKED": "",
+    "boathud.option.enabled": "",
+    "boathud.option.extended": "",
+    "boathud.option.speed_format": "",
+    "boathud.option.speed_format.KMPH": "",
+    "boathud.option.speed_format.KT": "",
+    "boathud.option.speed_format.MPH": "",
+    "boathud.option.speed_format.MS": "",
+    "boathud.tooltip.bar_type": "",
+    "boathud.tooltip.bar_type.blue": "",
+    "boathud.tooltip.bar_type.mixed": "",
+    "boathud.tooltip.bar_type.packed": "",
+    "boathud.tooltip.extended": "",
+    "modmenu.descriptionTranslation.boathud": "",
+    "modmenu.summaryTranslation.boathud": ""
+}

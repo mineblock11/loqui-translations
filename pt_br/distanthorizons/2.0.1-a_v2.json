@@ -1,0 +1,8 @@
+{
+    "distanthorizons.config.enum.EFogDrawMode.FOG_DISABLED": "Desabilitado",
+    "distanthorizons.config.enum.EFogDrawMode.FOG_ENABLED": "Habilitado",
+    "distanthorizons.config.enum.ELoggerMode.DISABLED": "Desabilitado",
+    "distanthorizons.config.enum.ERendererMode.DISABLED": "Desabilitado",
+    "distanthorizons.config.enum.ETransparency.DISABLED": "Desabilitado",
+    "distanthorizons.general.reset": "Resetar"
+}

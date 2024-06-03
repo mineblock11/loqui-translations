@@ -1,0 +1,12 @@
+{
+    "config.waila.edit": "Редактировать",
+    "config.waila.general": "Общие",
+    "config.waila.overlay_color": "Цвет",
+    "config.waila.plugin_minecraft": "Minecraft",
+    "config.waila.plugin_minecraft.book.enchantment_disabled": "Выключена",
+    "theme.waila.plugin_waila.gradient.fontColor": "Цвет текста",
+    "theme.waila.plugin_waila.nine_patch.textColor": "Цвет текста",
+    "tooltip.waila.horse.jump.value": "%s бл.",
+    "tooltip.waila.instrument.none": "Нет",
+    "tooltip.waila.panda.gene.normal": "Обычно"
+}

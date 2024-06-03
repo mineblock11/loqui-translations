@@ -1,0 +1,15 @@
+{
+    "tweakermore.gui.config_category.features": "Landschaftsmerkmale",
+    "tweakermore.gui.element.config_button_boolean_switch.disabled": "Deaktiviert",
+    "tweakermore.gui.element.config_button_boolean_switch.enabled": "Aktiviert",
+    "tweakermore.list_entry.autoCollectMaterialListItemMessageType.full": "Vollständig",
+    "tweakermore.list_entry.infoViewRenderStrategy.always": "Immer",
+    "tweakermore.list_entry.lmRemoveEntityCommandPolicy.always": "Immer",
+    "tweakermore.list_entry.lmRemoveEntityCommandPolicy.auto": "Automatisch",
+    "tweakermore.list_entry.restriction_type.none": "Kein",
+    "tweakermore.list_entry.schematicBlockPlacementRestrictionHintType.never": "Nie",
+    "tweakermore.list_entry.weatherOverrideValue.clear": "Klarer Himmel",
+    "tweakermore.list_entry.weatherOverrideValue.rain": "Regen",
+    "tweakermore.list_entry.weatherOverrideValue.thunder": "Gewitter",
+    "tweakermore.util.mod.minecraft": "Minecraft"
+}

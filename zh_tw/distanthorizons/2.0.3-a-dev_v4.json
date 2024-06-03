@@ -1,0 +1,16 @@
+{
+    "distanthorizons.config.enum.EDebugRendering.OFF": "關閉",
+    "distanthorizons.config.enum.EFogDrawMode.FOG_DISABLED": "已停用",
+    "distanthorizons.config.enum.EHorizontalQuality.EXTREME": "極高",
+    "distanthorizons.config.enum.EHorizontalQuality.HIGH": "高",
+    "distanthorizons.config.enum.EHorizontalQuality.LOW": "低",
+    "distanthorizons.config.enum.EHorizontalQuality.MEDIUM": "中",
+    "distanthorizons.config.enum.ELoggerMode.DISABLED": "已停用",
+    "distanthorizons.config.enum.EOverdrawPrevention.MEDIUM": "中",
+    "distanthorizons.config.enum.EQualityPreset.EXTREME": "極高",
+    "distanthorizons.config.enum.EQualityPreset.HIGH": "高",
+    "distanthorizons.config.enum.EQualityPreset.LOW": "低",
+    "distanthorizons.config.enum.EQualityPreset.MEDIUM": "中",
+    "distanthorizons.config.enum.ERendererMode.DISABLED": "已停用",
+    "distanthorizons.config.enum.ETransparency.DISABLED": "已停用"
+}

@@ -1,0 +1,5 @@
+{
+    "inventoryprofiles.common.enum.context.gui": "Графический интерфейс пользователя",
+    "inventoryprofiles.config.category.inventory": "Инвентарь",
+    "inventoryprofiles.config.category.misc": "Разное"
+}

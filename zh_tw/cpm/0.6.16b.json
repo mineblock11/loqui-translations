@@ -1,0 +1,9 @@
+{
+    "button.cpm.edit.undo": "復原",
+    "label.cpm.keybind.undo": "復原",
+    "label.cpm.safetyProfile.high": "高",
+    "label.cpm.safetyProfile.low": "低",
+    "label.cpm.safetyProfile.medium": "中",
+    "label.cpm.safetyProfile.off": "關閉",
+    "tooltip.cpm.animType.group.custom": "自訂動畫"
+}

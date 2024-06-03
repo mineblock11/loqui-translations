@@ -1,0 +1,11 @@
+{
+    "tier.factory_api.advanced": "Erweitert",
+    "tier.factory_api.high": "Hoch",
+    "tooltip.factory_api.config.identifier.lava": "Lavaroter Teufelsfisch",
+    "tooltip.factory_api.config.transport.none": "Kein",
+    "tooltip.factory_api.gui_back": "Zurück",
+    "tooltip.factory_api.gui_bottom": "Unten",
+    "tooltip.factory_api.gui_left": "Links",
+    "tooltip.factory_api.gui_right": "Rechts",
+    "tooltip.factory_api.gui_top": "Oben"
+}

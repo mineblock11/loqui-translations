@@ -1,0 +1,5 @@
+{
+    "fastquit.screen.waiting": "Czekam, aż skończy się zapisywanie świata \"%s\"",
+    "fastquit.toast.deleted": "Świat \"%s\" został usunięty.",
+    "fastquit.toast.description": "Skończono zapisywać świat \"%s\""
+}

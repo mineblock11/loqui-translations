@@ -1,0 +1,18 @@
+{
+    "text.autoconfig.PaginatedAdvancements.option.FadeOutBackgroundOnAdvancementHover": "",
+    "text.autoconfig.PaginatedAdvancements.option.LastSelectedTab": "",
+    "text.autoconfig.PaginatedAdvancements.option.MaxCriterionEntries": "",
+    "text.autoconfig.PaginatedAdvancements.option.PinnedTabs": "",
+    "text.autoconfig.PaginatedAdvancements.option.PinningEnabled": "",
+    "text.autoconfig.PaginatedAdvancements.option.SaveLastSelectedTab": "",
+    "text.autoconfig.PaginatedAdvancements.option.ShowAdvancementIDInDebugTooltip": "",
+    "text.autoconfig.PaginatedAdvancements.option.ShowDebugInfo": "",
+    "text.autoconfig.PaginatedAdvancements.option.SpacingBetweenHorizontalTabs": "",
+    "text.autoconfig.PaginatedAdvancements.option.SpacingBetweenPinnedTabs": "",
+    "text.autoconfig.PaginatedAdvancements.title": "",
+    "text.paginated_advancements.copied_to_clipboard": "",
+    "text.paginated_advancements.copy_to_clipboard": "",
+    "text.paginated_advancements.expand_debug": "",
+    "text.paginated_advancements.group": "",
+    "text.paginated_advancements.scroll_debug": ""
+}

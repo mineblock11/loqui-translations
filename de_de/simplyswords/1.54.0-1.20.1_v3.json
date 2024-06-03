@@ -1,0 +1,18 @@
+{
+    "item.simplyswords.mythicmetals_compat.copper.copper_longsword": "Kupferlangschwert",
+    "item.simplyswords.twilight": "Dämmersturmfisch",
+    "text.autoconfig.simplyswords_main.category.general": "Allgemein",
+    "text.autoconfig.simplyswords_main.option.runic_effects.floatChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.freezeChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.imbuedChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.momentumCooldown": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.poisonChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.shieldingChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.slowChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.stoneskinChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.swiftnessChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.trailblazeChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.weakenChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.wildfireChance": "Wahrscheinlichkeit",
+    "text.autoconfig.simplyswords_main.option.runic_effects.zephyrChance": "Wahrscheinlichkeit"
+}

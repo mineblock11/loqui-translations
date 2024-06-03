@@ -1,0 +1,15 @@
+{
+    "distanthorizons.config.enum.EHorizontalQuality.EXTREME": "Ekstrem",
+    "distanthorizons.config.enum.EHorizontalQuality.HIGH": "Høy",
+    "distanthorizons.config.enum.EHorizontalQuality.LOW": "Lav",
+    "distanthorizons.config.enum.EHorizontalQuality.MEDIUM": "Middels",
+    "distanthorizons.config.enum.EOverdrawPrevention.MEDIUM": "Middels",
+    "distanthorizons.config.enum.EQualityPreset.EXTREME": "Ekstrem",
+    "distanthorizons.config.enum.EQualityPreset.HIGH": "Høy",
+    "distanthorizons.config.enum.EQualityPreset.LOW": "Lav",
+    "distanthorizons.config.enum.EQualityPreset.MEDIUM": "Middels",
+    "distanthorizons.config.enum.EVerticalQuality.EXTREME": "Ekstrem",
+    "distanthorizons.config.enum.EVerticalQuality.HIGH": "Høy",
+    "distanthorizons.config.enum.EVerticalQuality.LOW": "Lav",
+    "distanthorizons.config.enum.EVerticalQuality.MEDIUM": "Middels"
+}

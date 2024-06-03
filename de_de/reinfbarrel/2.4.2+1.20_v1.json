@@ -1,0 +1,13 @@
+{
+    "block.reinfbarrel.copper_barrel": "Kupferfass",
+    "block.reinfbarrel.diamond_barrel": "Diamantfass",
+    "block.reinfbarrel.gold_barrel": "Goldfass",
+    "block.reinfbarrel.iron_barrel": "Eisenfass",
+    "block.reinfbarrel.netherite_barrel": "Netheritfass",
+    "container.reinfbarrel.copperBarrel": "Kupferfass",
+    "container.reinfbarrel.diamondBarrel": "Diamantfass",
+    "container.reinfbarrel.goldBarrel": "Goldfass",
+    "container.reinfbarrel.ironBarrel": "Eisenfass",
+    "container.reinfbarrel.netheriteBarrel": "Netheritfass",
+    "stat.reinfbarrel.open_copper_barrel": "Kupferfässer geöffnet"
+}

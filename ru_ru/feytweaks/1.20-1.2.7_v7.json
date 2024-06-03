@@ -1,0 +1,20 @@
+{
+    "feytweaks.midnightconfig.beaconCulling": "",
+    "feytweaks.midnightconfig.beacons": "",
+    "feytweaks.midnightconfig.beamDistance": "",
+    "feytweaks.midnightconfig.fastGlowToShadow": "",
+    "feytweaks.midnightconfig.glowToShadow": "",
+    "feytweaks.midnightconfig.hideBeam": "",
+    "feytweaks.midnightconfig.hideGlow": "",
+    "feytweaks.midnightconfig.hideGlowDistance": "",
+    "feytweaks.midnightconfig.hideTexts": "",
+    "feytweaks.midnightconfig.optimizeBeam": "",
+    "feytweaks.midnightconfig.optimizeGlow": "",
+    "feytweaks.midnightconfig.signCulling": "",
+    "feytweaks.midnightconfig.signs": "",
+    "feytweaks.midnightconfig.simpleGlow": "",
+    "feytweaks.midnightconfig.textDistance": "",
+    "feytweaks.midnightconfig.title": "",
+    "feytweaks.midnightconfig.toggleMod": "",
+    "key.feytweaks.openConfigKey": ""
+}

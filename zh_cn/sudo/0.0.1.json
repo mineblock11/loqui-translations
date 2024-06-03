@@ -1,0 +1,12 @@
+{
+    "apt.command.install.downloaded": "",
+    "apt.command.install.downloading": "",
+    "apt.command.install.new": "",
+    "apt.command.install.size": "",
+    "apt.command.search.results": "",
+    "apt.command.search.searching": "",
+    "command.apt.network.error": "",
+    "command.cat.not-exist": "",
+    "command.sudo.auth.failed": "",
+    "command.sudo.option.i.auth.failed": ""
+}

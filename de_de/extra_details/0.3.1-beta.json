@@ -1,0 +1,9 @@
+{
+    "text.autoconfig.extra_details.option.blockSettings.chest.enabled": "Aktiviert",
+    "text.autoconfig.extra_details.option.blockSettings.door.enabled": "Aktiviert",
+    "text.autoconfig.extra_details.option.blockSettings.fenceGate.enabled": "Aktiviert",
+    "text.autoconfig.extra_details.option.blockSettings.hangingSign.enabled": "Aktiviert",
+    "text.autoconfig.extra_details.option.blockSettings.lever.enabled": "Aktiviert",
+    "text.autoconfig.extra_details.option.blockSettings.sign.enabled": "Aktiviert",
+    "text.autoconfig.extra_details.option.blockSettings.trapdoor.enabled": "Aktiviert"
+}

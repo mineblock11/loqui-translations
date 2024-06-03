@@ -1,0 +1,12 @@
+{
+    "block.create.chocolate": "Шоколад",
+    "create.schematic.tool.rotate": "Поворот",
+    "create.tooltip.capacityProvided.medium": "Средняя",
+    "create.tooltip.stressImpact.high": "Высокое",
+    "create.tooltip.stressImpact.low": "Низкое",
+    "fluid.create.chocolate": "Шоколад",
+    "fluid.create.potion": "Зелье",
+    "tag.c.chocolate": "Шоколад",
+    "tag.c.flour": "Мука",
+    "tag.c.raw_ores": "Рудные минералы"
+}

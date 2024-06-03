@@ -1,0 +1,7 @@
+{
+    "config.entity_texture_features.Debug_log_mode.log": "Registro",
+    "config.entity_texture_features.Debug_log_mode.none": "Ninguno",
+    "config.entity_texture_features.allow_illegal_texture_paths.title": "Permitir ruta de acceso a textura rota",
+    "config.entity_texture_features.allow_illegal_texture_paths.tooltip": "Esta configuración te permite sobrescribir el\\ncomportamiento de Vanilla de prohibir todos\\nlos caracteres que no sean [a-z0-9\/._-] en rutas de acceso a texturas.\\nEso significa que las texturas con espacios o mayúsculas\\nestán permitidas.\\nDeshabilitado por defecto, ya que estos problemas deberían \\nde ser arreglados por el creador del paquete de recursos.",
+    "config.entity_texture_features.always_check_vanilla_emissive_suffix.title": "Siempre revisar por '_e' emisivo"
+}

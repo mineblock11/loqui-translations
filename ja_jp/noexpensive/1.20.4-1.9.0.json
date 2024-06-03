@@ -1,0 +1,11 @@
+{
+    "command.combineHigher.get": "",
+    "command.combineHigher.success": "",
+    "command.compatibility.notFound": "",
+    "command.compatibility.put.success": "",
+    "command.compatibility.remove.success": "",
+    "command.maxLevel.error": "",
+    "command.maxLevel.get": "",
+    "command.maxLevel.success": "",
+    "command.reload.success": ""
+}

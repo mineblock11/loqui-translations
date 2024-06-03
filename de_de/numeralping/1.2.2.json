@@ -1,0 +1,23 @@
+{
+    "numeralping.option.defaultPingColour": "",
+    "numeralping.option.defaultPingThreshold": "",
+    "numeralping.option.defaultPingThreshold.desc": "",
+    "numeralping.option.levelFivePingColour": "",
+    "numeralping.option.levelFourPingColour": "",
+    "numeralping.option.levelFourPingColour.desc": "",
+    "numeralping.option.levelOnePingColour": "",
+    "numeralping.option.levelOnePingThreshold": "",
+    "numeralping.option.levelOnePingThreshold.desc": "",
+    "numeralping.option.levelThreePingColour": "",
+    "numeralping.option.levelThreePingThreshold": "",
+    "numeralping.option.levelThreePingThreshold.desc": "",
+    "numeralping.option.levelTwoPingColour": "",
+    "numeralping.option.levelTwoPingThreshold": "",
+    "numeralping.option.levelTwoPingThreshold.desc": "",
+    "numeralping.option.playerList": "",
+    "numeralping.option.playerList.desc": "",
+    "numeralping.option.serverList": "",
+    "numeralping.option.serverList.desc": "",
+    "numeralping.option.smallPing": "",
+    "numeralping.option.smallPing.desc": ""
+}

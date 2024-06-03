@@ -1,0 +1,13 @@
+{
+    "gui.inventory_sort.tooltip.deposit_all": "",
+    "gui.inventory_sort.tooltip.hold_to_action": "",
+    "gui.inventory_sort.tooltip.loot_all": "",
+    "gui.inventory_sort.tooltip.quick_stack": "",
+    "gui.inventory_sort.tooltip.restock": "",
+    "gui.inventory_sort.tooltip.shift": "",
+    "gui.inventory_sort.tooltip.sort": "",
+    "gui.inventory_sort.tooltip.sort_container": "",
+    "gui.inventory_sort.tooltip.sort_inventory": "",
+    "text.config.inventory_sort.option.sortOrder": "",
+    "text.config.inventory_sort.title": ""
+}

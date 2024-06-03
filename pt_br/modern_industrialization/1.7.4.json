@@ -1,0 +1,7 @@
+{
+    "text.modern_industrialization.Disabled": "Desabilitado",
+    "text.modern_industrialization.Enabled": "Habilitado",
+    "text.modern_industrialization.ModernIndustrialization": "Modern Industrialization",
+    "text.modern_industrialization.NewVersion": "Uma nova versão do Modern Industrialization (%s) está disponível no %s",
+    "text.modern_industrialization.NoEmi": "ALERTA: Para jogar com Modern Industrialization, nós RECOMENDAMOS FORTEMENTE que você use EMI (Visualizador de Recipes e Itens). Caso contrário, você não conseguirá ver as recipes dentro do jogo, e também não conseguirá lidar com as recipes conflitantes dentro de algumas de nossas máquinas. JEI (Just Enough Items) e REI (Roughly Enough Items) também são suportados.\\n\\nEsta mensagem pode ser desabilitada nos arquivos de configuração."
+}

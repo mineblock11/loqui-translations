@@ -1,0 +1,19 @@
+{
+    "config.borderlessmining.dimensions": "",
+    "config.borderlessmining.dimensions.enabled": "",
+    "config.borderlessmining.dimensions.monitorcoordinates": "",
+    "config.borderlessmining.dimensions.monitorcoordinates.tooltip": "",
+    "config.borderlessmining.dimensions.x": "",
+    "config.borderlessmining.dimensions.y": "",
+    "config.borderlessmining.general": "",
+    "config.borderlessmining.general.enabled": "",
+    "config.borderlessmining.general.enabled.tooltip": "",
+    "config.borderlessmining.general.enabledmac": "",
+    "config.borderlessmining.general.enabledmac.tooltip": "",
+    "config.borderlessmining.general.forcemonitor": "",
+    "config.borderlessmining.general.forcemonitor.current": "",
+    "config.borderlessmining.general.videomodeoption": "",
+    "config.borderlessmining.general.videomodeoption.tooltip": "",
+    "config.borderlessmining.title": "",
+    "text.borderlessmining.videomodename": ""
+}

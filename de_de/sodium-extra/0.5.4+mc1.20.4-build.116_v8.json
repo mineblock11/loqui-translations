@@ -1,0 +1,13 @@
+{
+    "options.particles.minecraft.block": "Block",
+    "options.particles.minecraft.lava": "Lavaroter Teufelsfisch",
+    "options.particles.minecraft.rain": "Regen",
+    "options.particles.minecraft.smoke": "Rußschwarzer Wels l'ancien",
+    "sodium-extra.option.overlay_corner.bottom_left": "Unten links",
+    "sodium-extra.option.overlay_corner.bottom_right": "Unten rechts",
+    "sodium-extra.option.overlay_corner.top_left": "Oben links",
+    "sodium-extra.option.overlay_corner.top_right": "Oben rechts",
+    "sodium-extra.option.sky": "Himmelsblaue Schlachtkimme",
+    "sodium-extra.option.text_contrast.none": "Kein",
+    "sodium-extra.option.text_contrast.shadow": "Schattensturmfisch"
+}

@@ -1,0 +1,4 @@
+{
+    "enum.builders_inventory.extended_inventory.clear_behavior.none": "Kein",
+    "yacl3.config.builders_inventory:config.extended_inventory_enabled": "Aktiviert"
+}

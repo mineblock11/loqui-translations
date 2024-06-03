@@ -1,0 +1,11 @@
+{
+    "text.autoconfig.simplehudenhanced.option.equipmentStatus.Durability.slots.Boots": "Stiefel",
+    "text.autoconfig.simplehudenhanced.option.equipmentStatus.Durability.slots.Boots.@Tooltip": "Stiefel",
+    "text.autoconfig.simplehudenhanced.option.equipmentStatus.slots.Boots": "Stiefel",
+    "text.autoconfig.simplehudenhanced.option.equipmentStatus.slots.Boots.@Tooltip": "Stiefel",
+    "text.direction.simplehudenhanced.east": "Ost",
+    "text.direction.simplehudenhanced.north": "Nord",
+    "text.direction.simplehudenhanced.south": "Süd",
+    "text.direction.simplehudenhanced.west": "West",
+    "text.hud.simplehudenhanced.biome": "Biom"
+}

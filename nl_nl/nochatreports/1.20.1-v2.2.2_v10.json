@@ -1,0 +1,14 @@
+{
+    "algorithm.nochatreports.aes_cfb8_base64.name": "AES\/CFB8+Base64R",
+    "algorithm.nochatreports.aes_ecb_base64.name": "AES\/ECB+Base64R",
+    "algorithm.nochatreports.aes_gcm_base64.name": "AES\/GCM+Base64R",
+    "algorithm.nochatreports.caesar.name": "Caesar",
+    "configuration.NoChatReports.category.client": "Client",
+    "configuration.NoChatReports.category.lan": "LAN",
+    "configuration.NoChatReports.config": "No Chat Reports",
+    "gui.nochatreports.encryption_warning.header": "Over Versleuteling",
+    "gui.nochatreports.encryption_warning.learn_more": "Meer Informatie",
+    "gui.nochatreports.realms_warning.header": "Let op: Realms",
+    "gui.nochatreports.realms_warning.learn_more": "Meer Informatie",
+    "gui.nochatreports.signing_mode.never": "Nooit"
+}

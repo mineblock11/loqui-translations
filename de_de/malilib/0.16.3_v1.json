@@ -1,0 +1,16 @@
+{
+    "malilib.gui.button.cancel": "Abbrechen",
+    "malilib.gui.button.reset": "Zurücksetzen",
+    "malilib.gui.label.block_snap.none": "Kein",
+    "malilib.gui.label.keybind_settings.cancel_further": "Weiteres Verarbeiten abbrechen",
+    "malilib.gui.title.debug": "Debug (zur Fehlersuche)",
+    "malilib.label.active_mode.always": "Immer",
+    "malilib.label.active_mode.never": "Nie",
+    "malilib.label.alignment.bottom_left": "Unten links",
+    "malilib.label.alignment.bottom_right": "Unten rechts",
+    "malilib.label.alignment.top_left": "Oben links",
+    "malilib.label.alignment.top_right": "Oben rechts",
+    "malilib.label.list_type.none": "Kein",
+    "malilib.label.message_output_type.message": "Nachricht",
+    "malilib.label.message_output_type.none": "Kein"
+}

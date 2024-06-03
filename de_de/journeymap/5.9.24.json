@@ -1,0 +1,14 @@
+{
+    "jm.fullscreen.map_biome": "Biom",
+    "jm.minimap.orientation.north": "Nord",
+    "jm.minimap.position_bottomleft": "Unten links",
+    "jm.minimap.position_bottomright": "Unten rechts",
+    "jm.minimap.position_topleft": "Oben links",
+    "jm.minimap.position_topright": "Oben rechts",
+    "jm.server.edit.option.none": "Kein",
+    "jm.theme.labelsource.biome": "Biom",
+    "jm.waypoint.cancel": "Abbrechen",
+    "jm.waypoint.chat": "Chat",
+    "jm.webmap.automap_dialog_none": "Kein",
+    "jm.webmap.villagers_menu_item_text": "Dorfbewohner"
+}

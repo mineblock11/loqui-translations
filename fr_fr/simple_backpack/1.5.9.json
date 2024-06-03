@@ -1,0 +1,18 @@
+{
+    "container.simple_backpack.backpack": "",
+    "container.simple_backpack.backpack_new": "",
+    "container.simple_backpack.ender_pack": "",
+    "container.simple_backpack.portable_crafter": "",
+    "container.simple_backpack.void_pack": "",
+    "item.simple_backpack.backpack": "",
+    "item.simple_backpack.backpack_new": "",
+    "item.simple_backpack.ender_pack": "",
+    "item.simple_backpack.portable_crafter": "",
+    "item.simple_backpack.simple_bundle": "",
+    "item.simple_backpack.simple_bundle.tip1": "",
+    "item.simple_backpack.void_bundle": "",
+    "item.simple_backpack.void_bundle.tip1": "",
+    "item.simple_backpack.void_bundle.tip2": "",
+    "item.simple_backpack.void_pack": "",
+    "itemGroup.simple_backpack.simple_backpack_group": ""
+}

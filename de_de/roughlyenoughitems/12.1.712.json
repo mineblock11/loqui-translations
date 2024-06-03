@@ -1,0 +1,21 @@
+{
+    "config.rei.options.groups.appearance.tooltips": "Schnellinfos",
+    "config.rei.options.groups.cheats.advanced": "Erweitert",
+    "config.rei.options.groups.favorites.advanced": "Erweitert",
+    "config.rei.options.groups.filtering.advanced": "Erweitert",
+    "config.rei.options.groups.input.advanced": "Erweitert",
+    "config.rei.options.groups.search.advanced": "Erweitert",
+    "config.rei.value.layout.config_button_location.top_left": "Oben links",
+    "config.rei.value.layout.config_button_location.top_right": "Oben rechts",
+    "config.rei.value.layout.search_field_location.bottom_left": "Unten links",
+    "config.rei.value.layout.search_field_location.bottom_right": "Unten rechts",
+    "config.rei.value.layout.search_field_location.top_left": "Oben links",
+    "config.rei.value.layout.search_field_location.top_right": "Oben rechts",
+    "config.rei.value.trueFalse.false": "Falsch",
+    "config.rei.value.trueFalse.true": "Wahr",
+    "favorite.section.weather": "Wetter",
+    "text.rei.disabled": "Nein",
+    "text.rei.enabled": "Ja",
+    "text.rei.weather.rain": "Regen",
+    "text.rei.weather.thunder": "Donner"
+}

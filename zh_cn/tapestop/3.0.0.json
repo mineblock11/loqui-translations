@@ -1,0 +1,23 @@
+{
+    "config.tapestop.background_style.panorama": "",
+    "config.tapestop.background_style.pure_color": "",
+    "text.autoconfig.tapestop.category.default": "",
+    "text.autoconfig.tapestop.category.trigger": "",
+    "text.autoconfig.tapestop.category.visual": "",
+    "text.autoconfig.tapestop.option.debugInfoEnabled": "",
+    "text.autoconfig.tapestop.option.debugInfoEnabled.@Tooltip": "",
+    "text.autoconfig.tapestop.option.enabled": "",
+    "text.autoconfig.tapestop.option.enabled.@Tooltip": "",
+    "text.autoconfig.tapestop.option.timeoutMs": "",
+    "text.autoconfig.tapestop.option.timeoutMs.@Tooltip": "",
+    "text.autoconfig.tapestop.option.trigger.afterGUITimeout": "",
+    "text.autoconfig.tapestop.option.trigger.afterGUITimeout.@Tooltip": "",
+    "text.autoconfig.tapestop.option.trigger.afterGameTimeout": "",
+    "text.autoconfig.tapestop.option.trigger.afterGameTimeout.@Tooltip": "",
+    "text.autoconfig.tapestop.option.trigger.whenLostFocus": "",
+    "text.autoconfig.tapestop.option.trigger.whenLostFocus.@Tooltip": "",
+    "text.autoconfig.tapestop.option.trigger.whenMinimized": "",
+    "text.autoconfig.tapestop.option.trigger.whenMinimized.@Tooltip": "",
+    "text.autoconfig.tapestop.option.visual.backgroundStyle": "",
+    "text.autoconfig.tapestop.title": ""
+}

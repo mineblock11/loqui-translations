@@ -1,0 +1,14 @@
+{
+    "config.rei.options.groups.appearance.advanced": "Avancé",
+    "config.rei.options.groups.cheats.advanced": "Avancé",
+    "config.rei.options.groups.favorites.advanced": "Avancé",
+    "config.rei.options.groups.filtering.advanced": "Avancé",
+    "config.rei.options.groups.input.advanced": "Avancé",
+    "config.rei.options.groups.search.advanced": "Avancé",
+    "config.rei.options.layout.boundaries.desc.horizontal_alignment.left": "Gauche",
+    "config.rei.options.layout.boundaries.desc.horizontal_alignment.right": "Droite",
+    "config.rei.value.accessibility.status_effects_location.left": "Gauche",
+    "config.rei.value.accessibility.status_effects_location.right": "Droite",
+    "config.rei.value.layout.location.left": "Gauche",
+    "config.rei.value.layout.location.right": "Droite"
+}

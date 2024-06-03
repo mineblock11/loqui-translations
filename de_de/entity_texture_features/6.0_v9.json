@@ -1,0 +1,12 @@
+{
+    "config.entity_texture_features.Debug_log_mode.chat": "Chat",
+    "config.entity_texture_features.Debug_log_mode.log": "Protokolldatei",
+    "config.entity_texture_features.Debug_log_mode.none": "Kein",
+    "config.entity_texture_features.blink_frequency.title": "Blinzelhäufigkeit",
+    "config.entity_texture_features.blink_length.title": "Blinzellänge",
+    "config.entity_texture_features.blinking_mob_settings.title": "Blinzelnde Kreaturtexturen",
+    "config.entity_texture_features.emissive_mode.dull": "Standard",
+    "config.entity_texture_features.update_frequency.never": "Nie",
+    "config.entity_texture_features.warn.figura.text.1": "Figura",
+    "config.entity_texture_features.warn.figura.text.2": "ETF-Skin-Funktionen sind aus Kompatibilitätsgründen deaktiviert."
+}

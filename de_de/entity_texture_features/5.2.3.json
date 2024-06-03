@@ -1,0 +1,9 @@
+{
+    "config.entity_texture_features.Debug_log_mode.chat": "Chat",
+    "config.entity_texture_features.Debug_log_mode.log": "Protokolldatei",
+    "config.entity_texture_features.Debug_log_mode.none": "Kein Protokoll",
+    "config.entity_texture_features.blink_frequency.title": "Blinzelhäufigkeit",
+    "config.entity_texture_features.blink_length.title": "Blinzellänge",
+    "config.entity_texture_features.blinking_mob_settings.title": "Blinzelnde Kreaturtexturen",
+    "config.entity_texture_features.restrict_weather.title": "Wetter"
+}

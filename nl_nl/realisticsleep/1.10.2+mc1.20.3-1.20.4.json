@@ -1,0 +1,18 @@
+{
+    "realisticsleep.text.day": "dag",
+    "realisticsleep.text.night": "nacht",
+    "realisticsleep.text.thunderstorm": "Onweersbui",
+    "realisticsleep.text.time_until_dawn": " (tijd tot zonsopkomst: %ds)",
+    "realisticsleep.text.time_until_dusk": " (tijd tot zonsondergang: %ds)",
+    "text.autoconfig.realisticsleep.option.blockEntityTickSpeedMultiplier": "Blokentity ticksnelheid vermenigvuldiger",
+    "text.autoconfig.realisticsleep.option.chunkTickSpeedMultiplier": "Chunk ticksnelheid vermenigvuldiger",
+    "text.autoconfig.realisticsleep.option.dawnMessage": "Zonsopkomstbericht",
+    "text.autoconfig.realisticsleep.option.duskMessage": "Zonsondergangbericht",
+    "text.autoconfig.realisticsleep.option.raidTickSpeedMultiplier": "Raid ticksnelheid vermenigvuldiger",
+    "text.autoconfig.realisticsleep.option.sendDawnMessage": "Stuur zonsopkomstbericht?",
+    "text.autoconfig.realisticsleep.option.sendDuskMessage": "Stuur zonsondergangbericht?",
+    "text.autoconfig.realisticsleep.option.sleepSpeedCurve": "Slaapsnelheid kromme",
+    "text.autoconfig.realisticsleep.option.sleepSpeedMultiplier": "Slaapsnelheid vermenigvuldiger",
+    "text.autoconfig.realisticsleep.option.tickDelay": "Tick vertraging",
+    "text.autoconfig.realisticsleep.title": "Realistic Sleep Instellingen"
+}

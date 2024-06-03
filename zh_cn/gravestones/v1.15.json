@@ -1,0 +1,20 @@
+{
+    "block.gravestones.gravestone": "",
+    "text.autoconfig.gravestones.option.mainSettings": "",
+    "text.autoconfig.gravestones.option.mainSettings.dropType": "",
+    "text.autoconfig.gravestones.option.mainSettings.dropType.@Tooltip": "",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraveLooting": "",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraveLooting.@Tooltip": "",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraves": "",
+    "text.autoconfig.gravestones.option.mainSettings.enableGraves.@Tooltip": "",
+    "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot": "",
+    "text.autoconfig.gravestones.option.mainSettings.minimumOpLevelToLoot.@Tooltip": "",
+    "text.autoconfig.gravestones.option.mainSettings.retrievalType": "",
+    "text.autoconfig.gravestones.option.mainSettings.retrievalType.@Tooltip": "",
+    "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates": "",
+    "text.autoconfig.gravestones.option.mainSettings.sendGraveCoordinates.@Tooltip": "",
+    "text.autoconfig.gravestones.option.mainSettings.xpPercentage": "",
+    "text.autoconfig.gravestones.option.mainSettings.xpPercentage.@Tooltip": "",
+    "text.autoconfig.gravestones.title": "",
+    "text.gravestones.grave_coordinates": ""
+}

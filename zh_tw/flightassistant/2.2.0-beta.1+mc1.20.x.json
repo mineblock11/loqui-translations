@@ -1,0 +1,5 @@
+{
+    "config.flightassistant.computers.global.disabled": "已停用",
+    "config.flightassistant.computers.protection.disabled": "已停用",
+    "config.flightassistant.computers.warning.disabled": "已停用"
+}

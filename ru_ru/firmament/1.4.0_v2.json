@@ -1,0 +1,17 @@
+{
+    "firmament.config.custom-skyblock-textures.enabled": "Включить сторонние текстуры предметов",
+    "firmament.config.fixes": "Исправления",
+    "firmament.config.inventory-buttons.open-editor": "Открыть редактор",
+    "firmament.config.power-user.copy-item-id": "Скопировать идентификатор SkyBlock",
+    "firmament.config.power-user.copy-texture-pack-id": "Скопировать идентификатор набора текстур",
+    "firmament.config.power-user.show-item-id": "Скопировать идентификаторы SkyBlock",
+    "firmament.config.pristine-profit.timeout": "Тайм-аут (0 = отключён)",
+    "firmament.config.repo.autoUpdate": "Автообновление",
+    "firmament.config.repo.reponame": "Имя репозитория",
+    "firmament.config.repo.reset": "Сбросить",
+    "firmament.config.waypoints": "Отметки",
+    "firmament.hud.edit": "Редактировать %s",
+    "firmament.inventory-buttons.save-preset": "Сохранить предустановку",
+    "firmament.pv.pets": "Домашние животные",
+    "firmanent.config.edit": "Редактировать"
+}

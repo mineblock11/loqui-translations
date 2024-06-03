@@ -1,0 +1,19 @@
+{
+    "distanthorizons.config.enum.EDebugRendering.OFF": "Arrêt",
+    "distanthorizons.config.enum.EGenerationPriority.AUTO": "Auto",
+    "distanthorizons.config.enum.EGpuUploadMethod.AUTO": "Auto",
+    "distanthorizons.config.enum.EHeightFogMixMode.MAX": "Max",
+    "distanthorizons.config.enum.EHorizontalQuality.EXTREME": "Extrême",
+    "distanthorizons.config.enum.EHorizontalQuality.HIGH": "Élevé",
+    "distanthorizons.config.enum.EHorizontalQuality.LOW": "Faible",
+    "distanthorizons.config.enum.EHorizontalQuality.MEDIUM": "Moyen",
+    "distanthorizons.config.enum.EOverdrawPrevention.MEDIUM": "Moyen",
+    "distanthorizons.config.enum.EQualityPreset.EXTREME": "Extrême",
+    "distanthorizons.config.enum.EQualityPreset.HIGH": "Élevé",
+    "distanthorizons.config.enum.EQualityPreset.LOW": "Faible",
+    "distanthorizons.config.enum.EQualityPreset.MEDIUM": "Moyen",
+    "distanthorizons.config.enum.EVerticalQuality.EXTREME": "Extrême",
+    "distanthorizons.config.enum.EVerticalQuality.HIGH": "Élevé",
+    "distanthorizons.config.enum.EVerticalQuality.LOW": "Faible",
+    "distanthorizons.config.enum.EVerticalQuality.MEDIUM": "Moyen"
+}

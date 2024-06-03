@@ -1,0 +1,7 @@
+{
+    "visiblebarriers.disabled": "Deaktiviert",
+    "visiblebarriers.enabled": "Aktiviert",
+    "visiblebarriers.weather.default": "Standard",
+    "visiblebarriers.weather.rain": "Regen",
+    "visiblebarriers.weather.thunder": "Donner"
+}

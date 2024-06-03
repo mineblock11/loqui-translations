@@ -1,0 +1,23 @@
+{
+    "vtd.download": "",
+    "vtd.download.failed": "",
+    "vtd.download.success": "",
+    "vtd.error": "",
+    "vtd.fileNameValidity.fileExists": "",
+    "vtd.fileNameValidity.invalidWindows": "",
+    "vtd.fileNameValidity.regexDoesntMatch": "",
+    "vtd.fileNameValidity.reservedWindows": "",
+    "vtd.packError.body": "",
+    "vtd.packError.title": "",
+    "vtd.readPackDataFailed": "",
+    "vtd.resourcePack.button": "",
+    "vtd.resourcePack.nameField": "",
+    "vtd.resourcePack.reload": "",
+    "vtd.resourcePack.subtitle": "",
+    "vtd.selectedPacks": "",
+    "vtd.share": "",
+    "vtd.share.code": "",
+    "vtd.share.failed": "",
+    "vtd.unsavedPackWarning.header": "",
+    "vtd.unsavedPackWarning.text": ""
+}

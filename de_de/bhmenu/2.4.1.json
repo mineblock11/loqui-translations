@@ -1,0 +1,5 @@
+{
+    "configs.boolean.false": "Falsch",
+    "configs.boolean.true": "Wahr",
+    "step.player_count.next": "Weiter"
+}

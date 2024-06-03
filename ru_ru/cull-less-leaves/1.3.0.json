@@ -1,0 +1,11 @@
+{
+    "cull-less-leaves.option.depth": "Глубина",
+    "cull-less-leaves.option.depth.tooltip": "Слои листьев, которые вы не хотите отсекать.\\n1 — Самый оптимизированный вариант, но выглядит хуже всего.\\n2 — Рекомендуется.\\n4 — Самый требовательный вариант, но выглядит лучше всего.",
+    "cull-less-leaves.option.enabled": "Включена",
+    "cull-less-leaves.option.fast_mangrove_roots_culling": "Оптимизированное отсечение мангровых корней",
+    "cull-less-leaves.option.fast_mangrove_roots_culling.tooltip": "Производит отсечение мангровых корней до глубины в 1 слой. Делать это глубже бессмысленно, так как корни образуют единичные слои. Это не даёт большого эффекта.",
+    "cull-less-leaves.sodium.option.depth": "Глубина отсечения листьев",
+    "cull-less-leaves.sodium.option.enabled": "Отсечение листьев",
+    "cull-less-leaves.sodium.option.enabled.description": "Активировать функционал модификации Cull Less Leaves.",
+    "cull-less-leaves.title": "Cull Less Leaves"
+}

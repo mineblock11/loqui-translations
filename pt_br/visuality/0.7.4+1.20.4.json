@@ -1,0 +1,19 @@
+{
+    "config.visuality.general": "",
+    "config.visuality.option.charge": "",
+    "config.visuality.option.hitParticles": "",
+    "config.visuality.option.hitParticles.entries": "",
+    "config.visuality.option.shinyArmor": "",
+    "config.visuality.option.shinyArmor.entries": "",
+    "config.visuality.option.shinyBlocks": "",
+    "config.visuality.option.shinyBlocks.entries": "",
+    "config.visuality.option.slime": "",
+    "config.visuality.option.soul": "",
+    "config.visuality.option.sparkle": "",
+    "config.visuality.option.waterCircle": "",
+    "config.visuality.option.waterCircle.colored": "",
+    "config.visuality.option.waterCircle.density": "",
+    "config.visuality.option.waterCircle.radius": "",
+    "config.visuality.title": "",
+    "modmenu.descriptionTranslation.visuality": ""
+}

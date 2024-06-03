@@ -1,0 +1,21 @@
+{
+    "enchantment.soulbound.soulbound": "",
+    "enchantment.soulbound.soulbound.desc": "",
+    "text.autoconfig.soulbound.option.allowBreakItem": "",
+    "text.autoconfig.soulbound.option.blacklist": "",
+    "text.autoconfig.soulbound.option.blacklist.@Tooltip": "",
+    "text.autoconfig.soulbound.option.compatibilityMode": "",
+    "text.autoconfig.soulbound.option.compatibilityMode.blacklistAndDefault": "",
+    "text.autoconfig.soulbound.option.compatibilityMode.blacklistOnly": "",
+    "text.autoconfig.soulbound.option.compatibilityMode.default": "",
+    "text.autoconfig.soulbound.option.compatibilityMode.whitelistAndDefault": "",
+    "text.autoconfig.soulbound.option.compatibilityMode.whitelistOnly": "",
+    "text.autoconfig.soulbound.option.conflictWithVanishingCurse": "",
+    "text.autoconfig.soulbound.option.isTreasure": "",
+    "text.autoconfig.soulbound.option.maxDamagePercent": "",
+    "text.autoconfig.soulbound.option.minPower": "",
+    "text.autoconfig.soulbound.option.powerRange": "",
+    "text.autoconfig.soulbound.option.whitelist": "",
+    "text.autoconfig.soulbound.option.whitelist.@Tooltip": "",
+    "text.autoconfig.soulbound.title": ""
+}

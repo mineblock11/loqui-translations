@@ -1,0 +1,8 @@
+{
+    "malilib.gui.button.cancel": "Abbrechen",
+    "malilib.gui.label.block_snap.none": "Kein",
+    "malilib.gui.label.keybind_settings.cancel_further": "Weiteres Verarbeiten abbrechen",
+    "malilib.label.list_type.none": "Kein",
+    "malilib.label.message_output_type.message": "Nachricht",
+    "malilib.label.message_output_type.none": "Kein"
+}

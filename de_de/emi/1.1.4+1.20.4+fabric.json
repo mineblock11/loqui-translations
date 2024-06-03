@@ -1,0 +1,19 @@
+{
+    "config.emi.group.general": "Allgemein",
+    "config.emi.group.ui.left_sidebar": "Linke Seitenleiste",
+    "config.emi.group.ui.right_sidebar": "Rechte Seitenleiste",
+    "emi.help_level.none": "Keine",
+    "emi.sidebar.none": "Keine",
+    "emi.sidebar.type.none": "Keine",
+    "tag.item.c.armors.boots": "Stiefel",
+    "tag.item.c.copper_ingots": "Kupferbarren",
+    "tag.item.c.copper_nuggets": "Kupferklumpen",
+    "tag.item.c.ingots.copper": "Kupferbarren",
+    "tag.item.c.nuggets.copper": "Kupferklumpen",
+    "tag.item.c.raw_copper_blocks": "Rohkupferblöcke",
+    "tag.item.c.raw_copper_ores": "Rohkupfererze",
+    "tag.item.c.raw_materials.copper": "Rohkupfer",
+    "tag.item.c.storage_blocks.copper": "Kupferaufbewahrungsblöcke",
+    "tag.item.c.storage_blocks.raw_copper": "Rohkupferaufbewahrungsblöcke",
+    "tag.item.minecraft.leaves": "Laub"
+}

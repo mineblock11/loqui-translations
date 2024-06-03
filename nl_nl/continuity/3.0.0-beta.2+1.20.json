@@ -1,0 +1,11 @@
+{
+    "options.continuity.connected_textures": "Verbonden Textures",
+    "options.continuity.connected_textures.tooltip": "Verbonden textures in- of uitschakelen.",
+    "options.continuity.custom_block_layers": "Aangepaste bloklagen",
+    "options.continuity.custom_block_layers.tooltip": "Aangepaste bloklagen in- of uitschakelen.",
+    "options.continuity.emissive_textures": "Lichtgevende Textures",
+    "options.continuity.emissive_textures.tooltip": "Lichtgevende textures voor block en item models in- of uitschakelen.",
+    "options.continuity.title": "Continuity Configuratie",
+    "resourcePack.continuity.default.name": "Standaard Verbonden Textures",
+    "resourcePack.continuity.glass_pane_culling_fix.name": "Glazen Ruiten Rendering Fix"
+}

@@ -1,0 +1,6 @@
+{
+    "config.flightassistant.computers.global.disabled": "Desabilitado",
+    "config.flightassistant.computers.protection.disabled": "Desabilitado",
+    "config.flightassistant.computers.warning.disabled": "Desabilitado",
+    "config.flightassistant.indicators.speed": "Velocidade"
+}

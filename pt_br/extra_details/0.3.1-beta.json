@@ -1,0 +1,14 @@
+{
+    "text.autoconfig.extra_details.option.blockSettings.chest.animationSpeed": "Velocidade da Animação",
+    "text.autoconfig.extra_details.option.blockSettings.chest.enabled": "Habilitado",
+    "text.autoconfig.extra_details.option.blockSettings.door.animationSpeed": "Velocidade da Animação",
+    "text.autoconfig.extra_details.option.blockSettings.door.enabled": "Habilitado",
+    "text.autoconfig.extra_details.option.blockSettings.fenceGate.animationSpeed": "Velocidade da Animação",
+    "text.autoconfig.extra_details.option.blockSettings.fenceGate.enabled": "Habilitado",
+    "text.autoconfig.extra_details.option.blockSettings.hangingSign.enabled": "Habilitado",
+    "text.autoconfig.extra_details.option.blockSettings.lever.animationSpeed": "Velocidade da Animação",
+    "text.autoconfig.extra_details.option.blockSettings.lever.enabled": "Habilitado",
+    "text.autoconfig.extra_details.option.blockSettings.sign.enabled": "Habilitado",
+    "text.autoconfig.extra_details.option.blockSettings.trapdoor.animationSpeed": "Velocidade da Animação",
+    "text.autoconfig.extra_details.option.blockSettings.trapdoor.enabled": "Habilitado"
+}

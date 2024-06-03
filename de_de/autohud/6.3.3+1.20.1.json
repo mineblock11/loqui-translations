@@ -1,0 +1,8 @@
+{
+    "autohud.category.advanced": "Erweitert",
+    "autohud.category.general": "Allgemein",
+    "autohud.option.advanced.distance": "Distanz",
+    "autohud.revealPolicy.Always": "Immer",
+    "autohud.revealPolicy.Disabled": "Deaktiviert",
+    "autohud.revealPolicy.Low": "Gering"
+}

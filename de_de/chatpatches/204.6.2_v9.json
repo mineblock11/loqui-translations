@@ -1,0 +1,5 @@
+{
+    "text.chatpatches.category.debug": "Debug (zur Fehlersuche)",
+    "text.chatpatches.copy.jsonString": "JSON",
+    "text.chatpatches.copy.uuid": "UUID"
+}

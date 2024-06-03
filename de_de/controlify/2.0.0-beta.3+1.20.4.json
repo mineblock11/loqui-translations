@@ -1,0 +1,8 @@
+{
+    "controlify.battery_level.high": "Hoch",
+    "controlify.battery_level.low": "Gering",
+    "controlify.battery_level.medium": "Mittel",
+    "controlify.calibration.done": "Fertig",
+    "controlify.config.category.advanced": "Erweitert",
+    "controlify.gui.group.advanced": "Erweitert"
+}

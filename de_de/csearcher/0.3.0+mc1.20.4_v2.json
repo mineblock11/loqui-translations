@@ -1,0 +1,6 @@
+{
+    "config.csearcher.category.default": "Allgemein",
+    "text.csearcher.dim_filter.current": "Aktuell",
+    "text.csearcher.modes.NONE": "Kein",
+    "text.csearcher.sort_modes.DISTANCE": "Distanz"
+}

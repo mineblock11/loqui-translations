@@ -1,0 +1,10 @@
+{
+    "config.rei.options.groups.appearance.advanced": "Zaawansowane",
+    "config.rei.options.groups.cheats.advanced": "Zaawansowane",
+    "config.rei.options.groups.favorites.advanced": "Zaawansowane",
+    "config.rei.options.groups.filtering.advanced": "Zaawansowane",
+    "config.rei.options.groups.input.advanced": "Zaawansowane",
+    "config.rei.options.groups.search.advanced": "Zaawansowane",
+    "text.rei.hint.configure": "Konfiguruj",
+    "text.rei.select": "Wybierz"
+}

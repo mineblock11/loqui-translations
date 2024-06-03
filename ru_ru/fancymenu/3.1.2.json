@@ -1,0 +1,11 @@
+{
+    "fancymenu.editor.edit.undo": "Отменить",
+    "fancymenu.editor.items.shape.color": "Цвет",
+    "fancymenu.editor.loading_requirement.screens.requirement.info.mode.normal": "Обычно",
+    "fancymenu.elements.audio.play_mode.normal": "Обычно",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.advanced": "Для продвинутых",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.client": "Клиент",
+    "fancymenu.general.cycle.enabled_disabled.enabled": "Включена",
+    "fancymenu.layout.status.enabled": "Включена",
+    "fancymenu.overlay.menu_bar.user_interface.ui_scale.auto": "Авто"
+}

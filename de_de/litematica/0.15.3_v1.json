@@ -1,0 +1,14 @@
+{
+    "litematica.gui.button.cancel": "Abbrechen",
+    "litematica.gui.button.material_list.ignore": "Ignorieren",
+    "litematica.gui.button.schematic_verifier.ignore": "Ignorieren",
+    "litematica.gui.label.area_selection.mode.normal": "Normal",
+    "litematica.gui.label.easy_place_protocol.auto": "Automatisch",
+    "litematica.gui.label.easy_place_protocol.none": "Kein",
+    "litematica.gui.label.origin.auto": "Automatisch",
+    "litematica.gui.label.paste_nbt_behavior.none": "Kein",
+    "litematica.gui.label.replace_behavior.none": "Kein",
+    "litematica.gui.label.schematic_placement.schematic_file": "Datei: %s",
+    "litematica.gui.message.confirm_file_deletion": "Soll die Datei '%s' gelöscht werden?",
+    "litematica.gui.title.confirm_file_deletion": "Löschen der Datei bestätigen"
+}

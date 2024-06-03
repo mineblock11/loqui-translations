@@ -1,0 +1,19 @@
+{
+    "config.ad_astra.machines": "Maschinen",
+    "dimension.ad_astra.moon": "Nachtfinsterer Wrackschnapper",
+    "direction.ad_astra.east": "Ost",
+    "direction.ad_astra.north": "Nord",
+    "item.ad_astra.netherite_space_boots": "Netherit-Weltraumstiefel",
+    "item.ad_astra.space_boots": "Weltraumstiefel",
+    "item.ad_astra.steel_ingot": "Stahlbarren",
+    "item.ad_astra.steel_nugget": "Stahlklumpen",
+    "painting.ad_astra.moon.title": "Nachtfinsterer Wrackschnapper",
+    "painting.ad_astra.sun.title": "Morgenroter Wrackschnapper",
+    "planet.ad_astra.moon": "Nachtfinsterer Wrackschnapper",
+    "side_config.ad_astra.type.none": "Kein",
+    "tag.item.ad_astra.steel_ingots": "Stahlbarren",
+    "tag.item.ad_astra.steel_nuggets": "Stahlklumpen",
+    "text.ad_astra.text.confirm": "Bestätigen",
+    "text.ad_astra.weather.temperature.in": "In: %s",
+    "tooltip.ad_astra.next": "Weiter"
+}

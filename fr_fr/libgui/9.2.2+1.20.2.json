@@ -1,0 +1,17 @@
+{
+    "option.libgui.darkmode": "",
+    "options.libgui.libgui_settings": "",
+    "widget.libgui.item_slot.narration.title": "",
+    "widget.libgui.labeled_slider.narration.title": "",
+    "widget.libgui.scroll_bar.narration.title": "",
+    "widget.libgui.slider.narration.title": "",
+    "widget.libgui.slider.narration.usage": "",
+    "widget.libgui.tab.narration.position": "",
+    "widget.libgui.tab.narration.title": "",
+    "widget.libgui.text_field.narration.suggestion": "",
+    "widget.libgui.text_field.narration.title": "",
+    "widget.libgui.toggle_button.narration.named": "",
+    "widget.libgui.toggle_button.narration.off": "",
+    "widget.libgui.toggle_button.narration.on": "",
+    "widget.libgui.toggle_button.narration.unnamed": ""
+}

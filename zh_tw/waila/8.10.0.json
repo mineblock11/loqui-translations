@@ -1,0 +1,6 @@
+{
+    "config.waila.plugin_minecraft.book.enchantment_disabled": "已停用",
+    "tooltip.waila.horse.jump.value": "%s 個方塊",
+    "tooltip.waila.state_off": "關閉",
+    "tooltip.waila.state_on": "開啟"
+}

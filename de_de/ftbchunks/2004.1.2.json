@@ -1,0 +1,16 @@
+{
+    "ftbchunks.appearance.saturation": "Sättigung",
+    "ftbchunks.minimap.biome": "Biom",
+    "ftbchunks.minimap.blur_mode.auto": "Automatisch",
+    "ftbchunks.minimap.blur_mode.off": "Aus",
+    "ftbchunks.minimap.enabled": "Aktiviert",
+    "ftbchunks.minimap.entities": "Entitäten",
+    "ftbchunks.minimap.position.bottom_left": "Unten links",
+    "ftbchunks.minimap.position.bottom_right": "Unten rechts",
+    "ftbchunks.minimap.position.left": "Links",
+    "ftbchunks.minimap.position.none": "Kein",
+    "ftbchunks.minimap.position.right": "Rechts",
+    "ftbchunks.minimap.position.top_left": "Oben links",
+    "ftbchunks.minimap.position.top_right": "Oben rechts",
+    "ftbchunks.minimap.visibility": "Sichtbarkeit"
+}

@@ -1,0 +1,10 @@
+{
+    "amnesia_bone_gui.navbar.general": "Allgemein",
+    "dog.combat_return_strategy.2": "Keine",
+    "dog.low_health_strategy.0": "Keine",
+    "doggui.migrate_owner.confirm": "Bestätigen",
+    "doggui.migrate_owner.deny": "Ablehnen",
+    "doggui.stats.general": "Allgemein",
+    "modgui.config.general": "Allgemeine Einstellungen",
+    "modgui.config.general.tooltip": "Allgemeine Einstellungen der Mod"
+}

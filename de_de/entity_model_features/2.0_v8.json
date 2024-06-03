@@ -1,0 +1,5 @@
+{
+    "entity_model_features.config.general": "Allgemein",
+    "entity_model_features.config.render.none": "Deaktiviert",
+    "entity_model_features.config.render.normal": "Normal"
+}

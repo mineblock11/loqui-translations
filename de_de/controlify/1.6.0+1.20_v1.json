@@ -1,0 +1,14 @@
+{
+    "controlify.battery_level.full": "Vollständig",
+    "controlify.battery_level.high": "Hoch",
+    "controlify.battery_level.low": "Gering",
+    "controlify.battery_level.medium": "Mittel",
+    "controlify.calibration.done": "Fertig",
+    "controlify.config.category.advanced": "Erweitert",
+    "controlify.controller_theme.default": "Standard",
+    "controlify.gui.format.bottom": "Unten",
+    "controlify.gui.format.top": "Oben",
+    "controlify.gui.group.advanced": "Erweitert",
+    "controlify.hat_state.left": "Links",
+    "controlify.hat_state.right": "Rechts"
+}

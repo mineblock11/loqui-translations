@@ -1,0 +1,17 @@
+{
+    "distanthorizons.config.client": "Клиент",
+    "distanthorizons.config.client.advanced": "Настройки для продвинутых пользователей",
+    "distanthorizons.config.client.advanced.graphics.advancedGraphics.caveCullingHeight": "Высота отсечения пещер",
+    "distanthorizons.config.client.advanced.graphics.advancedGraphics.enableCaveCulling": "Отсечение пещер",
+    "distanthorizons.config.client.optionsButton": "Показать кнопку настроек",
+    "distanthorizons.config.client.optionsButton.@tooltip": "Показать кнопку настроек слева от ползунка поля зрения",
+    "distanthorizons.config.client.quickEnableRendering": "Включить отрисовку",
+    "distanthorizons.config.client.threadPresetSetting": "Нагрузка на процессор",
+    "distanthorizons.config.client.threadPresetSetting.@tooltip": "Изменяет количество используемых потоков в Distant Horizons. \\n\\nУвеличение этого параметра ускорит работу Distant Generator и скорость загрузки LOD, \\nно также увеличит использование процессора\/памяти и может вызвать пропуски кадров. \\n\\nПримечание: на процессорах с 4 и менее ядрами эти настройки будут менее эффективны, \\nа некоторые не будут давать заметных изменений.",
+    "distanthorizons.config.enum.EDhApiQualityPreset.EXTREME": "Сильное",
+    "distanthorizons.config.enum.EDhApiQualityPreset.HIGH": "Высокое",
+    "distanthorizons.config.enum.EDhApiQualityPreset.LOW": "Низкое",
+    "distanthorizons.config.enum.EDhApiQualityPreset.MEDIUM": "Среднее",
+    "distanthorizons.config.enum.EDhApiRendererMode.DEFAULT": "По умолчанию",
+    "distanthorizons.config.title": "Настройки Distant Horizons"
+}

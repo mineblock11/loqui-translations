@@ -1,0 +1,6 @@
+{
+    "sodium.console.core_shaders_error": "Các gói tài nguyên sau đây không tương thích với Sodium:",
+    "sodium.console.core_shaders_info": "Kiểm tra nhật ký trò chơi để biết thông tin chi tiết.",
+    "sodium.console.core_shaders_warn": "Các gói tài nguyên sau có thể không tương thích với Sodium:",
+    "sodium.console.pojav_launcher": "PojavLauncher không được hỗ trợ khi sử dụng Sodium.\\n  * Bạn rất có thể sẽ gặp phải các vấn đề về hiệu suất cực độ, lỗi đồ họa và sự cố.\\n  * Bạn sẽ tự chịu trách nhiệm nếu bạn quyết định tiếp tục - chúng tôi sẽ không giúp bạn với bất kỳ lỗi hay sự cố nào!"
+}

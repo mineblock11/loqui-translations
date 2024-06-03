@@ -1,0 +1,20 @@
+{
+    "attribute.thermoo.generic.frost_resistance": "",
+    "attribute.thermoo.generic.heat_resistance": "",
+    "attribute.thermoo.generic.max_temperature": "",
+    "attribute.thermoo.generic.min_temperature": "",
+    "commands.thermoo.environment.checktemperature.success": "",
+    "commands.thermoo.environment.checktemperature.unit.success": "",
+    "commands.thermoo.environment.printcontroller.success": "",
+    "commands.thermoo.temperature.add.success.multiple": "",
+    "commands.thermoo.temperature.add.success.single": "",
+    "commands.thermoo.temperature.exception.not_living_entity": "",
+    "commands.thermoo.temperature.get.current.success": "",
+    "commands.thermoo.temperature.get.max.success": "",
+    "commands.thermoo.temperature.get.min.success": "",
+    "commands.thermoo.temperature.get.scale.success": "",
+    "commands.thermoo.temperature.remove.success.multiple": "",
+    "commands.thermoo.temperature.remove.success.single": "",
+    "commands.thermoo.temperature.set.success.multiple": "",
+    "commands.thermoo.temperature.set.success.single": ""
+}

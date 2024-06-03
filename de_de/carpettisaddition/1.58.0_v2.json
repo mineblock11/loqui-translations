@@ -1,0 +1,15 @@
+{
+    "carpettisaddition.command.info.weather.weathers.clear_sky": "Klarer Himmel",
+    "carpettisaddition.command.info.weather.weathers.thundering": "Gewitter",
+    "carpettisaddition.command.raid.none": "Kein",
+    "carpettisaddition.logger.microTiming.common.block": "Block",
+    "carpettisaddition.logger.microTiming.common.color": "Farbe",
+    "carpettisaddition.logger.microTiming.stage_detail.thunder": "Donner",
+    "carpettisaddition.logger.microTiming.util.direction.east": "Ost",
+    "carpettisaddition.logger.microTiming.util.direction.north": "Nord",
+    "carpettisaddition.logger.microTiming.util.direction.south": "Süd",
+    "carpettisaddition.logger.microTiming.util.direction.west": "West",
+    "carpettisaddition.logger.tickWarp.server": "Server",
+    "carpettisaddition.tracker.lifetime.filter.none": "Kein",
+    "carpettisaddition.tracker.raid.none": "Kein"
+}

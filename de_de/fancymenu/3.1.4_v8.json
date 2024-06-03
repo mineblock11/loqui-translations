@@ -1,0 +1,21 @@
+{
+    "fancymenu.editor.anchor_overlay.visibility_mode.disabled": "Deaktiviert",
+    "fancymenu.editor.edit.undo": "Rückgängig",
+    "fancymenu.editor.elements.progress_bar.direction.left": "Links",
+    "fancymenu.editor.elements.progress_bar.direction.right": "Rechts",
+    "fancymenu.editor.items.shape.color": "Farbe",
+    "fancymenu.editor.loading_requirement.screens.requirement.info.mode.normal": "Normal",
+    "fancymenu.elements.audio.play_mode.normal": "Normal",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.advanced": "Erweitert",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.client": "Client",
+    "fancymenu.fancymenu.editor.dynamicvariabletextfield.categories.server": "Server",
+    "fancymenu.general.cycle.enabled_disabled.disabled": "Deaktiviert",
+    "fancymenu.general.cycle.enabled_disabled.enabled": "Aktiviert",
+    "fancymenu.general.cycle.on_off.off": "Aus",
+    "fancymenu.guicomponents.cancel": "Abbrechen",
+    "fancymenu.guicomponents.done": "Fertig",
+    "fancymenu.layout.status.disabled": "Deaktiviert",
+    "fancymenu.layout.status.enabled": "Aktiviert",
+    "fancymenu.overlay.menu_bar.user_interface.ui_scale.auto": "Automatisch",
+    "fancymenu.ui.themes.light": "Leicht"
+}

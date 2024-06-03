@@ -1,0 +1,12 @@
+{
+    "mapfrontiers.color": "Farbe",
+    "mapfrontiers.config.Always": "Immer",
+    "mapfrontiers.config.Chunk": "Chunk",
+    "mapfrontiers.config.Current": "Aktuell",
+    "mapfrontiers.config.Custom": "Benutzerdefiniert",
+    "mapfrontiers.config.Never": "Nie",
+    "mapfrontiers.config.None": "Kein",
+    "mapfrontiers.done": "Fertig",
+    "mapfrontiers.general": "Allgemein",
+    "mapfrontiers.undo": "Rückgängig"
+}

@@ -1,0 +1,11 @@
+{
+    "gui.modernui.button.Lock": "Schloss",
+    "gui.modernui.button.confirm": "%s bestätigen",
+    "gui.modernui.dont_show_again": "Nicht erneut anzeigen",
+    "gui.modernui.settings.category.chat": "Chat",
+    "gui.modernui.settings.category.quality": "Qualität",
+    "gui.modernui.settings.entry.key": "Schlüssel",
+    "gui.modernui.settings.tab.general": "Allgemein",
+    "modernui.windowMode.normal": "Normal",
+    "options.chat.visibility": "Sichtbarkeit"
+}

@@ -1,0 +1,6 @@
+{
+    "healthindicatortxf.config.category.entities": "Сущности",
+    "healthindicatortxf.config.category.general": "Общие",
+    "healthindicatortxf.config.enum.BarStyle.DEFAULT": "По умолчанию",
+    "healthindicatortxf.config.enum.BarStyle.VANILLA": "Ваниль"
+}

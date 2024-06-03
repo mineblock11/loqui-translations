@@ -1,0 +1,15 @@
+{
+    "modmenu.descriptionTranslation.appleskin": "",
+    "modmenu.summaryTranslation.appleskin": "",
+    "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "",
+    "text.autoconfig.appleskin.option.showFoodDebugInfo": "",
+    "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "",
+    "text.autoconfig.appleskin.option.showFoodHealthHudOverlay": "",
+    "text.autoconfig.appleskin.option.showFoodValuesHudOverlay": "",
+    "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand": "",
+    "text.autoconfig.appleskin.option.showFoodValuesInTooltip": "",
+    "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways": "",
+    "text.autoconfig.appleskin.option.showSaturationHudOverlay": "",
+    "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "",
+    "text.autoconfig.appleskin.title": ""
+}

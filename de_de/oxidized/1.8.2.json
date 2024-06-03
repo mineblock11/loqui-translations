@@ -1,0 +1,8 @@
+{
+    "block.oxidized.copper_button": "Kupferknopf",
+    "block.oxidized.copper_lantern": "Kupferlaterne",
+    "item.oxidized.copper_nugget": "Kupferklumpen",
+    "text.oxidized.rose_gold_template": "Roségold-Upgrade",
+    "text.oxidized.rose_gold_template.ing_desc": "Kupferbarren hinzufügen",
+    "text.oxidized.rose_gold_template_ingredient": "Kupferbarren"
+}

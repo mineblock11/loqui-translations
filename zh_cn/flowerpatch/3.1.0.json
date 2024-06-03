@@ -1,0 +1,21 @@
+{
+    "block.flowerpatch.allium_patch": "",
+    "block.flowerpatch.azure_bluet_patch": "",
+    "block.flowerpatch.blue_orchid_patch": "",
+    "block.flowerpatch.brown_mushroom_patch": "",
+    "block.flowerpatch.cornflower_patch": "",
+    "block.flowerpatch.dandelion_patch": "",
+    "block.flowerpatch.lily_of_the_valley_patch": "",
+    "block.flowerpatch.orange_tulip_patch": "",
+    "block.flowerpatch.oxeye_daisy_patch": "",
+    "block.flowerpatch.pink_tulip_patch": "",
+    "block.flowerpatch.poppy_patch": "",
+    "block.flowerpatch.red_mushroom_patch": "",
+    "block.flowerpatch.red_tulip_patch": "",
+    "block.flowerpatch.torchflower": "",
+    "block.flowerpatch.white_tulip_patch": "",
+    "block.flowerpatch.wither_rose_patch": "",
+    "text.autoconfig.flowerpatch.option.general": "",
+    "text.autoconfig.flowerpatch.option.general.flowerToPatchBonemealing": "",
+    "text.autoconfig.flowerpatch.option.general.patchBonemealing": ""
+}

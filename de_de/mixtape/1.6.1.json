@@ -1,0 +1,11 @@
+{
+    "config.mixtape.creative.enabled": "Aktiviert",
+    "config.mixtape.credits.enabled": "Aktiviert",
+    "config.mixtape.end.enabled": "Aktiviert",
+    "config.mixtape.game.enabled": "Aktiviert",
+    "config.mixtape.main.enabled": "Aktiviert",
+    "config.mixtape.menu.enabled": "Aktiviert",
+    "config.mixtape.musicToast.enabled": "Aktiviert",
+    "config.mixtape.nether.enabled": "Aktiviert",
+    "config.mixtape.underwater.enabled": "Aktiviert"
+}

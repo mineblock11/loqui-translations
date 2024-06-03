@@ -1,0 +1,8 @@
+{
+    "tweakmyclient.gui.button.tab.color": "Farbe",
+    "tweakmyclient.gui.button.tab.debug": "Debug (zur Fehlersuche)",
+    "tweakmyclient.label.breakAnimationMode.none": "Kein",
+    "tweakmyclient.label.enderPortalRenderMode.full": "Vollständig",
+    "tweakmyclient.message.value.disabled": "Deaktiviert",
+    "tweakmyclient.message.value.enabled": "Aktiviert"
+}

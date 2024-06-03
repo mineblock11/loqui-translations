@@ -1,0 +1,20 @@
+{
+    "entity.nemos-creatures.crimson_skeleton": "Karmesinskelett",
+    "entity.nemos-creatures.mummy": "Mumie",
+    "entity.nemos-creatures.sand_spider": "Sandspinne",
+    "entity.nemos-creatures.venomous_creeper": "Giftcreeper",
+    "entity.nemos-creatures.venomous_skeleton": "Giftskelett",
+    "entity.nemos-creatures.venomous_spider": "Giftspinne",
+    "entity.nemos-creatures.venomous_zombie": "Giftzombie",
+    "entity.nemos-creatures.warped_skeleton": "Wirrskelett",
+    "entity.nemos-creatures.wild_boar": "Wildschwein",
+    "item.nemos-creatures.crimson_skeleton_spawn_egg": "Karmesinskelett-Spawn-Ei",
+    "item.nemos-creatures.mummy_spawn_egg": "Mumien-Spawn-Ei",
+    "item.nemos-creatures.sand_spider_spawn_egg": "Sandspinnen-Spawn-Ei",
+    "item.nemos-creatures.venomous_creeper_spawn_egg": "Giftcreeper-Spawn-Ei",
+    "item.nemos-creatures.venomous_skeleton_spawn_egg": "Giftskelett-Spawn-Ei",
+    "item.nemos-creatures.venomous_spider_spawn_egg": "Giftspinnen-Spawn-Ei",
+    "item.nemos-creatures.venomous_zombie_spawn_egg": "Giftzombie-Spawn-Ei",
+    "item.nemos-creatures.warped_skeleton_spawn_egg": "Wirrskelett-Spawn-Ei",
+    "item.nemos-creatures.wild_boar_spawn_egg": "Wildschwein-Spawn-Ei"
+}

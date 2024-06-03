@@ -1,0 +1,9 @@
+{
+    "__comment": "Nur zum Testen:",
+    "config.jade.display_fluids_none": "Keine",
+    "config.jade.general": "Allgemein",
+    "gui.jade.configuration": "\"Jade\"-Konfiguration",
+    "jade.east": "Ost",
+    "jade.south": "Süd",
+    "jade.west": "West"
+}

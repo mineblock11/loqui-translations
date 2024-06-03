@@ -1,0 +1,10 @@
+{
+    "block.friendsandfoes.copper_button": "Kupferknopf",
+    "block.friendsandfoes.exposed_copper_button": "Angelaufener Kupferknopf",
+    "block.friendsandfoes.oxidized_copper_button": "Oxidierter Kupferknopf",
+    "block.friendsandfoes.waxed_copper_button": "Gewachster Kupferknopf",
+    "block.friendsandfoes.waxed_exposed_copper_button": "Gewachster angelaufener Kupferknopf",
+    "block.friendsandfoes.waxed_oxidized_copper_button": "Gewachster oxidierter Kupferknopf",
+    "block.friendsandfoes.waxed_weathered_copper_button": "Gewachster verwitterter Kupferknopf",
+    "block.friendsandfoes.weathered_copper_button": "Verwitterter Kupferknopf"
+}

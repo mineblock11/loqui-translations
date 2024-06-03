@@ -1,0 +1,6 @@
+{
+    "craftpresence.defaults.weather.thunder": "Donner",
+    "gui.config.message.button.back": "Zurück",
+    "gui.config.message.button.reset": "Zurücksetzen",
+    "gui.config.title.general": "Allgemeine Einstellungen"
+}

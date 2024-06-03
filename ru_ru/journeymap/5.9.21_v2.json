@@ -1,0 +1,10 @@
+{
+    "_comment": "## Позиционные параметры (%1$s, %2$s, %3$s и т. д.) можно менять местами для правильного составления структуры предложений в вашем языке",
+    "jm.colorpalette.mods": "Модификации",
+    "jm.common.enable": "Включено",
+    "jm.common.splash_friend": "Друг",
+    "jm.server.edit.option.none": "Нет",
+    "jm.waypoint.color": "Цвет",
+    "jm.webmap.automap_dialog_none": "Нет",
+    "jm.webmap.villagers_menu_item_text": "Крестьяне"
+}

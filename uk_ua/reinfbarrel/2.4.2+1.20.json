@@ -1,0 +1,17 @@
+{
+    "block.reinfbarrel.copper_barrel": "",
+    "block.reinfbarrel.diamond_barrel": "",
+    "block.reinfbarrel.gold_barrel": "",
+    "block.reinfbarrel.iron_barrel": "",
+    "block.reinfbarrel.netherite_barrel": "",
+    "container.reinfbarrel.copperBarrel": "",
+    "container.reinfbarrel.diamondBarrel": "",
+    "container.reinfbarrel.goldBarrel": "",
+    "container.reinfbarrel.ironBarrel": "",
+    "container.reinfbarrel.netheriteBarrel": "",
+    "stat.reinfbarrel.open_copper_barrel": "",
+    "stat.reinfbarrel.open_diamond_barrel": "",
+    "stat.reinfbarrel.open_gold_barrel": "",
+    "stat.reinfbarrel.open_iron_barrel": "",
+    "stat.reinfbarrel.open_netherite_barrel": ""
+}

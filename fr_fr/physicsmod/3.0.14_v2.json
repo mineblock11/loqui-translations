@@ -1,0 +1,6 @@
+{
+    "physicsmod.enum.blockphysics.off": "Arrêt",
+    "physicsmod.enum.mobphysics.off": "Arrêt",
+    "physicsmod.enum.snowquality.high": "Élevé",
+    "physicsmod.enum.snowquality.medium": "Moyen"
+}

@@ -1,0 +1,18 @@
+{
+    "buttons.add.new.waypoint": "",
+    "chat.create.waypoint.message": "",
+    "coordinatelist.midnightconfig.can_place_deathpoints": "",
+    "coordinatelist.midnightconfig.multiplier": "",
+    "coordinatelist.midnightconfig.render_distance": "",
+    "coordinatelist.midnightconfig.title": "",
+    "coordinatelist.midnightconfig.waypoints_toggled": "",
+    "keybinds.category.name": "",
+    "keybinds.waypoint.add": "",
+    "keybinds.waypoints.menu": "",
+    "keybinds.waypoints.toggle": "",
+    "modmenu.descriptionTranslation.coordinatelist": "",
+    "modmenu.summaryTranslation.coordinatelist": "",
+    "tooltip.copy.waypoint.coordinates": "",
+    "waypoint.last.death": "",
+    "waypoint.new.waypoint": ""
+}

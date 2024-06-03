@@ -1,0 +1,8 @@
+{
+    "wormhole.direction.east": "Ost",
+    "wormhole.direction.north": "Nord",
+    "wormhole.direction.south": "Süd",
+    "wormhole.direction.west": "West",
+    "wormhole.portal.color.gui.complete": "Fertig",
+    "wormhole.portal.targets.gui.return": "Zurück"
+}

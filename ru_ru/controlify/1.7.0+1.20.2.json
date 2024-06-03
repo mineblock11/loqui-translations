@@ -1,0 +1,10 @@
+{
+    "controlify.battery_level.high": "Высокий",
+    "controlify.battery_level.low": "Низкий",
+    "controlify.battery_level.medium": "Средний",
+    "controlify.battery_level.unknown": "Неизвестный",
+    "controlify.config.category.advanced": "Для продвинутых",
+    "controlify.controller_theme.default": "По умолчанию",
+    "controlify.gui.group.advanced": "Для продвинутых",
+    "controlify.vibration_strength.controlify.misc": "Разное"
+}

@@ -1,0 +1,6 @@
+{
+    "create.contraption.controls.actor_toggle.off": "Arrêt",
+    "create.tooltip.capacityProvided.medium": "Moyen",
+    "create.tooltip.stressImpact.high": "Élevé",
+    "create.tooltip.stressImpact.low": "Faible"
+}

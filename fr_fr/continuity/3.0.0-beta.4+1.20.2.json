@@ -1,0 +1,13 @@
+{
+    "options.continuity.connected_textures": "",
+    "options.continuity.connected_textures.tooltip": "",
+    "options.continuity.custom_block_layers": "",
+    "options.continuity.custom_block_layers.tooltip": "",
+    "options.continuity.emissive_textures": "",
+    "options.continuity.emissive_textures.tooltip": "",
+    "options.continuity.title": "",
+    "resourcePack.continuity.default.description": "",
+    "resourcePack.continuity.default.name": "",
+    "resourcePack.continuity.glass_pane_culling_fix.description": "",
+    "resourcePack.continuity.glass_pane_culling_fix.name": ""
+}

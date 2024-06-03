@@ -1,0 +1,7 @@
+{
+    "rprenames.config.debug": "Debug (zur Fehlersuche)",
+    "rprenames.config.general": "Allgemein",
+    "rprenames.config.gui.previewCategory.previewPos.bottom": "Unten",
+    "rprenames.config.gui.previewCategory.previewPos.left": "Links",
+    "rprenames.config.gui.previewCategory.previewPos.top": "Oben"
+}

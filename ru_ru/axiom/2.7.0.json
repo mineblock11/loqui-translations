@@ -1,0 +1,8 @@
+{
+    "axiom.editorui.mainmenu.edit.undo": "Отменить",
+    "axiom.editorui.reference_image.borderless": "Без рамки",
+    "axiom.editorui.window.clipboard.empty": "Пусто",
+    "axiom.editorui.window.create_shape.advanced": "Для продвинутых",
+    "axiom.editorui.window.palette.custom_empty": "Пусто (ПКМ, чтобы добавить)",
+    "axiom.preset.default": "По умолчанию"
+}

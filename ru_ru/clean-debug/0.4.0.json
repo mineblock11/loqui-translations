@@ -1,0 +1,7 @@
+{
+    "clean-debug.midnightconfig.enum.HardwareMode.NONE": "Нет",
+    "clean-debug.midnightconfig.hideEntityCulling": "Скрыть отладочную информацию EntityCulling",
+    "clean-debug.midnightconfig.modsCategory": "Модификации",
+    "clean-debug.midnightconfig.vanillaCategory": "Ваниль",
+    "modmenu.descriptionTranslation.clean-debug": "Убирает бесполезную информацию с экрана отладки."
+}

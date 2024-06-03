@@ -1,0 +1,16 @@
+{
+    "physicsmod.enum.blockphysics.off": "Aus",
+    "physicsmod.enum.curve.linear": "Linear",
+    "physicsmod.enum.mobphysics.off": "Aus",
+    "physicsmod.enum.snowquality.high": "Hoch",
+    "physicsmod.enum.snowquality.medium": "Mittel",
+    "physicsmod.gui.disabled": "Deaktiviert",
+    "physicsmod.menu.block.blockphysicsrange.max": "Immer",
+    "physicsmod.menu.dynamicblocks.edit.block": "Block",
+    "physicsmod.menu.general.title": "Allgemeine Einstellungen",
+    "physicsmod.menu.ocean.weather.rain": "Regen",
+    "physicsmod.menu.ocean.weather.thunder": "Donner",
+    "physicsmod.menu.smoke.shadow": "Schattensturmfisch",
+    "physicsmod.menu.weather.rainopacity": "Regen",
+    "physicsmod.menu.weather.snowopacity": "Schneeweißer Wrackschnapper"
+}

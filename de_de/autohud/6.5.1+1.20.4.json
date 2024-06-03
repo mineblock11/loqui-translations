@@ -1,0 +1,11 @@
+{
+    "autohud.category.advanced": "Erweitert",
+    "autohud.category.general": "Allgemein",
+    "autohud.group.chat": "Chat",
+    "autohud.option.advanced.distance": "Distanz",
+    "autohud.revealPolicy.Always": "Immer",
+    "autohud.revealPolicy.Disabled": "Deaktiviert",
+    "autohud.revealPolicy.Low": "Gering",
+    "autohud.scrollDirection.Left": "Links",
+    "autohud.scrollDirection.Right": "Rechts"
+}

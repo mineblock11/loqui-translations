@@ -1,0 +1,22 @@
+{
+    "category.passableleaves.name": "",
+    "enchantment.passableleaves.leaf_walker": "",
+    "enchantment.passableleaves.leaf_walker.desc": "",
+    "key.passableleaves.fall_through_leaves": "",
+    "text.config.passableleaves.option.disableFovChange": "",
+    "text.config.passableleaves.option.enchantmentEnabled": "",
+    "text.config.passableleaves.option.fallOnKeyPress": "",
+    "text.config.passableleaves.option.fallingDistanceMultiplier": "",
+    "text.config.passableleaves.option.fallingEnabled": "",
+    "text.config.passableleaves.option.fallingSpeedMultiplier": "",
+    "text.config.passableleaves.option.hideNameTag": "",
+    "text.config.passableleaves.option.jumpSlowMultiplier": "",
+    "text.config.passableleaves.option.leafSprinting": "",
+    "text.config.passableleaves.option.leafWalking": "",
+    "text.config.passableleaves.option.particlesEnabled": "",
+    "text.config.passableleaves.option.playerOnly": "",
+    "text.config.passableleaves.option.slowEnabled": "",
+    "text.config.passableleaves.option.soundEnabled": "",
+    "text.config.passableleaves.option.walkSlowMultiplier": "",
+    "text.config.passableleaves.title": ""
+}

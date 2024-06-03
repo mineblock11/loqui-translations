@@ -1,0 +1,23 @@
+{
+    "config.forgivingvoid.damageOnFall": "",
+    "config.forgivingvoid.damageOnFall.tooltip": "",
+    "config.forgivingvoid.dimensionAllowList": "",
+    "config.forgivingvoid.dimensionAllowList.tooltip": "",
+    "config.forgivingvoid.dimensionDenyList": "",
+    "config.forgivingvoid.dimensionDenyList.tooltip": "",
+    "config.forgivingvoid.disableVanillaAntiCheatWhileFalling": "",
+    "config.forgivingvoid.disableVanillaAntiCheatWhileFalling.tooltip": "",
+    "config.forgivingvoid.fallingHeight": "",
+    "config.forgivingvoid.fallingHeight.tooltip": "",
+    "config.forgivingvoid.preventDeath": "",
+    "config.forgivingvoid.preventDeath.tooltip": "",
+    "config.forgivingvoid.title": "",
+    "config.forgivingvoid.triggerAtDistanceBelow": "",
+    "config.forgivingvoid.triggerAtDistanceBelow.tooltip": "",
+    "config.forgivingvoid.triggerInEnd": "",
+    "config.forgivingvoid.triggerInEnd.tooltip": "",
+    "config.forgivingvoid.triggerInNether": "",
+    "config.forgivingvoid.triggerInNether.tooltip": "",
+    "config.forgivingvoid.triggerInOverworld": "",
+    "config.forgivingvoid.triggerInOverworld.tooltip": ""
+}

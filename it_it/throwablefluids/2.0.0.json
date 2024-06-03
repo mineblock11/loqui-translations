@@ -1,0 +1,17 @@
+{
+    "entity.throwablefluids.glow_worm": "",
+    "entity.throwablefluids.splasher": "",
+    "entity.throwablefluids.throwable_lava": "",
+    "entity.throwablefluids.throwable_water": "",
+    "item.throwablefluids.glow_worm_spawn_egg": "",
+    "item.throwablefluids.splashed_gel": "",
+    "item.throwablefluids.splasher_bucket": "",
+    "item.throwablefluids.splasher_fish": "",
+    "item.throwablefluids.splasher_spawn_egg": "",
+    "item.throwablefluids.throwable_lava": "",
+    "item.throwablefluids.throwable_water": "",
+    "item.throwablefluids.worm_essence": "",
+    "subtitles.throwablefluids.glow_worm_death": "",
+    "subtitles.throwablefluids.splasher_death": "",
+    "subtitles.throwablefluids.splasher_flop": ""
+}

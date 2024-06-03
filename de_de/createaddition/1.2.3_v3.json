@@ -1,0 +1,10 @@
+{
+    "createaddition.tooltip.energy.none": "Kein",
+    "item.createaddition.copper_spool": "Kupferspule",
+    "item.createaddition.copper_spool.tooltip": "SPULE",
+    "item.createaddition.copper_wire": "Kupferdraht",
+    "item.createaddition.festive_spool": "Kupferspule mit festlichen Lichtern",
+    "item.createaddition.gold_spool.tooltip": "SPULE",
+    "item.createaddition.spool": "Leere Spule",
+    "item.createaddition.zinc_sheet": "Zinkblech"
+}

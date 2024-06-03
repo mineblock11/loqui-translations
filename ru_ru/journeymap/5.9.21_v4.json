@@ -1,0 +1,19 @@
+{
+    "_comment": "## Позиционные параметры (%1$s, %2$s, %3$s и т. д.) можно менять местами для правильного составления структуры предложений в вашем языке",
+    "jm.colorpalette.mods": "Модификации",
+    "jm.common.enable": "Включена",
+    "jm.common.entity_display.icons": "Иконки",
+    "jm.common.splash_friend": "Друг",
+    "jm.common.splash_icons": "Иконки",
+    "jm.config.category.waypoint": "Отметки",
+    "jm.config.reset": "Сбросить",
+    "jm.server.edit.option.none": "Нет",
+    "jm.waypoint.color": "Цвет",
+    "jm.waypoint.edit": "Редактировать",
+    "jm.waypoint.reset": "Сбросить",
+    "jm.waypoint.waypoints": "Отметки",
+    "jm.webmap.automap_dialog_none": "Нет",
+    "jm.webmap.pets_menu_item_text": "Домашние животные",
+    "jm.webmap.villagers_menu_item_text": "Крестьяне",
+    "jm.webmap.waypoints_menu_item_text": "Отметки"
+}

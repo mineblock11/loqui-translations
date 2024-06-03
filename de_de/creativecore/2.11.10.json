@@ -1,0 +1,10 @@
+{
+    "dialog.button.CANCEL": "Abbrechen",
+    "dialog.button.CONFIRM": "Bestätigen",
+    "dialog.button.NO": "Nein",
+    "dialog.button.YES": "Ja",
+    "facing.east": "Ost",
+    "facing.north": "Nord",
+    "facing.south": "Süd",
+    "facing.west": "West"
+}

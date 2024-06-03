@@ -1,0 +1,17 @@
+{
+    "config.dynamic_fps.category.hovered": "",
+    "config.dynamic_fps.category.invisible": "",
+    "config.dynamic_fps.category.unfocused": "",
+    "config.dynamic_fps.frame_rate_target": "",
+    "config.dynamic_fps.frame_rate_target_description": "",
+    "config.dynamic_fps.graphics_state": "",
+    "config.dynamic_fps.run_garbage_collector": "",
+    "config.dynamic_fps.show_toasts": "",
+    "config.dynamic_fps.title": "",
+    "config.dynamic_fps.volume_multiplier": "",
+    "gui.dynamic_fps.hud.disabled": "",
+    "gui.dynamic_fps.hud.reducing": "",
+    "key.dynamic_fps.toggle_disabled": "",
+    "key.dynamic_fps.toggle_forced": "",
+    "modmenu.descriptionTranslation.dynamic_fps": ""
+}

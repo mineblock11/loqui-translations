@@ -1,0 +1,8 @@
+{
+    "midnightcontrols.action.back": "Назад",
+    "midnightcontrols.action.inventory": "Инвентарь",
+    "midnightcontrols.button.back": "Назад",
+    "midnightcontrols.controller_type.default": "По умолчанию",
+    "midnightcontrols.menu.separator.general": "Общие",
+    "midnightcontrols.midnightconfig.enum.ControllerType.DEFAULT": "По умолчанию"
+}

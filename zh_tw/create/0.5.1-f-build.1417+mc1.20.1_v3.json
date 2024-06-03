@@ -1,0 +1,7 @@
+{
+    "create.contraption.controls.actor_toggle.off": "關閉",
+    "create.contraption.controls.actor_toggle.on": "開啟",
+    "create.tooltip.capacityProvided.medium": "中",
+    "create.tooltip.stressImpact.high": "高",
+    "create.tooltip.stressImpact.low": "低"
+}

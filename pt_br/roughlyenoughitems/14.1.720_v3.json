@@ -1,0 +1,9 @@
+{
+    "config.rei.options.groups.reset.reset": "Resetar",
+    "config.rei.value.enabledDisabled.false": "Desabilitado",
+    "config.rei.value.enabledDisabled.true": "Habilitado",
+    "config.roughlyenoughitems.configureCategories.visibility.false": "Desabilitado",
+    "config.roughlyenoughitems.configureCategories.visibility.true": "Habilitado",
+    "text.rei.collapsible.entries.enabled.false": "Desabilitado",
+    "text.rei.collapsible.entries.enabled.true": "Habilitado"
+}

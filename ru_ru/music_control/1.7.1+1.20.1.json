@@ -1,0 +1,8 @@
+{
+    "minecraft:music.dragon": "Дракон",
+    "music.category.default": "По умолчанию",
+    "music.none": "Нет",
+    "music_disc.blocks": "Блоки",
+    "text.autoconfig.music_control.category.general": "Общие",
+    "text.autoconfig.music_control.category.gui": "Интерфейс"
+}

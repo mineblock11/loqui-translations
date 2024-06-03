@@ -1,0 +1,8 @@
+{
+    "commands.healthcommand.health.add_health_multi": "",
+    "commands.healthcommand.health.get_health": "",
+    "commands.healthcommand.health.new_health": "",
+    "commands.healthcommand.health.new_health_multi": "",
+    "commands.healthcommand.health.no_entity_found": "",
+    "commands.healthcommand.health.reset_health": ""
+}

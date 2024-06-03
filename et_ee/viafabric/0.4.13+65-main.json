@@ -1,0 +1,14 @@
+{
+    "gui.client_side.disable": "",
+    "gui.client_side.enable": "",
+    "gui.enable_client_side.enable": "",
+    "gui.enable_client_side.question": "",
+    "gui.enable_client_side.warning": "",
+    "gui.enable_client_side_button": "",
+    "gui.hide_via_button.disable": "",
+    "gui.hide_via_button.enable": "",
+    "gui.ping_version.translated": "",
+    "gui.protocol_version_field.name": "",
+    "gui.via_button": "",
+    "gui.viafabric_config.title": ""
+}

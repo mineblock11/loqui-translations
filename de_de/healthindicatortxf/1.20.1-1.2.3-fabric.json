@@ -1,0 +1,9 @@
+{
+    "healthindicatortxf.config.category.entities": "Entitäten",
+    "healthindicatortxf.config.category.general": "Allgemein",
+    "healthindicatortxf.config.enum.BarStyle.DEFAULT": "Standard",
+    "healthindicatortxf.config.enum.Position.BOTTOM_LEFT": "Unten links",
+    "healthindicatortxf.config.enum.Position.BOTTOM_RIGHT": "Unten rechts",
+    "healthindicatortxf.config.enum.Position.TOP_LEFT": "Oben links",
+    "healthindicatortxf.config.enum.Position.TOP_RIGHT": "Oben rechts"
+}

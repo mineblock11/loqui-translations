@@ -1,0 +1,10 @@
+{
+    "effective.midnightconfig.category.entityEffects": "Entitäten",
+    "effective.midnightconfig.enum.ChestsOpenOptions.NEVER": "Nie",
+    "effective.midnightconfig.enum.CosmeticsOptions.DISABLE": "Nein",
+    "effective.midnightconfig.enum.CosmeticsOptions.ENABLE": "Ja",
+    "effective.midnightconfig.enum.EyesInTheDarkOptions.ALWAYS": "Immer",
+    "effective.midnightconfig.enum.EyesInTheDarkOptions.NEVER": "Nie",
+    "effective.midnightconfig.enum.GlowSquidHypnoOptions.NEVER": "Nie",
+    "effective.midnightconfig.enum.TrailOptions.NONE": "Kein"
+}

@@ -1,0 +1,11 @@
+{
+    "config.rei.value.appearance.recipe_border.default": "Standaard",
+    "config.rei.value.appearance.recipe_lookup_style.original": "Klassiek",
+    "config.rei.value.appearance.theme.dark": "Donker",
+    "config.rei.value.cheats.amount.default": "Standaard",
+    "config.rei.value.enabledDisabled.true": "Ingeschakeld",
+    "config.roughlyenoughitems.configureCategories.visibility.true": "Ingeschakeld",
+    "text.rei.collapsible.entries.enabled.true": "Ingeschakeld",
+    "text.rei.input.methods.default": "Standaard",
+    "text.rei.select": "Selecteren"
+}

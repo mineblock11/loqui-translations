@@ -1,0 +1,5 @@
+{
+    "particlemoths.midnightconfig.category.general": "Allgemein",
+    "particlemoths.midnightconfig.enum.MothSpawnMode.BLOCKS": "Blöcke",
+    "particlemoths.midnightconfig.enum.MothSpawnMode.NEVER": "Nie"
+}

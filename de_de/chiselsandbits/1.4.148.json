@@ -1,0 +1,16 @@
+{
+    "mod.chiselsandbits.chiselmode.cube_medium": "Mittel",
+    "mod.chiselsandbits.chiselmode.multiline.cube_medium": "Mittel",
+    "mod.chiselsandbits.chiselmode.multiline.sphere_large": "Vollständig",
+    "mod.chiselsandbits.chiselmode.sphere_large": "Vollständig",
+    "mod.chiselsandbits.help.leftalt": "Linke Alt-Taste",
+    "mod.chiselsandbits.help.leftshift": "Linke Umschalt-Taste",
+    "mod.chiselsandbits.other.undo": "Rückgängig",
+    "mod.chiselsandbits.pretty.facing-east": "Ost",
+    "mod.chiselsandbits.pretty.facing-north": "Nord",
+    "mod.chiselsandbits.pretty.facing-south": "Süd",
+    "mod.chiselsandbits.pretty.facing-west": "West",
+    "mod.chiselsandbits.tapemeasure.block": "Block",
+    "mod.chiselsandbits.tapemeasure.distance": "Distanz",
+    "mod.chiselsandbits.ui-components.tool-menu.page-selector.next.name": "Weiter"
+}

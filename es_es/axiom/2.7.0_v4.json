@@ -1,0 +1,9 @@
+{
+    "axiom.editorui.no_keybind": "Ninguno",
+    "axiom.editorui.window.style_editor.other_category": "Otros",
+    "axiom.keybind_categories.basic": "Básico",
+    "axiom.tool.gradient_painter.lock_none": "Ninguno",
+    "axiom.tool.lasso_select.depth": "Profundidad",
+    "axiom.tool.magic_select.compare_blockstate": "BlockState",
+    "axiom.tool.path.depth": "Profundidad"
+}

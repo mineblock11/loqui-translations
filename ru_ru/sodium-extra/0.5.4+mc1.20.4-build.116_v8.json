@@ -1,0 +1,12 @@
+{
+    "modmenu.descriptionTranslation.sodium-extra": "Sodium Extra призвана перенести большинство возможностей OptiFine в Sodium, а также предоставить некоторые функции, такие как исправление визуальных ошибок и другие настройки производительности, которые пока недоступны в Sodium.",
+    "modmenu.summaryTranslation.sodium-extra": "Возможности, которых не должно быть в Sodium.",
+    "options.dimensions.minecraft.overworld": "Верхний мир",
+    "options.dimensions.minecraft.the_end": "Энд",
+    "options.dimensions.minecraft.the_nether": "Незер",
+    "options.particles.minecraft.ambient_entity_effect": "Эффект сущностей окружения",
+    "options.particles.minecraft.ambient_entity_effect.tooltip": "Эффекты маяка.",
+    "options.particles.minecraft.angry_villager": "Сердитый крестьянин",
+    "options.particles.minecraft.angry_villager.tooltip": "Нападение на крестьянина в деревне; когда крестьяне не могут размножаться, потому что поблизости нет достаточного количества кроватей, или когда игрок атакует панду в деревне.",
+    "sodium-extra.option.text_contrast.none": "Нет"
+}

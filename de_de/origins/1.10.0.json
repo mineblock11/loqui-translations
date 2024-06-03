@@ -1,0 +1,6 @@
+{
+    "origins.gui.impact.high": "Hoch",
+    "origins.gui.impact.low": "Gering",
+    "origins.gui.impact.medium": "Mittel",
+    "origins.gui.impact.none": "Kein"
+}

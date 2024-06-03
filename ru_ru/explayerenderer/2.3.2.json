@@ -1,0 +1,15 @@
+{
+    "config.explayerenderer.details": "Детали",
+    "config.explayerenderer.general": "Общие",
+    "config.explayerenderer.hurt_flash": "Показывать вспышку боли",
+    "config.explayerenderer.light_degree": "Степень освещенности",
+    "config.explayerenderer.light_degree.desc": "Степень источника света, создающего эффект тени.",
+    "config.explayerenderer.render_vehicle": "Визуализирование транспортного средства",
+    "config.explayerenderer.swing_hands": "Показывать взмах руки",
+    "config.explayerenderer.swing_hands.desc": "Если визуализированые руки махают при попытке разбить блоки.",
+    "config.explayerenderer.use_world_light": "Использовать освещение мира",
+    "config.explayerenderer.use_world_light.desc": "Если использовать уровень освещенности в мире для рендеринга.",
+    "config.explayerenderer.world_light_min": "Минимальное освещение мира",
+    "config_option.explayerenderer.pose_offset_method.auto": "Авто",
+    "config_option.explayerenderer.pose_offset_method.disabled": "Выключена"
+}

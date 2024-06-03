@@ -1,0 +1,16 @@
+{
+    "direction.mishanguc.east": "Ost",
+    "direction.mishanguc.none": "Kein",
+    "direction.mishanguc.north": "Nord",
+    "direction.mishanguc.north_east": "Nordost",
+    "direction.mishanguc.north_west": "Nordwest",
+    "direction.mishanguc.south": "Süd",
+    "direction.mishanguc.south_east": "Südost",
+    "direction.mishanguc.south_west": "Südwest",
+    "direction.mishanguc.west": "West",
+    "horizontal_align.mishanguc.left": "Linksbündig",
+    "lineColor.mishanguc.none": "Kein",
+    "lineType.normal": "Normal",
+    "message.mishanguc.color": "Farbe",
+    "message.mishanguc.hide_gui": "Benutzeroberfläche ausblenden"
+}

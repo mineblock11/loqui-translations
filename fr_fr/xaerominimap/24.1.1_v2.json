@@ -1,0 +1,14 @@
+{
+    "gui.xaero_auto_clamp_depth": "Auto",
+    "gui.xaero_auto_map_size": "Auto",
+    "gui.xaero_compass_scale2": "Échelle de la boussole",
+    "gui.xaero_compass_scale_auto": "Auto",
+    "gui.xaero_entity_category_friend": "Ami",
+    "gui.xaero_left": "Gauche",
+    "gui.xaero_manual_cave_mode_start_auto": "Auto",
+    "gui.xaero_right": "Droite",
+    "gui.xaero_start_fading_at_auto": "Auto",
+    "gui.xaero_ui_scale_auto": "Auto",
+    "gui.xaero_waypoint_onmap_scale_auto": "Auto",
+    "gui.xaero_zoom_on_enlarge_auto": "Auto"
+}

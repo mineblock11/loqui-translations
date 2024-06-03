@@ -1,0 +1,10 @@
+{
+    "memoryclearermissnotoredict.manualclear": "",
+    "memoryclearermissnotoredict.memoryclear": "",
+    "text.autoconfig.memoryclearermissnotoredict.option.autoCleanMemory": "",
+    "text.autoconfig.memoryclearermissnotoredict.option.autoCleanMemory.@Tooltip": "",
+    "text.autoconfig.memoryclearermissnotoredict.option.cleanupInterval": "",
+    "text.autoconfig.memoryclearermissnotoredict.option.cleanupInterval.@Tooltip": "",
+    "text.autoconfig.memoryclearermissnotoredict.option.enableCommand": "",
+    "text.autoconfig.memoryclearermissnotoredict.option.enableCommand.@Tooltip": ""
+}

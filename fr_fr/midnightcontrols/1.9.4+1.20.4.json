@@ -1,0 +1,8 @@
+{
+    "midnightcontrols.action.left": "Gauche",
+    "midnightcontrols.action.right": "Droite",
+    "midnightcontrols.hud_side.left": "Gauche",
+    "midnightcontrols.hud_side.right": "Droite",
+    "midnightcontrols.midnightconfig.enum.HudSide.LEFT": "Gauche",
+    "midnightcontrols.midnightconfig.enum.HudSide.RIGHT": "Droite"
+}

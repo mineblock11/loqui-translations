@@ -1,0 +1,11 @@
+{
+    "config.borderlessmining.general": "Allgemein",
+    "config.borderlessmining.general.enabled": "Randloser Vollbildmodus",
+    "config.borderlessmining.general.enabled.tooltip": "Wechselt in einen randlosen Vollbildmodus, wenn auf Vollbildmodus gestellt wird",
+    "config.borderlessmining.general.enabledmac": "Unter macOS aktivieren",
+    "config.borderlessmining.general.enabledmac.tooltip": "Unter macOS standardmäßig deaktiviert, da es eine bessere native Vollbildunterstützung bietet; auf anderen Systemen bewirkt diese Option nichts.",
+    "config.borderlessmining.general.forcemonitor": "Monitor",
+    "config.borderlessmining.general.forcemonitor.current": "Aktuell",
+    "config.borderlessmining.general.videomodeoption": "Vollbildauflösung-Einstellung",
+    "config.borderlessmining.general.videomodeoption.tooltip": "Fügt dem Schieberegler der Vollbildauflösung eine Option hinzu, die die Mod aktiviert"
+}
